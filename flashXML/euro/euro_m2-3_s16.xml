@@ -1,0 +1,27 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-3_s16.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Thomas Hobbes has a clear view on human nature and draws conclusions on the best form of government.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Strong thesis statement]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Not a strong thesis statement]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-3_s16_FB.mp3" />
+	</question>
+</MultipleChoice>

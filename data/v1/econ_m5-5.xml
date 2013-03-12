@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Types of Economic Systems">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-5_s1</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (l)McGraw-Hill Companies Inc., Ken Cavanagh Photographer, (r)Alexander Zemlianichenko/AP Images, (b)Don Bishop/Photodisc/Getty Images,(bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies Inc. Ken Cavanagh Photographer, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Alexander Zemlianichenko/AP Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)DreamPictures/Pam Ostrow/Blend Images LLC, (2)THOMAS COEX/AFP/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Mark Gail/The Washington Post/Getty Images, (2)Dean Conger/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)BananaStock/PunchStock, (2)TEH ENG KOON/AFP/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)McGraw-Hill Companies Inc., Ken Cavanagh Photographer, (2)Alexander Zemlianichenko/AP Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+		<matches title="">
+            <match id="1">Government owns major industries, such as oil and gas.</match>
+			<match id="2">Individuals own the resources.</match>
+			<match id="3">Teens can decide whether to work or go to college.</match>
+			<match id="4">The total hours a person can work is regulated.</match>
+			<match id="5">The government allows free trade with all other nations.</match>
+			<match id="6">Prices are not regulated and can increase quickly.</match>
+			<match id="7">Labor laws make it difficult to fire employees.</match>
+			<match id="8">Government sets the prices on many essential goods.</match>
+			<match id="9">Some people earn huge salaries, while others earn little.</match>
+			<match id="10">Government provides free housing and health care.</match>
+         </matches>
+         <drops title="Market Economy">2,3,5,6,9</drops>
+		 <drops title="Command Economy">1,4,7,8,10</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-5_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Medioimages/Getty Images, (2)Feng Li/Getty Images News/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m5-5_s11</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following would NOT be true of a market economy?</question>
+        <answers>
+          <answer correct="true">Government owns most resources.</answer>
+		  <answer>Consumers choose which products to buy.</answer>
+		  <answer>Prices are flexible and subject to change.</answer>
+		  <answer>Profits are the major incentive.</answer>
+		  <answer>People have very different income levels.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>In which way is the United States like a command economy?</question>
+        <answers>
+          <answer>The government owns all of the resources.</answer>
+		  <answer>Consumers are free to buy or not buy products.</answer>
+		  <answer>Prices on essential items are controlled.</answer>
+          <answer correct="true">The government sets a minimum wage and age requirements for workers.</answer>
+		  <answer>The government protects private property rights.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these countries has the strongest market economy?</question>
+        <answers>
+          <answer>Cuba</answer>
+		  <answer>North Korea</answer>
+		  <answer>United States</answer>
+		  <answer>Germany</answer>
+          <answer correct="true">Singapore</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>What motivates people to work in a market economy?</question>
+        <answers>
+          <answer>fear of government leaders</answer>
+          <answer correct="true">earning profits</answer>
+		  <answer>satisfaction at a job well done</answer>
+		  <answer>obtaining a government job</answer>
+		  <answer>obtaining health care</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>What often happens in a command economy when government planners set prices?</question>
+        <answers>
+          <answer>Consumers receive equal shares of goods.</answer>
+          <answer correct="true">Shortages occur.</answer>
+		  <answer>Surpluses occur.</answer>
+		  <answer>Suppliers produce more.</answer>
+		  <answer>Entrepreneurs become motivated.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-5_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

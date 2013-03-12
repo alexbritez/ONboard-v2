@@ -1,0 +1,27 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Write A Strong Thesis ]]></hText>
+		<qText><![CDATA[What was Thomas Hobbes’s view of human nature and what conclusions did he draw from it about the best form of government?]]></qText>
+		<correctText><![CDATA[Thomas Hobbes had a very pessimistic opinion of human nature and doubted their ability to govern themselves. This belief caused him to conclude that people must be governed firmly by a rightfully selected, single authority figure in the form of an absolute monarch.]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/euro_m2-3_s17.mp3</audio>
+		<feedback>audio/euro_m2-3_s17_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

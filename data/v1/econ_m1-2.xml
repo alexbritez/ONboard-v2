@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Marginal Thinking">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m1-2_s1</video>
+    <credits>(l)Corbis/SuperStock, (c)Burke/Triolo/Brand X Pictures, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m1-2_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Red Chopsticks/PhotoLibrary, (2)Jupiterimages/Comstock Images/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="3" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[In economics, what does the term <em>marginal</em> mean?]]></question>
+        <answers>
+          <answer>Almost</answer>
+          <answer correct="true">Additional</answer>
+		  <answer>Minimal</answer>
+		  <answer>Along the edge</answer>
+		  <answer>Scarce</answer>
+        </answers>
+
+        <feedbackAudio>econ_m1-2_s3_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-2_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m1-2_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Burke/Triolo/Brand X Pictures, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m1-2_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Creatas Images/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="6" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[<p>Becca is trying to decide whether to bake one more pan of brownies to sell at her bakery.
+		         </p>
+				 <p>If she makes three pans of brownies, her total cost is $30.
+				 </p>
+				 <p>If she makes a fourth pan of brownies, her total cost will be $35.
+				 </p>
+				 <p>She sells her brownies for $10 per pan.
+				 </p>]]>
+      </text>
+    </content>
+    <audio>econ_m1-2_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click 'View' if you need a reference to answer the question.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>If Becca wants to maximize her profits, should she bake the fourth pan of brownies?
+		</question>
+        <answers>
+          <answer>Yes, because the marginal cost is higher than the marginal revenue.</answer>
+    		  <answer>Yes, because the total cost is higher than the total revenue.</answer>
+    		  <answer>No, because the total revenue is higher than the total cost.</answer>
+          <answer correct="true">Yes, because the marginal revenue is higher than the marginal cost.</answer>
+		      <answer>No, because the total cost is higher than the total revenue.</answer>
+        </answers>
+        <figure>
+				<text>
+				  <![CDATA[<p>Becca is trying to decide whether to bake one more pan of brownies to sell at her bakery.
+					      </p>
+					      <p>If she makes three pans of brownies, her total cost is $30.
+					      </p>
+					      <p>If she makes a fourth pan of brownies, her total cost will be $35.
+					      </p>
+					      <p>She sells her brownies for $10 per pan.
+					      </p>]]>
+				</text>
+		</figure>
+        <feedbackAudio>econ_m1-2_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-2_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m1-2_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m1-2_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m1-2_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)U.S. Coast Guard photo by Petty Officer 3rd Class Patrick Kelley, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <scene id="11" type="End_Multiple_Choice">
+    <instruction>Click on TRUE if the statement is ture. Click on FALSE if the statement is false.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>In economics, the term “marginal” means “one more.”
+		</question>
+        <answers>
+          <answer correct="true">True
+		  </answer>
+          <answer>False
+		  </answer>
+        </answers>
+	  </multiple>
+
+		<multiple>
+		<question>Consumers should buy a product if the marginal utility is greater than the marginal benefit.
+		</question>
+		<answers>
+		  <answer>True
+		  </answer>
+          <answer correct="true">False
+		  </answer>
+		 </answers>
+	  </multiple>
+
+	  <multiple>
+		<question>A firm will hire an additional worker if the firm’s marginal revenue increases more than the marginal cost of hiring the worker.
+		</question>
+		<answers>
+		  <answer correct="true">True
+		  </answer>
+          <answer>False
+		  </answer>
+		</answers>
+	  </multiple>
+
+	  <multiple>
+		<question>If the marginal cost is greater than the marginal benefit to clean up the next unit of pollution, the government should clean up that next unit of pollution.
+		</question>
+		<answers>
+		  <answer>True
+		  </answer>
+          <answer correct="true">False
+		  </answer>
+		 </answers>
+	  </multiple>
+
+	  <multiple>
+		<question>If the cost to produce the next pair of shoes is $15 and the firm can sell those shoes for $25, the firm should produce the shoes.
+		</question>
+		<answers>
+		  <answer correct="true">True
+		  </answer>
+          <answer>False
+		  </answer>
+        </answers>
+		<figure></figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-2_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

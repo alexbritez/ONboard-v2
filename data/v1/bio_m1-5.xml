@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Big Idea 4: Interdependent Relationships">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m1-5_s1</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="font-size:10px">
+            <match id="2">Big Idea 1: Evolution</match>
+			<match id="1">Big Idea 2: Energy and Molecular Building Blocks</match>
+			<match id="4">Big Idea 3: Information Storage, Transmission, and Response</match>
+			<match id="3">Big Idea 4: Interdependent Relationships</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 3em;">
+            <drop correct="1" x="55" y="13">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</drop>
+			<drop correct="2" x="55" y="13">The process of Evolution drives the diversity and unity of life.</drop>
+			<drop correct="3" x="55" y="13">Biological systems interact, and these systems and their interactions possess complex properties.</drop>
+			<drop correct="4" x="55" y="13">Living systems store, retrieve, transmit, and respond to information essential to life processes.</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m1-5_s3</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s5</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s7</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s8</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)DLILLC/Corbis, (2)Anup Shah/Photodisc/Getty Images, (3)Jack Hollingsworth/Photodisc/Getty Images, (4)Jack Hollingsworth/Photodisc/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m1-5_s9.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m1-5_s9_1" dynamic="true" x="101" y="16"><![CDATA[
+				<h1></h1>
+				<p>Beneficial to both populations</p>
+			]]></hotspot>
+			<hotspot audio="bio_m1-5_s9_2" dynamic="true" x="427" y="16"><![CDATA[
+				<h1></h1>
+				<p>Beneficial to one population and negative to the other</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m1-5_s9</audio>
+      <credits>(tr)Fotosearch/Getty Images, (l)imagebroker/Alamy, (r)Tom Brakefield/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s10</video>
+      <credits>(c)Purestock/SuperStock, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s11</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Bilderbuch/Design Pics, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m1-5_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Amino acids are linked into chains that form</question>
+            <answers>
+               <answer>phospholipids.</answer>
+			   <answer>starch.</answer>
+               <answer correct="true">proteins.</answer>
+			   <answer>glucose.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Cells are organized into higher levels of structure called</question>
+            <answers>
+               <answer correct="true">tissues.</answer>
+			   <answer>organelles.</answer>
+			   <answer>proteins.</answer>
+			   <answer>amino acids.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Ecosystems are made from</question>
+            <answers>
+               <answer>populations.</answer>
+			   <answer>organisms.</answer>
+               <answer correct="true">communities.</answer>
+			   <answer>biosphere.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which are emergent properties of a population?</question>
+            <answers>
+               <answer>Number of individuals</answer>
+			   <answer>Distribution of the individuals</answer>
+			   <answer>Flow of energy and matter between the individuals</answer>
+               <answer correct="true">All of the above</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which grouping is incorrect?</question>
+            <answers>
+               <answer>Tissues are made from cells.</answer>
+               <answer correct="true">Cells are made from organs.</answer>
+			   <answer>Populations are made of individuals.</answer>
+			   <answer>Communities are made of populations.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m1-5_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

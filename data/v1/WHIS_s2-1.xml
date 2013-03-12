@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to AP World History Themes">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_s2-1_s1</video>
+      <credits><![CDATA[<span style="font-size:7px">(l to r)SHAUN CURRY/AFP/Getty Images, (2)AHMAD FAIZAL YAHYA/Flickr/Getty Images, (3)Universal Images Group/SuperStock, (4)DEA/G. DAGLI ORTI/De Agostini/Getty Images, (5)Royal Ontario Museum/Corbis, (6)Imagno/Hulton Archive/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</span>]]></credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s3</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s4</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Hugh Sitton/Corbis, (2)Universal Images Group/Getty Images, (3)Roger de la Harpe/Gallo Images/Getty Images, (4)Photos 12/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>THEME 1</header>
+         <instruction>
+          <![CDATA[
+            <p>Interaction between humans and the environment</p>
+            <p><strong>SUBTHEMES</strong></p>
+            <ul>
+              <li>
+                Demography and Disease
+              </li>
+              <li>
+                Migration
+              </li>
+              <li>
+                Patterns of Settlement
+              </li>
+              <li>
+                Technology
+              </li>
+            </ul>
+          ]]>
+         </instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s5.jpg</image>
+         <hotspots>
+			<hotspot audio="WHIS_s2-1_s5_demography" title="Demography" dynamic="true" x="41" y="51"><![CDATA[
+				<h1>Demography</h1>
+				<p>The word <em>demography</em> refers to the study of human populations, such as the number of people living in an area, how fast or slow the population is growing, the number of old versus young people, and other statistics.</p>
+			]]></hotspot>
+			<hotspot audio="WHIS_s2-1_s5_migration" title="Migration" dynamic="true" x="461" y="348"><![CDATA[
+				<h1>Migration</h1>
+				<p>The term <em>migration</em> means &quot;the movement of people from place to place.&quot;</p>
+			]]></hotspot>
+			<hotspot audio="WHIS_s2-1_s5_patterns" title="Patterns of Settlement" dynamic="true" x="94" y="347"><![CDATA[
+				<h1>Patterns of Settlement</h1>
+				<p>The phrase <em>patterns of settlement</em> refers to similarities in where villages and cities arose, such as near rivers or trade routes or coal deposits. It also refers to the different ways that cities formed—in a square or grid pattern, for example, or as a round cluster of homes.</p>
+			]]></hotspot>
+			<hotspot audio="WHIS_s2-1_s5_tech" title="Technology" dynamic="true" x="411" y="51"><![CDATA[
+				<h1>Technology</h1>
+				<p>The word <em>technology</em> refers to putting knowledge to practical use. The spear and wheelbarrow, for example, were great technological inventions.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s5</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Adam Jones/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s6.jpg</image>
+         <hotspots>
+			<hotspot title="Bubonic Plague" dynamic="true" x="465" y="107"><![CDATA[
+				<h1>Bubonic Plague</h1>
+				<p>During the 1340s, Mongols, merchants, and other travelers spread the disease known as bubonic plague along trade routes from China to Black Sea ports. Some historians believe that 20 million Chinese died from the deadly bacteria carried by fleas.</p>
+			]]></hotspot>
+			<hotspot title="Black Death" dynamic="true" x="221" y="129"><![CDATA[
+				<h1>Black Death</h1>
+				<p>Italian merchant ships carrying flea-infested rats brought the bubonic plague from Black Sea ports to Europe. There, the disease became known as the Black Death because victims developed black lumps before dying. Roughly 25 percent of Europeans died from the disease as it swept through crowded cities and into villages.</p>
+			]]></hotspot>
+			<hotspot title="Smallpox" dynamic="true" x="9" y="205"><![CDATA[
+        <h1>Smallpox</h1>
+        <p>Explorers to the Americas and Pacific Islands introduced smallpox and other diseases to native peoples. Between 1500 and 1800, some 100 million people may have died during epidemics in these regions.</p>
+			]]></hotspot>
+      <hotspot title="HIV/AIDS" dynamic="true" x="251" y="219"><![CDATA[
+        <h1>HIV/AIDS</h1>
+        <p style="font-size:80%">The most serious epidemic threat today comes from acquired immunodeficiency syndrome (AIDS). This fatal disease is caused by the human immunodeficiency virus (HIV), which slowly attacks and destroys the immune system, leaving the infected individual vulnerable to diseases that eventually cause death. The AIDS epidemic is a serious threat throughout the world, but the disease has struck the developing world hardest, especially sub-Saharan Africa.</p>
+      ]]></hotspot>
+      <hotspot title="Influenza" dynamic="true" x="109" y="90"><![CDATA[
+        <h1>Influenza</h1>
+        <p>An influenza pandemic swept the globe in 1918 and 1919. It killed between 20 and 40 million people, far more than the number who died as the result of the Great War (World War I), which had just ended.</p>
+      ]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s6</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these statements about historical epidemics is true?</question>
+            <answers>
+               <answer>The bubonic plague killed more people in China than smallpox did in the Americas and Pacific.</answer>
+			   <answer>Smallpox was spread through bacteria-infected fleas.</answer>
+               <answer correct="true">Disease spread in world history through human contact.</answer>
+			   <answer>Roughly half of Europe's population died from the influenza pandemic of 1918-1919.</answer>
+            </answers>
+            <feedbackAudio>WHIS_s2-1_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s2-1_s7</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="6_Activity_Interactivity">
+		<content>
+			<header>Human Migration</header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_Intro_Themes_03A.mp4</url>
+		<image>WHIS_s2-1_s8.jpg</image>
+		<audio>WHIS_s2-1_s8</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="9" type="6_Activity_Interactivity">
+		<content>
+			<header>Push and Pull Factors of Migration</header>
+			<instruction><![CDATA[<p><strong>"Push" factors:</strong></p>
+				<ul>
+					<li>Natural disasters</li>
+					<li>Wars</li>
+					<li>Shortage of farmland</li>
+					<li>Shortage of jobs</li>
+					<li style="margin-bottom: 15px;">Religious and Ethnic Persecution</li>
+				</ul>
+				<p><strong>"Pull" factors:</strong></p>
+				<ul>
+					<li>Lure of jobs</li>
+					<li>Lure of land</li>
+					<li>Religious freedom</li>
+					<li>Other freedoms</li>
+				</ul>
+			]]></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_Intro_Themes_04A.mp4</url>
+		<image>WHIS_s2-1_s9.jpg</image>
+		<audio>WHIS_s2-1_s9</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="10" type="6_Activity_Interactivity">
+		<content>
+			<header>Patterns of Settlement</header>
+			<instruction><![CDATA[<p><strong>River valley civilizations:</strong></p>
+				<ul>
+					<li>Mesopotamia (Tigris and Euphrates)</li>
+					<li>Egypt (Nile)</li>
+					<li>Harappan (Indus)</li>
+					<li style="margin-bottom: 20px;">Xia, Shang (Yellow River)</li>
+				</ul>
+				<p><strong>Civilizations in Americas:</strong></p>
+				<ul>
+					<li>Olmec</li>
+					<li>Chavin</li>
+				</ul>
+			]]></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_Intro_Themes_05A.mp4</url>
+		<image>WHIS_s2-1_s10.jpg</image>
+		<audio>WHIS_s2-1_s10</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s11</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)SSPL/Getty Images, Alinari Archives/Alinari/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s12</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Ed Kashi/Corbis, Medioimages/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="10">A. bubonic plague</match>
+				<match id="2">B. migration</match>
+				<match id="1">C. demography</match>
+				<match id="9">D. push factors</match>
+				<match id="8">E. Mesopotamia</match>
+				<match id="4">F. smallpox</match>
+				<match id="6">G. patterns of settlement</match>
+				<match id="3">H. Egyptian civilization</match>
+				<match id="5">I. pull factors</match>
+				<match id="7">J. technology</match>
+			</matches>
+			<drops title="" children-styles="margin-bottom: 0.1em;">
+				<drop correct="1" x="6" y="14"/>
+				<drop correct="2" x="6" y="52"/>
+				<drop correct="3" x="6" y="90"/>
+				<drop correct="4" x="6" y="128"/>
+				<drop correct="5" x="6" y="166"/>
+				<drop correct="6" x="6" y="204"/>
+				<drop correct="7" x="6" y="242"/>
+				<drop correct="8" x="6" y="280"/>
+				<drop correct="9" x="6" y="318"/>
+				<drop correct="10" x="6" y="356"/>
+			</drops>
+			<image>WHIS_s2-1_s13.jpg</image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+		<audio>WHIS_s2-1_s13</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="14" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s14</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)AHMAD FAIZAL YAHYA/Flickr/Getty Images, (2)Stapleton Collection/Corbis, (3)Image Asset Management Ltd./SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Theme 2: Development and Interaction of Cultures</header>
+         <instruction><![CDATA[
+		 	<p><strong>SUBTHEMES</strong></p>
+			<ul>
+				<li>Religions</li>
+				<li>Belief systems, philosophies, ideologies</li>
+				<li>Science and technology</li>
+				<li>Art and architecture</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s15.jpg</image>
+         <hotspots>
+			<hotspot title="Buddhism" dynamic="true" x="20" y="6"><![CDATA[
+				<h1>Buddhism</h1>
+				<p>Buddhism is based on the teachings of Siddhartha Gautama, known as the Buddha. The Buddha taught that the goal of life is to escape the cycle of birth and death by achieving a state of spiritual enlightenment called nirvana. Buddhists believe that they must accept the Four Noble Truths and follow the Eightfold Path to achieve nirvana.</p>
+			]]></hotspot>
+			<hotspot title="Christianity" dynamic="true" x="20" y="349"><![CDATA[
+				<h1>Christianity</h1>
+				<p>Christianity is based on the belief in one God and the teachings and life of Jesus as described in the New Testament of the Bible. Christians believe that Jesus was the Son of God and was sent to Earth to save people from their sins.</p>
+			]]></hotspot>
+			<hotspot title="Hinduism" dynamic="true" x="379" y="222"><![CDATA[
+				<h1>Hinduism</h1>
+				<p>Hinduism is based on the belief in a supreme spiritual force known as Brahman as recorded in sacred texts, including the Upanishads. Hindus believe that to unite with Brahman, they must first pass through many lives, with their soul being reborn into new forms. To move closer to Brahman, they must make improvements in each of their lives.</p>
+			]]></hotspot>
+			<hotspot title="Islam" dynamic="true" x="461" y="349"><![CDATA[
+				<h1>Islam</h1>
+				<p>Islam is based on the belief in one God, Allah, as revealed through the prophet Muhammad. The Muslim sacred text is the Quran. Muslims follow five major acts of worship known as the Five Pillars of Islam: declaration of belief, prayer, charity, fasting, and a pilgrimage to Makkah.</p>
+			]]></hotspot>
+			<hotspot title="Judaism" dynamic="true" x="461" y="6"><![CDATA[
+				<h1>Judaism</h1>
+				<p>Judaism is based on the belief in one God, and the spiritual and ethical principles handed down by God. These principles, including the Ten Commandments, are presented in Jewish sacred texts collected in the Hebrew Bible.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s15</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)SHAUN CURRY/AFP/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s16</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which two religions originated on or near the Indian subcontinent?</question>
+            <answers>
+				<answer>Christianity and Buddhism</answer>
+				<answer>Buddhism and Islam</answer>
+				<answer>Islam and Christianity</answer>
+				<answer correct="true">Hinduism and Buddhism</answer>
+            </answers>
+            <figure verticalAlign="center">WHIS_s2-1_s17_view.jpg</figure>
+            <feedbackAudio>WHIS_s2-1_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s2-1_s17</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="6_Activity_Interactivity">
+		<content>
+			<header>World Religions Today</header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_Intro_Themes_13A.jpg</url>
+		<image>WHIS_s2-1_s18.jpg</image>
+		<audio>WHIS_s2-1_s18</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="19" type="1_Module_Intro">
+      <video>WHIS_s2-1_s19</video>
+      <credits><![CDATA[<span style="font-size:7px">(l to r)Image Asset Management Ltd./SuperStock, (2)Apic/Hulton Archive/Getty Images, (3)Jack Hollingsworth/Photodisc/Getty Images, (4)Ingram Publishing, (5)Keystone-France/Gamma-Keystone/Getty Images, (6)Roger-Viollet/The Image Works, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</span>]]></credits>
+   </scene>
+
+   <scene id="20" type="9_Activity_Image_Rollclick">
+      <content>
+         <header><![CDATA[Tang Dynasty (618-907 C.E.),<br/>
+		 Song Dynasty (960-1279 C.E.)]]></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s20.jpg</image>
+         <hotspots>
+			<hotspot title="Porcelain" dynamic="true" x="449" y="175"><![CDATA[
+				<h1>Porcelain</h1>
+				<p>During the Tang dynasty, Chinese craft workers discovered techniques of producing high-quality porcelain, which was lighter, thinner, and adaptable to more uses than earlier pottery. Tang and Song porcelain became so famous throughout Southeast Asia, India, Persia, and East Africa that it was known as chinaware.</p>
+			]]></hotspot>
+			<hotspot title="Metallurgy" dynamic="true" x="242" y="53"><![CDATA[
+				<h1>Metallurgy</h1>
+				<p>Production of stronger iron and steel surged during the Tang and Song dynasties. Most of the iron and steel went into weaponry, agricultural tools, and construction projects involving bridges and pagodas.</p>
+			]]></hotspot>
+			<hotspot title="Agricultural Technology" dynamic="true" x="27" y="53"><![CDATA[
+				<h1>Agricultural Technology</h1>
+				<p style="font-size:80%">The Song increased productivity by harnessing oxen (in the north) and water buffalo (in the south) to heavy iron plows to prepare land for cultivation. They enriched the soil with manure and composted organic matter. Extensive irrigation systems included reservoirs, dikes, dams, canals, pumps, and waterwheels powered by animals and humans. Farming on terraced mountainsides also expanded China's agricultural potential.</p>
+			]]></hotspot>
+			<hotspot title="Gunpowder" dynamic="true" x="450" y="53"><![CDATA[
+				<h1>Gunpowder</h1>
+				<p>Daoist alchemists discovered how to make gunpowder during the Tang dynasty as they sought elixirs to prolong life. Military officials recognized opportunity in the explosive mixture. They were soon using gunpowder in bamboo &quot;fire lances&quot;—a kind of flamethrower—and in primitive bombs.</p>
+			]]></hotspot>
+			<hotspot title="Printing" dynamic="true" x="27" y="310"><![CDATA[
+				<h1>Printing</h1>
+				<p>Printing became common during the Tang dynasty. The earliest printers employed block-printing techniques: carving a reverse image onto a wooden block, inking the block, and then pressing a sheet of paper on top. By the Song dynasty, printers had begun to experiment with reusable, movable type. Printing made it possible to produce texts quickly, cheaply, and in huge quantities.</p>
+			]]></hotspot>
+			<hotspot title="Naval Technology" dynamic="true" x="242" y="310"><![CDATA[
+				<h1>Naval Technology</h1>
+				<p>By the Song dynasty, Chinese seafarers sailed ships constructed with iron nails, waterproofed with oils, furnished with watertight bulkheads, driven by canvas and bamboo sails, steered by rudders, and navigated with the aid of the &quot;south-pointing needle&quot;—the magnetic compass. Larger ships sometimes had small rockets powered by gunpowder.</p>
+			]]></hotspot>
+			<hotspot title="Currency" dynamic="true" x="450" y="310"><![CDATA[
+				<h1>Currency</h1>
+				<p style="font-size:80%">Chinese merchants developed alternatives to carrying copper coins. Letters of credit became common during the early Tang dynasty. Later developments included the use of promissory notes and checks. The search for alternatives to coinage also led to the invention of paper money, which was first printed by merchants but taken over by the government in 1024. By 1100, currency was printed with serial numbers and warnings against counterfeit notes.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s20</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Royal Ontario Museum/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The development of gunpowder in China began</question>
+            <answers>
+               <answer>as a Chinese response to northern nomadic invasions.</answer>
+			   <answer correct="true">as Daoist alchemists sought to discover an elixir to prolong life.</answer>
+               <answer>as an outgrowth of the profitable chinaware industry.</answer>
+			   <answer>as an alternative to Europeans who were experimenting with metal-barreled cannons.</answer>
+            </answers>
+            <feedbackAudio>WHIS_s2-1_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s2-1_s21</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s22</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Scala/Art Resource, NY, (2)age fotostock/SuperStock, (3)Christie's Images/Corbis, (4)M. Freeman/PhotoLink/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="10">A. Printing</match>
+				<match id="1">B. Buddhism</match>
+				<match id="5">C. Gothic</match>
+				<match id="3">D. Christianity</match>
+				<match id="7">E. Islam</match>
+				<match id="6">F. Ideology</match>
+				<match id="8">G. Philosophy</match>
+				<match id="4">H. Tang and Song</match>
+				<match id="9">I. Hinduism</match>
+				<match id="2">J. Judaism</match>
+			</matches>
+			<drops title="" children-styles="margin-bottom: 0.1em;">
+				<drop correct="1" x="6" y="14"/>
+				<drop correct="2" x="6" y="52"/>
+				<drop correct="3" x="6" y="90"/>
+				<drop correct="4" x="6" y="128"/>
+				<drop correct="5" x="6" y="166"/>
+				<drop correct="6" x="6" y="204"/>
+				<drop correct="7" x="6" y="242"/>
+				<drop correct="8" x="6" y="280"/>
+				<drop correct="9" x="6" y="318"/>
+				<drop correct="10" x="6" y="356"/>
+			</drops>
+			<image>WHIS_s2-1_s23.jpg</image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+		<audio>WHIS_s2-1_s23</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="24" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s24</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Archives Charmet/The Bridgeman Art Library, (2)Joseph Sohm/Visions of America/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Theme 3: State-Building, Expansion, and Conflict</header>
+         <instruction><![CDATA[
+		 	<p><strong>SUBTHEMES</strong></p>
+			<ul>
+				<li>Political structures and forms of governance</li>
+				<li>Empires</li>
+				<li>Nations and nationalism</li>
+				<li>Revolts and revolutions</li>
+				<li>Regional, transregional, and global structures and organizations</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s25.jpg</image>
+         <hotspots>
+			<hotspot title="Political Structures" dynamic="true" x="461" y="349"><![CDATA[
+				<h1>Political Structures</h1>
+				<p>Political structures refer to the process of setting up government institutions, through which a society makes and enforces public policies such as taxation, defense, criminal laws, education, and so on. Government is made up of those people who exercise a state's powers—those who have authority and control over people.</p>
+			]]></hotspot>
+			<hotspot title="Empire" dynamic="true" x="20" y="6"><![CDATA[
+				<h1>Empire</h1>
+				<p>An empire is a large political unit or state, usually under a single leader known as an emperor who controls many peoples or territories. Once created, an empire can be difficult to maintain because of both internal and external forces.</p>
+			]]></hotspot>
+			<hotspot title="Nationalism" dynamic="true" x="461" y="6"><![CDATA[
+				<h1>Nationalism</h1>
+				<p>Nationalism is the unique cultural identity of a people based on common language, religion, and national symbols. It results in loyalty to the nation rather than to a family or clan.</p>
+			]]></hotspot>
+			<hotspot title="Revolution" dynamic="true" x="234" y="349"><![CDATA[
+				<h1>Revolution</h1>
+				<p>The term &quot;revolution&quot; has several meanings in world history. It can refer to a complete change, such as the &quot;Agricultural Revolution.&quot; In terms of state-building, it refers to an overthrow of the existing government.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s25</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Universal Images Group/Super Stock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images </credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s26</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s27</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Image Source/PunchStock, (2)DeAgostini/SuperStock, (3)Reed Kaestner/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="6_Activity_Interactivity">
+		<content>
+			<header>Empires</header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_Intro_Themes_22A.mp4</url>
+		<image>WHIS_s2-1_s28.jpg</image>
+		<audio>WHIS_s2-1_s28</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="29" type="6_Activity_Interactivity">
+		<content>
+			<header>Conflict</header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_Intro_Themes_23A.mp4</url>
+		<image>WHIS_s2-1_s29.jpg</image>
+		<audio>WHIS_s2-1_s29</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s30</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)DEA/A. DAGLI ORTI/De Agostini/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Revolts and Revolutions</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s31.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="95" y="30"><![CDATA[
+				<h1>American Revolution 1</h1>
+				<p style="font-size:80%">In the mid-1700s, it seemed unlikely that North America would become the center of revolution. The British colonies were economically prosperous and securely British in their tastes and habits. Yet that began to change after the French and Indian War, when Britain imposed a series of taxes and trade restrictions on the colonies. The colonists began to argue that they should govern their own affairs. Boycotts, protests, and direct conflict soon followed.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="107" y="321"><![CDATA[
+				<h1>American Revolution 2</h1>
+				<p style="font-size:80%">The Patriots' Continental Congress adopted the Declaration of Independence. The resulting war to secure political rights lasted nearly five years, with the original British advantages in troop strength, organization, and experience eventually outweighed by the colonists' home field advantage, guerrilla tactics, and support from European powers who hoped to diminish British power. In 1787, the U.S. Constitution created a federal government based on popular sovereignty.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="328" y="30"><![CDATA[
+				<h1>French Revolution 1</h1>
+				<p style="font-size:80%">The French Revolution drew inspiration from the American experience, but it proved much more radical in scope, time frame, and ideals. French revolutionaries wanted to replace the old order with new cultural, social, and political structures. Members of the Third Estate—the common people—formed the National Assembly in 1789 and demanded a written constitution that dismantled social distinctions.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="327" y="220"><![CDATA[
+				<h1>French Revolution 2</h1>
+				<p style="font-size:75%">The National Assembly took power and declared war on other European nations as well as abolished its own monarchy. From 1793 to 1794, more than 40,000 "enemies at home" were guillotined by radicals in power. A new institution known as the Directory seized control but was unable to resolve France's military or political problems. General Napoleon Bonaparte overthrew the Directory, eventually crowning himself emperor. After defeating much of Europe, Napoleon lost most of his Grand Army after invading Russia. He was forced to abdicate in 1814.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="429" y="30"><![CDATA[
+				<h1>Latin America 1</h1>
+				<p style="font-size:75%">The ideals of the Enlightenment and revolution spread to the Portuguese and Spanish colonies in the Americas. Conflicts became increasingly common between the &quot;peninsulares,&quot; or colonial officials from Portugal or Spain, and the &quot;criollos&quot; (creoles), or individuals born in the Americas of Portuguese or Spanish descent. The criollos resented the political and economic restrictions placed on them, and they sought to displace the peninsulares while retaining their own social status over indigenous peoples and enslaved Africans.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="427" y="310"><![CDATA[
+				<h1>Latin America 2</h1>
+				<p style="font-size:80%">Sim&oacute;n Bolívar led a struggling movement for independence from Spanish rule beginning in 1811. By 1819, his 20,000 troops defeated the Spanish forces first in Colombia and then in Venezuela, Ecuador, and Peru. Bolívar coordinated efforts with José de San Martín in Argentina and Bernardo O'Higgins in Chile. Latin American society remained intensely stratified, however, with the criollos replacing the peninsulares as the elite.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s31</audio>
+      <credits>(tr)Tetra Images/Getty Images, (l)Stock Montage/Archive Photos/Getty Images, (c)DEA/G. DAGLI ORTI/De Agostini/Getty Images, (r)Universal Images Group/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s32</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Joseph Sohm/Visions of America/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="33" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="9">A. American Revolution</match>
+				<match id="1">B. empire</match>
+				<match id="2">C. nationalism</match>
+				<match id="8">D. Enlightenment ideas</match>
+				<match id="5">E. French Revolution</match>
+				<match id="6">F. limited government</match>
+				<match id="4">G. revolution</match>
+				<match id="7">H. divine right</match>
+				<match id="3">I. Latin America</match>
+			</matches>
+			<drops title="" children-styles="margin-bottom: 0.1em;">
+				<drop correct="1" x="6" y="37"/>
+				<drop correct="2" x="6" y="76"/>
+				<drop correct="3" x="6" y="113"/>
+				<drop correct="4" x="6" y="151"/>
+				<drop correct="5" x="6" y="189"/>
+				<drop correct="6" x="6" y="227"/>
+				<drop correct="7" x="6" y="265"/>
+				<drop correct="8" x="6" y="303"/>
+				<drop correct="9" x="6" y="341"/>
+			</drops>
+			<image>WHIS_s2-1_s33.jpg</image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+		<audio>WHIS_s2-1_s33</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="34" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s34</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Science and Society/SuperStock, (2)French School/The Bridgeman Art Library/Getty Images, (3)Roger de la Harpe/Gallo Images/Getty Images, (4)Alexander Zemlianichenko/AP Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="35" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Theme 4: Creation, Expansion, and Interaction of Economic Systems</header>
+         <instruction><![CDATA[
+		 	<p><strong>SUBTHEMES</strong></p>
+			<ul>
+				<li>Agricultural and pastoral production</li>
+				<li>Trade and commerce</li>
+				<li>Labor systems</li>
+				<li>Industrialization</li>
+				<li>Capitalism and socialism</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s35.jpg</image>
+         <hotspots>
+			<hotspot title="Economic system" dynamic="true" x="20" y="6"><![CDATA[
+				<h1>Economic system</h1>
+				<p style="font-size:80%">An economic system answers these questions: WHAT goods and services should a society produce with the resources it has? HOW should those goods and services be produced? WHO should get the final goods and services? In a traditional system, habit and custom answer these questions. In a market system, the interaction of supply, demand, and prices determine the answers. In a command system, government leaders control the use and distribution of resources and products.</p>
+			]]></hotspot>
+			<hotspot title="Agriculture" dynamic="true" x="20" y="349"><![CDATA[
+				<h1>Agriculture</h1>
+				<p style="font-size:80%">Agriculture emerged independently in several different parts of the world. The earliest evidence of agricultural activity discovered so far dates to the era after 9000 B.C.E., when peoples of Southwest Asia cultivated wheat and barley while domesticating sheep, goats, pigs, and cattle. Agriculture involved long hours of hard physical labor—clearing land, preparing fields, planting seeds, pulling weeds, and harvesting crops. Yet agriculture made possible the production of abundant food supplies.</p>
+			]]></hotspot>
+			<hotspot title="Pastoralism" dynamic="true" x="243" y="349"><![CDATA[
+				<h1>Pastoralism</h1>
+				<p>A pastoral society is one in which nomadic peoples keep herds of animals and utilize every part of the animal to survive. Pastoral nomads sought to obtain agricultural products and manufactured goods from settled peoples. In exchange, the nomads &quot;traded&quot; their knowledge of migratory routes and the carrying ability of their pack animals to lead vast trade caravans.</p>
+			]]></hotspot>
+			<hotspot title="Commerce" dynamic="true" x="461" y="6"><![CDATA[
+				<h1>Commerce</h1>
+				<p>Commerce is the system where people invest in trading ventures or in mass quantities of commercial goods to make profits.</p>
+			]]></hotspot>
+			<hotspot title="Labor Systems" dynamic="true" x="461" y="349"><![CDATA[
+				<h1>Labor Systems</h1>
+				<p>Labor systems refer to the way workers are organized in a society. During Egypt's Old Kingdom, for example, some 84,000 laborers worked to build the massive pyramids—but they were off-season farmers, not slaves. In many other societies, serfs and slaves provided labor for those who held power.</p>
+			]]></hotspot>
+			<hotspot title="Industrialization" dynamic="true" x="243" y="6"><![CDATA[
+				<h1>Industrialization</h1>
+				<p>Industrialization refers to the process that changed agricultural and handicraft-centered economies into economies distinguished by industry and machine manufacture. The principal features of industrialization were technological and organizational changes that transformed manufacturing and led to increased productivity.</p>
+			]]></hotspot>
+			<hotspot title="Capitalism" dynamic="true" x="133" y="78"><![CDATA[
+				<h1>Capitalism</h1>
+				<p>Capitalism is a market economic system in which producers, acting in their own self-interest, make their goods and services available in a free market, and compete with other producers. Citizens own private property and take risks using their means of production in order to generate profits. Government is not involved in economic matters.</p>
+			]]></hotspot>
+			<hotspot title="Socialism" dynamic="true" x="354" y="78"><![CDATA[
+				<h1>Socialism</h1>
+				<p style="font-size:80%">Socialism is both a political and an economic theory of social organization based on the collective ownership of the factors of production. Its origins were in the early nineteenth century, and it differs from communism by a desire for slow or moderate change, compared with the communist call for revolution. Socialism today implies that government owns some factors of production and provides domestic support programs.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s35</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Imagno/Hulton Archive/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="36" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>The implications of agriculture were enormous. With abundant supplies of food available to them, human populations surged, and the size of human communities grew to proportions that would have been inconceivable to Paleolithic foragers.</p>
+			<p>A surplus of food enabled some individuals to concentrate their time and talents on enterprises that had nothing to do with the production of food. Three early craft industries—pottery, metallurgy, and textile production—illustrate the potential of specialized labor. A food-producing society needs containers to store surplus foods. The technology of smelting and casting copper led to tools such as knives, axes, hoes, and weapons. And as soon as they began to raise crops and keep animals, Neolithic peoples bred strains of plants and animals, which provided easily worked fibers that could be woven into cloth.</p>
+			<p>Agricultural communities also led to social classes, applied sciences, the formation of a calendar, religious ceremonies associated with death and rebirth, and trade.</p>
+			<p style="font-size:90%;">Adapted from: <em>Traditions and Encounters</em>, 5th Ed., by Jerry Bentley and Herbert Ziegler, McGraw-Hill &copy;2011</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_s2-1_s36</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="37" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What did the concentration of large numbers of people in villages encourage?</question>
+            <answers>
+				<answer>foraging</answer>
+				<answer>hunting</answer>
+               <answer correct="true">specialization of labor</answer>
+			   <answer>crop cultivation</answer>
+            </answers>
+            <figure>
+				<header></header>
+				 <text><![CDATA[
+					<p>The implications of agriculture were enormous. With abundant supplies of food available to them, human populations surged, and the size of human communities grew to proportions that would have been inconceivable to Paleolithic foragers.</p>
+					<p>A surplus of food enabled some individuals to concentrate their time and talents on enterprises that had nothing to do with the production of food. Three early craft industries—pottery, metallurgy, and textile production—illustrate the potential of specialized labor. A food-producing society needs containers to store surplus foods. The technology of smelting and casting copper led to tools such as knives, axes, hoes, and weapons. And as soon as they began to raise crops and keep animals, Neolithic peoples bred strains of plants and animals, which provided easily worked fibers that could be woven into cloth.</p>
+					<p>Agricultural communities also led to social classes, applied sciences, the formation of a calendar, religious ceremonies associated with death and rebirth, and trade.</p>
+					<p style="font-size:90%;">Adapted from: <em>Traditions and Encounters</em>, 5th Ed., by Jerry Bentley and Herbert Ziegler, McGraw-Hill &copy;2011</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_s2-1_s37_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="38" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s38</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Images &amp; Stories/Alamy, (2)Randy Faris/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="39" type="6_Activity_Interactivity">
+		<content>
+			<header>Labor Systems</header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_Intro_Themes_35A.mp4</url>
+		<image>WHIS_s2-1_s39.jpg</image>
+		<audio>WHIS_s2-1_s39</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="40" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Industrialization</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s40.jpg</image>
+         <hotspots>
+			<hotspot title="Benefits" dynamic="true" x="273" y="107"><![CDATA[
+				<h1>Benefits</h1>
+				<p>Benefits of industrialization included cheap manufactured goods, an increased standard of living, and population growth. Reductions in the price of clothing meant that more people had more than one change of clothing. The price of food went down as a result of efficient agricultural machinery and steam-powered railroad transportation.</p>
+			]]></hotspot>
+			<hotspot title="Pollution" dynamic="true" x="143" y="48"><![CDATA[
+				<h1>Pollution</h1>
+				<p>Increased industry and population caused severe air and water pollution. The burning of fuels such as coal and wood filled the air with poisons. Human sewage and waste from factories flowed freely into streets, streams, and rivers. Contaminated water supplies led to epidemics of cholera, typhus, and tuberculosis. Cramped, filthy living conditions also bred crime.</p>
+			]]></hotspot>
+			<hotspot title="Social Changes" dynamic="true" x="49" y="218"><![CDATA[
+				<h1>Social Changes</h1>
+				<p style="font-size:80%">Industrialization changed the social class organization in most countries. New classes of wealthy businessmen challenged the privileges of the nobility and military. The middle class grew, and gender roles became separate spheres. Men's position in society was enhanced as they left the home for factory jobs. Middle-class women were relegated to domestic chores and raising children. Lower-class women often became domestic servants to the increasingly wealthy middle class.</p>
+			]]></hotspot>
+			<hotspot title="Child Labor" dynamic="true" x="380" y="242"><![CDATA[
+				<h1>Child Labor</h1>
+				<p>Working-class children were hired at factories and in mines. They worked extremely long hours for little pay. The abuses were so noteworthy that the British Parliament held investigations and passed laws in the 1840s to regulate and restrict child labor.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s40</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Science and Society/SuperStock, (b)SSPL/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="41" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What effect did industrialization have on gender roles?</question>
+            <answers>
+				<answer>Men could make higher wages than women, so most women looked for jobs as domestic servants.</answer>
+				<answer>Women moved into jobs such as teaching that had been relegated to men.</answer>
+               <answer correct="true">Men and women found societal roles in separate spheres.</answer>
+			   <answer>As rural men moved into urban jobs, women ran farms on their own.</answer>
+            </answers>
+            <feedbackAudio>WHIS_s2-1_s41_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s2-1_s41</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="42" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Command economy</match>
+			<match id="2">People own property</match>
+			<match id="3">Supply and demand set wages</match>
+			<match id="4">Government owns oil fields</match>
+			<match id="5">Labor laws developed</match>
+			<match id="6">Market economy</match>
+			<match id="7">Social services are provided</match>
+			<match id="8">People take risks to earn profits</match>
+         </matches>
+         <drops title="Capitalism">2,3,6,8</drops>
+		 <drops title="Socialism">1,4,5,7</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_s2-1_s42</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="43" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="9">A. Industrialization</match>
+				<match id="1">B. Command economy</match>
+				<match id="2">C. Guild</match>
+				<match id="8">D. Traditional economy</match>
+				<match id="5">E. Pastoral economy</match>
+				<match id="6">F. Serfs and slaves</match>
+				<match id="4">G. Market economy</match>
+				<match id="7">H. Roads and canals</match>
+				<match id="3">I. Commerce</match>
+				<match id="10">J. Middle-class women</match>
+			</matches>
+			<drops title="" children-styles="margin-bottom: 0.1em;">
+				<drop correct="8" x="6" y="14"/>
+				<drop correct="4" x="6" y="52"/>
+				<drop correct="5" x="6" y="90"/>
+				<drop correct="2" x="6" y="128"/>
+				<drop correct="3" x="6" y="166"/>
+				<drop correct="9" x="6" y="204"/>
+				<drop correct="7" x="6" y="242"/>
+				<drop correct="10" x="6" y="280"/>
+				<drop correct="6" x="6" y="318"/>
+				<drop correct="1" x="6" y="356"/>
+			</drops>
+			<image>WHIS_s2-1_s43.jpg</image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+		<audio>WHIS_s2-1_s43</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="44" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s44</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Michel Renaudeau/age footstock, (2)Felice Beato/Alinari/Getty Images, (3)Universal Images Group/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="45" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Theme 5: Development and Transformation of Social Structures</header>
+         <instruction><![CDATA[
+		 	<p><strong>SUBTHEMES</strong></p>
+			<ul>
+				<li>Gender roles and relations</li>
+				<li>Family and kinship</li>
+				<li>Racial and ethnic constructions</li>
+				<li>Social and economic classes</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s2-1_s45.jpg</image>
+         <hotspots>
+			<hotspot title="Class Distinctions" dynamic="true" x="20" y="78"><![CDATA[
+				<h1>Class Distinctions</h1>
+				<p>Class distinctions refer to levels of society based on wealth or profession. Monarchs were often at the pinnacle of society, with nobles and priests or priestesses closely connected to them. Craft workers, soldiers, and farmers usually were on the next rungs of society. The lower classes consisted of landless peasants and slaves.</p>
+			]]></hotspot>
+			<hotspot title="Professional Classes" dynamic="true" x="461" y="349"><![CDATA[
+				<h1>Professional Classes</h1>
+				<p>The &quot;professional classes&quot; throughout history encompass people who spent no time on agricultural production. Priests, political managers, bureaucrats, and artisans, for example, focused on their work without concern for basic subsistence.</p>
+			]]></hotspot>
+			<hotspot title="Patriarchal Society" dynamic="true" x="461" y="6"><![CDATA[
+				<h1>Patriarchal Society</h1>
+				<p>A patriarchal society is one in which men dominate public and home life, and descent is recognized through the male line. In early patriarchal societies, men legally had the ability to sell their wives and children into slavery.</p>
+			]]></hotspot>
+			<hotspot title="Caste System" dynamic="true" x="243" y="349"><![CDATA[
+				<h1>Caste System</h1>
+				<p>The caste system of ancient India strictly separated individuals in society. The system included four main varnas, or social distinctions. Each varna expanded over time to include  thousands of subcastes known as jati that were strictly tied to occupation. Elaborate behavioral rules developed for each jati with severe consequences for violation of jati rules.</p>
+			]]></hotspot>
+			<hotspot title="Ancestor Worship" dynamic="true" x="20" y="349"><![CDATA[
+				<h1>Ancestor Worship</h1>
+				<p>The veneration of ancestors has its origins in Neolithic times. A family could expect to prosper only if all its members—living and dead—worked cooperatively toward common interests.</p>
+			]]></hotspot>
+			<hotspot title="Extended Family" dynamic="true" x="20" y="6"><![CDATA[
+				<h1>Extended Family</h1>
+				<p>An extended family is a household made up of several generations, including grandparents, parents, and children.</p>
+			]]></hotspot>
+			<hotspot title="Nuclear Family" dynamic="true" x="243" y="6"><![CDATA[
+				<h1>Nuclear Family</h1>
+				<p>A nuclear family is a family group that includes only parents and their children.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s2-1_s45</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Felice Beato/Alinari/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="46" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s46</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)North Wind Picture Archives/Alamy, (2)Vanni/Art Resource, NY, (3)The Art Gallery Collection/Alamy, (4)The Art Archive/SuperStock, (5)Michel Renaudeau/age footstock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="47" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s47</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)SSPL/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="48" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s48</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="49" type="2_Txt_Img_Animation">
+      <video>WHIS_s2-1_s49</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Stapleton Collection/Corbis, (2)Apic/Hulton Archive/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="50" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="7">A. Extended family</match>
+				<match id="3">B. Patriarchal society</match>
+				<match id="5">C. Racial group</match>
+				<match id="1">D. Class distinctions</match>
+				<match id="8">E. Nuclear family</match>
+				<match id="9">F. Filial piety</match>
+				<match id="10">G. Ethnic group</match>
+				<match id="4">H. Caste system</match>
+				<match id="6">I. Ancestor worship</match>
+				<match id="2">J. Professional classes</match>
+			</matches>
+			<drops title="" children-styles="margin-bottom: 0.1em;">
+				<drop correct="1" x="6" y="14"/>
+				<drop correct="2" x="6" y="52"/>
+				<drop correct="3" x="6" y="90"/>
+				<drop correct="4" x="6" y="128"/>
+				<drop correct="5" x="6" y="166"/>
+				<drop correct="6" x="6" y="204"/>
+				<drop correct="7" x="6" y="242"/>
+				<drop correct="8" x="6" y="280"/>
+				<drop correct="9" x="6" y="318"/>
+				<drop correct="10" x="6" y="356"/>
+			</drops>
+			<image>WHIS_s2-1_s50.jpg</image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+		<audio>WHIS_s2-1_s50</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="51" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The word "demography" refers to the study of human populations.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The theme of migration appears only in the first historical period.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A similarity in many of the first civilizations is that most arose in river valleys.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>War and persecution are "pull" factors of migration.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The concept of "pater familias" is common throughout many regions and time periods of world history.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Confucius taught that the goal of life is to escape the cycle of birth and death by achieving a state of spiritual enlightenment called nirvana.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Farmers were usually on the second tier of the ladder of society.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Benefits of industrialization included cheap manufactured goods and an increased standard of living.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>"Family and kinship patterns" is a subtheme that takes a look at labor roles in society.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The subtheme of trade and commerce spans all of the historical periods.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s2-1_s51</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,284 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m3-1_s39.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/eng_m3-1_s39_Q9 .jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>The first triad of the rhetorical triangle includes Speaker/Writer, Audience/Reader, and Subject/Topic.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText>The second triad of the rhetorical triangle includes tone, rhetorical modes, and rhetorical devices.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText>An assertion is the same thing as a thesis or main idea.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[All of these are examples of rhetorical modes <font face="c-italic">except</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Analysis</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Argumentation</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Narration</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Allusion</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Description</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[All of these are examples of rhetorical devices <font face="c-italic">except</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Sarcasm</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Irony</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Hyperbole</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Metaphor</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Comparison</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText>The writer's attitude toward his subject is his</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Context</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Thesis</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Tone</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Assertion</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Appeal</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText>A writer appeals to his audience's ___ by citing facts, data, statistics, percentages and numbers.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Logos/logic</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Ethos/ethics</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Pathos/emotions</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Context</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Tone</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText>By narrating a tragic anecdote, a writer appeals to her audience's</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Logos/logic</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Imagery</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Ethos/ethics</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Syntax</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Pathos/emotions</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText>Click on VIEW to read the speech. What type of rhetorical device does it use?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Metaphor</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Personification</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Satire</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Symbolism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Parallel structure</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[An electronic device can do all of the following for you <font face="c-italic">except</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Check spelling</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Check grammar</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Compose content</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Track changes in content</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Check punctuation</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

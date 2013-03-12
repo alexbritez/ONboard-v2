@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Economics in the News">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-9_s1</video>
+    <credits>(c)Jeremy Bales/Bloomberg/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-9_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Jerry Lara/ZUMA Press/Newscom, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-9_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Jerry Lara/ZUMA Press/Newscom, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Congress should pass jobs program.</match>
+		<match id="2">Unemployment is at 9.5%.</match>
+		<match id="3">High demand causes high gas prices.</match>
+		<match id="4">Interest rates are too high.</match>
+		<match id="5">Costly beef: more people eat chicken.</match>
+		<match id="6">Tax cuts lead to more spending.</match>
+		<match id="7">U.S. must increase offshore drilling.</match>
+		<match id="8">Government should cut corporate tax.</match>
+		<match id="9">High interest rates lead to more saving.</match>
+		<match id="10">Government must redistribute income.</match>
+      </matches>
+      <drops title="Positive Statements">2,3,5,6,9</drops>
+	  <drops title="Normative Statements">1,4,7,8,10</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-9_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text><![CDATA[<p><strong>U.S. Economy: On Brink of Recovery or Double-dip Recession?</strong></p>
+
+<p><a href="#" data-id="0" class="hotspot nonBold" >New housing starts are down, and the latest consumer confidence survey shows shoppers are planning to cut back this holiday season.</a> <a href="#" data-id="1" class="hotspot nonBold" >Economists blame the shaky world economy and widespread distrust of banks.</a></p>
+
+<p><a href="#" data-id="0" class="hotspot nonBold" >However, new jobless claims were lower than anticipated last month, and the Consumer Price Index is holding steady.</a> <a href="#" data-id="1" class="hotspot nonBold" >The president's speech seems to have reassured businesses that a new jobs package will be approved, which would spearhead a recovery.</a></p>
+
+<p><a href="#" data-id="1" class="hotspot nonBold" >The Federal Reserve should continue to keep interest rates low, to reduce the threat of negative economic signs.</a></p>]]></text>
+      <hotspots>
+		<hotspot>
+			<![CDATA[
+				<p>This is a positive, or factual, statement.</p>
+			]]>
+		</hotspot>
+		<hotspot>
+			<![CDATA[
+				<p>This is a normative statement, or opinion.</p>
+			]]>
+		</hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-9_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="1_Module_Intro">
+    <video>econ_m5-9_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (l)Emile Wamsteker/Bloomberg/Getty Images, (cl)Comstock Images/Jupiterimages, (cr)Jin Lee/Bloomberg/Getty Images, (r)Siede Preis/Photographer's Choice/Getty Images, (b)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m5-9_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Emile Wamsteker/Bloomberg/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m5-9_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Comstock Images/Jupiterimages, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m5-9_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Jin Lee/Bloomberg/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m5-9_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Siede Preis/Photographer's Choice/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="3">Consumer Price Index</match>
+		<match id="1">New Housing Starts</match>
+		<match id="4">Dow Jones Industrial Average</match>
+		<match id="5">Consumer Confidence Survey</match>
+		<match id="2">Key Interest Rates</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 1.75em;">
+        <drop correct="1">Housing Starts Drop Underscores Economic Woes</drop>
+		<drop correct="2">Fed Cuts Key Interest Rate by Half Point</drop>
+		<drop correct="3">Consumer Prices Up 0.5%, Pushed Mainly by Food and Gas</drop>
+		<drop correct="4">U.S. Stocks Collapse After Fed Move</drop>
+		<drop correct="5">U.S. Consumer Confidence Plunges</drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-9_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text><![CDATA[<p style="font-size:62%;">"The Federal Reserve cut its <a href="#" data-id="0" class="hotspot"><strong>benchmark short-term interest rate</strong></a> Tuesday by a quarter of a percentage point, to 4.25 percent, and suggested that it would lower rates again if the <a href="#" data-id="1" class="hotspot"><strong>credit crisis</strong></a> continued to damage not just housing, but the rest of the economy as well.</p>
+
+<p style="font-size:62%;">The <a href="#" data-id="2" class="hotspot"><strong>stock market</strong></a> dropped sharply after the Fed's midafternoon announcement, prompting Fed officials, in an unusual move, to put out word that they might take other steps before the end of year to inject money into the banking system.</p>
+
+<p style="font-size:62%;">Meeting in Washington, policy makers also cut the discount rate, which is what banks pay to borrow directly from the Fed. The quarter-point cut, to 4.75 percent, was less than <a href="#" data-id="3" class="hotspot"><strong>Wall Street</strong></a> had been counting on, and that helped set off a <a href="#" data-id="4" class="hotspot"><strong>selling spree</strong></a> that sent the Dow Jones industrial average plunging 294 points, or 2.14 percent. . . .</p>
+
+<p style="font-size:62%;">. . . After the negative market reaction, Fed officials said they were actively looking at &quot;creative&quot; ways to help <a href="#" data-id="5" class="hotspot"><strong>thaw credit markets</strong></a> well ahead of their next meeting. . . .</p>
+
+<p style="font-size:62%;">The bottleneck is the credit squeeze—the reluctance of banks and other financial institutions to lend because of fear that they will not be repaid, given the <a href="#" data-id="6" class="hotspot"><strong>defaults and foreclosures</strong></a> spreading in the <a href="#" data-id="7" class="hotspot"><strong>mortgage</strong></a> market. . . ."</p>
+
+<p style="font-size:50%;">From <em>The New York Times</em>. December 12, 2007 &copy;2007 The New York Times, www.nytimes.com. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this Content without express written permission is prohibited.</p>]]></text>
+      <hotspots>
+		<hotspot audio="econ_m5-9_s12_benchmark">
+			<![CDATA[
+				<h1>Benchmark short-term interest rate:</h1>
+				<p>This is the rate at which banks lend to each other. It influences the rates set for other customers, including businesses and consumers.</p>
+			]]>
+		</hotspot>
+		<hotspot audio="econ_m5-9_s12_credit_crisis">
+			<![CDATA[
+				<h1>Credit crisis:</h1>
+				<p>The credit crisis began in 2007, when banks found themselves short on cash and immediately cut back lending.</p>
+			]]>
+		</hotspot>
+		<hotspot audio="econ_m5-9_s12_stock_market">
+			<![CDATA[
+				<h1>Stock market:</h1>
+				<p>The stock market refers to all buying and selling of stocks on the New York Stock Exchange and other exchanges.</p>
+			]]>
+		</hotspot>
+		<hotspot audio="econ_m5-9_s12_wall_Street">
+			<![CDATA[
+				<h1>Wall Street:</h1>
+				<p>Wall Street is an actual street in New York City, but it is also a general reference to the national banking and investing community centered in New York.</p>
+			]]>
+		</hotspot>
+		<hotspot audio="econ_m5-9_s12_selling_spree">
+			<![CDATA[
+				<h1>Selling spree:</h1>
+				<p>This means many stockholders were selling shares, an action that signifies a weakening of confidence in the economy.</p>
+			]]>
+		</hotspot>
+		<hotspot audio="econ_m5-9_s12_thaw_credit">
+			<![CDATA[
+				<h1>Thaw credit markets:</h1>
+				<p>To thaw credit markets means to encourage banks to start making loans.</p>
+			]]>
+		</hotspot>
+		<hotspot audio="econ_m5-9_s12_defaults">
+			<![CDATA[
+				<h1>Defaults and foreclosures:</h1>
+				<p>Defaults are when borrowers fail to make payments on their loans. A default results in a foreclosure, which means that the bank repossesses the house.</p>
+			]]>
+		</hotspot>
+		<hotspot audio="econ_m5-9_s12_mortgage">
+			<![CDATA[
+				<h1>Mortgage:</h1>
+				<p>A mortgage is money borrowed to buy a house. Lower interest rates encourage people to buy homes.</p>
+			]]>
+		</hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-9_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Why did the Federal Reserve cut its benchmark interest rate in December 2007?</question>
+        <answers>
+          <answer>The Fed wanted to curb rising inflation.</answer>
+          <answer correct="true">The Fed wanted to thaw credit markets and encourage banks to increase lending.</answer>
+		  <answer>The Fed believed mortgage interest rates were too low.</answer>
+		  <answer>The Dow Jones Industrial Average plunged 294 points.</answer>
+		  <answer>The Fed wanted banks to stop lending because of the credit crisis.</answer>
+        </answers>
+        <figure><text><![CDATA[<p>"The Federal Reserve cut its benchmark short-term interest rate Tuesday by a quarter of a percentage point, to 4.25 percent, and suggested that it would lower rates again if the credit crisis continued to damage not just housing, but the rest of the economy as well.</p>
+
+<p>The stock market dropped sharply after the Fed's midafternoon announcement, prompting Fed officials, in an unusual move, to put out word that they might take other steps before the end of year to inject money into the banking system.</p>
+
+<p>Meeting in Washington, policy makers also cut the discount rate, which is what banks pay to borrow directly from the Fed. The quarter-point cut, to 4.75 percent, was less than Wall Street had been counting on, and that helped set off a selling spree that sent the Dow Jones industrial average plunging 294 points, or 2.14 percent. . . .</p>
+
+<p>. . . After the negative market reaction, Fed officials said they were actively looking at &quot;creative&quot; ways to help thaw credit markets well ahead of their next meeting. . . .</p>
+
+<p>The bottleneck is the credit squeeze—the reluctance of banks and other financial institutions to lend because of fear that they will not be repaid, given the defaults and foreclosures spreading in the mortgage market. . . ."</p>
+
+<p style="font-size:70%;">From <em>The New York Times</em>. December 12, 2007 &copy;2007 The New York Times, www.nytimes.com. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this Content without express written permission is prohibited.</p>]]></text></figure>
+        <feedbackAudio>econ_m5-9_s13_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-9_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>What was Wall Street's response to the cut in interest rates?</question>
+        <answers>
+          <answer>There was no response.</answer>
+          <answer correct="true">The Dow Jones dropped because traders thought the Fed did not cut interest rates enough.</answer>
+		  <answer>The Dow Jones dropped because traders thought the Fed cut interest rates too much.</answer>
+		  <answer>The Dow Jones rose slightly because traders liked the decision.</answer>
+		  <answer>The Dow Jones rose sharply because traders applauded the decision.</answer>
+        </answers>
+        <figure><text><![CDATA[<p>"The Federal Reserve cut its benchmark short-term interest rate Tuesday by a quarter of a percentage point, to 4.25 percent, and suggested that it would lower rates again if the credit crisis continued to damage not just housing, but the rest of the economy as well.</p>
+
+<p>The stock market dropped sharply after the Fed's midafternoon announcement, prompting Fed officials, in an unusual move, to put out word that they might take other steps before the end of year to inject money into the banking system.</p>
+
+<p>Meeting in Washington, policy makers also cut the discount rate, which is what banks pay to borrow directly from the Fed. The quarter-point cut, to 4.75 percent, was less than Wall Street had been counting on, and that helped set off a selling spree that sent the Dow Jones industrial average plunging 294 points, or 2.14 percent. . . .</p>
+
+<p>. . . After the negative market reaction, Fed officials said they were actively looking at &quot;creative&quot; ways to help thaw credit markets well ahead of their next meeting. . . .</p>
+
+<p>The bottleneck is the credit squeeze—the reluctance of banks and other financial institutions to lend because of fear that they will not be repaid, given the defaults and foreclosures spreading in the mortgage market. . . ."</p>
+
+<p style="font-size:70%;">From <em>The New York Times</em>. December 12, 2007 &copy;2007 The New York Times, www.nytimes.com. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this Content without express written permission is prohibited.</p>]]></text></figure>
+        <feedbackAudio>econ_m5-9_s14_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>"A tax hike is the only way to balance the budget" is a normative statement.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The federal funds rate is the interest rate banks charge each other.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A rising CPI indicates deflation.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The Consumer Confidence Survey is an annual survey of 500,000 individuals.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The Dow Jones Industrial Average tracks the stock prices of 30 large international companies.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The Dow rises and falls daily with economic news from around the globe.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The Consumer Price Index measures changes in the prices of goods purchased by urban consumers in a particular time period.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The prime rate is what banks charge their riskiest customers.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>When housing starts are up, households and construction firms are optimistic about future growth.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>"The Fed should raise interest rates" is a positive statement.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-9_s15</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

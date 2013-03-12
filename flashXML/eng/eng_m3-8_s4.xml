@@ -1,0 +1,42 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-8_s4.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+//1	
+	<question>
+		<qText>Which of these sentences would make the best thesis statement?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Criminal activity is the concern of this essay.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The recent crime wave in our city has several apparent causes.</aText> 
+			 	  <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>I want to talk about the crime wave in our country.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Crime has risen 50 percent in the past 20 years.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The subject of this paper is crime.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m3-8_s4_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

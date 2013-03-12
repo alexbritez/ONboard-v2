@@ -1,0 +1,44 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m4-2_s22.jpg</image>
+		<audio>audio/euro_m4-2_s22.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>85</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Luther believed that salvation could be achieved through Good Works.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Luther believed that the Bible was the sole source of religious authority.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Luther believed in a “priesthood of all believers” with no distinction between the clergy and the laity.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Luther maintained all seven sacraments of the traditional Church.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Luther translated the Latin Bible into German so that ordinary people could read the Bible for themselves.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Luther believed Christians in Germany could ignore their secular rulers.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.4" yCord="176.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="255.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="334.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="412.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="874.4" yCord="176.8" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="255.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="334.15" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="412.8" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

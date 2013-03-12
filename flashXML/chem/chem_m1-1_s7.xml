@@ -1,0 +1,32 @@
+<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-1_s7.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s7.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[3]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[0.3]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[300]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[30]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="658" yCord="160" spotScale="75" spotNum="1"/>
+		<dSpot xCord="658" yCord="240" spotScale="75" spotNum="2"/>
+		<dSpot xCord="658" yCord="320" spotScale="75" spotNum="3"/>
+		<dSpot xCord="658" yCord="400" spotScale="75" spotNum="4"/>
+	</dropSpots>
+</DragDrop>

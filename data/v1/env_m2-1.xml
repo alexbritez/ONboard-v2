@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Data Tables">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m2-1_s1</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Number of Rooms</match>
+			<match id="2">Number of Desks per Room</match>
+			<match id="3">Number of Students Accommodated per Room</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="243" y="73" />
+         </drops>
+         <image>env_m2-1_s2.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m2-1_s2</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m2-1_s3</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="inside-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">A</match>
+			<match id="2">B</match>
+			<match id="3">C</match>
+			<match id="4">D</match>
+			<match id="5">E</match>
+			<match id="6">25</match>
+			<match id="7">14</match>
+			<match id="8">22</match>
+			<match id="9">17</match>
+			<match id="10">27</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="175" y="145" />
+			<drop correct="2" x="175" y="179" />
+			<drop correct="3" x="175" y="216" />
+			<drop correct="4" x="175" y="253" />
+			<drop correct="5" x="175" y="291" />
+			<drop correct="6" x="350" y="145" />
+			<drop correct="7" x="350" y="179" />
+			<drop correct="8" x="350" y="216" />
+			<drop correct="9" x="350" y="253" />
+			<drop correct="10" x="350" y="291" />
+         </drops>
+         <image>env_m2-1_s4.jpg</image>
+		 <feedbackAudio>env_m2-1_s4_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m2-1_s4</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[According to the table, which room has the most desks?]]></question>
+            <answers>
+               <answer>Room A</answer>
+			   <answer>Room B</answer>
+               <answer>Room C</answer>
+			   <answer>Room D</answer>
+			   <answer correct="true">Room E</answer>
+            </answers>
+			<figure>env_m2-1_s5_view.jpg</figure>
+            <feedbackAudio>env_m2-1_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m2-1_s5</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[According to the table, which room has the fewest desks?]]></question>
+            <answers>
+               <answer>Room A</answer>
+			   <answer correct="true">Room B</answer>
+               <answer>Room C</answer>
+			   <answer>Room D</answer>
+			   <answer>Room E</answer>
+            </answers>
+			<figure>env_m2-1_s5_view.jpg</figure>
+            <feedbackAudio>env_m2-1_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="6_Activity_Interactivity">
+      <content>
+         <header>European Corn Borer Lab</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+      <image>env_m2-1_s7.jpg</image>
+      <audio>env_m2-1_s7</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (1)WILDLIFE GmbH/Alamy, (2)McGraw-Hill Companies, Inc., (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Data tables are used to record, organize and analyze data.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The number of rows needed in a data table is determined by how many different kinds of information you are recording.</question>
+            <answers>
+			   <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question><![CDATA[Which of the following best describes the data in this table?]]></question>
+            <answers>
+			   <answer>The table gives the river names and lowest annual discharge of rivers.</answer>
+			   <answer>The table lists the countries where all of the world's largest rivers are located.</answer>
+			   <answer>The table gives the river names, countries where the rivers are located, and the length of each river.</answer>
+			   <answer>The table gives river names, countries where the rivers are located, and the depth of each river.</answer>
+			   <answer correct="true">The table gives river names, countries where the rivers are located, and the average annual discharge of the rivers.</answer>
+            </answers>
+			<figure>env_m2-1_s8_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question><![CDATA[According to the table, which river has the highest average annual discharge?]]></question>
+            <answers>
+               <answer>Lena</answer>
+			   <answer correct="true">Amazon</answer>
+			   <answer>Russia</answer>
+			   <answer>Mekong</answer>
+			   <answer>Congo</answer>
+            </answers>
+			<figure>env_m2-1_s8_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question><![CDATA[According to the table, which of the countries listed below has more than one of the ten major rivers running through it?]]></question>
+            <answers>
+				<answer>United States</answer>
+				<answer>Laos</answer>
+				<answer correct="true">Russia</answer>
+				<answer>Paraguay</answer>
+				<answer>Colombia</answer>
+            </answers>
+			<figure>env_m2-1_s8_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m2-1_s8</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

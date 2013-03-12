@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XML att1="val1">
+	<Course title="European History">	
+	
+		<Section title="Introduction">
+			
+			<SubSection title="Introduction to ONboard for AP European History">
+				<Page data="assets/euro_s1-1_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_s1-1_s2.swf" title="" photo=""/>
+				<Page data="assets/euro_s1-1_s3.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1 4)U.S. Central Intelligence Agency; (2)©Ron Solomon/Corbis; (3)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s5.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (1)©Tom Grill/Corbis; (2)Ryan McVay/Photodisc/Getty Images; (3)Doug Menuez/Getty Images; (4)Roger Bamber/Alamy; (5)VStock LLC/Tanya Constantine/Getty Images; (6)Aaron Roeth Photography; (7)Juice Images/age fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)BananaStock/JupiterImages; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s7.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)English School/The Bridgeman Art Library/Getty Images, ©Alessandra Benedetti/Corbis, ©Bettmann/Corbis, ©The Art Archive/Corbis, Hulton Archive/Getty Images, Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s8.swf" title="" photo="(tr cr)Valerijs Kostreckis/Alamy; (c bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s9.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s10.swf" title="" photo=""/>
+				<Page data="assets/euro_s1-1_s11.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)Lucas Cranach the Elder/The Bridgeman Art Library/Getty Images, Imagno/Hulton Archive/Getty Images, George Goodwin Kilburne/The Bridgeman Art Library/Getty Images, Keystone-France/Gamma-Keystone/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-1_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Steve Allen/Brand X Pictures; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s13.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (cl)Roger-Viollet/The Image Works; (cr)INTERFOTO/Travel/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/launch.swf" title="" displaybar="false" info="xml/euro_s1-1_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s15.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)©Tom Grill/Corbis, Imagno/Hulton Archive/Getty Images, Classic Image/Alamy, Keystone-France/Gamma-Keystone/Getty Images, ©Ali Meyer/Corbis, ©Heritage Images/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_s1-1_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Time Life Pictures/Time & Life Pictures/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_s1-1_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s19.swf" title="" photo="(tr cr)Valerijs Kostreckis/Alamy; (c bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s20.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-1_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_s1-1_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+	
+			</SubSection>
+			
+			<SubSection title="Introduction to AP European History: The Story So Far">
+				<Page data="assets/euro_s1-2_s1.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)©Jean Williamson/LOOP IMAGES/Loop Images/Corbis, The Palma Collection/Getty Images, Oasis/Alamy, DeAgostini/SuperStock, Hulton Archive/Getty Images, Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s2.swf" title="" photo=""/>
+				<Page data="assets/euro_s1-2_s3.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (c)Oasis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s4.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Master Francke/The Bridgeman Art Library/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s7.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1 2)North Wind Picture Archives/Alamy; (3)akg-images/The Image Works; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_s1-2_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s10_b.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Digital Vision/Punchstock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)DEA/G. Dagli Orti/De Agostini/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_s1-2_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s12.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l)akg-images/The Image Works; (c)Universal Images Group/Getty Images; (r)DEA/G. Dagli Orti/De Agostini/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Rubberball/Mike Kemp/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Zvonimir Atletic/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_s1-2_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_s1-2_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_s1-2_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s20.swf" title="" photo=""/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_s1-2_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)DEA/G. Dagli Orti/De Agostini/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s23.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s24.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)James Woodson/Getty Images; (2)Simon Bening/The Bridgeman Art Library/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_s1-2_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Mondadori Portfolio/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_s1-2_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Prisma VWPics/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s28.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Simon Bening/The Bridgeman Art Library/Getty Images; (2)Andrew Ward/Life File/Getty Images; (3)M. Freeman/PhotoLink/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Zvonimir Atletic/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_s1-2_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s31.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s32.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Mondadori Portfolio/Universal Images Group/Getty Images; (2)The Palma Collection/Getty Images; (3)Oasis/Alamy; (4)M. Freeman/PhotoLink/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_s1-2_s33.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)The Palma Collection/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/launch.swf" title="" displaybar="false" info="xml/euro_s1-2_s34.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)McGraw-Hill Companies, Inc.; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s35.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Oasis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_s1-2_s36.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)M. Freeman/PhotoLink/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_s1-2_s37.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_s1-2_s38.swf" title="" photo="(tr 6)Valerijs Kostreckis/Alamy; (1)Universal Images Group/Hulton Fine Art/Getty Images; (2)Mondadori Portfolio/Universal Images Group/Getty Images; (3)Italian School/The Bridgeman Art Library/Getty Images; (4)Zvonimir Atletic/Alamy; (5)Prisma VWPics/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_s1-2_s39.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+		
+		</Section>
+		
+		<Section title="European History Primer: 1450 to Present">
+			
+			<SubSection title="Historical Geography of Europe">
+				<Page data="assets/euro_m1-1_s1.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)U.S. Central Intelligence Agency; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s2.swf" title="" photo=""/>
+				<Page data="assets/euro_m1-1_s3.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (1-5)U.S. Central Intelligence Agency; (6)Cartesia/Photodisc/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)U.S. Central Intelligence Agency; (2)Cartesia/Photodisc/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s7.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s10.swf" title="" photo=""/>
+				<Page data="assets/euro_m1-1_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)U.S. Central Intelligence Agency; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s12.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-1_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-1_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s15.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-1_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Cartesia/Photodisc/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-1_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-1_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Cartesia/Photodisc/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-1_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-1_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Cartesia/Photodisc/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s22.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)U.S. Central Intelligence Agency; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s23.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)William Whitehurst/Corbis; (2 3)U.S. Central Intelligence Agency; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s24.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)U.S. Central Intelligence Agency; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-1_s25.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-1_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)U.S. Central Intelligence Agency; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Religious History Primer">
+				<Page data="assets/euro_m1-2_s1.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-2_s2.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-2_s3.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s4.swf" title="" photo=""/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-2_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-2_s6.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)M. Freeman/PhotoLink/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-2_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Bridgeman Art Library, London/SuperStock; (2 3)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)M. Freeman/PhotoLink/Getty Images; (2)Zvonimir Atletic/Alamy; (3)Prisma Archivo/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Pixtal/age fotostock; (2)Zvonimir Atletic/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-2_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-2_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Lucas Cranach the Elder/The Bridgeman Art Library/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s14.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Prisma Archivo/Alamy; (2)De Agostini/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-2_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)M. Freeman/PhotoLink/Getty Images; (2)Zvonimir Atletic/Alamy; (3)Prisma Archivo/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s18.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)DEA/G. Dagli Orti/De Agostini/Getty Images; (2)Imagno/Hulton Fine Art Collection/Getty Images; (3)©The Art Archive/Corbis; (4)©Christophe Boisvieux/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-2_s19.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)U.S. Central Intelligence Agency; (2)Steve Allen/Brand X Pictures; (3)Universal Images Group/Getty Images; (4)©Mike Kemp/In Pictures/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-2_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Political and Diplomatic History Primer">
+				<Page data="assets/euro_m1-3_s1.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-3_s2.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Steve Allen/Brand X Pictures; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-3_s3.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s4.swf" title="" photo=""/>
+				<Page data="assets/euro_m1-3_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fine Art Images/SuperStock/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s7.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-3_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-3_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)tudor antonel adrian/age fotostock; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-3_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)©Pixtal/age Fotostock; (r)Steve Allen/Brand X Pictures; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Alan King engraving/Alamy; (2)©Bettmann/Corbis; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Fine Art Images/SuperStock/Getty Images; (2)Alan King engraving/Alamy; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-3_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s15.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l)Steve Allen/Photodisc/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©19th era 2/Alamy; (2)Apic/Hulton Archive/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-3_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Apic/Hulton Archive/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images"/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-3_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s19.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-3_s20.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Bettmann/Corbis; (2)Alan King engraving/Alamy; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-3_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+						
+			<SubSection title="Social and Economic History Primer">
+				<Page data="assets/euro_m1-4_s1.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-4_s2.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Victor Gabriel Gilbert/The Bridgeman Art Library/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-4_s3.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s4.swf" title="" photo=""/>
+				<Page data="assets/euro_m1-4_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Italian School/The Bridgeman Art Library/Getty Images; (2)DEA PICTURE LIBRARY
+				/Contributor/De Agostini/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s6.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-4_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (l)Jean Baptiste Andre Gautier DAgoty/The Bridgeman Art Library/Getty Images; 
+				(r)Ingram Publishing; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Oxford Science Archive/Heritage-Images/The Image Works; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©19th era 2/Alamy; (2)Anicet-Charles Lemonnier/The Bridgeman Art Library/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Victor Gabriel Gilbert/The Bridgeman Art Library/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Hulton-Deutsch Collection/Corbis; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-4_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s13.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-4_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Erica Simone Leeds; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-4_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1 3)Mondadori Portfolio/Universal Images Group/Getty Images; (2)M. 
+				Freeman/PhotoLink/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s17.swf" title="" photo="(tr c)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-4_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)North Wind Picture Archives/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m1-4_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m1-4_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-4_s21.swf" title="" photo=""/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-4_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Intellectual and Cultural History Primer">
+				<Page data="assets/euro_m1-5_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_m1-5_s2.swf" title="" photo=""/>
+				<Page data="assets/euro_m1-5_s3.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)Fine Art Images/age footstock, ©Pixtal/age fotostock, German School/The 
+				Bridgeman Art Library/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m1-5_s4.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Pixtal/age fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-5_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Melba Photo Agency/PunchStock; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/SuperStock; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Pixtal/age fotostock; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-5_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)DeAgostini/SuperStock; (2)©Pixtal/age fotostock; (3)Oxford Science Archive/Heritage
+				-Images/The Image Works; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Alan King engraving/Alamy; (r)Lebrecht Authors/Alamy; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s14.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Pixtal/age Fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m1-5_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Anicet-Charles Lemonnier/The Bridgeman Art Library/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Fine Art Images/SuperStock; (r)Classic Image/Alamy; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s18.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1 3)Keystone-France/Gamma-Keystone/Getty Images; (2 4)©Pixtal/age 
+				fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-5_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s20.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Tom Grill/Corbis; (2)Ingram Publishing; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m1-5_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s22.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Tom Grill/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s23.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (1-3)©Burstein Collection/Corbis; (4-6)©Geoffrey Clements/Corbis; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s24.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Corbis; (2)©Jens Wolf/dpa/Corbis; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m1-5_s25.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)Courtesy National Gallery of Art, Washington; ©Corbis, ©Pixtal/age fotostock, 
+				Melba Photo Agency/PunchStock, ©Pixtal/age fotostock, ©Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m1-5_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+
+		</Section>
+
+		<Section title="Gathering and Organizing Information">
+			
+			<SubSection title="Making the AP Textbook Work for You">
+				<Page data="assets/euro_m2-1_s1.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l)Photographer's Choice RF/Getty Images; (r)Fuse/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-1_s2.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-1_s3.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s7.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Dagmar Schwelle/Alamy; (2)Echo/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s9.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (1)DeAgostini/SuperStock; (2 3)Universal Images Group/Getty Images; (4)tudor 
+				antonel adrian/age fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-1_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s12.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s13.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s14.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-1_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-1_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s18.swf" title="" photo=""/>
+				<Page data="assets/euro_m2-1_s19.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Purestock/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s20.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)KidStock/Blend Images/Corbis; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-1_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-1_s22.swf" title="" photo=""/>
+				<Page data="assets/euro_m2-1_s23.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (1)De Agostini/Getty Images; (2)KidStock/Blend Images/Corbis; 
+				(3)BananaStock/JupiterImages; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-1_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Thinking Chronologically">
+				<Page data="assets/euro_m2-2_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_m2-2_s2.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-2_s3.xml" photo="(tr)Valerijs Kostreckis/Alamy; (l)©Ingram Publishing/SuperStock; (r)DeAgostini/SuperStock; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s4.swf" title="" photo=""/>
+				<Page data="assets/euro_m2-2_s5.swf" title="" photo=""/>
+				<Page data="assets/euro_m2-2_s6.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-2_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s8.swf" title="" photo=""/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-2_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Purestock/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-2_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Lucas Cranach the Elder/The Bridgeman Art Library/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-2_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-2_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-2_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s19.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-2_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s22.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©19th era 2/Alamy; (bkgd)Jon Schulte/Photographer's Choice 
+				RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-2_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-2_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s25.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©19th era 2/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-2_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-2_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-2_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Purestock/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s29.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-2_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s31.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_m2-2_s32.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-2_s33.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-2_s34.swf" title="" photo=""/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-2_s35.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Historical Questioning: The Thesis Statement">
+				<Page data="assets/euro_m2-3_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_m2-3_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Chris Ryan/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s3.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-3_s4.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-3_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-3_s6.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Classic Image/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s7.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-3_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-3_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s14.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-3_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_m2-3_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-3_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Time Life Pictures/Time & Life Pictures/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-3_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s22.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fine Art Images/SuperStock; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_m2-3_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s24.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-3_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s27.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Jason Friend/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-3_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_m2-3_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s30.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-3_s31.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s32.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-3_s33.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-3_s34.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Fuse/Getty Images; (2)BananaStock/JupiterImages; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-3_s35.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Making Inferences">
+				<Page data="assets/euro_m2-4_s1.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)DEA/G. Dagli Orti/De Agostini/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-4_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Lori Adamski Peek/Stone/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-4_s3.swf" title="" photo=""/>
+				<Page data="assets/euro_m2-4_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-4_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-4_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-4_s7.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-4_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-4_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-4_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-4_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-4_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-4_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-4_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-4_s22.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-4_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)North Wind Picture Archives/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Synthesizing Information">
+				<Page data="assets/euro_m2-5_s1.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Design Pics/Kristy-Anne Glubish; (2)Fuse/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Comstock/PunchStock/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s3.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-5_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-5_s6.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s7.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-5_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Oxford Science Archive/Heritage-Images/The Image Works; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-5_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s10.swf" title="" photo=""/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-5_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-5_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Heritage Images/Corbis; (2)DeAgostini/SuperStock; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-5_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s15.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-5_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-5_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-5_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-5_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/launch.swf" title="" displaybar="false" info="xml/euro_m2-5_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)North Wind Picture Archives/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-5_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s23.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m2-5_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-5_s25.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)INTERFOTO/Travel/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-5_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Analyzing Maps">
+				<Page data="assets/euro_m2-6_s1.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)Universal Images Group/Getty Images, DEA/G. Dagli Orti/De Agostini/Getty Images, 
+				©Bettmann/Corbis, ©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s3.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-6_s6.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-6_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-6_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-6_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-6_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s19.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-6_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-6_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-6_s22.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/launch.swf" title="" displaybar="false" info="xml/euro_m2-6_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/launch.swf" title="" displaybar="false" info="xml/euro_m2-6_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-6_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Analyzing Data">
+				<Page data="assets/euro_m2-7_s1.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s3.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Pixtal/age fotostock; (2)Georgios Kollidas/Alamy; (3)SSPL/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-7_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-7_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s14.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Dorling Kindersley/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Dorling Kindersley/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s18.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©19th era 2/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-7_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s20.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m2-7_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Lifesize/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m2-7_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s24.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s28.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m2-7_s30.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m2-7_s31.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+
+		</Section>
+
+		<Section title="Analyzing Primary Sources">
+			
+			<SubSection title="Point of View Analysis">
+				<Page data="assets/euro_m3-1_s1.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (c)Andrew Fox/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Media Minds/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-1_s3.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Purestock/SuperStock; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images"/>
+				<Page data="assets/euro_m3-1_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Ross Taylor/Getty Images News/Getty Images; (r)Radius Images/Corbis; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s6.swf" title="" photo=""/>
+				<Page data="assets/euro_m3-1_s7.swf" title="" photo=""/>
+				<Page data="assets/euro_m3-1_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-1_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-1_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Jason Friend/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s11.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Corbis; (2)Media Minds/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-1_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Mr Raymond (Raymond Weekes)/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s14.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-1_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1 3)©Michael Nicholson/Corbis; (2)©Alan Copson/JAI/Corbis; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s18.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-1_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Michael Nicholson/Corbis; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-1_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Design Pics/Kelly Redinger; (2)Media Minds/Alamy; (3)©Tom Grill/Corbis; 
+				(4)©The Print Collector/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s22.swf" title="" photo=""/>
+				<Page data="assets/euro_m3-1_s23.swf" title="" photo=""/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-1_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s25.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Design Pics/Kelly Redinger; (2)Archive Pics/Alamy; (3)Ingram Publishing; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-1_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-1_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Imagno/Hulton Archive/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-1_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-1_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s30.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Imagno/Hulton Archive/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_m3-1_s31.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s32.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)M.Brodie/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images"/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-1_s33.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-1_s34.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Pixtal/age Fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-1_s35.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-1_s36.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-1_s37.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-1_s38.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Analyzing Primary Documents">
+				<Page data="assets/euro_m3-2_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_m3-2_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Ingram Publishing; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-2_s3.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Ingram Publishing; (2)Archive Pics/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-2_s4.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Ingram Publishing; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-2_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Ingram Publishing; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-2_s6.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-2_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-2_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-2_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-2_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-2_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Mary Evans Picture Library/Alamy; (bkgd)Jon Schulte/Photographer's Choice 
+				RF/Getty Images."/>
+				<Page data="assets/euro_m3-2_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-2_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-2_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-2_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Susan See Photography; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-2_s22.swf" title="" photo=""/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-2_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-2_s26.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-2_s27.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-2_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Reading Historical Literature">
+				<Page data="assets/euro_m3-3_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_m3-3_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Pixtal/age fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-3_s3.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Photo12/Elk-Opid/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Photo12/Elk-Opid/Alamy; (2)French School/The Bridgeman Art Library/Getty Images; 
+				(3)Photo12/Elk-Opid/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-3_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s6.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-3_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)alimdi/Jozef Sedmak/Getty Images; (2)Design Pics/Don Hammond; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Jason Friend/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-3_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Pixtal/age fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-3_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s19.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s20.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Keystone-France/Gamma-Keystone/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-3_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-3_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fine Art Images/SuperStock; (bkgd)Jon Schulte/Photographer's Choice 
+				RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m3-3_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-3_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-3_s28.swf" title="" photo=""/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-3_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-3_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Analyzing Fine Art (Painting and Sculpture)">
+				<Page data="assets/euro_m3-4_s1.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l to r)Courtesy National Gallery of Art, Washington, Universal Images Group/SuperStock, Leemage/Universal Images Group/Getty Images, ©Corbis, ©Burstein Collection/Corbis, Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Geoffrey Clements/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s3.swf" title="" photo=""/>
+				<Page data="assets/euro_m3-4_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Araldo de Luca/Corbis; (2 3 5 6)Courtesy National Gallery of Art, Washington; (4)©Araldo de Luca/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Araldo de Luca/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s6.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Courtesy National Gallery of Art, Washington; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Courtesy National Gallery of Art, Washington; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-l)©Araldo de Luca/Corbis; (inset-c, r)Courtesy National Gallery of Art, Washington; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Fotosearch/age fotostock; (2)Michele Falzone/Photographer's Choice/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fine Art Images/age fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s11.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fine Art Images/age fotostock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Fine Art Images/age fotostock; (2)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s18.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1 3)©Corbis; (2 5)©The Art Archive/Corbis; (4)©Fotosearch/age fotostock; (6)De Agostini/Getty Images; (7)Image Asset Management Ltd./SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s19.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©The Art Archive/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-l)©Corbis; (inset-r)©The Art Archive/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s23.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Imagno/Hulton Fine Art Collection/Getty Images; (2)©Christophe Boisvieux/Corbis; (3)Pixtal/age fotostock; (4)Universal Images Group/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s24.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Lucas Cranach the Elder/The Bridgeman Art Library/Getty Images; (2)Prisma Archivo/Alamy; (3)Fine Art Images/age fotostock; (4)Universal Images Group/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s25.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-4_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s28.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Author's Image/PunchStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s29.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Photoservice Electa/Universal Images Group/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)Photoservice Electa/Universal Images Group/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s31.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)©Ali Meyer/Corbis; (r)©Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s32.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)©Ali Meyer/Corbis; (r)©Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s33.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Ali Meyer/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-4_s34.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s35.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fine Art Images/SuperStock/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s36.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Fine Art Images/SuperStock/Getty Images; (2)Jean Baptiste Andre Gautier DAgoty/The Bridgeman Art Library/Getty Images; (3)DeAgostini/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s37.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)DeAgostini/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s38.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)DeAgostini/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s40.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fine Art Images/SuperStock/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s41.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)Fine Art Images/SuperStock/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s42.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Geoffrey Clements/Corbis; (2)Digital Vision/Punchstock; (3)©Burstein Collection/Corbis; (4)©Peter Willi/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s43.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Geoffrey Clements/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s44.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Burstein Collection/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s45.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Peter Willi/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s46.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Bettmann/Corbis; (2)Steve Allen/Brand X Pictures; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s47.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-4_s48.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Dorling Kindersley/Getty Images; (2 5)Corbis; (3)©Geoffrey Clements/Corbis; (4)Jacques Louis David/The Bridgeman Art Library/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-4_s49.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-4_s50.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)De Agostini/Getty Images, Hippolyte Delaroche/The Bridgeman Art Library/Getty Images, Imagno/Hulton Fine Art Collection/Getty Images, Jacques Louis David/The Bridgeman Art Library/Getty Images, DeAgostini/SuperStock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Analyzing Posters, Photographs, and Political Cartoons">
+				<Page data="assets/euro_m3-5_s1.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s2.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s3.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)©Heritage Images/Corbis, Hulton Archive/Getty Images, Stock Montage/Archive Photos/Getty Images, Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-31156], ©Bettmann/Corbis, Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Universal Images Group/Getty Images; (2)Hulton Archive/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s7.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Zvonimir Atletic/Alamy; (2)©Heritage Images/Corbis; (3)©TKG Private Collection/Lebrecht Music & Arts/Corbis; (4)©Michael Nicholson/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l r)©Heritage Images/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Heritage Images/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Heritage Images/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l r)©Heritage Images/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s14.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©TKG Private Collection/Lebrecht Music & Arts/Corbis; (2)Ingram Publishing; (3)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)©TKG Private Collection/Lebrecht Music & Arts/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Bettmann/Corbis; (2)Lifesize/Getty Images; (3)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s17.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s19.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s22.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s25.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)INTERFOTO/Travel/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-31156]; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s27.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Stock Montage/Archive Photos/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Stock Montage/Archive Photos/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)Stock Montage/Archive Photos/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m3-5_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s31.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)©Bettmann/Corbis.(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s32.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-5_s33.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s34.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset)©Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m3-5_s35.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Universal Images Group/Getty Images; (2 4)©Michael Nicholson/Corbis; (3 6)Roger-Viollet/The Image Works; (5)bpk, Berlin/Zermin/Art Resource, NY; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m3-5_s36.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Michael Nicholson/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s37.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-l)©Michael Nicholson/Corbis; (inset-r)Roger-Viollet/The Image Works; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m3-5_s38.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-1-9, 10(r))bpk, Berlin/Zermin/Art Resource, NY; (inset-10(l))©Michael Nicholson/Corbis; (inset-10(c))Roger-Viollet/The Image Works; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+
+		</Section>
+
+		<Section title="Interpretive and Advanced Skills">
+			
+			<SubSection title="Critical Analysis">
+				<Page data="assets/euro_m4-1_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_m4-1_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s3.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s4.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Tom Grill/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s6.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l)©Creatas/JupiterImages; (cl)tudor antonel adrian/age fotostock; (r)The Palma 
+				Collection/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-1_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s10.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)North Wind Picture Archives/The Image Works; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)North Wind Picture Archives/The Image Works; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s13.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s14.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-1_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s19.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-1_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s23.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s27.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Image Source/Punchstock; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s28.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s29.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s30.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m4-1_s31.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s32.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s33.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-1_s34.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s35.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s36.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s37.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-1_s38.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m4-1_s39.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s40.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s41.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m4-1_s42.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-1_s43.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+			</SubSection>
+			
+			<SubSection title="Compare and Contrast">
+				<Page data="assets/euro_m4-2_s1.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Jacques Louis David/The Bridgeman Art Library/Getty Images; (r)Ingram 
+				Publishing; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)©Pixtal/age Fotostock; (r)Ingram Publishing; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s3.swf" title="" photo=""/>
+				<Page data="assets/euro_m4-2_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Design Pics/Kristy-Anne Glubish; (2)Chris Ryan/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s6.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-2_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-2_s8.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-2_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-2_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Oasis/Alamy; (r)Michele Falzone/Photographer's Choice/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-2_s12.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_m4-2_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-2_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>				
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-2_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-2_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-2_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-2_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-2_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-2_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-2_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-2_s29.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-2_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s31.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s32.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-2_s33.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l)tudor antonel adrian/age fotostock; (cl)Henri Baron/The Bridgeman Art Library/Getty 
+				Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>				
+				<Page data="assets/euro_m4-2_s34.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>				
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s35.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s36.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s37.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s38.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-2_s39.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Photographer's Choice RF/Getty Images; (r)Imagno/Hulton Fine Art Collection/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s40.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Photographer's Choice RF/Getty Images; (r)Imagno/Hulton Fine Art Collection/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m4-2_s41.xml" photo="(tr)Valerijs Kostreckis/Alamy; (l)Photographer's Choice RF/Getty Images; (r)Imagno/Hulton Fine Art Collection/Getty Images; 
+				(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s42.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-l)Photographer's Choice RF/Getty Images; (inset-r)Imagno/Hulton Fine Art Collection/Getty 
+				Images;(bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-2_s43.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Chris Ryan/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s44.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s45.swf" title="" photo=""/>
+				<Page data="assets/euro_m4-2_s46.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s47.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s48.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-2_s49.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-2_s50.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-l)Ingram Publishing; (inset-r)Jacques Louis David/The Bridgeman Art 
+				Library/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>				
+			</SubSection>
+			
+			<SubSection title="Cause and Effect">
+				<Page data="assets/euro_m4-3_s1.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)©Tom Grill/Corbis, Hippolyte Delaroche/The Bridgeman Art Library/Getty Images, Steve Allen/Brand X Pictures, Paul Popper/Popperfoto/Getty Images, ©Mike Kemp/In Pictures/Corbis, Erica Simone Leeds; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s2.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)©Tom Grill/Corbis; (2)Paul Popper/Popperfoto/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s3.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (l to r)©Tom Grill/Corbis, Stockbyte/Getty Images, Hulton Archive/Getty Images, Stockbyte/Getty Images, Leemage/Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s4.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Leemage/Universal Images Group/Getty Images; (r)Hulton Archive/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s5.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Hulton Archive/Getty Images; (2 7)©Jack Hollingsworth/Blend Images/Corbis; (3 8)©Photodisc Collection/Getty Images; (4 9)Image Source/Getty Images; (5 10)KidStock/Blend Images/Corbis; (6 11)Ryan McVay/Photodisc/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s6.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Paul Popper/Popperfoto/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-3_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Ingram Publishing; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s9.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-3_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Ingram Publishing; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)KidStock/Blend Images/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-3_s13.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s14.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s15.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s16.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-3_s19.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-3_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s21.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m4-3_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s26.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-3_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/euro_m4-3_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Hulton Archive/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s30.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s31.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s32.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-3_s33.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s34.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-3_s35.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s36.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-3_s37.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Jacques Louis David/The Bridgeman Art Library/Getty Images; (2)Roger-Viollet/The Image Works; (3)Alan King engraving/Alamy; (4)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s38.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (1)Jacques Louis David/The Bridgeman Art Library/Getty Images; (2)Leemage/Universal Images Group/Getty Images; (3)Roger-Viollet/The Image Works; (4)Alan King engraving/Alamy; (5)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s39.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s40.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-3_s41.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-3_s42.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-1)Hulton Archive/Getty Images; (inset-2)©Hulton-Deutsch Collection/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+			</SubSection>
+			
+			<SubSection title="Continuity and Change over Time">
+				<Page data="assets/euro_m4-4_s1.swf" title="" photo=""/>
+				<Page data="assets/euro_m4-4_s2.swf" title="" photo=""/>
+				<Page data="assets/euro_m4-4_s3.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s4.swf" title="" photo=""/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s5.xml" photo="(tr)Valerijs Kostreckis/Alamy; (inset-l to r)©Photodisc/Getty Images, C Squared Studios/Getty Images, ©Classic PIO/Fotosearch, Jules Frazier/Getty Images, McGraw-Hill Companies, Inc.; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-4_s6.swf" title="" photo=""/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s7.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-4_s8.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s9.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s10.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-4_s11.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images"/>
+				<Page data="assets/euro_m4-4_s12.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s13.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s14.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s15.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-4_s16.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s17.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s18.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s19.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/euro_m4-4_s20.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s21.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s22.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s23.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s24.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s25.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s26.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s27.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s28.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s29.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+				<Page data="assets/euro_m4-4_s30.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s31.swf" title="" photo=""/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/euro_m4-4_s32.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s33.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s34.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fuse/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s35.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Fuse/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s36.swf" title="" photo="(tr br)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s37.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Chris Ryan/Getty Images; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s38.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Tom Grill/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s39.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Hippolyte Delaroche/The Bridgeman Art Library/Getty Images; (bkgd)Jon 
+				Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s40.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)Universal Images Group/Getty Images; (bkgd)Jon Schulte/Photographer's 
+				Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s41.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s42.xml" photo="(tr)Valerijs Kostreckis/Alamy; (c)Georgios Kollidas/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s43.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s44.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s45.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s46.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s47.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (c)©Bettmann/Corbis; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/euro_m4-4_s48.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/euro_m4-4_s49.swf" title="" photo="(tr)Valerijs Kostreckis/Alamy; (l)Hollander/Picture Post/Getty Images; (r)©Bettmann/Corbis; (bkgd)Jon S
+				chulte/Photographer's Choice RF/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/euro_m4-4_s50.xml" photo="(tr)Valerijs Kostreckis/Alamy; (bkgd)Jon Schulte/Photographer's Choice RF/Getty Images."/>	
+			</SubSection>
+
+		</Section>
+		
+
+		<Section title="VariableSets">
+				<GlossaryVar title="Glossary" GlossarySource="0"/>
+				<ForumVar title="Forum" OpenForum = "false"/>
+				<TrackingVar title="Tracking" TrackingOn="false"/>
+				<TrackingURL title="RequestURL" RequestURL="http://www.mbusadigitalmedia.com/courses/flashconsumables/index.aspx"/>
+				<TrackingURL title="SendURL" SendURL="http://www.mbusadigitalmedia.com/courses/flashconsumables/index.aspx"/>
+				<ForceLinear title="Linear" MainModules="false" SubModules="false" SubModules2="false" Pages="false"/>
+				<ClickThrough title="ClickThrough" MainModules="true" SubModules="true" SubModules2="true"/>
+		</Section>
+
+	</Course>
+</XML>

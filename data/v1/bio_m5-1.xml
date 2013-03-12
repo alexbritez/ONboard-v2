@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Basics of Atomic Structure">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m5-1_s1</video>
+      <credits>(c)Stockbyte/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m5-1_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m5-1_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Parts of an Atom</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-1_s4.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-1_s4_protoncharge" dynamic="true" x="217" y="177"><![CDATA[
+				<h1></h1>
+				<p>The charge on a proton is +1. The proton's mass is 1 atomic mass unit, or 1 amu.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-1_s4_neutron" dynamic="true" x="356" y="185"><![CDATA[
+				<h1></h1>
+				<p>Neutrons have no charge. They are neutral particles. The neutron's atomic mass is 1 amu.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-1_s4_electron" dynamic="true" x="341" y="37"><![CDATA[
+				<h1></h1>
+				<p>The charge on an electron is –1. An electron's mass is 0.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-1_s4</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[A. The charge on the particle is written<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as +1.]]></match>
+            <match id="2">B. The particle has no charge.</match>
+            <match id="5"><![CDATA[C. The particle orbits the nucleus of an<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;atom in regions called orbitals.]]></match>
+            <match id="4"><![CDATA[D. The charge on the particle is written<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as -1.]]></match>
+            <match id="3"><![CDATA[E. The particle has the same mass as a<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proton.]]></match>
+         </matches>
+         <coord x="47" y="135" />
+         <coord x="208" y="135" />
+         <coord x="208" y="183" />
+         <coord x="364" y="135" />
+         <coord x="364" y="183" />
+         <drops title="">1</drops>
+         <drops title="">2,3</drops>
+         <drops title="">4,5</drops>
+         <feedbackAudio>bio_m5-1_s5_FB</feedbackAudio>
+         <image>bio_m5-1_s5.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m5-1_s5</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m5-1_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="6_Activity_Interactivity">
+      <content>
+         <header>Parts of an Atom</header>
+         <instruction><![CDATA[<p>Electron shell – the region around the nucleus of an atom in which electrons travel</p>
+<p>If you have trouble viewing this animation, you may need to download Real Player&reg;.</p>]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_03P.mp4</url>
+      <image>bio_m5-1_s7.jpg</image>
+      <audio>bio_m5-1_s7</audio>
+      <credits>(c)Stockbyte/Getty Images, (c) McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Parts of an Atom</header>
+         <instruction><![CDATA[<p>number of protons = number of electrons</p>
+<p>An oxygen atom has 8 protons and 8 neutrons. Click on the model that represents a neutral oxygen atom.</p>]]></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-1_s8.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="31" y="195"><![CDATA[
+				<h1></h1>
+				<p>Sorry, this atom is not oxygen. The atom has 9 electrons so it would have to have 9 protons to be neutral.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="152" y="12"><![CDATA[
+				<h1></h1>
+				<p>This atom has only 2 electrons so it cannot be oxygen.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="533" y="106"><![CDATA[
+				<h1></h1>
+				<p>Yes, this atom is oxygen. Its 8 electrons and 8 protons create a neutral atom.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-1_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m5-1_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A fluorine atom has 9 protons and 10 neutrons. What is the atomic number of fluorine?</question>
+            <answers>
+               <answer correct="true">9</answer>
+			   <answer>18</answer>
+               <answer>19</answer>
+            </answers>
+            <feedbackAudio>bio_m5-1_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-1_s10</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A fluorine atom has 9 protons and 10 neutrons. What is the mass number of fluorine?</question>
+            <answers>
+               <answer>9</answer>
+			   <answer>18</answer>
+               <answer correct="true">19</answer>
+            </answers>
+            <feedbackAudio>bio_m5-1_s11</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m5-1_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m5-1_s13</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m5-1_s14</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The atomic number of an element is always equal to the number of</question>
+            <answers>
+               <answer>electrons</answer>
+			   <answer>neutrons</answer>
+               <answer correct="true">protons</answer>
+			   <answer>neutrons and protons</answer>
+			   <answer>electrons and protons</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Atoms of the same element that have different numbers of neutrons are said to be</question>
+            <answers>
+               <answer>ions</answer>
+			   <answer>balanced</answer>
+			   <answer>neutral</answer>
+               <answer correct="true">isotopes</answer>
+			   <answer>orbitals</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An atom that has gained or lost electrons is a(n)</question>
+            <answers>
+               <answer>element</answer>
+               <answer correct="true">ion</answer>
+			   <answer>isotope</answer>
+			   <answer>electron</answer>
+			   <answer>orbital</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Atom A has 8 protons, 8 neutrons, and 8 electrons. Atom B has 8 protons, 9 neutrons, and 8 electrons. The two atoms are</question>
+            <answers>
+               <answer>elements</answer>
+			   <answer>ions</answer>
+               <answer correct="true">isotopes</answer>
+			   <answer>negatively charged</answer>
+			   <answer>positively charged</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The atomic number of an element is 9, and its atomic mass is 19. How many neutrons does this atom have?</question>
+            <answers>
+               <answer>1</answer>
+			   <answer>9</answer>
+               <answer correct="true">10</answer>
+			   <answer>19</answer>
+			   <answer>There is not enough information to determine the number of neutrons.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-1_s15</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

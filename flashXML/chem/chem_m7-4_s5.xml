@@ -1,0 +1,37 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-4_s5.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text>Sodium metal reacts violently with chlorine gas to produce solid sodium chloride.  How many liters of chlorine gas would be needed to react completely with 5.0 g of solid sodium at a pressure of 1.00 atm and a temperature of 89°C?</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Does the ideal gas law need to be used? If so, when?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law is needed at the beginning of the problem, before doing stoichiometry.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law is needed at the end of the problem, after doing stoichiometry.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law does not need to be used. Only stoichiometry is needed.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law is needed, but stoichiometry is not necessary.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-4_s5_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

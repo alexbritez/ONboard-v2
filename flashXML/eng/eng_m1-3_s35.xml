@@ -1,0 +1,13 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Write a sentence that includes onomatopoeia.]]></hText>
+		<qText></qText>
+		<correctText><![CDATA[<font size='12'><font face='c-Bold'>Sample Response:</font><br />Any sentence that includes “sound” words is acceptable.
+The snake hissed at the growling dog.
+The slamming door made the windows rattle.
+His long legs swooshed through the pile of leaves.]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m1-3_s35.jpg" />
+		<audio>audio/eng_m1-3_s35.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

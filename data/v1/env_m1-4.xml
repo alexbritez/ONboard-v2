@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Dimensional Analysis">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m1-4_s1</video>
+      <credits>(cl)Cavan Images/Photodisc/Getty Images, (c)Design Pics/Carson Ganci, (cr)Wolfgang Heidasch/Alamy, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Cavan Images/Photodisc/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s4</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Cavan Images/Photodisc/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s6</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[The total area of coral reefs in a particular area is 250,000 m<sup>2</sup>.]]></match>
+			<match id="2">The yearly vertical growth rate of the coral reef is 3 millimeters per year.</match>
+			<match id="3">Calculate the total global area of coral reefs in cubic meters after one year.</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="3" x="155" y="139" />
+         </drops>
+         <image>env_m1-4_s7.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m1-4_s7</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+   
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s9</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s10</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+   
+   <scene id="11" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">A. Determine the final units.</match>
+			<match id="6">B. Rewrite the answer with the final units.</match>
+			<match id="4">C. Simplify the numbers and cancel units.</match>
+			<match id="3">D. Set up the problem.</match>
+			<match id="5">E. Perform calculations.</match>
+			<match id="1">F. Read the problem and determine the important information.</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="290" y="65" />
+			<drop correct="2" x="290" y="111" />
+			<drop correct="3" x="290" y="157" />
+			<drop correct="4" x="290" y="203" />
+			<drop correct="5" x="290" y="249" />
+			<drop correct="6" x="290" y="295" />
+         </drops>
+         <image>env_m1-4_s11.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m1-4_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s12</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Comstock/Comstock Images/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[Equation: <em>X</em> &times; <em>Y</em> &times; <em>Z</em> &times; 5 (people) = 91,250 gallons/year<br/><br/>Variable <em>X</em> should be?]]></question>
+            <answers>
+               <answer>1 day/10 minutes</answer>
+			   <answer correct="true">10 minutes/day</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Each person in a family of five people takes a 10-minute shower each day. The shower has a water flow rate of 5.0 gallons per minute. How much water does this family use each year to take showers?</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-4_s13</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[10 minutes/day &times; <em>Y</em> &times; <em>Z</em> &times; 5 (people) = <br/>91,250 gallons/year<br/><br/>Variable <em>Y</em> should be?]]></question>
+            <answers>
+               <answer correct="true">5.0 gallons/minute</answer>
+			   <answer>1 minute/5.0 gallons</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Each person in a family of five people takes a 10-minute shower each day. The shower has a water flow rate of 5.0 gallons per minute. How much water does this family use each year to take showers?</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[10 minutes/day &times; 5.0 gallons/minute &times; <em>Z</em> &times; 5 (people) = 91,250 gallons/year<br/><br/>Variable <em>Z</em> should be?]]></question>
+            <answers>
+               <answer>1 year/365 days</answer>
+			   <answer correct="true">365 days/year</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Each person in a family of five people takes a 10-minute shower each day. The shower has a water flow rate of 5.0 gallons per minute. How much water does this family use each year to take showers?</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">gallons/year</match>
+			<match id="2">gallons/minute</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="160" y="149" />
+         </drops>
+         <image>env_m1-4_s16.jpg</image>
+		 <feedbackAudio>env_m1-4_s16_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m1-4_s16</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>env_m1-4_s17</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Dimensional analysis is a method of solving a mathematical equation by analyzing the metric units in the formula.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Canceling units is the final step in solving a problem.</question>
+            <answers>
+			   <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>All of the units must be the same in order to use dimensional analysis.</question>
+            <answers>
+			   <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question><![CDATA[What should the final units be for the answer to this problem?]]></question>
+            <answers>
+               <answer>L</answer>
+			   <answer>mL</answer>
+			   <answer>g/mL</answer>
+			   <answer>g</answer>
+			   <answer correct="true">kg</answer>
+            </answers>
+			<figure>env_m1-4_s18_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question><![CDATA[What should the final units be for the answer to this problem?]]></question>
+            <answers>
+				<answer>kWh</answer>
+				<answer>kWh/month</answer>
+				<answer correct="true">dollars</answer>
+				<answer>dollars/year</answer>
+				<answer>kWh/year</answer>
+            </answers>
+			<figure>env_m1-4_s18_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-4_s18</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+</shell>

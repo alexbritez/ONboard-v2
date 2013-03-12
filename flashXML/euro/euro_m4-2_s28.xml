@@ -1,0 +1,32 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m4-2_s28.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Which of the following statements is true? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The Council of Trent accepted revisions to St. Jerome’s Latin Bible.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The Catholic church sought to enforce its power by banning Protestant or other heretical books that challenged the Church’s views.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-2_s28_FB.mp3" />
+	</question>
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->

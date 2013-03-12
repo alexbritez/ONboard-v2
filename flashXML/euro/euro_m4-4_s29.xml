@@ -1,0 +1,40 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m4-4_s29.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Making inferences from the reading, which of the following saw his political views prevail in 1688-89?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Oliver Cromwell</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>James I</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>James II</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Thomas Hobbes</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>John Locke</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+</MultipleChoice>

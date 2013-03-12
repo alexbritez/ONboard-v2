@@ -1,0 +1,67 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Shifts in Tense</title>
+		<info></info>
+		<image>images/eng_m2-1_s28.jpg</image>
+		<audio>audio/eng_m2-1_s28.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Correct version:</Name>   
+			<audio enable="false" url=""/>
+			<xCord>973</xCord>
+			<yCord>135</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[During our last class, the professor handed out the entire semester's schedule.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="false" url=""/>
+			<xCord>973</xCord>
+			<yCord>205</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Mr. Kirksten offered me a summer job as his assistant and I accepted it.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>   
+			<audio enable="false" url=""/>
+			<xCord>973</xCord>
+			<yCord>277</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Our grandfather clock chimes every fifteen minutes all night long, and it drives me crazy.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="false" url=""/>
+			<xCord>973</xCord>
+			<yCord>345</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Nora helped the little boy as he unsteadily crossed the floor.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,710 @@
+<shell title="Article Analysis">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m5-1_s1</video>
+    <credits>(ll) McGraw-Hill Companies, Inc., Jill Braaten, photographer, (c)Martin Shields/Alamy, (r)National Archives and Records Administration, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s2</video>
+    <credits>(tr)Comstock/Getty Images, (c)Uppercut RF/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s3</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s4</video>
+    <credits>(tr)Comstock/Getty Images, (c)Daniel Acker/Bloomberg/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s5</video>
+    <credits>(tr)Comstock/Getty Images, (c)Martin Shields/Alamy, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="3_txt_img_reading">
+    <content>
+      <header italic="false">Feds Have Outlawed School Bake Sales</header>
+      <text>
+        <![CDATA[
+		<p>
+			By Charlie Boss
+		</p>
+        <p>
+          COLUMBUS, Ohio—The broadcasting students at Upper Arlington High School have held raffles for a parking spot and concert tickets this fall to help cover costs for their spring trip to New York.
+		</p>
+		<p>
+			What they haven't been able to do is rely on what used to be a mainstay—selling baked goods.
+		</p>
+		<p>
+			Under new federal and state laws, schools must meet nutritional guidelines for all food sold during the day, including items in fundraisers. That means no more bake sales or candy sales during school hours. . . .
+		</p>
+		<p>
+			Student and parent groups can sell baked goods before or after school, during athletic events and on parents' nights.
+		</p>
+		<p style="font-size:90%">
+			Credit: &quot;Feds have outlawed school bake sales&quot; by Charlie Boss, <em>The Columbus Dispatch</em>, October 23, 2011.
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-1_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">Byline</match>
+        <match id="6">What are students NOT doing?</match>
+        <match id="1">Headline</match>
+        <match id="8">When can bake sales occur?</match>
+        <match id="3">Dateline</match>
+		<match id="5">How are funds being raised?</match>
+		<match id="4">Who is involved?</match>
+		<match id="7">Why has this situation happened?</match>
+      </matches>
+		<drops title="" children-styles="margin-bottom: 0.1em;">
+			<drop correct="1" x="344" y="10"></drop>
+			<drop correct="2" x="126" y="49"></drop>
+			<drop correct="3" x="34" y="82"></drop>
+			<drop correct="4" x="34" y="115"></drop>
+			<drop correct="5" x="394" y="114"></drop>
+			<drop correct="6" x="517" y="174"></drop>
+			<drop correct="7" x="191" y="233"></drop>
+			<drop correct="8" x="117" y="324"></drop>
+		</drops>
+		<image>USGov_m5-1_s7.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m5-1_s7</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="3_txt_img_reading">
+    <content>
+      <header italic="false"><![CDATA[Iraqis Anxious About Future<br/>Country unstable, and many still fear terrorists]]></header>
+      <text>
+        <![CDATA[
+		<p>
+			By Rebecca Santana and Lara Jakes, Associated Press
+		</p>
+        <p>
+          BAGHDAD—For the first time in decades, Iraqis face a future on their own, with neither Saddam Hussein's iron fist nor the United States' military might to hold them together.
+		</p>
+		<p>
+			This has been both their dream and nightmare: They wanted U.S. troops (the occupiers) to go, but they wanted U.S. troops (the protectors) to stay.
+		</p>
+		<p>
+			Now, many fear an increase in violence, growing Iranian influence and political turmoil after President Barack Obama's definitive announcement that all U.S. forces will leave by the end of the year. . . .
+		</p>
+		<p style="font-size:90%">
+			Credit: Used with the permission of The Associated Press. Copyright &copy; 2011. All rights reserved. October 23, 2011
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-1_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Who is fearful?</question>
+        <answers>
+          <answer>Iranians</answer>
+          <answer correct="true">Iraqis</answer>
+          <answer>Terrorists</answer>
+          <answer>U.S. troops</answer>
+          <answer>President Obama</answer>
+        </answers>
+		<figure>
+			<header><![CDATA[Iraqis Anxious About Future<br/>Country unstable, and many still fear terrorists]]></header>
+      		<text>
+        <![CDATA[
+		<p>
+			By Rebecca Santana and Lara Jakes, Associated Press
+		</p>
+        <p>
+          BAGHDAD—For the first time in decades, Iraqis face a future on their own, with neither Saddam Hussein's iron fist nor the United States' military might to hold them together.
+		</p>
+		<p>
+			This has been both their dream and nightmare: They wanted U.S. troops (the occupiers) to go, but they wanted U.S. troops (the protectors) to stay.
+		</p>
+		<p>
+			Now, many fear an increase in violence, growing Iranian influence and political turmoil after President Barack Obama's definitive announcement that all U.S. forces will leave by the end of the year. . . .
+		</p>
+		<p style="font-size:90%">
+			Credit: Used with the permission of The Associated Press. Copyright &copy; 2011. All rights reserved. October 23, 2011
+		</p>
+        ]]>
+      		</text>
+		</figure>
+		<feedbackAudio>USGov_m5-1_s9_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>What imminent action has caused anxiety about the future?</question>
+        <answers>
+          <answer>Saddam Hussein's iron fist</answer>
+          <answer>political turmoil</answer>
+          <answer>growing Iranian influence</answer>
+          <answer correct="true">removal of U.S. troops</answer>
+          <answer>arrival of U.S. troops</answer>
+        </answers>
+		<figure>
+			<header><![CDATA[Iraqis Anxious About Future<br/>Country unstable, and many still fear terrorists]]></header>
+      		<text>
+        <![CDATA[
+		<p>
+			By Rebecca Santana and Lara Jakes, Associated Press
+		</p>
+        <p>
+          BAGHDAD—For the first time in decades, Iraqis face a future on their own, with neither Saddam Hussein's iron fist nor the United States' military might to hold them together.
+		</p>
+		<p>
+			This has been both their dream and nightmare: They wanted U.S. troops (the occupiers) to go, but they wanted U.S. troops (the protectors) to stay.
+		</p>
+		<p>
+			Now, many fear an increase in violence, growing Iranian influence and political turmoil after President Barack Obama's definitive announcement that all U.S. forces will leave by the end of the year. . . .
+		</p>
+		<p style="font-size:90%">
+			Credit: Used with the permission of The Associated Press. Copyright &copy; 2011. All rights reserved. October 23, 2011
+		</p>
+        ]]>
+      		</text>
+		</figure>
+		<feedbackAudio>USGov_m5-1_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s11</video>
+    <credits>(tr)Comstock/Getty Images, (c)ClassicStock.com/SuperStock, H. Armstrong Roberts/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="3_txt_img_reading">
+    <content>
+      <header italic="false">The Trouble with Homework</header>
+      <text>
+        <![CDATA[
+		<p>
+			<strong>By ANNIE MURPHY PAUL</strong>
+		</p>
+        <p>
+          . . . Do American students have too much homework or too little? Neither, I'd say. We ought to be asking a different question altogether. What should matter to parents and educators is this: How effectively do children's after-school assignments advance learning?
+		</p>
+		<p>
+			The quantity of students' homework is a lot less important than its quality. And evidence suggests that as of now, homework isn't making the grade. Although surveys show that the amount of time our children spend on homework has risen over the last three decades, American students are mired in the middle of international academic rankings: 17th in reading, 23rd in science and 31st in math, according to results from the Program for International Student Assessment released last December. . . .
+		</p>
+		<p>
+			<em>Annie Murphy Paul is the author of </em>Origins<em> and is at work on a new book about the science of learning.</em>
+		</p>
+		<p style="font-size:90%">
+			Credit: From <em>The New York Times</em>, September 11, 2011 &copy; 2011 The New York Times, www.nytimes.com. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this Content without express written permission is prohibited.
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-1_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Who wrote the piece?</match>
+        <match id="4">What are the writer's interests?</match>
+        <match id="3">What source did the writer cite in her opinion?</match>
+        <match id="2">What point is the author making?</match>
+      </matches>
+		<drops title="" children-styles="margin-bottom: 0.1em;">
+			<drop correct="1" x="191" y="47"></drop>
+			<drop correct="2" x="44" y="148"></drop>
+			<drop correct="3" x="140" y="256"></drop>
+			<drop correct="4" x="498" y="290"></drop>
+		</drops>
+		<image>USGov_m5-1_s13.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m5-1_s13</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="3_txt_img_reading">
+    <content>
+      <header italic="false">Dropping $1 Bills Inconvenient, Costly</header>
+      <text>
+        <![CDATA[
+		<p>
+			I respond to the Los Angeles Times article &quot;Can we save big bucks by ditching $ bills?&quot; As the owner of a local small business, I can only imagine the cost of doing away with dollar bills to businesses like mine. To say this is an unwise move in our uncertain economy is an understatement.
+		</p>
+        <p>
+          Should government savings come by increasing the cost to do business? Dollar coins have been in circulation for years. As someone who handles small bills and change every day, I know that people simply do not use or want these coins.
+		</p>
+		<p>
+			Coupled with the costs to upgrade equipment in our store, replacing the dollar bill for a coin would be a nightmare. Businesses simply should not pay the price of our government seeking cost savings.
+		</p>
+		<p>
+			This expensive, unwanted and unnecessary change should not be one of our nation's priorities.
+		</p>
+		<p>
+			Robert Kuhns, Hilliard
+		</p>
+		<p style="font-size:90%">
+			Credit: &quot;Dropping $1 bills inconvenient, costly&quot; by Robert Kuhns, <em>The Columbus Dispatch</em>, October 23, 2011.
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-1_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>What point is the writer making?</question>
+        <answers>
+          <answer>Dollar coins are better than paper dollars.</answer>
+          <answer correct="true">Eliminating paper dollars would harm small businesses.</answer>
+          <answer>Government should cut any cost it can, regardless of outcome.</answer>
+          <answer>People prefer dollar coins.</answer>
+          <answer>Eliminating paper dollars would help the economy.</answer>
+        </answers>
+		<figure>
+			<header><![CDATA[<span style="font-style:normal">Dropping $1 Bills Inconvenient, Costly</span>]]></header>
+		  	<text>
+				<![CDATA[
+				<p>
+					I respond to the Los Angeles Times article &quot;Can we save big bucks by ditching $ bills?&quot; As the owner of a local small business, I can only imagine the cost of doing away with dollar bills to businesses like mine. To say this is an unwise move in our uncertain economy is an understatement.
+				</p>
+				<p>
+				  Should government savings come by increasing the cost to do business? Dollar coins have been in circulation for years. As someone who handles small bills and change every day, I know that people simply do not use or want these coins.
+				</p>
+				<p>
+					Coupled with the costs to upgrade equipment in our store, replacing the dollar bill for a coin would be a nightmare. Businesses simply should not pay the price of our government seeking cost savings.
+				</p>
+				<p>
+					This expensive, unwanted and unnecessary change should not be one of our nation's priorities.
+				</p>
+				<p>
+					Robert Kuhns, Hilliard
+				</p>
+				<p style="font-size:90%">
+					Credit: &quot;Dropping $1 bills inconvenient, costly&quot; by Robert Kuhns, <em>The Columbus Dispatch</em>, October 23, 2011.
+				</p>
+				]]>
+		  	</text>
+		</figure>
+		<feedbackAudio>USGov_m5-1_s15_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m5-1_s15</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">Federal tax policy</match>
+        <match id="1">Federal debt</match>
+        <match id="4">Immigration policy</match>
+        <match id="3">State powers</match>
+      </matches>
+		<drops title="" children-styles="margin-bottom: 0.1em;">
+			<drop correct="1" x="133" y="25"></drop>
+			<drop correct="2" x="411" y="25"></drop>
+			<drop correct="3" x="133" y="230"></drop>
+			<drop correct="4" x="411" y="230"></drop>
+		</drops>
+		<image>USGov_m5-1_s16.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m5-1_s16</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s17</video>
+    <credits>(tr)Comstock/Getty Images, (c)Ken James/Bloomberg/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p>
+			Eighty-eighth Congress of the United States of America
+		</p>
+		<p>
+			AT THE SECOND SESSION
+		</p>
+		<p>
+			Begun and held at the City of Washington on Tuesday, the seventh day of January, one thousand nine hundred and sixty-four
+		</p>
+		<p>
+			<strong>An Act</strong>
+		</p>
+        <p>
+          To enforce the constitutional right to vote, to confer jurisdiction upon the district courts of the United States to provide injunctive <span style="background-color:yellow;">relief against discrimination in <strong>public accommodations,</strong></span> to authorize the Attorney General to institute suits to protect constitutional rights in public facilities and public education, to extend the Commission on Civil Rights, to prevent discrimination in federally assisted programs, to establish a Commission on Equal Employment Opportunity, and for other purposes.
+        </p>
+		<p>
+			Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That this Act may be cited as the &quot;Civil Rights Act of 1964.&quot;
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-1_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m5-1_s19.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="72" y="15">
+          <![CDATA[
+            <h1></h1>
+            <p>any inn, hotel, motel, or other establishment which provides lodging to transient guests, other than an establishment located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor of such establishment as his residence;</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="218" y="15">
+          <![CDATA[
+            <h1></h1>
+            <p>any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility principally engaged in selling food for consumption on the premises, including, but not limited to, any such facility located on the premises of any retail establishment; or any gasoline station;</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="350" y="15">
+          <![CDATA[
+            <h1></h1>
+            <p>any motion picture house, theater, concert hall, sports arena, stadium or other place of exhibition or entertainment;</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="493" y="15">
+          <![CDATA[
+            <h1></h1>
+            <p>any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which is physically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m5-1_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Jack Moebes/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p>
+			Each of the following establishments which serves the public is a place of public accommodation within the meaning of this title if its operations affect commerce, or if discrimination or segregation by it is supported by State action:
+		</p>
+		<p>
+			(1) any inn, hotel, motel, or other establishment which provides lodging to transient guests, other than an establishment located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor of such establishment as his residence;
+		</p>
+		<p>
+			(2) any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility principally engaged in selling food for consumption on the premises, including, but not limited to, any such facility located on the premises of any retail establishment; or any gasoline station;
+		</p>
+		<p>
+			(3) any motion picture house, theater, concert hall, sports arena, stadium or other place of exhibition or entertainment; and
+		</p>
+        <p>
+          (4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which is physically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-1_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Which of these is NOT considered a public accommodation?</question>
+        <answers>
+          <answer>A hotel for transient guests</answer>
+          <answer>A sports arena</answer>
+          <answer>A lunch counter in a gas station</answer>
+          <answer correct="true">A house lived in by the owner who rents out five or fewer rooms</answer>
+          <answer>They are all considered public accommodations.</answer>
+        </answers>
+		<figure>
+			<text>
+				<![CDATA[
+				<p>
+					Each of the following establishments which serves the public is a place of public accommodation within the meaning of this title if its operations affect commerce, or if discrimination or segregation by it is supported by State action:
+				</p>
+				<p>
+					(1) any inn, hotel, motel, or other establishment which provides lodging to transient guests, other than an establishment located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor of such establishment as his residence;
+				</p>
+				<p>
+					(2) any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility principally engaged in selling food for consumption on the premises, including, but not limited to, any such facility located on the premises of any retail establishment; or any gasoline station;
+				</p>
+				<p>
+					(3) any motion picture house, theater, concert hall, sports arena, stadium or other place of exhibition or entertainment; and
+				</p>
+				<p>
+				  (4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which is physically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
+				</p>
+				]]>
+			</text>
+		</figure>
+		<feedbackAudio>USGov_m5-1_s21_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m5-1_s21</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s22</video>
+    <credits>(tr)Comstock/Getty Images, (1)Ron Chapple/Taxi/Getty Images, (2)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s23</video>
+    <credits>(tr)Comstock/Getty Images, (c)Hisham F. Ibrahim/Photodisk/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="24" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">Defendant (Appellee)</match>
+        <match id="4">Court that decided the case</match>
+        <match id="6">Court with original jurisdiction</match>
+        <match id="1">Plaintiff (Appellant)</match>
+		<match id="7">Summary opinion</match>
+        <match id="5">Date of the decision</match>
+        <match id="3">Identification numbers</match>
+      </matches>
+		<drops title="" children-styles="margin-bottom: 0.1em;">
+			<drop correct="1" x="33" y="11"></drop>
+			<drop correct="2" x="356" y="11"></drop>
+			<drop correct="3" x="112" y="42"></drop>
+			<drop correct="4" x="137" y="76"></drop>
+			<drop correct="5" x="159" y="172"></drop>
+			<drop correct="6" x="451" y="206"></drop>
+			<drop correct="7" x="282" y="329"></drop>
+		</drops>
+		<image>USGov_m5-1_s24.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m5-1_s24</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="25" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s25</video>
+    <credits>(tr)Comstock/Getty Images, (c)David Hume Kennerly/3rd Party - Misc/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="26" type="11_Activity_Drag_List">
+    <matchingInstructions><![CDATA[Match the items on the left to the correct areas on the right.<br/><br/><strong>Sample Supreme Court ruling:</strong> KENNEDY, J., delivered the opinion of the Court, in which REHNQUIST, C.J., and WHITE, O'CONNOR, and SCALIA, J.J., joined. BLACKMUN, J., concurred in the result. MARSHALL, J., filed a dissenting opinion, in which BRENNAN and STEVENS, J.J., joined.]]></matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Blackmun</match>
+        <match id="2">O'Connor</match>
+        <match id="3">Brennan</match>
+        <match id="4">Rehnquist</match>
+        <match id="5">Kennedy</match>
+        <match id="6">Scalia</match>
+        <match id="7">Marshall</match>
+		<match id="8">Stevens</match>
+		<match id="9">White</match>
+      </matches>
+      <drops title="Majority Opinion">5,4,9,2,6</drops>
+      <drops title="Concurring Opinion">1</drops>
+      <drops title="Dissenting Opinion">7,3,8</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m5-1_s26</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="27" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[What kind of case is <em>Missouri v. Jack Smith</em>?]]></question>
+        <answers>
+          <answer correct="true">Criminal</answer>
+          <answer>Civil</answer>
+          <answer>Regulatory</answer>
+          <answer>Constitutional</answer>
+          <answer>Appellate</answer>
+        </answers>
+    <feedbackAudio>USGov_m5-1_s28_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="28" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Declaration of Independence</header>
+      <instruction><![CDATA[<ul>
+  <li>Introduction</li>
+  <li>Preamble</li>
+  <li>Grievances against King George III</li>
+  <li>Criticism of the British people</li>
+  <li>Conclusion</li>
+  </ul>]]></instruction>
+    </content>
+    <activity type="image">
+      <image>USGov_m5-1_s29.jpg</image>
+      <hotspots>
+        <hotspot title="Introduction" dynamic="true" x="79" y="352">
+          <![CDATA[
+            <h1>Introduction</h1>
+            <p>When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the Powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Preamble" dynamic="true" x="409" y="352">
+          <![CDATA[
+            <h1>Preamble</h1>
+            <p style="font-size:11px">We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m5-1_s29</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="29" type="3_txt_img_reading">
+    <content>
+      <header italic="false">The Stylistic Artistry of the Declaration of Independence</header>
+      <text>
+        <![CDATA[
+		<p>
+			<em>By Stephen E. Lucas</em>
+		</p>
+        <p>
+          The introduction [to the Declaration of Independence] consists of the first paragraph—a single, lengthy, periodic sentence.
+        </p>
+		<p>
+          Taken out of context, this sentence is so general it could be used as the introduction to a declaration by any &quot;oppressed&quot; people. Seen within its original context, however, it is a model of subtlety, nuance, and implication that works on several levels of meaning and allusion [suggestion] to orient readers toward a favorable view of America and to prepare them for the rest of the Declaration. From its magisterial [commanding] opening phrase, which sets the American Revolution within the whole &quot;course of human events,&quot; to its assertion that &quot;the Laws of Nature and of Nature's God&quot; entitle America to a &quot;separate and equal station among the powers of the earth,&quot; to its quest for sanction [approval] from &quot;the opinions of mankind,&quot; the introduction elevates the quarrel with England from a petty political dispute to a major event in the grand sweep of history.
+        </p>
+		<p>
+          Credit: From Stephen E. Lucas, &quot;The Stylistic Artistry of the Declaration of Independence,&quot; Prologue: Quarterly of the National Archives (1990), pp. 25-43.
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-1_s30</audio>
+    <credits>Change the photo credits to: (tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="30" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question><![CDATA[According to Stephen Lucas, how did Jefferson's use of the words &quot;When in the course of human history&quot; present the American Revolution?]]></question>
+        <answers>
+          <answer>As a petty political dispute</answer>
+          <answer>As a quarrel with England</answer>
+          <answer correct="true">As a major event in the grand sweep of history</answer>
+          <answer>As a turning point in American history</answer>
+          <answer>As the downfall of the British Empire</answer>
+        </answers>
+		<figure>
+			<header italic="false">The Stylistic Artistry of the Declaration of Independence</header>
+			<text>
+				<![CDATA[
+				<p>
+					<em>By Stephen E. Lucas</em>
+				</p>
+				<p>
+				  The introduction [to the Declaration of Independence] consists of the first paragraph—a single, lengthy, periodic sentence.
+				</p>
+				<p>
+				  Taken out of context, this sentence is so general it could be used as the introduction to a declaration by any &quot;oppressed&quot; people. Seen within its original context, however, it is a model of subtlety, nuance, and implication that works on several levels of meaning and allusion [suggestion] to orient readers toward a favorable view of America and to prepare them for the rest of the Declaration. From its magisterial [commanding] opening phrase, which sets the American Revolution within the whole &quot;course of human events,&quot; to its assertion that &quot;the Laws of Nature and of Nature's God&quot; entitle America to a &quot;separate and equal station among the powers of the earth,&quot; to its quest for sanction [approval] from &quot;the opinions of mankind,&quot; the introduction elevates the quarrel with England from a petty political dispute to a major event in the grand sweep of history.
+				</p>
+				<p style="font-size:90%">
+				  Credit: From Stephen E. Lucas, &quot;The Stylistic Artistry of the Declaration of Independence,&quot; Prologue: Quarterly of the National Archives (1990), pp. 25-43.
+				</p>
+				]]>
+			</text>
+		</figure>
+		<feedbackAudio>USGov_m5-1_s31_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="31" type="2_Txt_Img_Animation">
+    <video>USGov_m5-1_s32</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="32" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+	  <multiple>
+        <question>When a political scientist writes a scholarly article for review, the article is likely to appear as an Op-Ed.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>If you are concerned about a current issue, you might write a letter to the editor.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A statute begins with a dateline.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>This passage comes from a Supreme Court case: WASHINGTON, March 2, 2011 – The U.S. Supreme Court ruled in favor of gun activists this week.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A statute often uses legal language to cover all possibilities of a situation.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m5-1_s33</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

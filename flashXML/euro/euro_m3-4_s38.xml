@@ -1,0 +1,124 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-4_s38.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s38.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s38.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s38.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s38.jpg</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>Look at the poses of the man and his wife. Their poses signify all of the following EXCEPT:</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>the two figures together create the pyramidal shape favored by Italian Renaissance artists</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that they are partners in science and that they work closely together</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>the artist admires Madame Lavoisier more than her husband </p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>the Lavoisiers were a loving couple who admired each other’s abilities and talents</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Lavoisier values her scientific knowledge and takes her opinions into consideration when writing his treatises</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>The beam of light illuminating the couple probably signifies which of the following?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>It has no meaning other than that the artist felt it visually complemented his composition.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The light symbolizes the ‘enlightenment’ that has come with the Scientific Revolution and his subjects’ scientific knowledge.</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The light emphasizes the artist’s concern with imbuing the scene with theatrical drama.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>The artist’s point of view can be best characterized by which statement?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Because it was a commission, David made the couple look attractive and accomplished so that they would like the portrait.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>As a Neoclassical artist, David was interested in conveying positive images of the Scientific Revolution.</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>As an Enlightenment artist, David was most concerned with creating a painting that adhered to Neoclassical precepts. </p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>	
+	
+	
+		<question>
+		<qText><![CDATA[<p>The artist’s point of view is most clearly reflected in which aspect of the painting?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>The figures of Lavoisier and his wife</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The architectural details in the room</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The realistic reflection on the flask at Lavoisier’s feet</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The portfolio resting on the chair</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Madame Lavoisier’s dress and hair</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+</MultipleChoice>

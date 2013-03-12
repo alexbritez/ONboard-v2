@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Metacognition">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m1-2_s1</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s2</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s3</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s4</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s5</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s6</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Erik Isakson/Tetra Images/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s7</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Echo/Cultura/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s8</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s9</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Erik Isakson/Tetra Images/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="5">One</match>
+			<match id="4">Two</match>
+			<match id="2">Three</match>
+			<match id="3">Four</match>
+			<match id="1">Five</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">Brushing up on math skills for future classes</drop>
+			<drop correct="2">Working on your section of a group project worth 25% of your final course grade</drop>
+			<drop correct="3">Creating flash cards for a chapter test that is a week away</drop>
+			<drop correct="4">Completing a review of a psychology article due in two days</drop>
+			<drop correct="5">Reading a chapter in your textbook for tomorrow's class</drop>
+         </drops>
+         <image></image>
+		 <feedbackAudio>psy_m1-2_s10_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m1-2_s10</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s11</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s12</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Brand X Pictures/PunchStock, Stockbyte/Getty Images, Fuse/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="11_Activity_Drag_List">
+      <matchingInstructions></matchingInstructions>
+      <matching type="dynamic"  deductionFactor="2" maxAttempts="3" hasPoints="false" points="6" checkAnswers="false" matchStyle="height:42px" dropStyle="margin-bottom:-1.25em;height:30px">
+         <matches title="">
+            <match id="1">Answering multiple-choice questions</match>
+			<match id="1">Answering essay questions</match>
+			<match id="1">Writing reports</match>
+			<match id="1">Reading chapters and retaining information</match>
+			<match id="1">Recalling facts/dates/details</match>
+			<match id="1">Explaining concepts to someone else</match>
+			<match id="1">Taking notes from lectures</match>
+			<match id="1">Studying for exams</match>
+         </matches>
+         <!-- <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="161" y="49" />
+                  <drop correct="1" x="161" y="93" />
+                  <drop correct="1" x="161" y="137" />
+                  <drop correct="1" x="161" y="181" />
+                  <drop correct="1" x="161" y="225" />
+                  <drop correct="1" x="161" y="269" />
+                  <drop correct="1" x="161" y="313" />
+                  <drop correct="1" x="161" y="357" />
+                  <drop correct="1" x="341" y="49" />
+                  <drop correct="1" x="341" y="93" />
+                  <drop correct="1" x="341" y="137" />
+                  <drop correct="1" x="341" y="181" />
+                  <drop correct="1" x="341" y="225" />
+                  <drop correct="1" x="341" y="269" />
+                  <drop correct="1" x="341" y="313" />
+                  <drop correct="1" x="341" y="357" /> saving these placements in case they change their minds and switch back to letters
+                  <drop correct="1" x="-9" y="49" />
+                  <drop correct="1" x="-9" y="108" />
+                  <drop correct="1" x="-9" y="167" />
+                  <drop correct="1" x="-9" y="226" />
+                  <drop correct="1" x="136" y="49" />
+                  <drop correct="1" x="136" y="108" />
+                  <drop correct="1" x="136" y="167" />
+                  <drop correct="1" x="136" y="226" />
+                  <drop correct="1" x="317" y="49" />
+                  <drop correct="1" x="317" y="108" />
+                  <drop correct="1" x="317" y="167" />
+                  <drop correct="1" x="317" y="226" />
+                  <drop correct="1" x="463" y="49" />
+                  <drop correct="1" x="463" y="108" />
+                  <drop correct="1" x="463" y="167" />
+                  <drop correct="1" x="463" y="226" />
+         </drops> -->
+         <drops title="Strength">1,1,1,1,1,1,1,1</drops>
+         <drops title="Weakness">1,1,1,1,1,1,1,1</drops>
+         <image>psy_m1-2_s13.jpg</image>
+      </matching>
+      <instructions></instructions>
+      <audio>psy_m1-2_s13</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s14</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Erik Isakson/Tetra Images/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s15</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="inside" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" dropStyle="width:100px">
+         <matches title="">
+            <match id="5">Albany</match>
+			<match id="6">Bismarck</match>
+			<match id="4">Carson City</match>
+			<match id="10">Charleston</match>
+			<match id="8">Salem</match>
+			<match id="9">Columbia</match>
+			<match id="7">Columbus</match>
+			<match id="2">Lansing</match>
+			<match id="3">Jackson</match>
+			<match id="1">Tallahassee</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="81" y="115" />
+			<drop correct="2" x="81" y="160" />
+			<drop correct="3" x="81" y="207" />
+			<drop correct="4" x="81" y="253" />
+			<drop correct="5" x="81" y="299" />
+			<drop correct="6" x="343" y="115" />
+			<drop correct="7" x="343" y="160" />
+			<drop correct="8" x="343" y="207" />
+			<drop correct="9" x="343" y="253" />
+			<drop correct="10" x="343" y="299" />
+         </drops>
+         <image>psy_m1-2_s16.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m1-2_s16</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s17</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Asia Images Group/age footstock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="7_Activity_Drag_Drop">
+      <matchingInstructions><![CDATA[<span style="color: #F7850C; font-size: 28px; font-weight: 100; font-family:'MyriadPro-LightCond','PT Sans',Helvetica,Arial,sans-serif;">Familiarity vs. Mastery</span>]]></matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="false" points="6" checkAnswers="false">
+         <matches title="">
+            <match id="1">development</match>
+			<match id="1">stem cells</match>
+			<match id="1">zygote</match>
+			<match id="1">gamete</match>
+			<match id="1">embryo</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="128" y="80" />
+			<drop correct="1" x="128" y="137" />
+			<drop correct="1" x="128" y="194" />
+			<drop correct="1" x="128" y="251" />
+			<drop correct="1" x="128" y="308" />
+			<drop correct="1" x="342" y="80" />
+			<drop correct="1" x="342" y="137" />
+			<drop correct="1" x="342" y="194" />
+			<drop correct="1" x="342" y="251" />
+			<drop correct="1" x="342" y="308" />
+         </drops>
+         <image>psy_m1-2_s18.jpg</image>
+      </matching>
+      <instructions></instructions>
+      <audio>psy_m1-2_s18</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s19</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s20</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Asia Images Group/age footstock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s21</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Erik Isakson/Tetra Images/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which strategy is a way to improve metacognition by making it easier to commit to a task?</question>
+            <answers>
+               <answer>Talk to yourself while doing the task.</answer>
+			   <answer correct="true">Assess and realize the importance of the task.</answer>
+			   <answer>Assess what you do and don't know about the task.</answer>
+			   <answer>Plan the time needed to do the task.</answer>
+            </answers>
+            <feedbackAudio>psy_m1-2_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-2_s22</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s23</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s24</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Asia Images Group/age footstock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Attitude</match>
+			<match id="1">Commitment</match>
+			<match id="4">Attention</match>
+			<match id="2">Monitoring</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">I'm prepared to complete this report.</drop>
+			<drop correct="2">I'm not on the right track in figuring out this problem—better switch strategies.</drop>
+			<drop correct="3">This chapter is important and I will learn something new.</drop>
+			<drop correct="4">I talk myself through difficult tasks.</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m1-2_s25</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>psy_m1-2_s26</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="27" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Metacognition involves thinking about thinking.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which statement demonstrates a positive attitude about a learning task?</question>
+            <answers>
+			   <answer correct="true">This homework helps me learn an important concept.</answer>
+               <answer>There is nothing useful in this chapter; it's not going to be on the test.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Breaking a task down into smaller portions is a way to do what?</question>
+            <answers>
+			   <answer>Assess your academic strengths and weaknesses</answer>
+               <answer correct="true">Make it easier to commit to the task</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What is the main purpose of private speech?</question>
+            <answers>
+			   <answer correct="true">To help focus attention on a task</answer>
+               <answer>To determine how much time a task will take</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The statement "I am very good at memorizing lists" is an example of what?</question>
+            <answers>
+			   <answer correct="true">An assessment of academic strengths</answer>
+               <answer>A goal for completing a task</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Studying all the material for a test equally is more effective than focused studying.</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>If you have mastery of information, you need to keep studying it</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Your attention to a task improves when you spend time planning how you will complete the task.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An example of monitoring is not spending time reflecting on why you got a test question wrong.</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Successful students engage in metacognition.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-2_s27</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+</shell>

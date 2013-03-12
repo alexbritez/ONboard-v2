@@ -1,0 +1,30 @@
+/*
+  Mobile-specific Adjustments
+ */
+
+.mobile {
+  // START iOS
+  &.iOS {
+    // hide the mute buttons as that has no use on iOS devices
+    div.vjs-controls {
+      div.vjs-mute-control {
+        display: none !important;
+      }
+    }
+    // iScroll for scene selection
+    div#scene_select {
+      display: block;
+      height: 30px;
+      width: 645px;
+      overflow-x: none;
+      overflow-y: scroll;
+      div#scenes {
+        a:hover {
+          background: transparent !important;
+          color: #636363 !important;
+        }
+      }
+    }
+  }
+  // END iOS
+}

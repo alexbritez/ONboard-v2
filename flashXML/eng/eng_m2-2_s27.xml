@@ -1,0 +1,83 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Identifying Mood</title>
+		<info></info>
+		<image>images/eng_m2-2_s27.jpg</image>
+		<audio>audio/eng_m2-2_s27.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>669.65</xCord>
+			<yCord>123.1</yCord>
+			<width>134</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Indicative.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>792.6</xCord>
+			<yCord>158</yCord>
+			<width>85</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Imperative.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>836.2</xCord>
+			<yCord>194.9</yCord>
+			<width>92</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Subjunctive.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>881.1</xCord>
+			<yCord>232.35</yCord>
+			<width>134</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Indicative.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>601.1</xCord>
+			<yCord>293.2</yCord>
+			<width>85</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Indicative.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>807.7</xCord>
+			<yCord>360.6</yCord>
+			<width>92</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Subjunctive.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>953.2</xCord>
+			<yCord>399.75</yCord>
+			<width>85</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Imperative.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>910.7</xCord>
+			<yCord>442.4</yCord>
+			<width>92</width>
+			<popTitle>Mood: </popTitle>
+			<popInfo><![CDATA[Verb mood is Subjunctive.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

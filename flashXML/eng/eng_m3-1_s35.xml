@@ -1,0 +1,57 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-1_s35.jpg</image>
+		<audio>audio/eng_m3-1_s35.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size="18">Robot questions own creator</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size="18">"glowing red" eyes</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">"sudden attack of nerves"</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">"oddly human attitude"</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">Disturbing conversation</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">"brows furrowed doubtfully"</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="17">QT chastises "seriousness of such a statement"</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="18">Syntax (fragments, dash) shows anxiety</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size="18">"For <font face='c-Italic'>you</font> to make <font face='c-Italic'>me</font> seems improbable."</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="520" yCord="200" spotScale="75" spotNum="1"/>
+		<dSpot xCord="520" yCord="270" spotScale="75" spotNum="1"/>
+		<dSpot xCord="520" yCord="340" spotScale="75" spotNum="1"/>
+		<dSpot xCord="718" yCord="200" spotScale="75" spotNum="2"/>
+		<dSpot xCord="718" yCord="270" spotScale="75" spotNum="2"/>
+		<dSpot xCord="718" yCord="340" spotScale="75" spotNum="2"/>
+		<dSpot xCord="920" yCord="200" spotScale="75" spotNum="3"/>
+		<dSpot xCord="920" yCord="270" spotScale="75" spotNum="3"/>
+		<dSpot xCord="920" yCord="340" spotScale="75" spotNum="3"/>
+	</dropSpots>
+</DragDrop>

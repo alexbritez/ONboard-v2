@@ -1,0 +1,140 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-4_s22.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s22.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s22.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s22.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s22.jpg</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>Doge Loredon chose the pomegranate motif on his gown for all of the following reasons EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>that the Doge wanted to show that he ruled over a prosperous empire</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the Doge wanted viewers to associate him with Jesus’s resurrection</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that as a Renaissance ruler, the Doge wanted to choose a symbol that had both Classical and contemporary meanings</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the Doge liked its associations with chastity because portrayed him as a moderate, moral leader</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the Doge wanted his portrait to show that his reign would bring regeneration and rebirth to the Venetian empire</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>The painting of the Doge shows that Giovanni Bellini can be considered an Italian Renaissance artist for all the following reasons EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>that he signed his name prominently on the painting</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that he observed every detail of the Doge’s face and garments with almost photographic realism</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that he attempted to show the Doge’s wisdom and character in the portrait</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that he had the Doge pose almost frontally instead of in profile</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the painting is a masterpiece of mathematical perspective</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>The portrayal of Elizabeth I as a young woman in a portrait painted when she was 67 years old can be explained by all of the following reasons EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>that Elizabeth was vain, hated the idea of ageing and wanted her portrait to show her as a strong and ageless ruler </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that Elizabeth didn’t want her portrait to remind people that she might die soon without naming an heir</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the artist who painted her portrait was afraid that if he painted her as she really looked she would have him arrested</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that her age was less important in the portrait than the symbolism of Elizabeth as a wise ruler</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that Elizabeth believed her portraits would survive long after her death as symbols of her reign and she had herself portrayed as she wanted to be remembered </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>	
+	
+	
+		<question>
+		<qText><![CDATA[<p>All of the following can be said of these two portraits EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>that the artists were chosen by the rulers for their skill and reputation</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the final product was a result of collaboration between the artists and the rulers</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the artists probably admired their subjects and wanted them to approve of the finished work </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the artists took the commissions just for the money</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>that the artists knew that these portraits would be widely seen and wanted to make sure they showcased their talents to the fullest </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+</MultipleChoice>

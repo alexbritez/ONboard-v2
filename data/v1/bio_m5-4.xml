@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Redox Reactions">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m5-4_s1</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="6_Activity_Interactivity">
+      <content>
+         <header>Redox Reactions</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_04_02P.swf</url>
+      <image>bio_m5-4_s2.jpg</image>
+      <audio>bio_m5-4_s2</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m5-4_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m5-4_s4</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_04_02P.mp4</url>
+      <image>bio_m5-4_s5.jpg</image>
+      <audio>bio_m5-4_s5</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Loss of electron</match>
+            <match id="4">Gain of electron</match>
+            <match id="3">Reduction</match>
+            <match id="2">Oxidation</match>
+         </matches>
+         <coord correct="1" x="45" y="20" />
+         <coord correct="1" x="197" y="20" />
+         <coord correct="2" x="160" y="246" />
+         <coord correct="2" x="312" y="246" />
+         <drops title="">1,2</drops>
+         <drops title="">3,4</drops>
+         <image>bio_m5-4_s6.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m5-4_s6</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m5-4_s7</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m5-4_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>During a redox reaction electrons are transferred from one atom to another.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>During redox reactions, oxidation occurs before reduction.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>
+               <![CDATA[
+                  What process occurs during photosynthesis when oxygen in H<sub>2</sub>0 loses electrons?
+               ]]>
+            </question>
+            <answers>
+               <answer correct="true">Oxidation, only</answer>
+			   <answer>Reduction, only</answer>
+			   <answer>Both oxidation and reduction</answer>
+			   <answer>Neither oxidation nor reduction</answer>
+			   <answer>Undefined</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>During respiration, oxygen turns into water by accepting electrons. What happens to oxygen to turn it into water?</question>
+            <answers>
+               <answer>Oxygen is oxidized.</answer>
+               <answer correct="true">Oxygen is reduced.</answer>
+			   <answer>Oxygen is both oxidized and reduced.</answer>
+			   <answer>Oxygen is neither oxidized nor reduced.</answer>
+			   <answer>Undefined</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[What does this equation show?<br/>
+			Cu &rarr; Cu<sup>2+</sup> + 2e<sup>–</sup>]]></question>
+            <answers>
+               <answer correct="true">Oxidation, only</answer>
+			   <answer>Reduction, only</answer>
+			   <answer>Both oxidation and reduction</answer>
+			   <answer>Neither oxidation nor reduction</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-4_s9</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,380 @@
+div.activity_interactivity {
+  position: relative;
+  color: white;
+  width: 1024px;
+  height: 610px;
+
+  div#content {
+    position: absolute;
+    top: 220px;
+    left: 35px;
+    width: 230px;
+    height: 385px;
+    h1 {
+      // color: red;
+      font-size: 28px;
+      margin-bottom: 1em;
+      font-weight: 100;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      li {
+        padding-left: 1em;
+        text-indent: -1em;
+        margin: 0.5em 0;
+      }
+      li:before {
+        content: "• ";
+        // color: red; /* or whatever color you prefer */
+        margin-right: 0.5em;
+      }
+    }
+    &.image {
+      top: 95px;
+      width: 280px;
+    }
+    div#controls {
+      position: absolute;
+      bottom: 0;
+      p#instructions {
+        float: left;
+        width: 160px;
+      }
+      a#btn-launch, a#btn-play {
+        float: right;
+        margin-top: -10px;
+      }
+    }
+  }
+
+  div#image {
+    position: absolute;
+    top: 75px;
+    left: 344px;
+    width: 625px;
+    height: 400px;
+    &.text {
+      background: white;
+      color: black;
+      font-size: 20px;
+      p {
+        float: left;
+        width: 400px;
+        padding-top: 20px;
+        padding-left: 20px;
+        margin: 0;
+      }
+      img {
+        position: absolute;
+        top: 0;
+        right: 0;
+      }
+      a.hotspot {
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+        &:hover {
+          // color: red;
+        }
+      }
+    }
+    &.table {
+      background: white;
+      color: black;
+      table {
+        width: 100%;
+        height: 100%;
+        thead {
+          background: red;
+          th {
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            padding: 0.5em;
+            border: 1px solid white;
+          }
+        }
+        tbody {
+          tr {
+            td {
+              vertical-align: middle;
+              font-size: 16px;
+              padding: 0 0 0 0.75em;
+              border: 1px solid black;
+            }
+          }
+        }
+      }
+      a.hotspot {
+        color: black;
+        font-style: italic;
+        text-decoration: none;
+        &:hover {
+          // color: red;
+        }
+      }
+    }
+  }
+
+  div#hotspot-popup {
+    position: absolute;
+    display: none;
+    width: 365px;
+    height: 143px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 30px;
+    background: transparent url(../ui/9_Activity_Image_Rollclick/pop_up_window.png) 0 0 no-repeat;
+    a#hotspot-close {
+      position: absolute;
+      top: 0;
+      right: 0;
+      display: block;
+      width: 40px;
+      height: 40px;
+    }
+    h1 {
+      // color: red;
+      margin-bottom: 1em;
+    }
+    p {
+      font-size: 14px;
+    }
+  }
+
+  a.hotspot-dynamic {
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: transparent url(../ui/9_Activity_Image_Rollclick/pop_up_no_HL.png) 0 0 no-repeat;
+    &:hover {
+      background: transparent url(../ui/9_Activity_Image_Rollclick/pop_HL.png) 0 0 no-repeat;
+    }
+  }
+
+  a.image-hotspot-dynamic {
+    position: absolute;
+    display: block;
+    min-width: 30px;
+    height: 30px;
+    padding: 0 0.5em;
+    border: 5px solid rgba(132,83,78,0.9);
+    border-radius: 30px;
+    box-shadow: 1px 1px 3px #333;
+    background: #d3d3d1; /* Old browsers */
+    background: -moz-linear-gradient(top,  #d3d3d1 0%, #c8c9c7 50%, #b0b1af 51%, #a7a8a7 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d3d3d1), color-stop(50%,#c8c9c7), color-stop(51%,#b0b1af), color-stop(100%,#a7a8a7)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #d3d3d1 0%,#c8c9c7 50%,#b0b1af 51%,#a7a8a7 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #d3d3d1 0%,#c8c9c7 50%,#b0b1af 51%,#a7a8a7 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #d3d3d1 0%,#c8c9c7 50%,#b0b1af 51%,#a7a8a7 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #d3d3d1 0%,#c8c9c7 50%,#b0b1af 51%,#a7a8a7 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d3d3d1', endColorstr='#a7a8a7',GradientType=0 ); /* IE6-9 */
+    &:hover {
+      border-color: rgba(245,159,150,0.8);
+      box-shadow: 0px 0px 3px #FFF;
+    }
+    &.has_text {
+      min-width: 120px;
+      line-height: 30px;
+      text-decoration: none;
+      text-align: center;
+      color: #000;
+      padding: 0 0.5em;
+    }
+  }
+
+  a#btn-launch {
+    margin-top: 1em;
+    display: block;
+    width: 111px;
+    height: 47px;
+    background: transparent url(../ui/6_Activity_Interactivity/launch_button_rest.png) 0 0 no-repeat;
+    text-indent: -9999em;
+  }
+
+  a#btn-play {
+    margin-top: 1em;
+    display: block;
+    width: 111px;
+    height: 47px;
+    background: transparent url(../ui/6_Activity_Interactivity/play_button_rest.png) 0 0 no-repeat;
+    text-indent: -9999em;
+  }
+
+}
+
+// Subject-specific
+
+html#USGov {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#content ul li:before {
+      color: #FF0000;
+    }
+    a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    div.matching-draggable {
+      color: #FF0000;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/USGov-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#USH {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/USH-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FFBA00;
+    }
+    div#content ul li:before {
+      color: #FFBA00;
+    }
+    a.hotspot:hover {
+      color: #FFBA00;
+    }
+    h1 {
+      color: #FFBA00;
+    }
+    div.matching-draggable {
+      color: #FFBA00;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/USH-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#WHIS {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/WHIS-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #AC8EFF;
+    }
+    div#content ul li:before {
+      color: #AC8EFF;
+    }
+    a.hotspot:hover {
+      color: #AC8EFF;
+    }
+    h1 {
+      color: #AC8EFF;
+    }
+    div.matching-draggable {
+      color: #AC8EFF;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/WHIS-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#econ {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/econ-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #00A5E6;
+    }
+    div#content ul li:before {
+      color: #00A5E6;
+    }
+    a.hotspot:hover {
+      color: #00A5E6;
+    }
+    h1 {
+      color: #00A5E6;
+    }
+    div.matching-draggable {
+      color: #00A5E6;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/econ-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#bio {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/bio-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #22e2e2;
+    }
+    div#content ul li:before {
+      color: #22e2e2;
+    }
+    a.hotspot:hover {
+      color: #22e2e2;
+    }
+    h1 {
+      color: #22e2e2;
+    }
+    div.matching-draggable {
+      color: #22e2e2;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/bio-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#psy {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/psy-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #f7850c;
+    }
+    div#content ul li:before {
+      color: #f7850c;
+    }
+    a.hotspot:hover {
+      color: #f7850c;
+    }
+    h1 {
+      color: #f7850c;
+    }
+    div.matching-draggable {
+      color: #f7850c;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/psy-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#env {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/env-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #92c839;
+    }
+    div#content ul li:before {
+      color: #92c839;
+    }
+    a.hotspot:hover {
+      color: #92c839;
+    }
+    h1 {
+      color: #92c839;
+    }
+    div.matching-draggable {
+      color: #92c839;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/env-launch_button_HL.png) 0 0 no-repeat;
+    }
+    a#btn-play:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/env-play_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}

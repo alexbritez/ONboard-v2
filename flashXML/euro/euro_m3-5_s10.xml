@@ -1,0 +1,40 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Posters</title>
+		<info></info>
+		<image>images/euro_m3-5_s10.jpg</image>
+		<audio>audio/euro_m3-5_s10.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>PUBLICITY</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s10_PUBLICITY.mp3"/>
+			<xCord>510.6</xCord>
+			<yCord>139.255</yCord>
+			<width>134</width>
+			<popTitle>Negative Publicity</popTitle>
+			<popInfo><![CDATA[<p>In 1913, the government passed an act called The Prisoners Temporary Discharge for Ill Health Act. This act legalized hunger strikes and stopped the forced feeding of prisoners. When women who were on a hunger strike became extremely weak, they were released and sent home to recover.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CAT AND MOUSE</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s10_CAT_AND_MOUSE.mp3"/>
+			<xCord>858.25</xCord>
+			<yCord>275.1</yCord>
+			<width>134</width>
+			<popTitle>The “Cat and Mouse Act”</popTitle>
+			<popInfo><![CDATA[<p>However, as soon as they had regained their health, they would be rearrested and sent back to prison to finish out their sentences. This repeated cycle of arrest, release, and re-arrest earned the act the nickname "Cat and Mouse Act".</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CREATOR</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s10_CREATOR.mp3"/>
+			<xCord>515.7</xCord>
+			<yCord>444.65</yCord>
+			<width>134</width>
+			<popTitle>Creator</popTitle>
+			<popInfo><![CDATA[<p>The second poster has the word suffragette at the bottom and the initials WSPU on the victim’s sash, so it would appear as if the sponsor was the suffragette movement itself.</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

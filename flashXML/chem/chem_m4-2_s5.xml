@@ -1,0 +1,29 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Which is Larger?</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m4-2_s5.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s5.mp3</audio>
+		<popType>4</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Strontium</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s5_c1.mp3"/>
+			<xCord>477</xCord>
+			<yCord>260.75</yCord>
+			<width>25</width>
+			<popTitle>Strontium</popTitle>
+			<popInfo><![CDATA[Wrong]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Cesium</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s5_c2.mp3"/>
+			<xCord>447</xCord>
+			<yCord>297</yCord>
+			<width>25</width>
+			<popTitle>Cesium</popTitle>
+			<popInfo><![CDATA[Correct]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

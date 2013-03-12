@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Reading and Interpreting">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m2-3_s1</video>
+      <credits>(l)Bengt Hoglund/Johnér Images/Corbis, (c)Vincenzo Lombardo/Photographer's Choice RF/Getty Images, (r)Wes Thompson/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Wes Thompson/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these categories show similarities between apples and oranges?</question>
+            <answers>
+				<answer>Plant type, Mature tree size, Climate, Leaves</answer>
+				<answer>Family, Harvesting method, Nutritional value, Fruit or berry?</answer>
+				<answer correct="true">Plant type, Uses, Origins, Nutritional value</answer>
+				<answer>Uses, Climate, Genus, Nutritional value</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-3_s3_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m2-3_s3_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s3</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m2-3_s4.jpg</image>
+         <hotspots>
+			<hotspot title="Shape" dynamic="true" x="12" y="12"><![CDATA[
+				<h1>Shape</h1>
+				<p>The shape of apples may vary, but oranges are always round.</p>
+			]]></hotspot>
+			<hotspot title="Browning or acidulation" dynamic="true" x="235" y="12"><![CDATA[
+				<h1>Browning or acidulation</h1>
+				<p>Apples are subject to browning or acidulation after they are sliced, but oranges are not.</p>
+			]]></hotspot>
+			<hotspot title="Disease tolerance" dynamic="true" x="468" y="12"><![CDATA[
+				<h1>Disease tolerance</h1>
+				<p>Both apple and orange trees are subject to a variety of diseases and pests.</p>
+			]]></hotspot>
+			<hotspot title="Distribution" dynamic="true" x="12" y="300"><![CDATA[
+				<h1>Distribution</h1>
+				<p>Both apples and oranges were spread through informal trade.</p>
+			]]></hotspot>
+			<hotspot title="Consumption" dynamic="true" x="235" y="300"><![CDATA[
+				<h1>Consumption</h1>
+				<p>Humans may eat all parts of an apple, but oranges are peeled before human consumption.</p>
+			]]></hotspot>
+			<hotspot title="Pollination" dynamic="true" x="468" y="300"><![CDATA[
+				<h1>Pollination</h1>
+				<p>Apples require cross-pollination of blossoms; usually honey bees serve as the pollinators. Oranges are self-pollinating, however, and do not require bees or other insects to pollinate the blossoms.</p>
+			]]></hotspot>
+			<hotspot title="Varieties" dynamic="true" x="235" y="353"><![CDATA[
+				<h1>Varieties</h1>
+				<p>More than 7,500 different varieties of apples grow in different parts of the world. At least 50 major varieties of oranges are grown in the world today.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m2-3_s4</audio>
+      <credits>(tr)Tetra Images/Getty Images, (l)Bengt Hoglund/Johnér Images/Corbis, (r)Vincenzo Lombardo/Photographer's Choice RF/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s5</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)STR/AFP/Getty Images, (r)Mark Peterson/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s7</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)National Geographic Society/Corbis, (2)Alfredo Dagli Orti/The Art Archive at Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s8</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Steven Vidler/Eurasia Press/Corbis, (2)Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s9</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)The Bridgeman Art Library, (2)Gary Ombler/Dorling Kindersley/Getty Images, (3)Philip Gatward/Dorling Kindersley/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s10</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)French School/The Bridgeman Art Library/Getty Images, (r)DEA/A. DAGLI ORTI/De Agostini/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s11</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Hulton Archive/Getty Images, Fine Art Images/SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In what way was Japanese feudalism similar to European feudalism?</question>
+            <answers>
+				<answer>Both used the same type of body armor.</answer>
+				<answer correct="true">Both had a code of loyalty.</answer>
+				<answer>Both fought for the same thing.</answer>
+				<answer>Both had the same view of women.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-3_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s12</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In what way was Japanese feudalism different from European feudalism?</question>
+            <answers>
+				<answer>Only the Japanese samurai used swords in battle.</answer>
+				<answer>Only the Japanese samurai fought for honor.</answer>
+				<answer>Only the Japanese samurai wore body armor.</answer>
+				<answer correct="true">Only in Japanese feudalism were samurai women expected to fight if necessary.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-3_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s13</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m2-3_s14.jpg</image>
+         <hotspots>
+			<hotspot title="Inca" dynamic="true" x="38" y="221"><![CDATA[
+				<h1>Inca Empire</h1>
+				<p>The Inca Empire stretched from the center of modern Ecuador across the western half of Peru, much of Bolivia, northern Chile, and northwest Argentina in western South America.</p>
+			]]></hotspot>
+			<hotspot title="China" dynamic="true" x="496" y="126"><![CDATA[
+				<h1>China</h1>
+				<p>China boasts one of the world's oldest civilizations. Chinese empires sprawled across river valleys, deserts, and into several mountainous regions in eastern Asia.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m2-3_s14</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m2-3_s15.jpg</image>
+         <hotspots>
+			<hotspot title="Influence of Geography" dynamic="true" x="12" y="12"><![CDATA[
+				<h1>Influence of Geography</h1>
+				<p>One of the most earthquake-prone areas on Earth is the western part of South America, including the Andes. For this reason, Inca buildings were rarely higher than one story. Other architectural challenges included building suspension bridges across deep valleys, road systems, and stair-stepped walkways up mountainsides to help humans move from place to place within the empire.</p>
+			]]></hotspot>
+			<hotspot title="Decorative Elements" dynamic="true" x="468" y="176"><![CDATA[
+				<h1>Decorative Elements</h1>
+				<p>Most Inca buildings were rectangular in shape and had few design elements. Even palaces and temples were rectangular in design. Few defensive works were constructed throughout the empire, and city walls were only ornamental because the Inca faced no significant external enemies until the Spanish conquistadors arrived.</p>
+			]]></hotspot>
+			<hotspot title="Building Materials" dynamic="true" x="468" y="94"><![CDATA[
+				<h1>Building Materials</h1>
+				<p>Timber was not often used in construction because there were few trees in the empire. Building materials were usually stone, sometimes shaped into complex polygonal shapes so finely crafted that a knife blade could not be inserted between individual stones. Adobe plastered over masonry was also used. </p>
+			]]></hotspot>
+			<hotspot title="Source of Construction Labor" dynamic="true" x="432" y="12"><![CDATA[
+				<h1>Source of Construction Labor</h1>
+				<p>For construction labor, Inca rulers imposed a system called <em>mita</em>, where subjects were forced into performing work part of each year on roads, suspension bridges, palaces, and huge warehouses where food, textiles, and other items were stockpiled to be distributed by Inca administrators.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m2-3_s15</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)DAJ/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m2-3_s16.jpg</image>
+         <hotspots>
+			<hotspot title="Influence of Geography" dynamic="true" x="12" y="12"><![CDATA[
+				<h1>Influence of Geography</h1>
+				<p>China is located in an active earthquake zone, and southwestern China has been the scene of many significant earthquakes. The Chinese built monumental palaces, temples, and intricate canals and reservoirs in plains regions and river valleys that often flooded. Location of hostile nomadic peoples to the north dictated the construction of defensive walls and forts.</p>
+			]]></hotspot>
+			<hotspot title="Decorative Elements" dynamic="true" x="468" y="176"><![CDATA[
+				<h1>Decorative Elements</h1>
+				<p>Dwellings were intricately designed and carefully maintained. Mythological creatures such as dragons and the phoenix were widely used elements in Chinese architecture, as were images of tigers, deer, birds, monkeys, and bears. Different colors were associated with royalty (yellow), the sky (blue), fertility of the earth (black), and good luck (red), and were used to paint wooden structural elements or ceramics such as roof tiles.</p>
+			]]></hotspot>
+			<hotspot title="Building Materials" dynamic="true" x="468" y="94"><![CDATA[
+				<h1>Building Materials</h1>
+				<p>Classical Chinese architects used a number of different materials, including wood, ceramics, bricks, marble, bronze, and other materials.</p>
+			]]></hotspot>
+			<hotspot title="Source of Construction Labor" dynamic="true" x="432" y="12"><![CDATA[
+				<h1>Source of Construction Labor</h1>
+				<p>Rulers of various Chinese dynasties drafted peasants to work on the constant building projects that were ordered to be completed.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m2-3_s16</audio>
+      <credits>(tr)Tetra Images/Getty Images, (b)Christophe Boisvieux/hemis.fr/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s17</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)DAJ/Getty Images, (r) Christophe Boisvieux/hemis.fr/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="6">A. Eastern Asia</match>
+        <match id="8">B. Wood, ceramic, bricks, marble</match>
+        <match id="10">C. Forced continual labor</match>
+    		<match id="2">D. Mountains, earthquakes, deep valleys</match>
+        <match id="3">E. Stone, plaster, rarely timber</match>
+        <match id="7"><![CDATA[F. Mountains, earthquakes, floods,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deserts]]></match>
+    		<match id="4"><![CDATA[G. Rectangular buildings, few design<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elements]]></match>
+        <match id="1">H. Western South America</match>
+        <match id="5">I. Forced part-time labor</match>
+    		<match id="9"><![CDATA[J. Intricate designs, mythological<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;creatures, colors]]></match>
+      </matches>
+      <drops title="">
+        <drop correct="1" x="277" y="125"/>
+        <drop correct="2" x="277" y="171"/>
+        <drop correct="3" x="277" y="216"/>
+		<drop correct="4" x="277" y="261"/>
+        <drop correct="5" x="277" y="306"/>
+        <drop correct="6" x="458" y="125"/>
+		<drop correct="7" x="458" y="171"/>
+        <drop correct="8" x="458" y="216"/>
+        <drop correct="9" x="458" y="261"/>
+		<drop correct="10" x="458" y="306"/>
+      </drops>
+	  <image>WHIS_m2-3_s18.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>WHIS_m2-3_s18</audio>
+    <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s19</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s20</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)Fine Art Images/SuperStock, (c)Image Asset Management Ltd./SuperStock, (r)Jack Hollingsworth/Photodisc/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Confucianism</header>
+         <text><![CDATA[
+		 	<p>In the sixth century B.C.E., Kong Fuxi (Confucius) developed a philosophy that had moral, social, and political dimensions. Despite a disappointing career, his teachings developed a following, and those disciples compiled his sayings into a written work known as the <em>Analects</em>. His view of life was entirely practical as he did not deal with religion or abstract philosophy. Rather, he focused on the moral and ethical behavior of the individual.</p>
+			<p>According to Confucius, there were three important qualities in a superior individual, or <em>junzi</em>, and those qualities were courtesy (<em>ren</em>), propriety (<em>li</em>), and filial piety (<em>xiao</em>). He believed that it was the presence of highly moral citizens that produced an orderly and effective society and government. Confucius encouraged his followers to study classic texts from the Zhou dynasty. The study of those classics, along with others, remained a fixture of Chinese education until the twentieth century.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-3_s21</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these statements best summarizes Confucianism?</question>
+            <answers>
+				<answer>Only superior individuals can be leaders in society.</answer>
+				<answer correct="true">Educated, moral citizens produce an orderly and effective society and government.</answer>
+				<answer>To be educated, citizens need to study religious and classic texts.</answer>
+				<answer><![CDATA[To be considered ethical, citizens need to be disciples of the <em>Analects</em>.]]></answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-3_s22_FB</feedbackAudio>
+			<figure>
+				<header italic="false">Confucianism</header>
+				 <text><![CDATA[
+					<p>In the sixth century B.C.E., Kong Fuxi (Confucius) developed a philosophy that had moral, social, and political dimensions. Despite a disappointing career, his teachings developed a following, and those disciples compiled his sayings into a written work known as the <em>Analects</em>. His view of life was entirely practical as he did not deal with religion or abstract philosophy. Rather, he focused on the moral and ethical behavior of the individual.</p>
+					<p>According to Confucius, there were three important qualities in a superior individual, or <em>junzi</em>, and those qualities were courtesy (<em>ren</em>), propriety (<em>li</em>), and filial piety (<em>xiao</em>). He believed that it was the presence of highly moral citizens that produced an orderly and effective society and government. Confucius encouraged his followers to study classic texts from the Zhou dynasty. The study of those classics, along with others, remained a fixture of Chinese education until the twentieth century.</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s22</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Daoism</header>
+         <text><![CDATA[
+		 	<p>Daoists approached the chaos of the time with a philosophy opposite that of Confucianism. Daoists emphasized a withdrawal from society because they saw no real solution to the problems. Instead, they advocated learning to live in passive harmony with the world. If everyone followed the <em>dao</em>, or &quot;the ways of the cosmos,&quot; society would fix itself. The ideal citizen practiced <em>wuwei</em>, or complete withdrawal from the active world, and emphasized pursuit of self-knowledge. Daoists believed that following the natural principles that governed the world, such as diet and meditation, would restore balance and harmony.</p>
+			<p>The traditional founder of Daoism was a philosopher named Laozi, but historians believe that he is a composite of several different thinkers of the era. Confucians found parts of Daoism very appealing and, since neither philosophy required exclusivity, Chinese scholars often were faithful Confucian bureaucrats as well as devoted followers of Daoism in their private lives.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-3_s23</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these statements best summarizes Daoism?</question>
+            <answers>
+				<answer>Education is key to a smoothly functioning society and government.</answer>
+				<answer>Laws in society must have a basis in natural principles.</answer>
+				<answer>Ideal citizens pursue knowledge and volunteerism.</answer>
+				<answer correct="true"><![CDATA[Following the <em>dao</em> restores balance and harmony to society.]]></answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-3_s24_FB</feedbackAudio>
+			<figure>
+				<header italic="false">Daoism</header>
+				 <text><![CDATA[
+					<p>Daoists approached the chaos of the time with a philosophy opposite that of Confucianism. Daoists emphasized a withdrawal from society because they saw no real solution to the problems. Instead, they advocated learning to live in passive harmony with the world. If everyone followed the <em>dao</em>, or &quot;the ways of the cosmos,&quot; society would fix itself. The ideal citizen practiced <em>wuwei</em>, or complete withdrawal from the active world, and emphasized pursuit of self-knowledge. Daoists believed that following the natural principles that governed the world, such as diet and meditation, would restore balance and harmony.</p>
+					<p>The traditional founder of Daoism was a philosopher named Laozi, but historians believe that he is a composite of several different thinkers of the era. Confucians found parts of Daoism very appealing and, since neither philosophy required exclusivity, Chinese scholars often were faithful Confucian bureaucrats as well as devoted followers of Daoism in their private lives.</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s24</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Legalism</header>
+         <text><![CDATA[
+		 	<p>Legalism, a style of governing that relies on strict laws and harsh punishments, unified and calmed China. One of the most famous theorists of Legalism was Han Feizi, who wrote that the only answer to chaos was harsh governance. The basis of an orderly society was the military and agriculture, so Legalists emphasized soldiers and peasants while de-emphasizing other classes. Men were discouraged from becoming merchants or scholars. Harsh penalties were imposed on both minor and major crimes. Entire families could be punished along with the offender.</p>
+			<p>Emperor Qin Shihuangdi and other rulers used Legalism to unite China in the Qin and Han dynasties. In later dynasties, tension arose between those advocating moral behavior of Confucianism and those promoting rule of law in Legalism. Legalism was effective, but history was written by Confucianists. Thus, Legalists have been harshly criticized in the annals of Chinese history.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-3_s25</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What did Legalists believe would bring order to society?</question>
+            <answers>
+				<answer>Education</answer>
+				<answer>Self-awareness</answer>
+				<answer correct="true">Strict laws and harsh punishments</answer>
+				<answer>A return to traditional values</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-3_s26_FB</feedbackAudio>
+			<figure>
+				<header italic="false">Legalism</header>
+				 <text><![CDATA[
+					<p>Legalism, a style of governing that relies on strict laws and harsh punishments, unified and calmed China. One of the most famous theorists of Legalism was Han Feizi, who wrote that the only answer to chaos was harsh governance. The basis of an orderly society was the military and agriculture, so Legalists emphasized soldiers and peasants while de-emphasizing other classes. Men were discouraged from becoming merchants or scholars. Harsh penalties were imposed on both minor and major crimes. Entire families could be punished along with the offender.</p>
+					<p>Emperor Qin Shihuangdi and other rulers used Legalism to unite China in the Qin and Han dynasties. In later dynasties, tension arose between those advocating moral behavior of Confucianism and those promoting rule of law in Legalism. Legalism was effective, but history was written by Confucianists. Thus, Legalists have been harshly criticized in the annals of Chinese history.</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s26</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which category of comparison would show a similarity among all three philosophies?</question>
+            <answers>
+				<answer>Value of education</answer>
+				<answer>Citizen involvement</answer>
+				<answer correct="true">Goal</answer>
+				<answer>Importance of laws</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-3_s27_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s27</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-3_s28</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Jack Hollingsworth/Photodisc/Getty Images, (2)Image Asset Management Ltd./SuperStock, (3)Fine Art Images/SuperStock, (4)Gary S Chapman/Photographer's Choice RF/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Comparison involves finding both similarities and differences.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>One of the steps in comparing items is to determine common categories.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>When you compare two things, you look only for their differences.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>"However" is a cue word that signals a similarity.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A direct comparison connects two ideas with cue words.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The European feudal code of chivalry honored only God.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Both Inca and Chinese architecture faced challenges from earthquakes.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Confucianism, Daoism, and Legalism are examples of philosophies within a society.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>When making comparisons in text, the first thing you should look for are signal words.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Each direct comparison statement on the AP Exam must include a subject, a category, a distinction between similarity or difference, and appropriate support.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-3_s29</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

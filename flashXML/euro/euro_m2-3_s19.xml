@@ -1,0 +1,45 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-3_s19.jpg</image>
+		<audio>audio/euro_m2-3_s19.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+		<feedback>audio/euro_m2-3_s19_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Identify Locke’s view of human nature]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Compare Locke’s view to Hobbes’s view]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Describe Locke’s view of the English Civil War]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Describe Locke’s view of the origin and purpose of political authority]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Explain Locke’s view on the right to rebellion]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Contrast Locke’s and Hobbes’s views on the right to rebellion]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="577.5" yCord="267.85" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.5" yCord="323.15" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.5" yCord="378.45" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.5" yCord="433.8" spotScale="80" spotNum="1"/>
+		<dSpot xCord="864.45" yCord="267.85" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="323.15" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="378.45" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="433.8" spotScale="80" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

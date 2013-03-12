@@ -1,0 +1,335 @@
+<shell title="Data Skills">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m3-1_s1</video>
+    <credits>
+      <![CDATA[
+        <span style="font-size:90%">(tr) Comstock/Getty Images, (l)MIKE PETERS EDTCTN (NEW) © KING FEATURES SYNDICATE, (cl)Library of Congress, Prints &amp; Photographs Division [LC-DIG-ppmsc-07960], (cr)Everett Collection, Inc./Alamy, (r)Used with the permission of Joel Pett and the Cartoonist Group All rights reserved., (b)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images</span>
+      ]]>
+    </credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s2</video>
+    <credits>(tr) Comstock/Getty Images, (c)Used with the permission of Joel Pett and the Cartoonist Group All rights reserved., (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+			<span style="font-size: 32px">Political cartoonists:</span>
+			<ul style="font-size: 32px">
+				<li>expose <a href="#" data-id="0" class="hotspot"><strong>hypocrisy.</strong></a></li>
+				<li>point out <a href="#" data-id="1" class="hotspot"><strong>pretentiousness.</strong></a></li>
+				<li>laugh at <a href="#" data-id="2" class="hotspot"><strong>arrogance.</strong></a></li>
+				<li>deflate the powerful.</li>
+				<li>give voice to the <a href="#" data-id="3" class="hotspot"><strong>underdog.</strong></a></li>
+			</ul>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+		  	<h1>hypocrisy</h1>
+            <p>Criticizing an action or belief while at the same time doing that action or holding that belief</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+		  	<h1>pretentiousness</h1>
+            <p>Exaggerating one's own importance, worth, and skills through words or actions</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+		  	<h1>arrogance</h1>
+            <p>Believing yourself superior to others</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+		  	<h1>underdog</h1>
+            <p>Someone who is bullied or treated unjustly</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m3-1_s3</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s4</video>
+    <credits>(bkgd) Martin Ruegner/Digital Vision/Getty Images, (others) Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s5</video>
+    <credits>(bkgd) Martin Ruegner/Digital Vision/Getty Images, (others) Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s6</video>
+    <credits>(tr) Comstock/Getty Images, (c)MIKE PETERS EDTCTN (NEW) © KING FEATURES SYNDICATE, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s7</video>
+    <credits>(tr) Comstock/Getty Images, (c)MIKE PETERS EDTCTN (NEW) © KING FEATURES SYNDICATE, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What is the point of this cartoon?</question>
+        <answers>
+          <answer>Women should have better jobs.</answer>
+          <answer>Educated people sometimes miss seeing the obvious.</answer>
+          <answer>The Founding Fathers were cruel.</answer>
+          <answer correct="true">The Founding Fathers neglected women's rights.</answer>
+          <answer>Women should receive equal pay for equal work.</answer>
+        </answers>
+        <figure>USGov_m3-1_s8_view.jpg</figure>
+        <feedbackAudio>USGov_m3-1_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-1_s8</audio>
+    <credits>(tr) Comstock/Getty Images, (inset)MIKE PETERS EDTCTN (NEW) © KING FEATURES SYNDICATE, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s9</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s10</video>
+    <credits>(tr) Comstock/Getty Images, (c)Library of Congress, Prints &amp; Photographs Division [LC-DIG-ppmsc-07960], (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">A. Industrial and agricultural workers symbolized by hammer and sickle</match>
+        <match id="2">B. Coffin labeled "communism" because Soviet communism "died" in 1991</match>
+        <match id="3">C. Vladimir Lenin followed Marx and created Soviet Union</match>
+        <match id="4">D. Dictator Joseph Stalin gestures and can't believe what he's seeing</match>
+        <match id="5">E. Mikhail Gorbachev leads funeral, was Soviet president when communism "died"</match>
+        <match id="6">F. "God" of communism, Karl Marx wrote Communist Manifesto</match>
+        <match id="7">G. "Communist Paradise" has only three people</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="55" y="13"></drop>
+        <drop correct="4" x="53" y="157"></drop>
+        <drop correct="2" x="53" y="268"></drop>
+        <drop correct="5" x="53" y="329"></drop>
+        <drop correct="6" x="485" y="29"></drop>
+        <drop correct="7" x="485" y="102"></drop>
+        <drop correct="3" x="485" y="179"></drop>
+      </drops>
+      <image>USGov_m3-1_s11.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m3-1_s11</audio>
+    <credits><![CDATA[(tr) Comstock/Getty Images, (c)Library of Congress, Prints &amp; Photographs Division [LC-DIG-ppmsc-07960], (bkgd) Martin Ruegner/Digital Vision/Getty Images.]]></credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s12</video>
+    <credits>(bkgd) Martin Ruegner/Digital Vision/Getty Images, (others) Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s13</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s14</video>
+    <credits>(tr) Comstock/Getty Images, (c)Everett Collection, Inc./Alamy, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What metaphor has the cartoonist introduced?</question>
+        <answers>
+          <answer>President Theodore Roosevelt as a tough negotiator </answer>
+          <answer correct="true">U.S. diplomacy as a police nightstick</answer>
+          <answer>U.S. Capitol as a police headquarters</answer>
+          <answer>Japan as a pirate</answer>
+          <answer>Turks as sultans</answer>
+        </answers>
+        <figure>USGov_m3-1_s15_view.jpg</figure>
+        <feedbackAudio>USGov_m3-1_s15_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-1_s15</audio>
+    <credits>(tr) Comstock/Getty Images, (inset)Everett Collection, Inc./Alamy, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>How do you suppose Europeans in the early 1900s stereotyped Americans when they viewed the cartoon?</question>
+        <answers>
+          <answer>as poor peasants</answer>
+          <answer>as rich industrialists</answer>
+          <answer>as argumentative army officers</answer>
+          <answer>as bearded old men</answer>
+          <answer correct="true">as interfering watchdogs</answer>
+        </answers>
+        <figure>USGov_m3-1_s16_view.jpg</figure>
+        <feedbackAudio>USGov_m3-1_s16_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-1_s16</audio>
+    <credits>(tr) Comstock/Getty Images, (inset)Everett Collection, Inc./Alamy, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s17</video>
+    <credits>(tr) Comstock/Getty Images, (inset)Everett Collection, Inc./Alamy, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>USGov_m3-1_s18</video>
+    <credits>(tr) Comstock/Getty Images, (c)Used with the permission of Joel Pett and the Cartoonist Group. All rights reserved., (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="5">A. discussing the federal budget</match>
+        <match id="7">B. payment for political favors and loopholes in the budget process</match>
+        <match id="2">C. Democratic politician</match>
+        <match id="6">D. with a single piece of paper and notebook</match>
+        <match id="4">E. money flowing in and out of the national capital</match>
+		<match id="1">F. Republican politician</match>
+        <match id="3">G. no secret funds or loopholes</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom:0.25em;">
+        <drop correct="1"><![CDATA[1. What does the far left figure represent? ]]></drop>
+        <drop correct="2"><![CDATA[2. What does the far right figure represent?]]></drop>
+        <drop correct="3"><![CDATA[3. What does the phrase &quot;Everything's on the table&quot; mean?]]></drop>
+        <drop correct="4"><![CDATA[4. What does &quot;D.C. Revolving Door&quot; refer to?]]></drop>
+        <drop correct="5"><![CDATA[5. What are the two figures doing?]]></drop>
+		<drop correct="6"><![CDATA[6. How are the figures "prepared" to discuss a serious issue?]]></drop>
+        <drop correct="7"><![CDATA[7. What do the bags of money underneath the negotiating<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;table symbolize?]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m3-1_s19</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What point is the cartoonist making about solutions regarding the debt crisis?</question>
+        <answers>
+          <answer>Both political parties are willing to make tough decisions to solve the debt crisis.</answer>
+          <answer correct="true">Both political parties are unwilling to make tough decisions to solve the debt crisis.</answer>
+          <answer>Special interest groups are willing to loan money to the government to solve the debt crisis.</answer>
+          <answer>The debt crisis is easy to solve because of the hidden oil wealth the United States possesses underground.</answer>
+          <answer>The two-party system is the best option the United States has to solve the budget crisis.</answer>
+        </answers>
+        <figure>USGov_m3-1_s20_view.jpg</figure>
+        <feedbackAudio>USGov_m3-1_s20_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-1_s20</audio>
+    <credits>(tr) Comstock/Getty Images, (inset)Used with the permission of Joel Pett and the Cartoonist Group. All rights reserved., (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+
+  <scene id="21" type="End_Multiple_Choice">
+    <instruction>Click TRUE if the statement is true. Click FALSE if the statement is false.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>"Hypocrisy" is criticizing an action while at the same time doing that action.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Comparing a successful nation to a jeweled crown is an example of metaphor.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Showing a politician with big ears in a political cartoon is an example of symbolism.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The symbol for the Republican Party is the donkey.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>An example of irony is when a politician is found guilty of breaking a law that he himself proposed.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+	  <multiple>
+        <question>The goal of satire is to expose human folly to make room for improvement.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The Democratic Party is represented by the color red.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Political cartoons reflect important issues of the day.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Stereotypes may lead to dehumanizing groups of people.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>"All senior citizens like to golf" is an example of caricature.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-1_s21</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

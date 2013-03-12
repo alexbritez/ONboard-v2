@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Genetics">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m3-6_s1</video>
+      <credits>(cl)Comstock Images/Getty Images, (cr)IT Stock Free/Alamy, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-6_s3.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="249" y="3" audio="env_m3-6_s3_doublehelix"><![CDATA[
+				<h1>Double Helix</h1>
+				<p>The double helix design enables for maximum efficiency in storage of genetic material.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="249" y="209" audio="env_m3-6_s3_gene"><![CDATA[
+				<h1>Gene</h1>
+				<p>Genes are the codes that will build, maintain, and create a distinct organism.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="373" y="355" audio="env_m3-6_s3_nucleotide"><![CDATA[
+				<h1>Nucleotide</h1>
+				<p>The 4 nucleotides that are the building blocks of DNA are Cytosine, Guanine, Adenine and Thymine.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-6_s3</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s4</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Dave and Les Jacobs/Blend Images LLC, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s6</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s7</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In humans, the allele for a cleft chin is dominant over the allele for a chin with no cleft. If an individual has a chin with no cleft, what two alleles must that individual have for this trait?</question>
+            <answers>
+               <answer>One allele for cleft chin and allele for no cleft chin.</answer>
+			   <answer>Two alleles for cleft chin.</answer>
+               <answer correct="true">Two alleles for no cleft chin.</answer>
+			   <answer>There is not enough information to determine the alleles.</answer>
+            </answers>
+            <feedbackAudio>env_m3-6_s9_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-6_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s10</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)RubberBall/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s11</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)RubberBall/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="height:47px;">
+            <match id="3">Heredity</match>
+			<match id="1">Trait</match>
+			<match id="6">Gene</match>
+			<match id="8">Allele</match>
+			<match id="2">Dominant</match>
+			<match id="5">Recessive</match>
+			<match id="4">Homozygous</match>
+			<match id="7">Heterozygous</match>
+         </matches>
+         <drops children-styles="margin-bottom: 0.5em; height:40px;" dropzone-styles="height: 38px">
+            <drop correct="1">1. the different forms of a characteristic</drop>
+			<drop correct="2">2. an allele whose trait is always expressed in an individual when the allele is present</drop>
+			<drop correct="3">3. the passing of physical characteristics of parents to offspring</drop>
+			<drop correct="4">4. an individual who has two of the same alleles of a particular gene</drop>
+			<drop correct="5">5. an allele whose trait is not expressed in an individual when it occurs with a dominant allele</drop>
+			<drop correct="6">6. a set of genetic information that controls a trait</drop>
+			<drop correct="7">7. an individual who has two different alleles of a particular gene</drop>
+			<drop correct="8">8. the different versions of a gene</drop>
+         </drops>
+         <image>env_m3-6_s12.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-6_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s13</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-6_s14.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="163" y="5"><![CDATA[
+				<h1></h1>
+				<p>These symbols show the possible alleles from the male parent.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="52" y="88"><![CDATA[
+				<h1></h1>
+				<p>These symbols show the possible alleles from the female parent.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="161" y="88"><![CDATA[
+				<h1></h1>
+				<p>To complete the Punnett square, you fill in the grid to show the possible combinations of alleles that can form in the offspring.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="268" y="139"><![CDATA[
+				<h1></h1>
+				<p>Each box inside the grid is filled with the two letters obtained from the allele in the top box and in the side box. If the <em>p</em> allele from the male unites with the <em>p</em> of the female, then the offspring will be homozygous—or <em>pp</em>—for the trait.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="399" y="88"><![CDATA[
+				<h1></h1>
+				<p>This combination of alleles would result in an individual that is heterozygous for the trait—<em>Pp</em>.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="514" y="283"><![CDATA[
+				<h1></h1>
+				<p>This completed Punnett square shows that the possible results for a cross between these two parents are <em>PP, Pp, pP</em>, and <em>pp</em>. Since three of these four combinations contain a dominate allele, there is a three out of four chance that the offspring will have the dominant trait.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-6_s14</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s15</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s16</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="6_Activity_Interactivity">
+      <content>
+         <header>Punnett Squares: One Factor Crosses</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+      <image>env_m3-6_s17.jpg</image>
+      <audio>env_m3-6_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s18</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="inside-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="margin-top:1em;">
+            <match id="1">rryy</match>
+			<match id="2">RrYY</match>
+			<match id="3">Rryy</match>
+			<match id="4">RRYy</match>
+			<match id="5">RrYy</match>
+			<match id="6">RRyy</match>
+			<match id="7">rrYy</match>
+			<match id="8">RRYY</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="8" x="168" y="177" />
+			<drop correct="2" x="395" y="177" />
+			<drop correct="5" x="508" y="177" />
+			<drop correct="4" x="168" y="216" />
+			<drop correct="6" x="281" y="216" />
+			<drop correct="7" x="508" y="254" />
+			<drop correct="3" x="281" y="293" />
+			<drop correct="1" x="508" y="293" />
+         </drops>
+         <image>env_m3-6_s19.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-6_s19</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s20</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)RubberBall/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s21</video>
+      <credits>(bl)Burke/Triolo Productions/Getty Images, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s22</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (others)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s23</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Polygenic Inheritance</match>
+			<match id="2">Incomplete dominance</match>
+			<match id="3">Multiple allele</match>
+			<match id="4">Linked traits</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4" x="149" y="86"/>
+			<drop correct="2" x="149" y="145"/>
+			<drop correct="3" x="149" y="204"/>
+			<drop correct="1" x="149" y="263"/>
+         </drops>
+         <image>env_m3-6_s24.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-6_s24</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s25</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s26</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)RubberBall/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s27</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Michael Willmer Forbes Tweedie/Photo Researchers, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-6_s28.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="485" y="195" audio="env_m3-6_s28_whitemoth"><![CDATA[
+				<p>Before environmental change the gene pool is heavily populated with this genotype/phenotype because it is best adapted to its situation.</p>
+				<p>After the environmental change the light genotype/phenotype is ill fitted for the environment and its prevalence in the gene pool will begin to decline.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="108" y="315" audio="env_m3-6_s28_brownmoth"><![CDATA[
+				<h1></h1>
+				<p>This phenotype/genotype is ill adapted to its environment and has a much smaller portion of the gene pool in the population.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="503" y="30" audio="env_m3-6_s28_darkmoth"><![CDATA[
+				<h1></h1>
+				<p>After environmental change certain phenotypes/genotypes have advantages and thus are more likely to survive, be passed on, and dominate the gene pool.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-6_s28</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)IT Stock Free/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="6_Activity_Interactivity">
+      <content>
+         <header>Population Genetics</header>
+         <instruction>Genetic drift - the loss of an allele in a small population as a result of chance</instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_06_18P.mp4</url>
+      <image>env_m3-6_s29.jpg</image>
+      <audio>env_m3-6_s29</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A population of fish lives in water with a low oxygen content. These fish have gills that can efficiently extract oxygen from the water. Assume that a gene determines the presence of these gills in a fish. If the oxygen level is raised, what is most likely to occur?</question>
+            <answers>
+               <answer>The gene pool will stay the same.</answer>
+			   <answer>The number of fish with these gills will greatly increase.</answer>
+               <answer>The gene that determines these gills will increase in frequency.</answer>
+			   <answer correct="true">The gene that determines these gills will decrease in frequency in the population.</answer>
+            </answers>
+            <feedbackAudio>env_m3-6_s30_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-6_s30</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>env_m3-6_s31</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Burke Triolo Productions/Artville/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="End_Multiple_Choice">
+    <instruction>Click 'View' if you need a reference to answer the question.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Which is NOT an example of heredity?</question>
+            <answers>
+				<answer>The leaves on an offspring of a plant have the same shape as the parents' leaves.</answer>
+				<answer correct="true">A dog learns to catch a ball.</answer>
+				<answer>The shape of a child's eyes is similar to that of her mother.</answer>
+				<answer>The skin on a snake offspring has the same markings as its parents.</answer>
+				<answer>A tree grows to about 20 feet.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>How does an allele differ from a gene?</question>
+            <answers>
+				<answer correct="true">An allele is one form of a gene.</answer>
+				<answer>A gene makes up an allele.</answer>
+				<answer>An allele has only one form.</answer>
+				<answer>A gene only occurs in humans.</answer>
+				<answer>Alleles are more common than genes.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The offspring of true-breeding parents are called</question>
+            <answers>
+				<answer>the recessive allele</answer>
+				<answer>codominant</answer>
+				<answer correct="true"><![CDATA[the F<sub>1</sub> generation]]></answer>
+				<answer><![CDATA[the F<sub>2</sub> generation]]></answer>
+				<answer>the genotype</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The color of a horse's coat is the horse's</question>
+            <answers>
+				<answer>recessive allele</answer>
+				<answer>genotype</answer>
+				<answer>gene pool</answer>
+				<answer correct="true">phenotype</answer>
+				<answer>F<sub>1</sub> generation</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>If a particular trait in an individual has three alleles, the individual will have</question>
+            <answers>
+				<answer>one allele for the trait</answer>
+				<answer correct="true">two alleles for the trait</answer>
+				<answer>two pairs of alleles for the trait</answer>
+				<answer>three alleles for the trait</answer>
+				<answer>no alleles for the trait</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>If two copies of a dominant allele are present in a genotype of a parent, then the trait is</question>
+            <answers>
+				<answer>not expressed in the phenotype of the parent</answer>
+				<answer>not expressed in the phenotype of the offspring</answer>
+				<answer>only partially expressed in the phenotype of the offspring</answer>
+				<answer correct="true">expressed in the phenotype of the offspring</answer>
+				<answer>only partially expressed in the phenotype of the parent</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which phenotype is dominant?</question>
+            <answers>
+				<answer correct="true">Red flowers</answer>
+				<answer>White flowers</answer>
+            </answers>
+			<figure>env_m3-6_s32_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What is the genotype of the plants with white flowers?</question>
+            <answers>
+				<answer>RR</answer>
+				<answer>Rr</answer>
+				<answer correct="true">rr</answer>
+            </answers>
+			<figure>env_m3-6_s32_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What is the ratio of the dominant phenotype to the recessive phenotype?</question>
+            <answers>
+				<answer>1 dominant : 1 recessive</answer>
+				<answer>1 dominant : 3 recessive</answer>
+				<answer correct="true">3 dominant : 1 recessive</answer>
+				<answer>3 dominant : 3 recessive</answer>
+            </answers>
+			<figure>env_m3-6_s32_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>How do you know that both parents must have been heterozygous for this trait?</question>
+            <answers>
+				<answer><![CDATA[If both parents were <em>RR</em>, then none of the offspring could be <em>rr</em>.]]></answer>
+				<answer><![CDATA[If both parents were <em>rr</em>, then none of the offspring could be <em>Rr</em> or <em>RR</em>.]]></answer>
+				<answer><![CDATA[If only one parent were <em>Rr</em>, then none of the offspring could be <em>rr</em>.]]></answer>
+				<answer><![CDATA[If one parent were <em>Rr</em> and the other were <em>rr</em>, then none of the offspring could be <em>RR</em>.]]></answer>
+				<answer correct="true"><![CDATA[If both parents were <em>Rr</em>, then offspring could be <em>RR</em>, <em>Rr</em>, or <em>rr</em>.]]></answer>
+            </answers>
+			<figure>env_m3-6_s32_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-6_s32</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,48 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Historical Literature</title>
+		<info></info>
+		<image>images/euro_m3-3_s7.jpg</image>
+		<audio>audio/euro_m3-3_s7.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Quote 1</Name>   
+			<audio enable="false" url=""/>
+			<xCord>427</xCord>
+			<yCord>105</yCord>
+			<width>134</width>
+			<popTitle>Quote 1</popTitle>
+			<popInfo><![CDATA[<p>In this quote, Bishop Bossuet is establishing the principle of divine right – that kings rule because God himself has chosen them to do so.  Bossuet "proves" this theory with a quote from the Bible.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Quote 2</Name>   
+			<audio enable="false" url=""/>
+			<xCord>737</xCord>
+			<yCord>105</yCord>
+			<width>134</width>
+			<popTitle>Quote 2</popTitle>
+			<popInfo><![CDATA[<p>This quote means that since their power comes from God and he will demand an account of how they used that power, the kings need to be careful to use their power fairly.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Quote 3</Name>   
+			<audio enable="false" url=""/>
+			<xCord>427</xCord>
+			<yCord>272</yCord>
+			<width>134</width>
+			<popTitle>Quote 3</popTitle>
+			<popInfo><![CDATA[<p>This quote means that the king does not have to justify his actions to anyone but God, since he needs absolute power to create a just society in his kingdom.  Innocent people have nothing to fear and the evildoers should be punished.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Quote 4</Name>   
+			<audio enable="false" url=""/>
+			<xCord>737</xCord>
+			<yCord>272</yCord>
+			<width>134</width>
+			<popTitle>Quote 4</popTitle>
+			<popInfo><![CDATA[<p>This quote means that the prince is the embodiment of the people in his kingdom.  As such, he represents the will of the people of his kingdom and represents the power of the domain.  Thus, people are bound to obey him.</p>]]></popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>

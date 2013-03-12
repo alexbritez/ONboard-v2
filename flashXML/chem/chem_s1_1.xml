@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<XML att1="val1">
+	<Course title="Chemistry">	
+	
+		
+		<Section title="Introduction">
+			<SubSection title="Introduction to ONboard AP Chemistry">
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s1.swf" title="" photo="(l)McGraw-Hill Companies, Inc. Stephen Frisch, photographer; (cl)Charles D. Winters/Photo Researchers, Inc.;
+				(c)McGraw-Hill Companies, Inc. Terry Wild Studio; (r)©Studio Photogram/Alamy."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s2.swf" title="" photo="(1)Robert Slade/Alamy; (2)Ted Foxx/Alamy; (3)©Studio Photogram/Alamy; (4)©Digital Vision/PunchStock; 
+				(5)Design Pics/Yuri Arcurs; (6)Science Photo Library RF/Getty Images."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s3.swf" title="" photo="Fuse/Getty Images"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s4.swf" title="" photo="©Digital Vision/PunchStock"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s5.swf" title="" photo="Enno Kleinert/Alamy"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s6.swf" title="" photo="(1)Jupiterimages/Comstock Images/Getty Images; (2)D. Hurst/Alamy; (3)©Brand X Pictures/PunchStock."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s7.swf" title="" photo="(l)McGraw-Hill Companies, Inc. Stephen Frisch, photographer; (r)©Handout/Reuters/Corbis."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s8.swf" title="" photo="(l)Ash Lindsey/Getty Images; (cl)Goodshoot/Jupiterimages; (cr)phloen/Alamy; (r)Nick Koudis/Getty Images."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s9.swf" title="" photo="(l)Andersen Ross/Getty Images; (r)©Will & Deni McIntyre/Corbis."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s10.swf" title="" photo="(1)McGraw-Hill Companies Inc. Digital Light Source/Richard Hutchings, photographer;
+				(2)©Hill Street Studios/Harmik Nazarian/Blend Images/Corbis."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s11.swf" title="" photo="(1)Keith Fergus/Alamy; (2)©Beau Lark/Corbis; (3)©Radius Images/Corbis."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/dragdrop.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_s1-1_s12.xml" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s13.swf" title="" photo="Wolfgang Heidasch/Alamy"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s14.swf" title="" photo="Fuse/Getty Images"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s15.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/mc.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_s1-1_s16.xml" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/popup.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_s1-1_s17.xml" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s18.swf" title="" photo="(1)McGraw-Hill Companies, Inc. Stephen Frisch, photographer; (2)Pixtal/SuperStock; (3)©fstop/Punchstock."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s19.swf" title="" photo="©Dynamic Graphics Group/PunchStock"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/fill_blank.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_s1-1_s20.xml" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_s1-1_s21.swf" title="" photo="©Fancy Photography/Veer"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/mc.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_s1-1_s22.xml" photo=""/>		
+			</SubSection>
+		
+		</Section>
+
+	</Course>
+</XML>

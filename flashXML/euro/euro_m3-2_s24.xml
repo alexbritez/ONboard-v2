@@ -1,0 +1,62 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-2_s24.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+//1
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[What is the main idea expressed in "What is the Third Estate?"]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The French public was treasonous.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[French noblemen deserved special rights due to their status in society.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The privileges of the nobility were guaranteed by common law.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The Third Estate was shackled and was not capable of leading France. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The special privileges of the French nobility were detrimental to the nation.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-2_s24_FB.mp3" />
+	</question>
+	
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

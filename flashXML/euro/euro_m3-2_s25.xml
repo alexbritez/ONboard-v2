@@ -1,0 +1,134 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-2_s25.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+
+//1		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//2		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//3		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//4		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//5		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		</slideInfo>
+	
+//1	<question>
+		<qText><![CDATA[Sieyes is trying to convince the reader that the Third Estate should rule France.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s25_FB.mp3" />
+	</question>
+	
+//2	<question>
+		<qText><![CDATA[Sieyes' cause is the elimination of special privileges for the nobility and the extension of more rights to the Third Estate.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s25_FB.mp3" />
+	</question>
+	
+//3	<question>
+		<qText><![CDATA[Sieyes believes that an educated nobility is needed to help the Third Estate rule France.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s25_FB.mp3" />
+	</question>
+	
+//4	<question>
+		<qText><![CDATA[Sieyes believes that the Third Estate is "shackled" due to a lack of education.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s25_FB.mp3" />
+	</question>
+	
+//5	<question>
+		<qText><![CDATA[Sieyes believes that French nobles are actually ignoring common law by demanding privileges.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s25_FB.mp3" />
+	</question>
+	
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

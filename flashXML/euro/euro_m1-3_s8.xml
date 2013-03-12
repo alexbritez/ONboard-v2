@@ -1,0 +1,69 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m1-3_s8.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>In which type of monarchy does the ruler have more power?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Absolute monarchy</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Constitutional monarchy</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	<question>
+		<qText>An enlightened absolute monarch is more likely to embrace</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>freedom of speech and religious tolerance</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>a strict constitution that limits royal authority</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	<question>
+		<qText>Which of the following is a type of government in which power is held by a small group of people, either royalty or wealthy. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Theocracy</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Oligarchy</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+	
+</MultipleChoice>

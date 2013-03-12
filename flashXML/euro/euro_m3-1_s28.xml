@@ -1,0 +1,62 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-1_s28.jpg</image>
+		<audio>audio/euro_m3-1_s28.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Sympathized with the poor.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Supported the divine right theory.</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Believed the king is the law.</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Supported in a bill of rights.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Believed kings should consult nobles.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size='16'>Supported the belief that the king was all-powerful.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size='16'>Believed the people had no role in lawmaking.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Believed king given power by the people.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>			
+
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="579.95" yCord="150.05" spotScale="75" spotNum="1"/>
+		<dSpot xCord="579.95" yCord="208.85" spotScale="75" spotNum="1"/>
+		<dSpot xCord="579.95" yCord="267.65" spotScale="75" spotNum="1"/>
+		<dSpot xCord="579.95" yCord="326.45" spotScale="75" spotNum="1"/>
+		<dSpot xCord="579.95" yCord="385.25" spotScale="75" spotNum="1"/>
+		<dSpot xCord="579.95" yCord="444.05" spotScale="75" spotNum="1"/>
+
+		<dSpot xCord="860.95" yCord="150.05" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860.95" yCord="208.85" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860.95" yCord="267.65" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860.95" yCord="326.45" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860.95" yCord="385.25" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860.95" yCord="444.05" spotScale="75" spotNum="2"/>
+		
+
+			
+	</dropSpots>
+</DragDrop>

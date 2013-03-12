@@ -1,0 +1,32 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[What is the title of the selection that we will be reading?]]></hText>
+		<qText></qText>
+		<correctText><![CDATA[The correct answer is “Reason.” Reread the first sentence of the prompt to see the answer.]]></correctText>
+		<Source>
+			<Text><![CDATA[<p><font face='c-Bold'>Prompt:</font><br /><br />The selection below is from "Reason," a short story first published in <font face='lc-Italic'> Astounding Science Fiction</font> in 1941. Isaac Asimov, who was a biochemist and a writer of popular science and science fiction, later included "Reason" in a collection of stories under the title <font face='lc-Italic'> I, Robot</font>. Read the passage carefully. Then write an essay analyzing the devices Asimov employs to express his attitude toward technology.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<haveSource enable="true" word="View" image="images/eng_m3-2_s4.jpg" />
+		<audio>audio/eng_m3-2_s4.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Role of Government in the Economy">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-7_s1</video>
+    <credits>(l to r)Ingram Publishing, (2)Photodisc/Getty Images, (3)John Aikins/Corbis, (4)FoodIgredients/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images,</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-7_s2</video>
+    <credits>tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., Ken Cavanagh, photographer, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="4">A. Police Department</match>
+		<match id="2">B. Patent Office</match>
+		<match id="3">C. Protection against theft of products</match>
+		<match id="5"><![CDATA[D. Protection for land and building<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;claims]]></match>
+		<match id="6">E. Title Agency</match>
+		<match id="1">F. Protection against copying of ideas</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="122" y="85"></drop>
+		<drop correct="2" x="232" y="121"></drop>
+		<drop correct="3" x="122" y="198"></drop>
+		<drop correct="4" x="232" y="234"></drop>
+		<drop correct="5" x="122" y="312"></drop>
+		<drop correct="6" x="232" y="347"></drop>
+      </drops>
+      <image>econ_m5-7_s3.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-7_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="9_Activity_Image_Rollclick">
+    <content>
+      <header><![CDATA[Government Provides<br/>System of Justice]]></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-7_s4.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="158" y="319">
+			<![CDATA[
+				<h1>Local Trial Courts</h1>
+				<p>Two types of disputes can be heard in local or state trial courts. <strong>Civil cases</strong> involve a dispute between two or more private individuals or organizations—usually over money or ownership. <strong>Criminal cases</strong> are those in which the state brings charges against someone for violating the law.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="438" y="228">
+			<![CDATA[
+				<h1>Court of Claims</h1>
+				<p>Established in 1982, the U.S. Court of Federal Claims handles claims against the United States for money damages. A person who believes that the government has not paid a bill for goods or services may sue in this court. Headquartered in Washington, D.C., the court hears cases throughout the country.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="438" y="303">
+			<![CDATA[
+				<h1>Court of International Trade</h1>
+				<p>This court hears cases dealing with tariffs. Citizens who believe that tariffs are too high—which raises the prices of imports—bring most of the cases heard in this court. It is based in New York City, but judges also hear cases in other major port cities, such as New Orleans and San Francisco.</p>
+			]]>
+        </hotspot>
+		<hotspot title="Tax Court" dynamic="true" x="245" y="351">
+			<![CDATA[
+				<h1>Tax Court</h1>
+				<p>Congress established the Tax Court to hear cases from citizens who disagree with the Internal Revenue Service or other Treasury Department agencies about their federal taxes. Based in Washington, D.C., the Tax Court hears cases all over the United States.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-7_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Hisham F. Ibrahim/Photodisk/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m5-7_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Ingram Publishing, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:47px">
+      <matches title="">
+        <match id="1">Provide national defense</match>
+		<match id="2">Provide unemployment insurance</match>
+		<match id="3">Resolve copyright lawsuits</match>
+		<match id="4">Issue titles for vehicles</match>
+		<match id="5">Stabilize the economy</match>
+		<match id="6">Provide education</match>
+		<match id="7">Resolve rental contract disputes</match>
+		<match id="8">Pay subsidies to corn farmers</match>
+		<match id="9">Punish thieves</match>
+		<match id="10">Impose a minimum wage</match>
+      </matches>
+      <drops title="GOVERNMENT ROLE IN&lt;br&gt; A PURE MARKET ECONOMY">1,3,4,7,9</drops>
+	  <drops title="NOT A GOVERNMENT ROLE IN&lt;br&gt; A PURE MARKET ECONOMY">2,5,6,8,10</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-7_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m5-7_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Andrew Harrer/Bloomberg/Getty Images, (2)Library of Congress Prints and Photographs Division [LC-DIG-fsa-8b29516], (3)Photodisc/Getty Images, (4)John Aikins/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>U.S. Government Promotes Competition</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-7_s8.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="127" y="145">
+			<![CDATA[
+				<h1>Antitrust Violations</h1>
+				<p>The U.S. Department of Justice sued Microsoft for antitrust violations in 1997, saying Microsoft illegally required PC manufacturers to include Internet Explorer. Microsoft's action had effectively shut out a competitor.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="444" y="145">
+			<![CDATA[
+				<h1>Weights and Measures</h1>
+				<p>The government requires that all weights and measures be uniform, such as a gallon of gas. This promotes fair competition because gas companies cannot profit by measuring &quot;smaller gallons&quot; of gas and charging more.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="127" y="347">
+			<![CDATA[
+				<h1>Insider Trading</h1>
+				<p>The U.S. government prosecutes individuals who use inside information to buy or sell stock before the information is made public. This is an attempt to ensure that all buyers and sellers can fairly compete in the market.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="444" y="347">
+			<![CDATA[
+				<h1>Safety and Advertising</h1>
+				<p>The U.S. government promotes competition by requiring all food manufacturers to publish their ingredients. The government also prohibits false advertising claims about food to ensure that consumers know what they are buying.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-7_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (cl)Ingram Publishing/age footstock, (cr)Judith Collins/Alamy, (bl)Comstock/Jupiterimages, (br)FoodIgredients/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>U.S. Government Redistributes Income</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-7_s9.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="127" y="145">
+			<![CDATA[
+				<h1>Taxes</h1>
+				<p>The U.S. government collects taxes, such as the personal income tax. Tax dollars go to many programs, including the military, education, and highways, as well as safety net programs.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="444" y="145">
+			<![CDATA[
+				<h1>Welfare</h1>
+				<p>Welfare programs have changed a great deal over time. The U.S. government has multiple programs to help people in poverty, including cash payments, food stamps, and free or reduced-price medical care.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="127" y="347">
+			<![CDATA[
+				<h1>Social Security</h1>
+				<p>Social Security provides benefits to retirees. Working people pay into the system, and checks are sent to retirees. This program helps ensure that older Americans have an adequate standard of living.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="444" y="347">
+			<![CDATA[
+				<h1>Minimum Wage</h1>
+				<p>The U.S. government imposes a minimum wage to ensure that the lowest-skilled workers will earn enough to pay for essentials like housing, food, and clothing.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-7_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (cl)Comstock Images/Jupiterimages, (cr)Joe Raedle/Getty Images News/Getty Images, (bl)Creatas/PictureQuest,  (br)DreamPictures/Blend Images LLC, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>U.S. Government Corrects Externalities</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-7_s10.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="127" y="145">
+			<![CDATA[
+				<h1>Pollution</h1>
+				<p>Many industries cause pollution, from paper mills to oil refineries to large-scale farms. The federal or state government may use fines or regulation to stop firms from polluting.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="158" y="347">
+			<![CDATA[
+				<h1>Superfund Site</h1>
+				<p>The U.S. government may designate a specific area as a Superfund Site. Then the government uses tax dollars to pay for the cleanup, while seeking payment from the polluting firm. There are 1,300 Superfund sites on the National Priority List.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="444" y="145">
+			<![CDATA[
+				<h1>Immunizations</h1>
+				<p>Education and immunizations are positive externalities. State governments provide public education for all students, and designate immunizations for those who cannot afford them.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-7_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (cl)Photodisc/Getty Images, (cr)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (b)Mitsu Yasukawa/Star Ledger/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>U.S. Government Promotes Economic Stability</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-7_s11.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="127" y="145">
+			<![CDATA[
+				<h1>Recession</h1>
+				<p>Although there are always some workers unemployed, the number of job-seekers rises during economic downturns called recessions. The unemployed struggle to provide food, housing, and other necessities.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="444" y="145">
+			<![CDATA[
+				<h1>Inflation</h1>
+				<p>Inflation, or rising prices, is a major problem in an economy. Periods of high inflation erode consumers' purchasing power and their confidence.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="127" y="347">
+			<![CDATA[
+				<h1>Monetary Policy</h1>
+				<p>The Federal Reserve (or &quot;Fed&quot;) can combat inflation by reducing the money supply. The Fed also tries to combat unemployment by increasing the money supply and lowering interest rates.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="444" y="347">
+			<![CDATA[
+				<h1>Fiscal Policy</h1>
+				<p>During a period of high unemployment, Congress might spend money on a jobs program or cut taxes to encourage individual spending. During a period of high inflation, Congress might raise taxes or cut spending to take money out of circulation.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-7_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (cl)Emile Wamsteker/Bloomberg/Getty Images, (cr)Tom Grill/Photographer's Choice RF/Getty Images, (bl)Siede Preis/Photographer's Choice/Getty Images, (br)John Aikins/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" instructionsStyle="margin-bottom:1em !important" matchStyle="" dropStyle="margin-bottom:0">
+      <matches title="">
+        <match id="8">Lowers taxes to address problems</match>
+        <match id="5">Uses fines to stop pollution</match>
+        <match id="4">Funds social programs</match>
+        <match id="2">Sets uniform weights</match>
+        <match id="3">Sets minimum wage</match>
+        <match id="7">Manages money supply</match>
+        <match id="6">Provides immunizations</match>
+        <match id="1">Prosecutes insider traders</match>
+      </matches>
+      <coord correct="1" x="60" y="66" />
+      <coord correct="1" x="60" y="122" />
+      <coord correct="2" x="289" y="66" />
+      <coord correct="2" x="289" y="122" />
+      <coord correct="3" x="60" y="230" />
+      <coord correct="3" x="60" y="287" />
+      <coord correct="4" x="289" y="230" />
+      <coord correct="4" x="289" y="287" />
+      <drops title="">1,2</drops>
+      <drops title="">3,4</drops>
+      <drops title="">5,6</drops>
+      <drops title="">7,8</drops>
+      <image>econ_m5-7_s12.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-7_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is a role of government in a pure market economy?</question>
+        <answers>
+          <answer>Creating a jobs program</answer>
+          <answer correct="true">Protecting private property rights</answer>
+		  <answer>Providing pollution cleanup</answer>
+		  <answer>Providing grocery stores</answer>
+		  <answer>Providing free immunizations</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following is NOT one of the U.S. government's economic roles?</question>
+        <answers>
+          <answer>Providing national defense</answer>
+		  <answer>Providing public schools</answer>
+		  <answer>Protecting patent and copyrights</answer>
+		  <answer>Providing pollution regulations</answer>
+          <answer correct="true">Providing low-cost food to all citizens</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>In a pure market economy, who gets goods and services?</question>
+        <answers>
+          <answer correct="true">People who are willing and able to pay for them</answer>
+		  <answer>People who pay their taxes</answer>
+		  <answer>People in need</answer>
+		  <answer>People considered a positive externality</answer>
+		  <answer>People on a fixed income</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Why does the U.S. government prosecute individuals who use inside information to buy or sell stock before the information is made public?</question>
+        <answers>
+          <answer>To protect private property</answer>
+		  <answer>To provide justice</answer>
+		  <answer>To provide public goods</answer>
+          <answer correct="true">To promote competition</answer>
+		  <answer>To redistribute income</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A person who believes that the federal government has not paid a bill for goods or services may sue in the</question>
+        <answers>
+          <answer>Court of International Trade.</answer>
+		  <answer>Tax Court.</answer>
+          <answer correct="true">Court of Claims.</answer>
+		  <answer>local trial court.</answer>
+		  <answer>Federal District Court.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-7_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

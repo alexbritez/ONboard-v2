@@ -1,0 +1,73 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-3_s23.jpg</image>
+		<audio>audio/eng_m1-3_s23.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>80</boxScale>
+	</slideInfo>
+	
+	<dragItems>
+	
+		<dItem>
+			<boxText><![CDATA[Persuasion]]></boxText>
+			<rightSpot>9</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[Process Analysis]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>	
+			
+		<dItem>
+			<boxText><![CDATA[Definition]]></boxText>
+			<rightSpot>7</rightSpot>
+		</dItem>		
+		
+		<dItem>
+			<boxText><![CDATA[Comparison and Contrast]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[Narration]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+			
+		<dItem>
+			<boxText><![CDATA[Description]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+			
+		<dItem>
+			<boxText><![CDATA[Classification]]></boxText>
+			<rightSpot>8</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[Cause and Effect]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>	
+			
+		<dItem>
+			<boxText><![CDATA[Illustration]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="486.5" yCord="151.9" spotScale="66.4" spotNum="1"/>
+		<dSpot xCord="486.5" yCord="209.7" spotScale="66.4" spotNum="2"/>
+		<dSpot xCord="486.5" yCord="267.5" spotScale="66.4" spotNum="3"/>
+		<dSpot xCord="486.5" yCord="345.75" spotScale="66.4" spotNum="4"/>
+		<dSpot xCord="486.5" yCord="431.35" spotScale="66.4" spotNum="5"/>
+		
+		<dSpot xCord="770.5" yCord="172.35" spotScale="66.4" spotNum="6"/>
+		<dSpot xCord="770.5" yCord="263.55" spotScale="66.4" spotNum="7"/>
+		<dSpot xCord="770.5" yCord="334.25" spotScale="66.4" spotNum="8"/>
+		<dSpot xCord="770.5" yCord="418.1" spotScale="66.4" spotNum="9"/>
+		
+		
+	</dropSpots>
+	
+</DragDrop>

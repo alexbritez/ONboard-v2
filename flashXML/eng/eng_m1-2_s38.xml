@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Write a sentence that uses a metaphor.]]></hText>
+		<qText></qText>
+		<correctText><![CDATA[<font size='12'><font face='c-Bold'>ANSWER</font><br />A sentence is correct if an implied comparison is made between two unlike things without using the words &quot;like&quot; or &quot;as.&quot;<br /><br /><font face='c-Bold'>SAMPLES OF METAPHOR</font><br />Paul Bunyan was a mountain of a man.<br /><br />The sky was a soggy gray blanket.<br /><br />When Dave saw his calculus grade, he was one big smile.</font>]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m1-2_s38.jpg" />
+		<audio>audio/eng_m1-2_s38.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

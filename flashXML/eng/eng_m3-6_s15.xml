@@ -1,0 +1,48 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[MISSTEPS: Logical Fallacies<br/><font face='c-Italic'>Ad Hominem</font>]]></title>
+		<info></info>
+		<image>images/eng_m3-6_s15.jpg</image>
+		<audio>audio/eng_m3-6_s15.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name><![CDATA[1]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>547.85</xCord>
+			<yCord>118.7</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Mr. Smith: ]]></popTitle>
+			<popInfo><![CDATA[Students must do their homework.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[2]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>547.85</xCord>
+			<yCord>174.05</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Student: ]]></popTitle>
+			<popInfo><![CDATA[You have to say that because you’re the teacher.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[3]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>547.85</xCord>
+			<yCord>229.4</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Mr. Smith: ]]></popTitle>
+			<popInfo><![CDATA[But I gave you ample reasons with statistics to show how doing homework leads to student success.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[4]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>547.85</xCord>
+			<yCord>284.75</yCord>
+			<width>52</width>
+			<popTitle><![CDATA[Student: ]]></popTitle>
+			<popInfo><![CDATA[Yeah, well, as an educator in this school district you have to say that to keep your job, and besides, you’re just a high school teacher. College professors aren’t going to care if I do my homework. ]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

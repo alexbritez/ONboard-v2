@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-3_s9.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text><![CDATA[<p><font face='lc-Italic'>Politics Drawn from the Very Words of Holy Scripture</font><br/> In order to make this term [absolute] odious and insupportable, many [writers] pretend to confuse absolute government with arbitrary government. But nothing is more distinct, as we shall make clear when we speak of justice.”<p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>What is the main idea expressed in this excerpt from Bishop Bossuet's <font face='lc-Italic'>Politics Drawn from the Very Words of Holy Scripture?</font></p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Wielding arbitrary power is necessary for a king to be an effective ruler.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A balance of absolute and arbitrary power are necessary for a king to be an effective ruler.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Arbitrary power is granted to kings by God and is used for the good of the nation while absolute power serves the selfish interests of kings.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Absolute power is granted to kings by God and is used for the good of the nation while arbitrary power serves the selfish interests of kings.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Kings are considered to be sacred because they have arbitrary power.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-3_s9_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

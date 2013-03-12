@@ -1,0 +1,311 @@
+<shell title="Civics">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m1-2_s1</video>
+    <credits>(l)SuperStock, (cl)Library of Congress, Prints and Photographs Division [LC-DIG-ggbain-12924], (cr)Library of Congress Prints and Photographs Division [LC-USZ62-100971], (r)Bill Eppridge/Time &amp; Life Pictures/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+		  	&quot;We the People of the United States, in Order to form a more perfect Union, establish Justice, insure <a href="#" data-id="0" class="hotspot">domestic Tranquility</a>, provide for the <a href="#" data-id="1" class="hotspot">common defense</a>, promote the <a href="#" data-id="2" class="hotspot">general Welfare</a>, and secure the Blessings of Liberty to ourselves and our <a href="#" data-id="3" class="hotspot">Posterity</a>, do <a href="#" data-id="4" class="hotspot">ordain</a> and establish this Constitution for the United States of America.&quot;
+          </p>
+          <p>
+            —<em>The Preamble to the U.S. Constitution</em>
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>domestic Tranquility</h1>
+            <p>Peace and security within the nation</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>common defense</h1>
+            <p>Protection against foreign aggression</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>general welfare</h1>
+            <p>Well-being of all American citizens</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Posterity</h1>
+            <p>Future generations</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>ordain</h1>
+            <p>Proclaim</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-2_s2</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">A. What are the two houses of Congress?</match>
+        <match id="5">B. Which article addresses changes made to the Constitution? </match>
+        <match id="2">C. Who heads the executive branch?</match>
+        <match id="7">D. When was the Constitution put into effect?</match>
+        <match id="4">E. Which article deals with interactions among the states?</match>
+		<match id="6">F. What happens when a state law conflicts with a national law?</match>
+		<match id="3">G. Who has the power to review legal cases?</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1"><![CDATA[<strong>Article I</strong> &quot;All legislative Powers herein shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.&quot;]]></drop>
+        <drop correct="2"><![CDATA[<strong>Article II</strong> states that &quot;The executive Power shall be vested in a President.&quot;]]></drop>
+        <drop correct="3"><![CDATA[<strong>Article III</strong> says that &quot;The judicial Power . . . shall be vested in one supreme Court.&quot;]]></drop>
+        <drop correct="4"><![CDATA[<strong>Article IV</strong> declares that &quot;Full Faith and Credit shall be given in each State.&quot;]]></drop>
+        <drop correct="5"><![CDATA[<strong>Article V</strong> explains the ways that the Constitution can be amended, or changed.]]></drop>
+		<drop correct="6"><![CDATA[<strong>Article VI</strong> establishes that the Constitution, laws passed by Congress, and federal treaties &quot;shall be the supreme Law of the Land.&quot;]]></drop>
+		<drop correct="7"><![CDATA[<strong>Article VII</strong> addresses ratification, or the approval process, of the Constitution by the states.]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-2_s3</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m1-2_s4</video>
+    <credits>(tr)Comstock/Getty Images, (c)SuperStock, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m1-2_s5</video>
+    <credits>(bkgd) Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-2_s6.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="85" y="335">
+          <![CDATA[
+            <p>In the United States, citizens have the right to choose their leaders through voting. The Nineteenth Amendment gave women the right to vote in national elections.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="290" y="335">
+          <![CDATA[
+            <p>Voting is an important way for American citizens to make their voices heard. African American men gained the right to vote with the Fifteenth Amendment.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="500" y="335">
+          <![CDATA[
+            <p>The Twenty-Sixth Amendment guarantees citizens 18 years of age and older the right to vote. The First Amendment protects the right to assemble and protest peaceably, and the freedoms of religion, speech, the press, and to petition the government.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-2_s6</audio>
+    <credits><![CDATA[(tr)Comstock/Getty Images, (l)Library of Congress, Prints and Photographs Division [LC-DIG-ggbain-12924], (c)Library of Congress Prints and Photographs Division [LC-USZ62-100971], (r)Bill Eppridge/Time &amp; Life Pictures/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.]]></credits>
+  </scene>
+
+  <scene id="7" type="6_Activity_Interactivity">
+    <content>
+      <header>Federalism</header>
+      <instruction>Power is divided between national and state governments.</instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_05A.mp4</url>
+    <image>USGov_m1-2_s7.jpg</image>
+    <audio>USGov_m1-2_s7</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>USGov_m1-2_s8</video>
+    <credits>(bkgd) Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="6_Activity_Interactivity">
+    <content>
+      <header>Separation of Powers</header>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_06A.jpg</url>
+    <image>USGov_m1-2_s9.jpg</image>
+    <audio>USGov_m1-2_s9</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="6_Activity_Interactivity">
+    <content>
+      <header>Checks and Balances</header>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_07A.mp4</url>
+    <image>USGov_m1-2_s10.jpg</image>
+    <audio>USGov_m1-2_s10</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+    <video>USGov_m1-2_s11</video>
+    <credits>(bkgd) Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+		  <h1 style="font-size: 175%">Constitutional or Unconstitutional Actions?</h1>
+          <p>
+		  	<strong><a href="#" data-id="0" class="hotspot">Public funding of school buses for parochial (religious) students</a></strong>
+          </p>
+		  <p>
+		  	<strong><a href="#" data-id="1" class="hotspot">Public funding for parochial school teacher salaries</a></strong>
+          </p>
+		  <p>
+		  	<strong><a href="#" data-id="2" class="hotspot">Teacher-led prayer (nonspecific religion)</a></strong>
+          </p>
+		  <p>
+		  	<strong><a href="#" data-id="3" class="hotspot">After-school student-led religious club</a></strong>
+          </p>
+		  <p>
+		  	<strong><a href="#" data-id="4" class="hotspot">Requiring all students to say the Pledge of Allegiance</a></strong>
+          </p>
+		  <p>
+		  	<strong><a href="#" data-id="5" class="hotspot">Offering a moment of silence for voluntary prayer</a></strong>
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+        <h1>Constitutional</h1>
+            <p><em>Everson </em>v.<em> Board of Education</em>, 1947</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>Lemon </em>v.<em> Kurtzman</em>, 1971</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>Engel </em>v.<em> Vitale</em>, 1962</p>
+          ]]>
+        </hotspot>
+    <hotspot>
+          <![CDATA[
+            <h1>Constitutional</h1>
+            <p><em>Board of Education Westside Community Schools </em>v.<em> Mergens</em>, 1990</p>
+          ]]>
+        </hotspot>
+    <hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>W. Virginia Board of Ed. </em>v.<em> Barnette</em>, 1943</p>
+          ]]>
+        </hotspot>
+    <hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>Wallace </em>v.<em> Jaffree</em>, 1985</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-2_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_m1-2_s13</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m1-2_s14</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="6_Activity_Interactivity">
+    <content>
+      <header>Limited Government</header>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_11A.jpg</url>
+    <image>USGov_m1-2_s15.jpg</image>
+    <audio>USGov_m1-2_s15</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="6_Activity_Interactivity">
+    <content>
+      <header>Amending the Constitution</header>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_08A.mp4</url>
+    <image>USGov_m1-2_s16.jpg</image>
+    <audio>USGov_m1-2_s16</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Federalism refers to the legislative branch making the laws and the executive branch carrying out the laws.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The president's veto power can prevent laws from being enforced.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The right to rule comes from popular sovereignty.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Congress has the power to judge the constitutionality of the nation's laws.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The Constitution specifically lists the powers that are prohibited to government.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m1-2_s17</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

@@ -1,0 +1,70 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m1-2_s7.jpg</image>
+		<audio>audio/euro_m1-2_s7.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Protestant</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Sacrament</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Eucharist</boxText>
+			<rightSpot>7</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[ <font size='16'>Transubstantiation</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Icons</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Heresy</boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Inquisition</boxText>
+			<rightSpot>8</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Anti-Semitism</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="523.1" yCord="100.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="523.1" yCord="147.15" spotScale="75" spotNum="2"/>
+		<dSpot xCord="523.1" yCord="194.15" spotScale="75" spotNum="3"/>
+		<dSpot xCord="523.1" yCord="244.15" spotScale="75" spotNum="4"/>
+		<dSpot xCord="523.1" yCord="297.15" spotScale="75" spotNum="5"/>
+		<dSpot xCord="523.1" yCord="346.1" spotScale="75" spotNum="6"/>
+		<dSpot xCord="523.1" yCord="394.1" spotScale="75" spotNum="7"/>
+		<dSpot xCord="523.1" yCord="444.1" spotScale="75" spotNum="8"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

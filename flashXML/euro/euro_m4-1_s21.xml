@@ -1,0 +1,41 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m4-1_s21.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which of the following was NOT a long-term effect of the Black Death?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Jews relocated to eastern Europe.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Conditions for eastern European peasants became worse than for western European peasants.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Revolts by peasants and urban workers resurfaced in later centuries.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Paris lost about one-half its population.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Labor shortages led to higher wages.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-1_s21_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

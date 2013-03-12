@@ -1,0 +1,37 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-7_s25.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s25.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Using the information from all three graphs, choose the answer that places the countries in the correct order from most modernized to least:</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Britain, France, Italy, Germany, Austria</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Germany, Britain, France, Austria, Italy</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Germany, France, Britain, Italy, Austria</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Britain, Germany, France, Austria, Italy </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-7_s25_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

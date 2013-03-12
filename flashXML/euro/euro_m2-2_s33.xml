@@ -1,0 +1,48 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-2_s33.jpg</image>
+		<audio>audio/euro_m2-2_s33.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Continental System</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Defeat at Waterloo</boxText>
+			<rightSpot>7</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Second Coalition</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Invasion of Russia</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Third Coalition</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Peninsular War</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>Napoleon abdicates</boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="598.45" yCord="147.25" spotScale="70" spotNum="1"/>
+		<dSpot xCord="598.45" yCord="197.25" spotScale="70" spotNum="2"/>
+		<dSpot xCord="598.45" yCord="247.25" spotScale="70" spotNum="3"/>
+		<dSpot xCord="598.45" yCord="297.25" spotScale="70" spotNum="4"/>
+		<dSpot xCord="598.45" yCord="347.25" spotScale="70" spotNum="5"/>
+		<dSpot xCord="598.45" yCord="397.25" spotScale="70" spotNum="6"/>
+		<dSpot xCord="598.45" yCord="447.25" spotScale="70" spotNum="7"/>
+
+	</dropSpots>
+</DragDrop>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Graphs: Setting Up, Labeling Units, Variables">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m4-3_s1</video>
+      <credits>(cl)Nigel Cattlin/Photo Researchers, Inc., (cr)Andy Sacks/Stone/Getty Images (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (1) Fotosearch/Getty Images, (2)Nigel Cattlin/Photo Researchers, Inc., (3)Andy Sacks/Stone/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s3</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>An experiment tests whether temperature affects the growth of a butterfly pupa. Temperature is the </question>
+            <answers>
+				<answer correct="true">Independent Variable</answer>
+               <answer>Dependent Variable</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>bio_m4-3_s4_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-3_s4</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>An experiment tests the relationship between soil acidity and flower color. Flower color is the</question>
+            <answers>
+               <answer>Independent Variable</answer>
+               <answer correct="true">Dependent Variable</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>bio_m4-3_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>An experiment tests whether seed germination is affected by moisture. Seed germination is the </question>
+            <answers>
+               <answer>Independent Variable</answer>
+               <answer correct="true">Dependent Variable</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>bio_m4-3_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>An experiment tests how the amount of sunlight affects seed production in a certain plant. Sunlight is the</question>
+            <answers>
+				<answer correct="true">Independent Variable</answer>
+               <answer>Dependent Variable</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>bio_m4-3_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s8</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these choices would be the best range for &lt;br&gt;the x-axis?</question>
+            <answers>
+               <answer>0 to 1.0</answer>
+               <answer correct="true">0 to 2.5</answer>
+			   <answer>0 to 5.0</answer>
+			   <answer>0 to 10.0</answer>
+            </answers>
+            <figure>bio_m4-3_s10.jpg</figure>
+            <feedbackAudio>bio_m4-3_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-3_s10</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these choices would be the best range for &lt;br&gt;the y-axis?</question>
+            <answers>
+               <answer>0 to 5</answer>
+			   <answer>0 to 10</answer>
+               <answer correct="true">0 to 20</answer>
+			   <answer>0 to 150</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-3_s11.jpg</figure>
+            <feedbackAudio>bio_m4-3_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-3_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s13</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s14</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of the following is the best title for this graph? </question>
+            <answers>
+               <answer>The Growth of Bean Plants in Centimeters</answer>
+			   <answer>How Fertilizers Affect Plants</answer>
+			   <answer>Fertilizer and Functional Bean Plants</answer>
+               <answer correct="true">Bean Plant height as a Function of Fertilizer.</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-3_s15_view.jpg</figure>
+            <feedbackAudio>bio_m4-3_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="height: 30px; width: 135px">
+            <match id="1">Title</match>
+			<match id="2">Independent Variable</match>
+			<match id="3">Dependent Variable</match>
+			<match id="4">x-axis</match>
+			<match id="5">y-axis</match>
+         </matches>
+         <drops title="" children-styles="height: 30px; width: 135px; overflow: hidden">
+            <drop correct="1" x="495" y="32" />
+			<drop correct="2" x="283" y="373" />
+			<drop correct="3" x="-15" y="269" />
+			<drop correct="4" x="-15" y="351" />
+			<drop correct="5" x="-15" y="38" />
+		</drops>
+         <image>bio_m4-3_s16.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m4-3_s16</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s17</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s18</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>bio_m4-3_s19</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+      <image>bio_m4-3_s20.jpg</image>
+      <audio>bio_m4-3_s20</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The vertical axis on the graph is the x-axis.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>When graphing experimental data, the independent variable is the x-axis on the graph.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>The intervals used for the numerical values on the x-axis and the y-axis do not need to be the same.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>You must show every whole number along an axis.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>Each data point on a graph is made up of the x-axis value and the corresponding y-axis value.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+      </multiple_choice>
+      <audio>bio_m4-3_s21</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

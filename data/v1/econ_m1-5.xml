@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Choices and Opportunity Costs">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m1-5_s1</video>
+    <credits>(l )Dynamic Graphics Group/PunchStock, (cl)Hill Street Studios/Blend Images LLC, (c)StockTrek/Digital Vision/Getty Images, (cr)Comstock Images/Jupiterimages, ?Stockbyte/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m1-5_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Individuals and &lt;br /&gt;Opportunity Costs</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-5_s3.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="233" y="17">
+			<![CDATA[
+				<h1>If you choose to work</h1>
+				<ul>
+					<li>Marginal benefit—pleasing your boss, extra income</li>
+					<li>Marginal cost—giving up time with your friends</li>
+					<li>Opportunity cost—going to the movies</li>
+				</ul>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="547" y="17">
+			<![CDATA[
+				<h1>If you choose to go to the movies</h1>
+				<ul>
+					<li>Marginal benefit—relaxation, fun with your friends</li>
+					<li>Marginal cost—possibly displeasing your boss, giving up extra income</li>
+					<li>Opportunity cost—going to work</li>
+				</ul>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-5_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (l)Andersen Ross/Digital Vision/Getty Images, (r)Corbis/SuperStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m1-5_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Dynamic Graphics Group/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m1-5_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Hill Street Studios/Blend Images LLC, (2)StockTrek/Digital Vision/Getty Images, (3)Comstock Images/Jupiterimages, (4)Comstock/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>In economics, the term "opportunity cost" means</question>
+        <answers>
+          <answer>the choice one makes.</answer>
+          <answer correct="true">the next best thing given up when one makes a decision.</answer>
+		  <answer>the price of a product one buys.</answer>
+		  <answer>the profit a firm earns beyond its production costs.</answer>
+		  <answer>the price of the resources needed to make a product.</answer>
+        </answers>
+        <feedbackAudio>econ_m1-5_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m1-5_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Doug Menuez/Photodisc/Getty Images, (2)Stockbyte/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">A. alternative</match>
+    		<match id="2">B. benefits</match>
+    		<match id="3">C. costs</match>
+    		<match id="4">D. entrepreneurs</match>
+    		<match id="5">E. opportunity cost</match>
+    		<match id="6">F. scarcity</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="431" y="297"></drop>
+		<drop correct="2" x="356" y="147"></drop>
+		<drop correct="3" x="86" y="193"></drop>
+		<drop correct="4" x="58" y="148"></drop>
+		<drop correct="5" x="58" y="85"></drop>
+		<drop correct="6" x="58" y="23"></drop>
+      </drops>
+      <image>econ_m1-5_s8.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-5_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-5_s9.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="34" y="17">
+			<![CDATA[
+				<p>The financial costs of college include tuition, books, and fees. An additional cost involves your time. Depending on the college degree you want, you could spend two to eight years going to college.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="223" y="17">
+			<![CDATA[
+				<p>The opportunity costs of college include the other things you could do with the money, such as buying a house or a nice car, AND the other things you could do with your time. You could work full-time for the years that you go to college.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="412" y="17">
+			<![CDATA[
+				<p>The benefits from going to college include the increased yearly income resulting from that education and having the qualifications to do the work you desire. </p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-5_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Huntstock/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[Why is opportunity cost important in economic<br/>decision-making?]]></question>
+        <answers>
+          <answer>It increases the profit earned by corporations.</answer>
+		  <answer>It is the sum of all of the costs of production for a firm.</answer>
+          <answer correct="true">It requires us to consider the alternative uses of our time and resources.</answer>
+		  <answer>It is the cost of producing one more unit of output, a number firms use to determine their profit-maximizing output.</answer>
+		  <answer>It requires us to analyze the money we spend on goods and services.</answer>
+        </answers>
+        <feedbackAudio>econ_m1-5_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m1-5_s11</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Robert Frost's poem "The Road Not Taken" can be used to illustrate the economic concept of</question>
+        <answers>
+          <answer>supply and demand.</answer>
+		  <answer>profit maximization.</answer>
+		  <answer>externalities.</answer>
+          <answer correct="true">opportunity cost.</answer>
+		  <answer>public goods.</answer>
+        </answers>
+        <figure>
+			<header><![CDATA[<span style="color:#000000; font-style:normal; font-weight:bold;">The Road Not Taken</span>]]></header>
+		  <text>
+			<![CDATA[
+			<p>Two roads diverged in a yellow wood,<br/>
+			And sorry I could not travel both<br/>
+			And be one traveler, long I stood. . . .<br/>
+			&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;<br/>
+			Two roads diverged in a wood, and I–<br/>
+			I took the one less traveled by,<br/>
+			And that has made all the difference.<br/>
+			<br/>
+			—&quot;The Road Not Taken&quot; by Robert Frost</p>
+			]]>
+		  </text>
+		</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>If you decided to buy a doughnut on your way to school, which of the following would best represent the opportunity cost of your decision to buy the doughnut?</question>
+        <answers>
+          <answer correct="true">The after-school snack you could have bought with the same money</answer>
+		  <answer>Your college education</answer>
+		  <answer>Three hours you could have spent studying for a test</answer>
+		  <answer>The time you worked to earn the money to pay for the doughnut</answer>
+		  <answer>The doughnut you bought</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Why must entrepreneurs consider opportunity cost when deciding whether to open a business?</question>
+        <answers>
+          <answer>Opportunity costs are generally higher than production costs.</answer>
+		  <answer>Opportunity costs add to the profit of the company.</answer>
+		  <answer>Entrepreneurs must ensure that the costs outweigh the benefits of the project.</answer>
+		  <answer>Consumers will not buy the product if the company is not profitable.</answer>
+          <answer correct="true">Entrepreneurs are giving up the ability to use their time and money for another project.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these common sayings does NOT illustrate a choice involving an opportunity cost?</question>
+        <answers>
+          <answer>"There is no such thing as a free lunch."</answer>
+		  <answer>"You can't have your cake and eat it, too."</answer>
+          <answer correct="true">"I can have the best of both worlds."</answer>
+		  <answer>"I'm on the horns of a dilemma."</answer>
+		  <answer>"Choosing the lesser of two evils."</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Even a product that is supposedly "free" to consumers involves an opportunity cost because</question>
+        <answers>
+          <answer>the firm that produced the product always increases its profit from such "giveaways."</answer>
+          <answer correct="true">the resources used to make the product could have been used to make other things.</answer>
+		  <answer>"free" products are generally produced at a higher cost than other products.</answer>
+		  <answer>consumers will be less likely to buy products from that producer in the future.</answer>
+		  <answer>the product would have been thrown away if it hadn't been given to consumers.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-5_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

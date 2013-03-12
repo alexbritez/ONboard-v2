@@ -1,0 +1,435 @@
+<shell title="Preview to Government and Politics">
+
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m6-4_s1</video>
+    <credits>(l)Peter Grindley/Photographer's Choice/Getty Images, (cl)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (cr)Digital Vision/Photodisc/Getty Images, (r)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s2</video>
+    <credits>(tr)Comstock/Getty Images, (1)Peter Grindley/Photographer's Choice/Getty Images, (2)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s3</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="6_Activity_Interactivity">
+	  <content>
+       <header>Enumerated Powers</header>
+       <instruction>Powers specifically given to Congress by Article I, Section 8, of the U.S. Constitution</instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M06_04_06A.jpg</url>
+  	<image>USGov_m6-4_s4.jpg</image>
+	  <audio>USGov_m6-4_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which type of enumerated power is Congress exercising when it governs Washington, D.C.?</question>
+        <answers>
+          <answer>Judicial power</answer>
+          <answer>Economic power</answer>
+          <answer>National security power</answer>
+          <answer>Regulatory power</answer>
+          <answer correct="true">Administrative power</answer>
+        </answers>
+		<figure>USGov_m6-4_s5_view2.jpg</figure>
+		<feedbackAudio>USGov_m6-4_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-4_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s6</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s7</video>
+    <credits>(tr)Comstock/Getty Images, (c)Roger L. Wollenberg/Bloomberg/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m6-4_s8.jpg</image>
+      <hotspots>
+        <hotspot title="Head of State" dynamic="true" x="24" y="8">
+          <![CDATA[
+            <h1>Head of State</h1>
+            <p>The president represents the nation and performs many ceremonial roles.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Chief Executive" dynamic="true" x="240" y="8">
+          <![CDATA[
+            <h1>Chief Executive</h1>
+            <p>The president uses several tools to see that the laws of Congress are carried out, such as issuing executive orders, appointing people to important offices in the executive and judicial branches, and refusing to allow a federal department or agency to spend money Congress has appropriated.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Chief Legislator" dynamic="true" x="460" y="8">
+          <![CDATA[
+            <h1>Chief Legislator</h1>
+            <p>The president has a large staff to help write legislation, and the staff also presents to Congress a suggested budget and an annual economic report.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Chief Diplomat" dynamic="true" x="24" y="344">
+          <![CDATA[
+            <h1>Chief Diplomat</h1>
+            <p>The president directs the foreign policy of the United States — negotiating treaties, making executive agreements, and recognizing foreign governments.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Commander in Chief" dynamic="true" x="106" y="144">
+          <![CDATA[
+            <h1>Commander in Chief</h1>
+            <p>The president shares with Congress the power to make war. The president may also use the military to control serious turmoil in the nation caused by riots or natural disasters.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Economic Planner" dynamic="true" x="460" y="344">
+          <![CDATA[
+            <h1>Economic Planner</h1>
+            <p>The president's staff presents to Congress a suggested budget and an annual economic report.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Political Party Leader" dynamic="true" x="240" y="344">
+          <![CDATA[
+            <h1>Political Party Leader</h1>
+            <p>Presidents appoint members of their party to government jobs. Political patronage rewards the people who have helped get a president elected.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m6-4_s8</audio>
+    <credits><![CDATA[(tr)Comstock/Getty Images, (c)Diana Walker/Time &amp; Life Pictures/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.]]></credits>
+  </scene>
+
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s9</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="10" type="9_Activity_Image_Rollclick">
+   <content>
+   </content>
+   <activity type="image">
+      <image>USGov_m6-4_s10.jpg</image>
+      <hotspots>
+        <hotspot title="Cabinet Departments" dynamic="true" x="24" y="8">
+          <![CDATA[
+            <h1>Cabinet Departments</h1>
+            <p style="font-size:95%">The 15 Cabinet departments include the Departments of Defense, State, Treasury, Interior, Agriculture, Justice, Commerce, Labor, Housing and Urban Development, Transportation, Energy, Health and Human Services, Education, Veterans Affairs, and Homeland Security. Each department has bureaus or agencies within it. The president appoints each department's secretary, undersecretary, and assistant secretaries.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Independent Agencies" dynamic="true" x="460" y="8">
+          <![CDATA[
+            <h1>Independent Agencies</h1>
+            <p>The federal bureaucracy includes more than 100 independent agencies created by Congress that are not part of the Cabinet departments. Examples of independent agencies include the Social Security Administration, the National Aeronautics and Space Administration, and the Central Intelligence Agency.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Government Corporations" dynamic="true" x="24" y="344">
+          <![CDATA[
+            <h1>Government Corporations</h1>
+            <p>Some independent agencies are government corporations set up and owned by the government to perform commercial activities, such as the Tennessee Valley Authority.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Regulatory Commissions" dynamic="true" x="460" y="344">
+          <![CDATA[
+            <h1>Regulatory Commissions</h1>
+            <p>Regulatory commissions are independent agencies that make rules for industries and businesses and bring violators of those rules to court. Regulatory commissioners do not report to the president. To keep regulatory commissions impartial, they are independent of all three branches of government.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+   <audio>USGov_m6-4_s10</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Digital Vision/Photodisc/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s11</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+   <content>
+   </content>
+   <activity type="image">
+      <image>USGov_m6-4_s12.jpg</image>
+      <hotspots>
+        <hotspot title="&lt;em&gt;Miranda&lt;/em&gt; v. &lt;em&gt;Arizona&lt;em&gt;" dynamic="true" x="24" y="8">
+          <![CDATA[
+            <h1><em>Miranda</em> v. <em>Arizona</em></h1>
+            <p><em>Miranda</em> v. <em>Arizona</em> (1966) prohibited interrogating suspects of a crime without first informing them of their rights as accused persons.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="&lt;em&gt;Epperson&lt;/em&gt; v. &lt;em&gt;Arkansas&lt;/em&gt;" dynamic="true" x="460" y="344">
+          <![CDATA[
+            <h1><em>Epperson</em> v. <em>Arkansas</em></h1>
+            <p><em>Epperson</em> v. <em>Arkansas</em> (1968) prohibited banning the teaching of evolution in public school.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="&lt;em&gt;Gideon&lt;/em&gt; v. &lt;em&gt;Wainwright&lt;/em&gt;" dynamic="true" x="24" y="344">
+          <![CDATA[
+            <h1><em>Gideon</em> v. <em>Wainwright</em></h1>
+            <p><em>Gideon</em> v. <em>Wainwright</em> (1963) prohibited trials of accused persons in capital cases without providing them appointed counsel.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="&lt;em&gt;Mapp&lt;/em&gt; v. &lt;em&gt;Ohio&lt;/em&gt;" dynamic="true" x="460" y="8">
+          <![CDATA[
+            <h1><em>Mapp</em> v. <em>Ohio</em></h1>
+            <p><em>Mapp</em> v. <em>Ohio</em> (1962) prohibited admitting evidence gained by illegal searches into a trial.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+   <audio>USGov_m6-4_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (c)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="13" type="11_Activity_Drag_List">
+    <matchingInstructions><![CDATA[Match the items on the left to the correct areas on the right.]]></matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Makes treaties</match>
+        <match id="2">Interprets laws</match>
+        <match id="3">Approves treaties</match>
+        <match id="4">Passes federal laws</match>
+        <match id="5">Appoints judges</match>
+        <match id="6">Creates lower federal courts</match>
+		<match id="7">Tries cases between states</match>
+        <match id="8">Serves as commander in chief</match>
+        <match id="9">Reviews statutes</match>
+      </matches>
+      <drops title="Executive Branch">1,5,8</drops>
+      <drops title="Legislative Branch">3,4,6</drops>
+	  <drops title="Judicial Branch">2,7,9</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m6-4_s13</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="14" type="6_Activity_Interactivity">
+	  <content>
+       <header>Separation of Powers And Checks and Balances</header>
+       <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_06A.jpg</url>
+  	<image>USGov_m6-4_s14.jpg</image>
+	  <audio>USGov_m6-4_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (c)ImageDJ/Alamy, (bl)Charles Smith/Corbis, (br)Hisham F. Ibrahim/Photodisc/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="15" type="7_Activity_Drag_Drop">
+   <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+   <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+       <matches title="CHECKS">
+           <match id="1">Legislative check on judicial</match>
+           <match id="2">Judicial check on executive</match>
+           <match id="3">Legislative check on executive</match>
+           <match id="4">Executive check on judicial</match>
+		   <match id="5">Judicial check on legislative</match>
+           <match id="6">Executive check on legislative</match>
+       </matches>
+       <drops title="ACTIONS" children-styles="margin-bottom: 0.1em;">
+           <drop correct="1"><![CDATA[Impeach judges]]></drop>
+           <drop correct="6"><![CDATA[Veto bills]]></drop>
+           <drop correct="2"><![CDATA[Declare executive orders unconstitutional]]></drop>
+           <drop correct="3"><![CDATA[Pass laws that create executive agencies]]></drop>
+		   <drop correct="5"><![CDATA[Review statutes]]></drop>
+           <drop correct="4"><![CDATA[Pardon lawbreakers]]></drop>
+       </drops>
+   </matching>
+   <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+   <audio>USGov_m6-4_s15</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="16" type="3_txt_img_reading">
+   <content>
+       <header italic="false">The President and Congress</header>
+       <text>
+           <![CDATA[
+           <p>
+         The level of cooperation between Congress and the president has varied throughout history. The checks and balances system can often result in a government stalemate. The president may threaten to veto a bill, and Congress may override the veto because states or districts would benefit from the bill's passage. Politics driven by party loyalty also affect relations, especially if one party controls the White House and the other controls the House and Senate.
+        </p>
+        <p>
+Congress dominated policy making the first 150 years of the Republic. Several strong presidents have challenged congressional supremacy, however. In times of crisis, Congress has given extra powers to the president. The National Emergencies Act sets procedures for how and when a state of emergency exists. The president plans the national budget, but the Congressional Budget Office provides financial expertise to analyze the budget.
+           </p>
+           ]]>
+       </text>
+   </content>
+   <audio>USGov_m6-4_s16</audio>
+	 <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s17</video>
+    <credits>(tr)Comstock/Getty Images, (c)Craig Sands/The Washington Post/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>USGov_m6-4_s18</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="19" type="Activity_Multiple_Choice">
+   <instruction>Click on the correct answer.</instruction>
+   <multiple_choice>
+       <multiple hasFigure="true">
+           <question>According to the diagram, what do interest groups provide to Congress?</question>
+           <answers>
+               <answer correct="true">Electoral support</answer>
+               <answer>Friendly legislation</answer>
+               <answer>Special favors</answer>
+               <answer>Choices about policy</answer>
+               <answer>Oversight</answer>
+           </answers>
+           <figure verticalAlign="true">USGov_m6-4_s19_view.jpg</figure>
+           <feedbackAudio>USGov_m6-4_s19_FB</feedbackAudio>
+       </multiple>
+   </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="20" type="9_Activity_Image_Rollclick">
+   <content>
+   </content>
+   <activity type="image">
+       <image>USGov_m6-4_s20.jpg</image>
+	   <hotspots>
+       	<hotspot title="Mass Media" dynamic="true" x="24" y="344">
+          <![CDATA[
+            <h1>Mass Media</h1>
+            <p>The mass media includes print and broadcast media and the Internet.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Selling Ideas" dynamic="true" x="240" y="344">
+          <![CDATA[
+            <h1>Selling Ideas</h1>
+            <p>Politicians &quot;sell&quot; their ideas and policies to the public through news releases and briefings, press conferences, background stories, leaks, and media events.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Election Season" dynamic="true" x="460" y="344">
+          <![CDATA[
+            <h1>Election Season</h1>
+            <p>During election season, television greatly influences who runs for office, how candidates are nominated, and campaign advertising. Television lets candidates appeal directly to the people through advertising and political debates. TV ads also allow candidates to make their opponents look unappealing.</p>
+          ]]>
+        </hotspot>
+	</hotspots>
+   </activity>
+   <audio>USGov_m6-4_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Scott J. Ferrell/Congressional Quarterly/CQ-Roll Call Group/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+  <scene id="21" type="End_Multiple_Choice">
+  <instruction>Click on the correct answer.</instruction>
+   <multiple_choice>
+       <multiple>
+           <question>The House of Representatives approves treaties.</question>
+           <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>The Senate has a more narrow constituency than the House of Representatives.</question>
+           <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>The executive branch is the lawmaking branch of the federal government.</question>
+           <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>The system in which each government branch has its own responsibilities is called the separation of powers.</question>
+           <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>The executive branch establishes the lower federal courts.</question>
+           <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>The power to impeach judges is a legislative check on the judicial branch.</question>
+           <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>The power to declare presidential acts unconstitutional is a legislative check on the executive branch.</question>
+           <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>Enumerated powers are those specifically given to Congress by Article I, Section 8, of the Constitution.</question>
+           <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>An executive department is an independent agency that has the authority to bring violators of regulations to court.</question>
+           <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>The power of the courts to declare laws unconstitutional is known as judicial review.</question>
+           <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+   </multiple_choice>
+    <audio>USGov_m6-4_s21</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+
+
+</shell>

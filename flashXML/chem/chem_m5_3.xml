@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<XML att1="val1">
+	<Course title="Chemistry">	
+	
+		<Section title="The Mole and Molarity">
+		
+			<SubSection title="Molarity">
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s1.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/dragdrop.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m5-3_s2.xml" photo=""/>	
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s3.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s4.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s5.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s6.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/fill_blank.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m5-3_s7.xml" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s8.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/launch.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m5-3_s9.xml" photo="McGraw-Hill Companies, Inc."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s10.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s11.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/launch.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m5-3_s12.xml" photo="McGraw-Hill Companies, Inc."/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s13.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/fill_blank.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m5-3_s14.xml" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m5-3_s15.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/mc.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m5-3_s16.xml" photo=""/>	
+			</SubSection>
+			
+		
+		</Section>
+
+	</Course>
+</XML>

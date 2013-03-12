@@ -1,0 +1,143 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-1_s17.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[What are the balancing coefficients for the following reaction?<br/><br/>_C<font face='SubScript' size='30'>3</font>H<font face='SubScript' size='30'>8</font>O + _O<font face='SubScript' size='30'>2</font> <font face='CambriaMath' size='30'>→</font> _H<font face='SubScript' size='30'>2</font>O + _CO<font face='SubScript' size='30'>2</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>1, 10, 4, 3</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>2, 10, 8, 6</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>2, 9, 8, 6</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>1, 5, 4, 3</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[What is the coefficient in front of the iron when the reaction shown is correctly balanced?<br/><br/>_Fe + _H<font face='SubScript' size='30'>2</font>SO<font face='SubScript' size='30'>4</font> <font face='CambriaMath' size='30'>→</font> _Fe<font face='SubScript' size='30'>2</font>(SO<font face='SubScript' size='30'>4</font>)<font face='SubScript' size='30'>3</font> + _H<font face='SubScript' size='30'>2</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>2</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>4</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>6</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>8</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Which of the following statements is true regarding reactions that require energy?</qText>
+		<answerButtons>
+			<aBtn>
+				<aText>endothermic, heat is a product</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>endothermic, heat is a reactant</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>exothermic, heat is a product</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>exothermic, heat is a reactant</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[How many perchlorate ions would dissociate in three formula units of Sr(ClO<font face='SubScript' size='30'>4</font>)<font face='SubScript' size='30'>2</font>?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>1</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>5</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>6</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size='26'>Which of the following best represents the net ionic equation for the reaction of aqueous solutions of ammonium chloride and sodium hydroxide to form ammonia, water, and an aqueous solution of sodium chloride?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText><![CDATA[NH<font face='SubScript' size='18'>4</font>Cl + NaOH <font face='CambriaMath' size='18'>→</font> NH<font face='SubScript' size='18'>3</font> + H<font face='SubScript' size='18'>2</font>O + NaCl]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='chemNums' size='18'>8</font> + Cl<font face='SuperScript'>–</font> + Na<font face='SuperScript' size='18'>+</font> + OH<font face='SuperScript'>–</font> <font face='CambriaMath' size='18'>→</font> N<font face='SuperScript' size='18'>3+</font> + 3H<font face='SuperScript' size='18'>3</font><font face='SuperScript'>–</font> + H<font face='SubScript'>2</font>O + Na<font face='SuperScript'>+</font> + Cl<font face='SuperScript'>–</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Na<font face='SuperScript' size='18'>+</font> + Cl<font face='SuperScript'>–</font> <font face='CambriaMath' size='18'>→</font> NaCl]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='chemNums' size='18'>8</font> + OH<font face='SuperScript'>–</font> <font face='CambriaMath' size='18'>→</font> <br/>NH<font face='SubScript' size='18'>3</font> + H<font face='SubScript' size='18'>2</font>O]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

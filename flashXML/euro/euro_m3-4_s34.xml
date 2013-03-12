@@ -1,0 +1,54 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-4_s34.jpg</image>
+		<audio>audio/euro_m3-4_s34.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Uses humor]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Moral message]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Dutch work ethic]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Satirical]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Dutch success]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Exaggeration]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Steadfastness]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="542.45" yCord="207.4" spotScale="100" spotNum="1"/>
+		<dSpot xCord="542.45" yCord="273.25" spotScale="100" spotNum="1"/>
+		<dSpot xCord="542.45" yCord="339.1" spotScale="100" spotNum="1"/>
+		<dSpot xCord="542.45" yCord="405.05" spotScale="100" spotNum="1"/>
+
+		<dSpot xCord="720.95" yCord="207.4" spotScale="100" spotNum="2"/>
+		<dSpot xCord="720.95" yCord="273.25" spotScale="100" spotNum="2"/>
+		<dSpot xCord="720.95" yCord="339.1" spotScale="100" spotNum="2"/>
+		<dSpot xCord="720.95" yCord="405.05" spotScale="100" spotNum="2"/>
+		
+		<dSpot xCord="899.5" yCord="207.4" spotScale="100" spotNum="3"/>
+		<dSpot xCord="899.5" yCord="273.25" spotScale="100" spotNum="3"/>
+		<dSpot xCord="899.5" yCord="339.1" spotScale="100" spotNum="3"/>
+		<dSpot xCord="899.5" yCord="405.05" spotScale="100" spotNum="3"/>
+	</dropSpots>
+</DragDrop>

@@ -1,0 +1,29 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Which is Larger?</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m4-2_s3.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s3.mp3</audio>
+		<popType>4</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Oxygen</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s3_a1.mp3"/>
+			<xCord>895</xCord>
+			<yCord>147</yCord>
+			<width>25</width>
+			<popTitle>Oxygen</popTitle>
+			<popInfo><![CDATA[Wrong]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Sulfur</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s3_a2.mp3"/>
+			<xCord>895</xCord>
+			<yCord>185</yCord>
+			<width>25</width>
+			<popTitle>Sulfur</popTitle>
+			<popInfo><![CDATA[Correct!]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

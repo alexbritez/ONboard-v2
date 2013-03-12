@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-3_s13.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>To what does the "invisible hand" refer? </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the economic advisors employed by the government to increase profits</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the self-regulating force in the economy that allows supply and demand to dictate prices and production</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>a coalition of business owners who collaborate behind the scenes to set prices</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the privy council</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>labor union leaders</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-3_s13_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

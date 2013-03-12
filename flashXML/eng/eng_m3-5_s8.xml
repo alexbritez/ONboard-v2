@@ -1,0 +1,26 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Concluding Paragraphs</p>]]></hText>
+		<qText><![CDATA[<p>The one thing that most concluding paragraphs will have is</p>]]></qText>
+		<correctText><![CDATA[<p>The one thing that most concluding paragraphs will have is a <font face='lc-Bold'>restated thesis.</font> </p>]]></correctText>
+		<haveSource enable="false" word="View" image="images/chem_m1-6_s17.jpg" />
+		<audio>audio/eng_m3-5_s8.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

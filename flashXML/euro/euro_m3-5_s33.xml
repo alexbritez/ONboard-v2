@@ -1,0 +1,60 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-5_s33.jpg</image>
+		<audio>audio/euro_m3-5_s33.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[A]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[B]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[C]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[D]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[E]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[F]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="612.9" yCord="283.45" spotScale="50" spotNum="1"/>
+		<dSpot xCord="969.15" yCord="346" spotScale="50" spotNum="2"/>
+		<dSpot xCord="578.35" yCord="138.55" spotScale="50" spotNum="3"/>
+		<dSpot xCord="734.9" yCord="89.9" spotScale="50" spotNum="4"/>
+		<dSpot xCord="973" yCord="126.95" spotScale="50" spotNum="5"/>
+		<dSpot xCord="606.65" yCord="189.45" spotScale="50" spotNum="6"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

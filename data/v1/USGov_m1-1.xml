@@ -1,0 +1,436 @@
+<shell title="Civics">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m1-1_s1</video>
+    <credits><![CDATA[<span style="font-size:90%">(tr)Comstock/Getty Images, (center left to right)Universal History Archive/Universal Images Group/Getty Images, Universal History Archive/Universal Images Group/Getty Images, Steve Allen/Brand X/Corbis, National Archives and Records Administration, Steve Allen/Brand X/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (b)Comstock/Getty Images.</span>]]></credits>
+  </scene>
+
+  <scene id="2" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">Colonists boycott British goods.</match>
+        <match id="7">Pamphlet persuades colonists to break ties.</match>
+        <match id="1">Americans manage their own affairs.</match>
+        <match id="6">With shots fired, more Patriots emerge.</match>
+        <match id="3">Colonists dump British tea into harbor.</match>
+    		<match id="5">King George sends more troops.</match>
+    		<match id="4">Colonies outraged by "Intolerable" Acts.</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1"><![CDATA[1.The American colonies are separated from Britain by an ocean. <br/>Effect: ___]]></drop>
+        <drop correct="2"><![CDATA[2.To pay off war debts, Britain taxes various goods. <br/>Effect: ___]]></drop>
+        <drop correct="3"><![CDATA[3.Parliament passes the Tea Act to help a British tea company. <br/>Effect: ___]]></drop>
+        <drop correct="4"><![CDATA[4.Parliament passes the Coercive Acts to punish Boston. <br/>Effect: ___]]></drop>
+        <drop correct="5"><![CDATA[5.Colonial leaders demand that King George III restore their rights. <br/>Effect: ___]]></drop>
+		<drop correct="6"><![CDATA[6.British troops and colonists fire shots at Lexington and Concord. <br/>Effect: ___]]></drop>
+		<drop correct="7"><![CDATA[7.Thomas Paine argues for independence in &quot;Common Sense.&quot; <br/>Effect: ___]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-1_s2</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m1-1_s3</video>
+    <credits>(tr)Comstock/Getty Images, (c)Universal History Archive/Universal Images Group/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-1_s4.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="85" y="150">
+          <![CDATA[
+            <h1>Benjamin Franklin</h1>
+            <p>Franklin was a printer, inventor, scientist, humorist, author, ambassador, and statesman. He wrote "Poor Richard's Almanack," which held pithy sayings such as "Early to bed and early to rise, makes a man healthy, wealthy, and wise." He removed some of the more religious overtones of the Declaration.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="260" y="165">
+          <![CDATA[
+            <h1>John Adams</h1>
+            <p>In a letter to a friend, John Adams wrote: "Jefferson proposed to me to make the draft [of the Declaration]. I said, 'I will not. . . you are a Virginian, and a Virginian ought to appear at the head of this business. Reason second, I am obnoxious, suspected, and unpopular. You are very much otherwise. Reason third, you can write ten times better than I can."</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="490" y="25">
+          <![CDATA[
+            <h1>Thomas Jefferson</h1>
+            <p>Jefferson was unhappy that the Continental Congress removed from the Declaration a paragraph about the slave trade. Even so, he was proud of the document. He wrote the epitaph on his tombstone, which reads: "Here was buried Thomas Jefferson, author of the Declaration of American Independence, of the statute of Virginia for religious freedom, and father of the University of Virginia."</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-1_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Universal History Archive/Universal Images Group/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m1-1_s5</video>
+    <credits>(tr)Comstock/Getty Images, (c)Steve Allen/Brand X/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="3">Equality</match>
+        <match id="1">Individualism</match>
+        <match id="5">Social Contract</match>
+        <match id="4">Freedom</match>
+        <match id="2">Democracy</match>
+      </matches>
+      <drops title="">
+        <drop correct="1">The right of the individual to take initiative and to accumulate material goods and property for his or her well-being</drop>
+        <drop correct="2">A form of government in which the people govern</drop>
+        <drop correct="3">The entitlement of all individuals to the same protections under the law</drop>
+        <drop correct="4">The liberty to act and think as you so choose</drop>
+        <drop correct="5">An agreement in which people surrender freedoms in return for government protection of their rights and property</drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-1_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m1-1_s7</video>
+    <credits>(tr)Comstock/Getty Images, (c)Universal History Archive/Universal Images Group/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+            &quot;The state of nature has a law of nature to govern it, which obliges every one: and reason, which is that law, teaches all mankind . . .  that being all <a href="#" data-id="0" class="hotspot">equal</a> and <a href="#" data-id="1" class="hotspot">independent</a> no one ought to harm another in his life, health, <a href="#" data-id="2" class="hotspot">liberty</a>, or possessions. . . .&quot;
+          </p>
+          <p>
+            —From John Locke's <em>Second Treatise on Civil Government</em>
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Equality</em></h1>
+            <p>The state of nature makes everyone equal.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Individualism</h1>
+            <p>People must depend on their own initiative in a state of nature.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Freedom</h1>
+            <p>People have the freedom to act and think as they choose in a state of nature.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-1_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>USGov_m1-1_s9</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Which core value is reflected in the excerpt?</question>
+        <answers>
+          <answer>Individualism</answer>
+          <answer>Democracy</answer>
+          <answer>Equality</answer>
+          <answer correct="true">Social contract</answer>
+          <answer>Liberty</answer>
+        </answers>
+        <figure>
+			<text><![CDATA[
+          <p>
+            &quot;IF man in the state of nature be so free, . . . why will he part with his freedom? . . . [T]he enjoyment of the property he has in this state is very unsafe, very unsecure. This makes him willing to quit a condition, which, however free, is full of fears and continual dangers: and it is not without reason, that he seeks out, and is willing to join in society with others, who are already united, or have a mind to unite, for the mutual preservation of their lives, liberties and estates, which I call by the general name, property.&quot;
+          </p>
+          <p>
+            —From John Locke's <em>Second Treatise on Civil Government</em>
+          </p>
+        ]]></text>
+		</figure>
+        <feedbackAudio>USGov_m1-1_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>USGov_m1-1_s11</video>
+    <credits>(tr)Comstock/Getty Images, (c)DEA PICTURE LIBRARY/De Agostini/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Which core value is reflected in the excerpt?</question>
+        <answers>
+          <answer>Individualism</answer>
+          <answer correct="true">Democracy</answer>
+          <answer>Equality</answer>
+          <answer>Freedom</answer>
+          <answer>Liberty</answer>
+        </answers>
+        <figure>
+			<text><![CDATA[&quot;When any number of men have so consented to make one community or government, they are thereby presently incorporated, and make one body politic, wherein the majority have a right to act and conclude the rest.&quot;]]></text>
+		</figure>
+        <feedbackAudio>USGov_m1-1_s12_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_m1-1_s13</video>
+    <credits>(tr)Comstock/Getty Images, (c)Universal History Archive/Universal Images Group/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p style="font-size: 95%">
+            &quot;The problem is to find a form of association which will <a href="#" data-id="0" class="hotspot">defend and protect with the whole common force</a> the person and goods of each associate, and in which each, while uniting himself with all, <a href="#" data-id="1" class="hotspot">may still obey himself alone</a>, <a href="#" data-id="2" class="hotspot">and remain as free as before.</a>&quot; This is the fundamental problem of which the Social Contract provides the solution. . . .
+          </p>
+          <p style="font-size: 95%">
+            <a href="#" data-id="3" class="hotspot">Duty and interest therefore equally oblige the two contracting parties to give each other help. . . .</a>
+          </p>
+		  <p style="font-size: 95%">
+		  	What then is government? <a href="#" data-id="3" class="hotspot">An intermediate body set up between the subjects and the Sovereign, to secure their mutual correspondence, charged with the execution of the laws</a> and the <a href="#" data-id="2" class="hotspot">maintenance of liberty, both civil and political.</a>
+		  </p>
+          <p style="font-size: 95%">
+            —From Jean-Jacques Rousseau's <em>The Social Contract</em>
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Equality</h1>
+            <p></p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Individualism</h1>
+            <p></p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Freedom</h1>
+            <p></p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Social Contract</h1>
+            <p></p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-1_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="2_Txt_Img_Animation">
+    <video>USGov_m1-1_s15</video>
+    <credits><![CDATA[(tr)Comstock/Getty Images, (c)Mus&eacute;e Carnavalet/Roger-Viollet/The Image Works, (bkgd)Martin Ruegner/Digital Vision/Getty Images.]]></credits>
+  </scene>
+
+  <scene id="16" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>According to Montesquieu, how do monarchs differ from leaders in democratic forms of government?</question>
+        <answers>
+          <answer>Monarchs automatically follow the rule of law.</answer>
+          <answer>Democracies have no virtue.</answer>
+          <answer correct="true">Monarchs believe they are above the law.</answer>
+          <answer>Democratic governments have no executive law.</answer>
+          <answer>Only monarchs can be entrusted with the execution of laws.</answer>
+        </answers>
+        <figure>
+			<text><![CDATA[&quot;[I]t is clear that in a monarchy, where he who commands the execution of the laws generally thinks himself above them, there is less need of virtue than in a popular government, where the person entrusted with the execution of the laws is sensible of his being subject to their direction. . . .&quot;]]></text>
+		</figure>
+        <feedbackAudio>USGov_m1-1_s16_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">Equality</match>
+        <match id="3">Individualism</match>
+        <match id="4">Social Contract</match>
+        <match id="1">Freedom</match>
+        <match id="5">Democracy</match>
+      </matches>
+      <drops title="">
+        <drop correct="1">
+          <![CDATA[
+            "When in the Course of human events, it becomes necessary for one people to <u>dissolve the political bands which have connected them with another,</u> and to assume among the Powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
+          ]]>
+        </drop>
+        <drop correct="2">
+          <![CDATA[
+            <u>We hold these truths to be self-evident, that all men are created equal,</u> that they are
+          ]]>
+        </drop>
+        <drop correct="3">
+          <![CDATA[
+            <u>endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness.</u>
+          ]]>
+        </drop>
+        <drop correct="4">
+          <![CDATA[
+            <u>That to secure these rights, Governments are instituted among Men,</u>
+          ]]>
+        </drop>
+        <drop correct="5">
+          <![CDATA[
+            <u>deriving their just powers from the consent of the governed. . . . "</u>
+          ]]>
+        </drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-1_s17</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p style="font-size: 95%">
+            &quot;<a href="#" data-id="0" class="hotspot">We hold these truths to be self-evident, that all men are created equal,</a> that they <a href="#" data-id="1" class="hotspot">are endowed by their Creator with certain unalienable rights, that among these are life, liberty and the pursuit of happiness.</a> That to secure these rights, governments are instituted among men, deriving their just powers from the consent of the governed. <a href="#" data-id="2" class="hotspot">That whenever any form of government becomes destructive to these ends, it is the right of the people to alter or to abolish it, and to institute new government,</a> laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to affect their safety and happiness. . . .  <a href="#" data-id="3" class="hotspot">But when a long train of abuses and usurpations, pursuing invariably the same object evinces a design to reduce them under absolute despotism, it is their right, it is their duty, to throw off such government,</a> and to provide new guards for their future security.&quot;
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1></h1>
+            <p>Both John Locke and Jean-Jacques Rousseau shared similar beliefs about people's equality. </p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1></h1>
+            <p>John Locke first put forth this idea in his <em>Second Treatise on Government</em>. In the Declaration, Jefferson changes Locke's use of the term &quot;property&quot; to "pursuit of happiness."</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1></h1>
+            <p>This text reflects John Locke's and Rousseau's idea of the &quot;social contract&quot; and is Jefferson's justification for declaring independence.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1></h1>
+            <p>Locke, Rousseau, and Montesquieu shared similar views about absolute monarchies.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-1_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Thomas Jefferson was influenced by which of the following movements?</question>
+        <answers>
+          <answer>Renaissance</answer>
+          <answer>Reformation</answer>
+          <answer>Industrial Revolution</answer>
+          <answer correct="true">Age of Enlightenment</answer>
+          <answer>Great Awakening</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>John Locke, Jean-Jacques Rousseau, and Baron de Montesquieu were</question>
+        <answers>
+          <answer>colonial leaders.</answer>
+          <answer>members of Parliament.</answer>
+          <answer>British generals.</answer>
+          <answer>church leaders.</answer>
+          <answer correct="true">political philosophers.</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The Age of Enlightenment focused mainly on</question>
+        <answers>
+          <answer>war and rebellion.</answer>
+          <answer correct="true">applying logic and reason to social issues.</answer>
+          <answer>preserving the divine right of kings.</answer>
+          <answer>mercantilism and economic growth.</answer>
+          <answer>reform of the Church.</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Which political value is exhibited in this part of the Declaration's conclusion: &quot;We . . . declare, That these United Colonies are, and of Right ought to be Free and Independent States&quot;?</question>
+        <answers>
+          <answer>Social contract</answer>
+          <answer>Equality</answer>
+          <answer>Individualism</answer>
+          <answer correct="true">Freedom</answer>
+          <answer>Democracy</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>In the Declaration's concluding sentence—&quot;[W]e mutually pledge to each other our Lives, our Fortunes and our sacred Honor&quot;—which political value is exhibited?</question>
+        <answers>
+          <answer correct="true">Social contract</answer>
+          <answer>Equality</answer>
+          <answer>Individualism</answer>
+          <answer>Freedom</answer>
+          <answer>Democracy</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m1-1_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

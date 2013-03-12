@@ -1,0 +1,32 @@
+﻿<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p align="center"><font face='c-Bold'>Primary Documents</font></p>]]></hText>
+		<image></image>
+		<audio>audio/euro_m2-5_s11.mp3</audio>
+		<mainText><![CDATA[<p align="center"><font face='c-Bold'>Document 1: “Microscopy” from </font><font face='c-Bold'><font face='t-Italic'>Experimental Philosophy </font></font><font face='c-Bold'>by Henry Power, 1664</font></p><br/><font face='lc-Italic'>Observation XXX</font><br/><font face='lc-Italic'>Of the Little White Eels or Snigs, in Vinegar</font>
+They appear like small Silver-Eels, or little Snigs, and some of them as long as my little finger, constantly wriggling and swimming to and fro with a quick, smart, and restless motion. In which smallest of Animals these things are most remarkable. 
+[T]heir heads and tails are smaller than the rest of their bodies; which is best observed by the microscope, when the liquor wherein they swim is almost spent and dried up, so that their motion thereby is rendered more feeble and weak, or when they lie absolutely dead. 
+Now though heat hath that killing property, yet it seems that cold hath not: for I have taken a jar-glass full of the said vinegar, and by applying snow and salt to it, I have artificially frozen all the said liquor into a mass of ice (wherein all those animals it seemed lay incrystalled) though I could discover none of them in it . . . so that now I gave them [up] for gone for ever: yet when I came again (about two or three hours after,) to uncongeal the liquor, by keeping the glass in my warm hand, when the vinegar was again returned to its former liquidity, all my little animals made their reappearance, and danced and frisked about as lively as ever. 
+<br/><p align="center"><font face='c-Bold'>Document 2: First Charter of the Royal Society [of England], 1662</font></p>
+Charles the Second, by the grace of God King of England, Scotland, France, and Ireland, Defender of the Faith &c., to all to whom these present Letters shall come, greeting. 
+We have long and fully resolved Ourself to extend not only the boundaries of the Empire, but also the very arts and sciences. Therefore we look with favour upon all forms of learning, but with particular grace we encourage philosophical studies, especially those which by actual experiments attempt either to shape out a new philosophy or to perfect the old. In order, therefore, that such studies, which have not hitherto been sufficiently brilliant in any part of the world, may shine conspicuously amongst our people, and that at length the whole world of letters may always recognize us not only as the Defender of the Faith by also as the universal lover and patron of every king of truth.]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

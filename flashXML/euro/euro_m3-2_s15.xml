@@ -1,0 +1,66 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-2_s15.jpg</image>
+		<audio>audio/euro_m3-2_s15.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<p>Rulers have the right to break the law for the good of the country. </p>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<p>Only kings have the right to be above the law. </p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Chief ministers have the right to be above the law. </p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Starting a war is fine if it’s in the best interest of king and country.  </p>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>The king should listen to and follow the ideas of his advisors. </p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>The king had more power than any of his subjects. </p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="575.45" yCord="170.05" spotScale="70" spotNum="1"/>
+		<dSpot xCord="575.45" yCord="216.95" spotScale="70" spotNum="1"/>
+		<dSpot xCord="575.45" yCord="263.85" spotScale="70" spotNum="1"/>
+		
+		<dSpot xCord="869.45" yCord="170.05" spotScale="70" spotNum="2"/>
+		<dSpot xCord="869.45" yCord="216.95" spotScale="70" spotNum="2"/>
+		<dSpot xCord="869.45" yCord="263.85" spotScale="70" spotNum="2"/>
+		
+		<dSpot xCord="724.85" yCord="356" spotScale="70" spotNum="3"/>
+		<dSpot xCord="724.85" yCord="402.9" spotScale="70" spotNum="3"/>
+		<dSpot xCord="724.85" yCord="449.8" spotScale="70" spotNum="3"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

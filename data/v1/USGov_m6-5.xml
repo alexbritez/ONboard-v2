@@ -1,0 +1,405 @@
+<shell>
+
+  <scene id="1" type="1_Module_Intro">
+	  <video>USGov_m6-5_s1</video>	
+		<credits>
+			USGov_m6-5_s1	(l)New York Times Co./Archive Photos/Getty Images, (cl)Bettmann/Corbis, (c)Steve Allen/Brand X Pictures/Getty Images, (cr)Norma Jean Gargasz/Alamy, (r)DoD photo by Tech. Sgt. James L. Harper Jr., U.S. Air Force, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m6-5_s2</video>
+		<credits>
+			(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.
+		</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+   <video>USGov_m6-5_s3</video>
+		<credits>
+			(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="4" type="9_Activity_Image_Rollclick">
+	   <content>
+       <header>Social Welfare Policy</header>
+       <instruction><![CDATA[
+	   <ul>
+			<li>New Deal</li>
+			<li>Great Society</li>
+			<li>2010 Health Care Reform Bill</li>
+	   </ul>
+	   ]]></instruction>
+   </content>
+   <activity type="image">
+       <image>USGov_m6-5_s4.jpg</image>
+       <hotspots>
+           <hotspot dynamic="true" x="86" y="344">
+               <![CDATA[
+               <h1>New Deal</h1>
+               <p>The New Deal was a series of economic programs implemented between 1933 and 1936. These included the Civilian Conservation Corps (CCC), which provided jobs such as planting trees and fighting fires. The Works Progress Administration (WPA) hired workers and artists to build and beautify highways, bridges, parks, and public buildings. Social Security—a government pension program for the elderly, disabled, and others—was also established.</p>
+               ]]>
+           </hotspot>
+           <hotspot dynamic="true" x="292" y="344">
+               <![CDATA[
+               <h1>Great Society</h1>
+               <p>The Great Society was a set of domestic reform programs promoted by President Lyndon B. Johnson. The main goals of the Great Society were to eliminate poverty and to end racial injustice. The program included greater federal support for education and elderly healthcare, as well as reform of the voting process to help protect minority rights.</p>
+               ]]>
+           </hotspot>
+		   <hotspot dynamic="true" x="506" y="344">
+               <![CDATA[
+               <h1>Affordable Care Act</h1>
+               <p>In 2010, Congress passed legislation that reformed health insurance coverage and expanded healthcare to some 30 million uninsured Americans.</p>
+               ]]>
+           </hotspot>
+       </hotspots>
+   </activity>
+   <audio>USGov_m6-5_s4</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (cl)New York Times Co./Archive Photos/Getty Images, (c)Bettmann/Corbis, (cr)Ron Sachs/CNP/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="5" type="9_Activity_Image_Rollclick">
+   <content>
+       <header>Challenges to Public Policy Initiatives</header>
+       <instruction><![CDATA[
+	   <ul>
+	   	<li><strong>State opposition</strong>: States may oppose federal policies because they require greater state spending.</li>
+		<li><strong>Court challenges</strong>: The constitutionality of legislation has been challenged in court.</li>
+		<li><strong>Opposition party challenges</strong>: Members of the opposing political party have launched initiatives to overturn reform legislation.</li>
+	   </ul>
+	   ]]></instruction>
+   </content>
+   <activity type="image">
+       <image>USGov_m6-5_s5.jpg</image>
+       <hotspots>
+           <hotspot dynamic="true" x="129" y="296">
+               <![CDATA[
+               <h1>Contract with America</h1>
+               <p>The Contract with America was a document signed in 1994 by Republican Party members in Congress led by Newt Gingrich. The Contract with America detailed the legislative actions the Republicans promised to take if they became the majority party in the U.S. House of Representatives.</p>
+               ]]>
+           </hotspot>
+       </hotspots>
+   </activity>
+   <audio>USGov_m6-5_s5</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (c)Erik Freeland/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.
+		</credits>
+  </scene>
+
+  <scene id="6" type="9_Activity_Image_Rollclick">
+	   <content>
+       <header>Click to Explore</header>
+       <instruction>Click on the 'hot spots' to view additional information.</instruction>
+   </content>
+   <activity type="text">
+       <text><![CDATA[
+	   	<p style="font-size:90%">&quot;No business which depends for its existence on paying less than <a href="#" data-id="0" class="hotspot"><strong>living wages</strong></a> to its workers has any right to continue in this country.&quot; —Franklin Delano Roosevelt</p>
+		
+		<p style="font-size:90%">&quot;I am concerned about the whole man. I am concerned about what the people, <a href="#" data-id="1" class="hotspot"><strong>using their government as an instrument and a tool</strong></a>, can do toward building the whole man, which will mean a better society and a better world.&quot;<br/> 
+		—Lyndon Baines Johnson</p>
+		
+		<p style="font-size:90%">&quot;The 1990s must be a decade of invention, innovation, creativity and reform. We must <a href="#" data-id="2" class="hotspot"><strong>decentralize power and programs</strong></a> away from Washington. We must liberate individuals, neighborhoods and local and state governments so they can experiment with new and better methods of getting the job done.&quot; —Newt Gingrich</p>
+	   ]]></text>
+       <hotspots>
+           <hotspot>
+               <![CDATA[
+               <h1>living wages</h1>
+               <p>Wages on which it is possible for an individual and his or her family to live according to at least minimum, customary standards.</p>
+               ]]>
+           </hotspot>
+           <hotspot>
+               <![CDATA[
+               <h1>using their government</h1>
+               <p>Johnson states that government should be a tool to help build up its people.</p>
+               ]]>
+           </hotspot>
+		   <hotspot>
+               <![CDATA[
+               <h1>decentralize power and programs</h1>
+               <p>Government power and programs should be distributed away from central government to the states.</p>
+               ]]>
+           </hotspot>
+       </hotspots>
+   </activity>
+   <audio>USGov_m6-5_s6</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+   <video>USGov_m6-5_s7</video>
+		<credits>
+			(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+   <video>USGov_m6-5_s8</video>
+		<credits>
+			(tr)Comstock/Getty Images, (1)FoodIgredients/Alamy, (2)Steve Allen/Brand X Pictures/Getty Images, (3)Peter Cade/Iconica/Getty Images, (4)PhotoLink/Photodisc/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+   <video>USGov_m6-5_s9</video>
+		<credits>
+			(tr)Comstock/Getty Images, (1)Steve Allen/Brand X Pictures/Getty Images, (2)Bettmann/Corbis, (3)Norma Jean Gargasz/Alamy, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+   <video>USGov_m6-5_s10</video>
+		<credits><![CDATA[(tr)Comstock/Getty Images, (l)Wally McNamee/Corbis, (r)Dirck Halstead/Time &amp; Life Pictures/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.]]></credits>
+  </scene>
+
+  <scene id="11" type="7_Activity_Drag_Drop">
+   <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+   <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+       <matches title="">
+           <match id="6">Fiscal Policy</match>
+           <match id="3">Reaganomics</match>
+           <match id="4">Living wages</match>
+           <match id="5">New Deal</match>
+		   <match id="2">Great Society</match>
+           <match id="1">Domestic Policy</match>
+       </matches>
+       <drops title="" children-styles="margin-bottom: 0.1em;">
+           <drop correct="1">Economic and social policies that occur at home and affect the American people as a whole</drop>
+           <drop correct="2">Set of domestic reform programs promoted by President Lyndon B. Johnson</drop>
+           <drop correct="3">Economic policies that included tax cuts and large defense spending</drop>
+           <drop correct="4">Amount necessary for an individual and his or her family to live according to minimum, customary standards</drop>
+		   <drop correct="5">Domestic reform policies promoted by President Franklin D. Roosevelt</drop>
+           <drop correct="6">Use of government taxation policies to stabilize the economy</drop>
+       </drops>
+   </matching>
+   <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+   <audio>USGov_m6-5_s11</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.
+		</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+  <video>USGov_m6-5_s12</video>
+		<credits>
+			(tr)Comstock/Getty Images, (1)Specialist Seaman Brian Read Castillo/US Navy, (2)DoD photo by Tech. Sgt. James L. Harper Jr., U.S. Air Force, (bkgd)Martin Ruegner/Digital Vision/Getty Images.
+		</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+  <video>USGov_m6-5_s13</video>
+		<credits>
+			(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images
+		</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+   <content>
+       <header>The President, Congress, and Foreign Policy</header>
+       <instruction></instruction>
+   </content>
+   <activity type="image">
+       <image>USGov_m6-5_s14.jpg</image>
+       <hotspots>
+           <hotspot dynamic="true" x="133" y="8" audio="USGov_m6-5_s14_president">
+               <![CDATA[
+               <h1>The President and Foreign Policy</h1>
+               <ul>
+			   	<li>Directs U.S. foreign policy</li>
+				<li>Serves as commander in chief</li>
+				<li>Appoints ambassadors</li>
+				<li>Makes treaties</li>
+				<li>Works with executive departments and other agencies on diplomacy and military activities</li>
+			</ul>
+               ]]>
+           </hotspot>
+           <hotspot dynamic="true" x="451" y="8" audio="USGov_m6-5_s14_congress">
+               <![CDATA[
+               <h1>Congress and Foreign Policy</h1>
+               <ul>
+			   	<li>Holds the power to declare war</li>
+				<li>Appropriates money</li>
+				<li>Passes joint resolutions</li>
+				<li>Senate ratifies treaties and confirms diplomatic appointments</li>
+			</ul>
+               ]]>
+           </hotspot>
+       </hotspots>
+   </activity>
+   <audio>USGov_m6-5_s14</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (l)Rod Aydelotte-Pool/Getty Images News/Getty Images, (r)Pool/Reuters/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.
+		</credits>
+  </scene>
+
+  <!--<scene id="15" type="9_Activity_Image_Rollclick">
+	   <content>
+       <header>Click to Explore</header>
+       <instruction>Click on the 'hot spots' to view additional information.</instruction>
+   </content>
+   <activity type="text">
+       <text><![CDATA[
+	   	<p>President Obama has committed himself and his Administration from the beginning of his presidency to a <a href="#" data-id="0" class="hotspot"><strong>foreign policy</strong></a> that ensures the safety of the American people. . . . We will use all elements of American power to achieve objectives, and consult closely with the Congress so that our policies may have the broad and <a href="#" data-id="1" class="hotspot"><strong>bipartisan</strong></a> support that makes them most effective. Finally, while there are instances and individuals who can be met only by force, the United States will be prepared to listen to and talk with our <a href="#" data-id="2" class="hotspot"><strong>adversaries</strong></a> in order to advance our interests."</p>
+	   ]]></text>
+       <hotspots>
+           <hotspot>
+               <![CDATA[
+               <h1>foreign policy</h1>
+               <p>Strategies chosen by a political state to safeguard its national interests and to achieve its goals within an international framework</p>
+               ]]>
+           </hotspot>
+           <hotspot>
+               <![CDATA[
+               <h1>bipartisan</h1>
+               <p>Relating to or involving members of two parties in a government</p>
+               ]]>
+           </hotspot>
+		   <hotspot>
+               <![CDATA[
+               <h1>adversaries</h1>
+               <p>The enemy; One that contends with, opposes, or resists</p>
+               ]]>
+           </hotspot>
+       </hotspots>
+   </activity>
+   <audio>USGov_m6-5_s15</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>-->
+
+  <scene id="15" type="2_Txt_Img_Animation">
+    <video>USGov_m6-5_s15</video>
+		<credits>
+			(tr)Comstock/Getty Images, (1)PhotoLink/Photodisc/Getty Images, (2)Huntstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.
+		</credits>
+  </scene>
+
+  <scene id="16" type="9_Activity_Image_Rollclick">
+   <content>
+   </content>
+   <activity type="image">
+       <image>USGov_m6-5_s17.jpg</image>
+       <hotspots>
+           <hotspot dynamic="true" x="176" y="8" audio="USGov_m6-5_s17_hotspot1">
+               <![CDATA[
+               <p>Most interest groups try to influence government policy by lobbying, or making direct contact with lawmakers or other government leaders. Lobbyists provide Congress with facts and data about the policies they want implemented. They also provide information through congressional testimony and might help draft bills.</p>
+               ]]>
+           </hotspot>
+           <hotspot dynamic="true" x="292" y="8" audio="USGov_m6-5_s17_hotspot2">
+               <![CDATA[
+               <p>Interest groups use television, the Internet, radio, magazine, and newspaper advertising to create public support for their causes. They also may resort to court action or seek a constitutional amendment to achieve their goals.</p>
+               ]]>
+           </hotspot>
+		   <hotspot dynamic="true" x="416" y="8" audio="USGov_m6-5_s17_hotspot3">
+               <![CDATA[
+               <p>Interest groups set up political action committees (or PACs) to collect money and provide financial support for political candidates. They use their money to directly influence election outcomes.</p>
+               ]]>
+           </hotspot>
+       </hotspots>
+   </activity>
+   <audio>USGov_m6-5_s17</audio>	
+		<credits>
+			(tr)Comstock/Getty Images, (c)Kari Goodnough/Bloomberg/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images. 
+		</credits>
+  </scene>
+
+  <scene id="17" type="Activity_Multiple_Choice">
+   <instruction>Click on the correct answer.</instruction>
+   <multiple_choice>
+       <multiple hasFigure="true">
+           <question>According to the diagram, what does Congress provide to interest groups?</question>
+           <answers>
+               <answer>Electoral support</answer>
+               <answer correct="true">Friendly legislation</answer>
+               <answer>Special favors</answer>
+               <answer>Choices about policy</answer>
+               <answer>Funding</answer>
+           </answers>
+           <figure>USGov_m6-5_s18_view.jpg</figure>
+           <feedbackAudio>USGov_m6-5_s18_FB</feedbackAudio>
+       </multiple>
+   </multiple_choice>
+   <audio>USGov_m6-5_s18</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>
+
+  <scene id="18" type="End_Multiple_Choice">
+   <instruction>Click on the correct answer.</instruction>
+   <multiple_choice>
+       <multiple>
+           <question>Which of the following is NOT a foreign policy power of the president?</question>
+           <answers>
+               <answer correct="true">Declare war</answer>
+               <answer>Serve as commander in chief</answer>
+               <answer>Appoint ambassadors</answer>
+               <answer>Make treaties</answer>
+               <answer>Work with executive departments and other agencies on diplomacy and military activities</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>Which of the following is NOT a foreign policy power of Congress?</question>
+           <answers>
+               <answer>Declare war</answer>
+               <answer>Appropriate money</answer>
+               <answer>Ratify treaties</answer>
+               <answer correct="true">Appoint ambassadors</answer>
+               <answer>Confirm diplomatic appointments</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question><![CDATA[The goals of the Framers of the Constitution included which of the following?<br/>
+			I.	Form a more perfect union<br/>
+			II.	Establish justice<br/>
+			III.	Insure domestic tranquility<br/>
+			IV.	Wage war against foreign enemies<br/>
+			V.	Promote the general welfare
+			]]></question>
+           <answers>
+               <answer>All of these</answer>
+               <answer>I and II only</answer>
+               <answer>II, III, and IV only</answer>
+               <answer correct="true">I, II, III, and V only</answer>
+               <answer>V only</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>Which of the following is NOT part of domestic public policy?</question>
+           <answers>
+               <answer>Public programs for providing for citizens' basic needs</answer>
+               <answer>Income security programs</answer>
+               <answer>Food policy</answer>
+               <answer correct="true">Foreign aid</answer>
+               <answer>Health policy</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+	   <multiple>
+           <question>Who said "We must decentralize power and programs away from Washington"?</question>
+           <answers>
+               <answer correct="true">Newt Gingrich</answer>
+               <answer>Bill Clinton</answer>
+               <answer>Barack Obama</answer>
+               <answer>Lyndon Johnson</answer>
+               <answer>Franklin Roosevelt</answer>
+           </answers>
+           <feedbackAudio></feedbackAudio>
+       </multiple>
+   </multiple_choice>
+   <audio>USGov_m6-5_s19</audio>
+		<credits>
+			(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.		
+		</credits>
+  </scene>
+
+
+</shell>

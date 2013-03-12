@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Calculating Rates of Inflation">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m3-4_s1</video>
+    <credits>(c)Ingram Publishing/SuperStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Tom Hopkins/Aurora/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s3</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>During which year did the United States experience double-digit inflation (10 percent or higher)?</question>
+        <answers>
+          <answer>1970</answer>
+		  <answer>1976</answer>
+          <answer correct="true">1979</answer>
+		  <answer>1986</answer>
+		  <answer>1990</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m3-4_s5_view.jpg</figure>
+        <feedbackAudio>econ_m3-4_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Steve Cole/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="11" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>What causes inflation?</header>
+      <instruction><![CDATA[
+	  <ul>
+	  	<li>Demand-pull inflation</li>
+		<li>Cost-push inflation</li>
+		<li>Wage-price spiral</li>
+	  </ul>
+	  ]]></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m3-4_s11.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="11" y="45">
+			<![CDATA[
+				<h1>Demand-pull inflation</h1>
+				<p><strong>Demand-pull inflation</strong> results when all sectors in the economy try to buy more goods than the economy can produce. Prices are &quot;pulled up&quot; by excessive demand.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="11" y="146">
+			<![CDATA[
+				<h1>Example of demand-pull effect</h1>
+				<p>When corn was demanded for ethanol fuel, there was a shortage of corn for animal feed. The shortage resulted in higher prices for corn, which resulted in higher prices for animal feed, which resulted in higher prices for steak.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="223" y="45">
+			<![CDATA[
+				<h1>Cost-push inflation</h1>
+				<p><strong>Cost-push inflation</strong> results from rising input costs, especially energy costs. More expensive inputs &quot;push up&quot; the cost of products for manufacturers, and thus cause inflation. </p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="223" y="146">
+			<![CDATA[
+				<h1>Example of cost-push effect</h1>
+				<p>Rising oil prices raise the prices of everything from plastics and gasoline to shipping costs, airline fares, and cosmetics.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="430" y="45">
+			<![CDATA[
+				<h1>Wage-price spiral</h1>
+				<p>According to the <strong>wage-price spiral</strong>, inflation occurs because higher prices force workers to ask for higher wages. If workers get the higher wages, producers try to recover that cost with higher prices. As each side tries to improve its position, the rate of inflation keeps rising.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m3-4_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (l)Tom Hopkins/Aurora/Getty Images, (c)BananaStock/Jupiterimages, (r)Ingram Publishing, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>econ_m3-4_s12</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which country did not experience inflation during 1999?</question>
+        <answers>
+          <answer>U.S.</answer>
+    		  <answer>Italy</answer>
+    		  <answer>France</answer>
+    		  <answer>Germany</answer>
+          <answer correct="true">Japan</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m3-4_s13_view.jpg</figure>
+        <feedbackAudio>econ_m3-4_s13_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="14" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>If the CPI for this year is 280 and the CPI for last year was 250, what is the rate of inflation for this year?</question>
+        <answers>
+          <answer>0.12%</answer>
+          <answer correct="true">12%</answer>
+    		  <answer>20%</answer>
+    		  <answer>120%</answer>
+    		  <answer>250%</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>In September 2011, the inflation rate was reported as 3.87%. What can you conclude from this figure?</question>
+        <answers>
+          <answer>The inflation rate will be even higher in September 2012.</answer>
+		  <answer>The purchasing power of every consumer increased.</answer>
+		  <answer>"Nominal" income did not have to be adjusted for inflation.</answer>
+          <answer correct="true">The CPI had increased from the previous year.</answer>
+		  <answer>"Real" income rose significantly.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>If the CPI for this year is 112 and the CPI for last year was 122, what is the rate of inflation for this year?</question>
+        <answers>
+          <answer>0.0819%</answer>
+		  <answer>8.19%</answer>
+		  <answer>0.819%</answer>
+		  <answer>–0.819%</answer>
+          <answer correct="true">–8.19%</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which type of inflation results when all sectors in the economy try to buy more goods than the economy can produce?</question>
+        <answers>
+          <answer correct="true">Demand-pull inflation</answer>
+		  <answer>Cost-push inflation</answer>
+		  <answer>Limited monetary growth</answer>
+		  <answer>Wage-price spiral</answer>
+		  <answer>Hyperinflation</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which type of inflation is a result of more expensive inputs?</question>
+        <answers>
+          <answer>Demand-pull inflation</answer>
+          <answer correct="true">Cost-push inflation</answer>
+		  <answer>Excessive monetary growth</answer>
+		  <answer>Wage-price spiral</answer>
+		  <answer>Hyperinflation</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-4_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+</shell>

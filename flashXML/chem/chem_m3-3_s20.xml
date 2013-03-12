@@ -1,0 +1,143 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-3_s20.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>During which of the following phase changes do the particles gain energy?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Condensation]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Deposition]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Freezing]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Sublimation]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-3_s20_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>Which of the following is an example of an intensive property?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Conductivity ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Mass]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Shape]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Volume]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-3_s20_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size='26'><p>According to the kinetic molecular theory, which state of matter is composed of particles that are held very close together by weak attractions that allow movement of the particles?</p></font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Gas]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Liquid]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Plasma]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Solid]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-3_s20_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>Which choice describes a solid?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Incompressible, definite shape, and definite volume]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Compressible, definite shape, and indefinite volume]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Definite shape, incompressible, and indefinite volume]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Indefinite shape, definite volume, and incompressible]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-3_s20_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>Which of the following is a chemical change?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[A gas is colorless.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The normal boiling point of ethanol is lower than the normal boiling point of water.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Two colorless aqueous solutions are mixed and form a bright yellow solid]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[When neon gas is added to argon gas in a closed container, a solution is formed.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-3_s20_FB.mp3" />
+	</question>
+</MultipleChoice>

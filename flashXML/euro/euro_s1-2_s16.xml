@@ -1,0 +1,70 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_s1-2_s16.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Both the clergy and the nobility had a highly developed hierarchy.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+		<question>
+		<qText>Both the clergy and the nobility were well educated.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+		<question>
+		<qText>Both the clergy and nobility wanted to be seen as the highest power in the land.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	
+</MultipleChoice>

@@ -1,0 +1,153 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-4_s16.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<font size='24'>What volume of oxygen gas is needed to completely burn 42 L of methane gas (CH<font face='SubScript'>4</font>)? (Remember to write a balanced equation.)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[21 L ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[42 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[84 L]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[130 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<font size='24'>How many moles of nitrogen gas are needed to react completely with 35 L of hydrogen gas at a temperature of 75°C and a pressure of 5.6 atm?<br/><br/>N<font face='SubScript'>2</font> (<font face='lc-Italic' >g</font>) + 3H<font face='SubScript'>2</font> (<font face='lc-Italic' >g</font>) → 2NH<font face='SubScript'>3</font> (<font face='lc-Italic' >g</font>)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[2.3 moles]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[6.9 moles]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[11 moles]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[12 moles]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[What is the density of methane (CH<font face='SubScript'>4</font>) gas at STP?]]></qText>
+		<answerButtons>
+			<aBtn>
+			<frac>true</frac>
+				 <aText><![CDATA[             g<br/>0.536  <font face='SuperScript'>___</font><br/>             L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+			<frac>true</frac>
+				 <aText><![CDATA[             g<br/>0.717  <font face='SuperScript'>___</font><br/>             L]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+			<frac>true</frac>
+				 <aText><![CDATA[          g<br/>1.40 <font face='SuperScript'>___</font><br/>          L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+			<frac>true</frac>
+				 <aText><![CDATA[           g<br/>16.0  <font face='SuperScript'>___</font><br/>           L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[An unknown gas has a density of 1.25 grams per liter at STP.  What is its molar mass?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[17.9 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[24.0 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[28.0 g ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[32.0 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[Find the molar mass of an unknown gas having a density of 2.73 grams per liter at a pressure of 0.992 atm and a temperature of 100.0°C. ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[61.1 g ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[61.7 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[82.9 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[84.2 g]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,42 @@
+<PopUp>
+	<slideInfo>
+		<title>Critical Analysis in Multiple Choice Questions</title>
+		<info></info>
+		<image>images/euro_m4-1_s31.jpg</image>
+		<audio>audio/euro_m4-1_s31.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>483.1</xCord>
+			<yCord>151.35</yCord>
+			<width>134</width>
+			<popTitle>Correct answer:</popTitle>
+			<popInfo>B</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>693.1</xCord>
+			<yCord>151.35</yCord>
+			<width>134</width>
+			<popTitle>Correct answer:</popTitle>
+			<popInfo>E</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>911.1</xCord>
+			<yCord>151.35</yCord>
+			<width>134</width>
+			<popTitle>Correct answer:</popTitle>
+			<popInfo>A</popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

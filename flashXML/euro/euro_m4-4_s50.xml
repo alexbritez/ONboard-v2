@@ -1,0 +1,268 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m4-4_s50.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>Prompt: “Russia was never really a modern nation (compared with Western Europe) until the beginning of the Cold War.” Assess the validity of this statement.</Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[The information about Peter the Great included both elements of continuity and elements of change.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[Russia would not have been westernized if not for Peter the Great.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[Peter’s policies served as an agent of change to which of the following areas?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The lives of serfs</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The culture at the Russian royal court</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The borders of Russian territories</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Russian language and education</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>All of the above</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[Which of following supports the thesis that Peter was an agent of change?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The passage about Peter the Great</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The woodcut about cutting the beard</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The map showing the borders of Russia through 1725</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A and B only</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A, B, and C</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[The reign of Catherine the Great represented]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>only change because of the introduction of Enlightenment ideas</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>only change because she emancipated the serfs</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>only continuity because the serfs still mostly lived in rural areas</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>both continuity and change because the speaking of French and the introduction of Enlightenment ideas continued the separation between the upper class and the people</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>both continuity and change because she kept all of Peter the Great’s reforms, but she was able to reform serfdom</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[Industrialism in Russia is both an agent of continuity and change because it has been a part of the Russian economy since Peter the Great, but expanded more rapidly in the late 19th and early 20th centuries. ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[The lives of the serfs in Russia]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>changed over time, but culturally featured elements of continuity</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>exhibited mostly continuity until the Russian Revolution of 1917</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[From Peter, to Catherine, to Nicholas and Alexandra, the Russian upper class]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>had a lot in common with the upper classes of other Western European countries</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>maintained a backwardness and lack of sophistication that marked them as distinctly “Eastern”</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[By World War II in the Soviet Union,  ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>all industries were fully mechanized</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>industrialization had ground to a halt</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>industrial growth in some areas had stalled</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>they were unable to manufacture munitions</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>had once again enslaved the serfs</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[Which of the following sentences would be correct if used in an essay to address the prompt?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Because Peter and Catherine promoted Western ideas; the Russian upper classes became more modern than serfs and the working classes. </font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>By the late 1800s, Russian industrial workers were experiencing the same hardships as their western European counterparts.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>If modernism and westernization mean the same; Russia was modern as soon as Peter the Great began forcing serfs to work in factories. </font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>A and B only</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>A, B, and C</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s29_FB.mp3" />
+	</question>
+
+</MultipleChoice>

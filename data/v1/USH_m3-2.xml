@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Secondary Sources">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m3-2_s1</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>USH_m3-2_s2</video>
+      <credits>(bkgd)Comstock/PunchStock, (c)James Woodson/Digital Vision/Getty Images, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="3" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Data</header>
+         <instruction></instruction>
+      </content>
+     <activity type="image">
+         <image>USH_m3-2_s3.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m3-2_s3_key" title="Key" dynamic="true" x="259" y="341"><![CDATA[
+				<h1>Key</h1>
+				<p>The key shows that the green shading represents significant events, the yellow shading shows periods of declining unemployment, and the blue numbers represent the total number of unemployed workers.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s3_x-axis" title="X-Axis" dynamic="true" x="66" y="311"><![CDATA[
+				<h1>X-Axis</h1>
+				<p>The horizontal axis is also called the x-axis. On this graph, it shows dates from 1920 to 1945.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s3_y-axis" title="Y-Axis" dynamic="true" x="4" y="139"><![CDATA[
+				<h1>Y-Axis</h1>
+				<p>The vertical axis is also called the y-axis. On this graph, it shows the percentage of nonfarm workers who are unemployed.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s3_event1" title="Event 1" dynamic="true" x="206" y="148"><![CDATA[
+				<h1>Event 1</h1>
+				<p>The first event on the graph is the stock market crash of 1929. The unemployment rate increases dramatically in the years following this crash. Also note that the unemployment level did not jump to nearly 38% right away.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s3_event2" title="Event 2" dynamic="true" x="176" y="46"><![CDATA[
+				<h1>Event 2</h1>
+				<p>The second event shown on the graph is the election of Franklin Roosevelt to the office of president in 1932. His "New Deal" programs caused the unemployment rate to drop.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s3_event3" title="Event 3" dynamic="true" x="469" y="57"><![CDATA[
+				<h1>Event 3</h1>
+				<p>A recession in 1937 caused an increase in the unemployment rate. Analyze the graph to determine what caused the unemployment rate to drop following that recession.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m3-2_s3</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Based on the information in the graph, which of the following was the most successful in ending unemployment?</question>
+            <answers>
+               <answer>The New Deal programs</answer>
+               <answer correct="true">World War II</answer>
+            </answers>
+            <figure verticalAlign="true">USH_m3-2_s4_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s4_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s4</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="1_Module_Intro">
+      <video>USH_m3-2_s5</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s6</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s7</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Data</header>
+         <instruction>What does the data show?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m3-2_s8alt.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m3-2_s8_1" dynamic="true" x="134" y="332"><![CDATA[
+				<h1></h1>
+				<p>The label and increments on the x-axis show that the information on this graph is organized by year, and in ten-year increments.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s8_2" dynamic="true" x="483" y="7"><![CDATA[
+				<h1></h1>
+				<p>This label explains how the data is presented on the y-axis. The population figures are presented in the thousands.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s8_3" dynamic="true" x="218" y="98"><![CDATA[
+				<h1></h1>
+				<p>The key explains that the blue-colored bars represent the white population of the area and the orange-colored bars represent the black population of the area. The key specifies that the graph does not include any data for the Native American population.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s8_4" dynamic="true" x="431" y="172"><![CDATA[
+				<h1></h1>
+				<p>The white population grows by a multiple of more than four from 1630 to 1640, by a multiple of just over two from 1640 to 1650, and by a multiple of little over ½ from 1650 to 1660. The rate of growth of the white population continues to slow down even though the white population keeps growing. Why?</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s8_5" dynamic="true" x="487" y="333"><![CDATA[
+				<h1></h1>
+				<p>After smaller rates of growth, the black population more than doubles from 1680 to 1690, and then almost doubles again from 1690 to 1700. Why?</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m3-2_s8</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Based on the information in the graph, what can you infer about the black population in the Chesapeake?</question>
+            <answers>
+               <answer correct="true">There was an increased need for enslaved Africans between 1680 and 1700.</answer>
+               <answer>More Africans moved to the Chesapeake area between 1680 and 1700 looking for religious freedom and economic opportunities.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s8.jpg</figure>
+            <feedbackAudio>USH_m3-2_s9_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s9</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s10</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Stapleton Collection/Historical Picture Library/Corbis, (2)Historical Picture Archive/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="11_Activity_Drag_List">
+       <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height: 100px;" dropStyle="height: 88px;">
+         <matches title="">
+            <match id="1">The increase in blacks in this area was higher than the increase of blacks in other colonies during this time.</match>
+			<match id="2">The practice of indentured servitude ended around 1690.</match>
+			<match id="3">English settlement became more established and permanent during this time.</match>
+			<match id="4">Slavery became a significant characteristic of life in the Chesapeake region during this period.</match>
+			<match id="5">The rise of slavery ended opportunities for future indentured servants.</match>
+			<match id="6">The rising rate of increase for the black population in this area is related to the decreasing rate of increase for whites.</match>
+         </matches>
+         <drops title="Logical Inference">3,4,6</drops>
+		 <drops title="Faulty Conclusion">1,2,5</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m3-2_s11</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s12</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s13</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)The Print Collector/Corbis, (2)Heritage Images/Corbis, (3)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Puritan emigration decreased once England became a commonwealth because the Puritans enjoyed religious freedom during Cromwell's protectorate.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <figure>USH_m3-2_s14_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s14</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The restoration of the English monarchy sparked an increase in English migration to New England.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <figure>USH_m3-2_s14_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s16</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s17</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Corbis, (2)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Why were the Irish among the most likely immigrant groups to become part of the industrial workforce?</question>
+            <answers>
+               <answer correct="true">Because most industries were located in large cities and most Irish immigrants did not have the money to move to smaller towns or buy land in America.</answer>
+               <answer>Because they had industrial skills and experience from working in factories in Ireland.</answer>
+            </answers>
+            <feedbackAudio>USH_m3-2_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s18</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Data</header>
+         <instruction><![CDATA[
+		 	<p>What is the historical context of the data?</p>
+		 	<ul>
+				<li>Why Germany?</li>
+				<li>Why Northern Europe?</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m3-2_s19.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m3-2_s19_A" title="EUROPE IN 1848" dynamic="true" x="348" y="40"><![CDATA[
+				<h1>EUROPE IN 1848</h1>
+				<p>People in Germany, France, Austria, and other countries were not satisfied with autocratic systems of government, and demanded wider participation in government and more democracy.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s19_B" title="REVOLUTION IN GERMANY" dynamic="true" x="96" y="225"><![CDATA[
+				<h1>REVOLUTION IN GERMANY</h1>
+				<p>A German grassroots movement, supported by nationalists, liberals, intellectuals, and workers, demanded a more democratic government, an end to political censorship, and lower taxes. The middle class focused on political goals, while the workers wanted better pay and working conditions. These differences would weaken the revolutionary cause.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s19_C" title="NATIONAL EIGEN" dynamic="true" x="13" y="49"><![CDATA[
+				<h1>NATIONAL EIGEN</h1>
+				<p>In March 1848 in Berlin, the capital of Prussia, crowds of people gathered and demanded their rights. The protestors were attacked and hundreds were killed. This engraving shows the revolutionary crowds gathering together to see the writing on the wall—"National Eigen" which means a nation of one's own.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s19_D" title="AFTERMATH OF THE REVOLUTION" dynamic="true" x="417" y="239"><![CDATA[
+				<h1>AFTERMATH OF THE REVOLUTION</h1>
+				<p>After a brief period of success, during which a newly elected national assembly tried to make changes, the Prussian ruler issued a monarchist constitution, crushing the hopes of reformers. This defeat caused many middle-class Germans and other Northern Europeans to immigrate to the United States.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m3-2_s19</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of the following best describes the differences between Irish and German immigrants during this period?</question>
+            <answers>
+               <answer>The Irish Catholics sought freedom of worship in the United States, whereas the German protestants came for economic reasons.</answer>
+               <answer correct="true">The Germans had more money than Irish immigrants, and they moved away from the coast to areas in the Midwest and West.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s20_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s20</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What does the depiction of the immigrants in the cartoon say about the beliefs of some native-born Americans at that time?</question>
+            <answers>
+               <answer correct="true">Some native-born Americans worried that the large numbers of Irish and German immigrants would sway elections and become a political power.</answer>
+               <answer>Some native-born Americans worried that the drunken Irish and German immigrants would break into polling places and steal ballot boxes.</answer>
+            </answers>
+            <figure>USH_m3-2_s21_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s21</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Peter Newark American Pictures/The Bridgeman Art Library, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Data</header>
+         <instruction><![CDATA[
+		 	<p>What does the data show?</p>
+		 	<ul>
+				<li>Women in the Paid Workforce, 1900-1940</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m3-2_s22.jpg</image>
+         <hotspots>
+            <hotspot title="X-AXIS" dynamic="true" x="39" y="360"><![CDATA[
+				<h1>X-AXIS</h1>
+				<p>The x-axis shows that the data is presented by year, with benchmarks at each decade between 1900 and 1940.</p>
+			]]></hotspot>
+			<hotspot title="Y-AXIS" dynamic="true" x="42" y="88"><![CDATA[
+				<h1>Y-AXIS</h1>
+				<p>The benchmarks on the y-axis organize the data by millions of total people in the paid workforce, from 0 to 60 million.</p>
+			]]></hotspot>
+			<hotspot title="BLUE SHADING" dynamic="true" x="293" y="160"><![CDATA[
+				<h1>BLUE SHADING</h1>
+				<p>The area shaded blue, topped by the blue line, shows the total number of people in the paid workforce in the United States. You can see a dramatic increase between 1900 and 1910, then a steady climb between 1910 and 1940. These figures include both men and women in the workforce.</p>
+			]]></hotspot>
+			<hotspot title="ORANGE SHADING" dynamic="true" x="453" y="264"><![CDATA[
+				<h1>ORANGE SHADING</h1>
+				<p>The area shaded orange shows the total numbers of women in the paid workforce. The percentage at each decade shows the percentage of the total workforce that women represented at that time. Because the purple area represents single women in the workforce, you can conclude that the area between the purple line and the red line shows the numbers of married women in the workforce.</p>
+			]]></hotspot>
+			<hotspot title="PURPLE SHADING" dynamic="true" x="453" y="318"><![CDATA[
+				<h1>PURPLE SHADING</h1>
+				<p>The purple-shaded area represents the number of single women in the paid workforce. Notice that the number of single women in the workplace dropped between 1920 and 1930, then rose again between 1930 and 1940.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m3-2_s22</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s23</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:115px;" dropStyle="height: 103px">
+         <matches title="">
+            <match id="1">During this period, women had more opportunities to find professional and executive-level work.</match>
+			<match id="2">Many New Deal programs provided jobs for married women.</match>
+			<match id="3">As men were less able to provide for their families, women found it necessary to take paid work outside the home.</match>
+			<match id="4">Women working outside the home affected how both women and men would view women's roles and possibilities in the future.</match>
+         </matches>
+         <drops title="Logical Inference">3,4</drops>
+		 <drops title="Faulty Conclusion">1,2</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m3-2_s24</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s25</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s26</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Data</header>
+         <instruction>What is the historical context of the data?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m3-2_s27.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m3-2_s27_A" title="INCREASED IMMIGRATION" dynamic="true" x="40" y="42"><![CDATA[
+				<h1>INCREASED IMMIGRATION</h1>
+				<p>The numbers of immigrants between 1901 and 1915 were dramatically higher than in previous decades. Some people were bothered by the high number of immigrants and where those immigrants came from.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s27_B" title="EASTERN EUROPEANS" dynamic="true" x="342" y="101"><![CDATA[
+				<h1>EASTERN EUROPEANS</h1>
+				<p>Earlier immigrants to the United States had come primarily from Northwestern Europe, especially Germany, Britain, Ireland, and Scandinavia. However, the majority of the immigrants in the early 20th century were from Eastern European countries, as well as some Asians and Latin Americans.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s27_C" title="ANTI-IMMIGRATION" dynamic="true" x="29" y="324"><![CDATA[
+				<h1>ANTI-IMMIGRATION</h1>
+				<p>Nativists wanted to protect the interests of what they considered the "native" peoples of America, which included people of British or Northeastern European heritage. The Eugenics movement was primarily concerned with protecting what they considered the racial purity of Anglo-Saxon and Nordic America.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s27_D" title="PRO-IMMIGRATION" dynamic="true" x="453" y="324"><![CDATA[
+				<h1>PRO-IMMIGRATION</h1>
+				<p>Those who supported immigration included immigrants themselves, their political representatives, and business owners who saw immigrants as a source of cheap labor.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-2_s27_E" title="WORLD WAR I" dynamic="true" x="453" y="42"><![CDATA[
+				<h1>WORLD WAR I</h1>
+				<p>Immigration decreased sharply during World War I, which occurred between 1914 and 1918.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m3-2_s27</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Library of Congress, Prints ﹠ Photographs Division, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is the meaning and significance of the data in these two graphs?</question>
+            <answers>
+               <answer correct="true">Political and economic tensions before World War I and better opportunities in the United States increased immigration.</answer>
+               <answer>World War I caused the number of immigrants to the United States from Europe to drop.</answer>
+            </answers>
+            <figure>USH_m3-2_s28_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s28_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s28</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s29</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>USH_m3-2_s30</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Based on the data in the table, which side was most likely to have a problem raising money to finance their armed forces?</question>
+            <answers>
+               <answer>Union</answer>
+               <answer correct="true">Confederacy</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s31_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s31_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s31</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Why do you think "Corn and wheat production" is listed on this data table?</question>
+            <answers>
+               <answer>Because it illustrates the amount of cash crops each side could trade to gain international support.</answer>
+               <answer correct="true">Because it illustrates how much food reserves each side had so they can feed their army and civilians.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s31_view.jpg</figure>
+            <feedbackAudio>USH_m3-2_s32_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="1_Module_Intro">
+      <video>USH_m3-2_s33</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="34" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+	  	<multiple>
+            <question>Most historians find data to be of limited value.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Bar and line graphs can show trends in data.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Historians can use data to recognize change over time.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Data cannot help reveal cause-and-effect relationships.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Historians often combine data and other primary or secondary resources to learn more about an event or time period.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+         <multiple hasFigure="true">
+            <question>Acts of Congress affected U.S. trade between 1805 and 1820.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s34_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which statement is the most logical, based on the data presented on the graph?</question>
+            <answers>
+               <answer correct="true">There was a dramatic decrease in voter participation in the first two decades of the 20th century.</answer>
+               <answer>Many men decided not to vote because women were granted the right to vote in 1920.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s34_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which statement is the most logical, based on the data presented on the graph?</question>
+            <answers>
+               <answer correct="true">The lower birth rate in the latter half of the 20th century will put stress on the Social Security system as the Baby Boomers retire.</answer>
+               <answer>In the latter half of the 20th century, both the birth rate and the average life span declined.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s34_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which statement is the most logical, based on the data presented on the graph?</question>
+            <answers>
+               <answer correct="true">There was unrest and increased violence in Austria-Hungary in the period before World War I.</answer>
+               <answer>People of German heritage no longer represented a substantial voting block.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s34_viewD.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which statement is the most logical, based on the data presented on the table?</question>
+            <answers>
+               <answer>The slave trade ended because there was no longer a need for enslaved workers.</answer>
+               <answer correct="true">Whites became increasingly nervous about possible violence from the enslaved African American population.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-2_s34_viewE.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-2_s34</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

@@ -1,0 +1,250 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s35.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Which of these is an ionic compound?]]></qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText><![CDATA[BaCl<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText><![CDATA[CCl<font face='SubScript'>4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>HCl</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText><![CDATA[PCl<font face='SubScript'>5</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	<question>
+		<qText><![CDATA[Predict the shape of the phosphorus trifluoride molecule, PF<font face='SubScript' size='30'>3</font>?]]></qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>linear</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>bent</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>trigonal planar</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>trigonal pyramidal</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	
+	<question>
+		<qText><![CDATA[Which of these angle measures best describes the bond angles in H<font face='SubScript' size='30'>2</font>S?]]>S?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>90 degrees</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Less than 109.5 degrees</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>109.5 degrees</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Less than 120 degrees</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	<question>
+		<qText><![CDATA[Determine the total number of valence electrons in the phosphate ion, PO<font face='chemNums'>u</font><font face='chemNums'>c</font>.]]></qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>11</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>14</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>29</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>32</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	<question>
+		<qText><![CDATA[Predict the shape of the ammonium ion, NH<font face='chemNums'>8</font>.]]></qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>trigonal planar</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>trigonal pyramidal</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>tetrahedral</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>octahedral</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>		
+	
+	<question>
+		<qText>Ionic bonds form between two nonmetals.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+		
+	<question>
+		<qText><![CDATA[H<font face='SubScript' size='30'>2</font>O<font face='SubScript' size='30'>2</font> has three single covalent bonds.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>Water is a polar molecule.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>The Lewis electron dot structure for phosphorus would show 6 dots.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>A molecule with a bent shape is usually nonpolar.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

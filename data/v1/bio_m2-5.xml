@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Controlled Experiments">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m2-5_s1</video>
+      <credits>(cl-cr)CNRI/Science Photo Library RF/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)CNRI/Science Photo Library RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s4</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+     <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Controlled variables</match>
+			<match id="2">Control group</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="414" y="90" />
+			<drop correct="1" x="414" y="230" />
+         </drops>
+         <image>bio_m2-5_s5.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m2-5_s5</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s7</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s10</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What is the variable that is different in the two test tubes?</question>
+            <answers>
+               <answer correct="true">Alpha-amylase</answer>
+			   <answer>Starch</answer>
+			   <answer>Temperature</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-5_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s13</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m2-5_s14</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic"  deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">2%, 5%, 10% NaCl solutions</match>
+   			<match id="3">0% NaCl solution</match>
+   			<match id="2"><![CDATA[concentration of NaCl in water outside bag]]></match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="340" y="143" />
+			<drop correct="2" x="340" y="195" />
+			<drop correct="3" x="340" y="246" />
+         </drops>
+         <image>bio_m2-5_s15.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m2-5_s15</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A controlled experiment is set up so that only one variable is responsible for the results of the experiment.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The controlled variables are all the factors in the experiment that must remain constant.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>In an experiment, conclusions can be based on the results of a single observation.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Why are controls important in a scientific experiment?</question>
+            <answers>
+               <answer>So that you follow the procedure</answer>
+			   <answer>To keep the variables from getting too large</answer>
+               <answer correct="true">So that you have something to compare to</answer>
+			   <answer>To help you gather data</answer>
+			   <answer>To help you identify how to set up your procedure</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>If you were doing an experiment to see how temperature affects germination time, which of the following would change during the experiment?</question>
+            <answers>
+               <answer>Type of seed</answer>
+			   <answer>Amount of sunlight</answer>
+			   <answer>Amount of plant fertilizer applied</answer>
+			   <answer>Amount of water applied</answer>
+               <answer correct="true">Temperature</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-5_s16</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

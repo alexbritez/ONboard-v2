@@ -1,0 +1,50 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_s1-2_s37.jpg</image>
+		<audio>audio/euro_s1-2_s37.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Trivium was studied</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Population drastically declined</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Manorialism main form of economics</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Padded horse collar invented</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Clergy only literate class</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Church divided by two popes</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>New middle class emerged</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="526" yCord="176.3" spotScale="100" spotNum="1"/>
+		<dSpot xCord="526" yCord="254.95" spotScale="100" spotNum="1"/>
+		<dSpot xCord="526" yCord="333.6" spotScale="100" spotNum="1"/>
+		<dSpot xCord="720.5" yCord="176.3" spotScale="100" spotNum="2"/>
+		<dSpot xCord="720.5" yCord="254.95" spotScale="100" spotNum="2"/>
+		<dSpot xCord="720.5" yCord="333.6" spotScale="100" spotNum="2"/>
+		<dSpot xCord="921" yCord="176.3" spotScale="100" spotNum="3"/>
+		<dSpot xCord="921" yCord="254.95" spotScale="100" spotNum="3"/>
+		<dSpot xCord="921" yCord="333.6" spotScale="100" spotNum="3"/>
+
+	</dropSpots>
+</DragDrop>

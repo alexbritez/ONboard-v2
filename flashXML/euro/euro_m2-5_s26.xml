@@ -1,0 +1,209 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m2-5_s26.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-5_s26.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-5_s26.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>The Dutch profited by having the freedom to sail to, and take natural resources from, any country on Earth.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Some European countries used religion as a motivation or excuse for imperial expansion.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Greek and Roman philosophies still moved some people in 17th century Europe.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Which of the following is a logical inference? </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Money was the primary motivation behind the Age of Discovery.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Natural curiosity about the world was the primary motivation behind the Age of Discovery.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Which of the following is a logical inference?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The French and English colonists had little or no impact on native peoples. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The Spanish cared more for the profit gleaned from their colonies than for the welfare of the native peoples. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Which of the following is a logical inference?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The European peoples were not affected by their contact with other cultures.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The European peoples were greatly affected by their contact with other cultures.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Based on the information in the map, where is conflict between European empires most likely to occur in the 18th century? </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>In North America</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>In South America</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Based on the map, which country had a near monopoly on trade from the islands of Southeast Asia? </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Portugal</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The Netherlands (Dutch)</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>Which countries began the Age of Discovery?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Spain and Portugal</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>France and England</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>It is clear from what you’ve learned that the imperial expansion and economic growth brought about by the Age of Discovery will impact events in Europe for the next several centuries. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>This statement is a logical conclusion based on the facts presented.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>This statement is a faulty conclusion based on the facts presented.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+</MultipleChoice>

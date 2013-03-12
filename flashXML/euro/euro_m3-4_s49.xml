@@ -1,0 +1,82 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Impressionism</title>
+		<info><![CDATA[<font face='c-Italic' size='24'>A Walk Near Argenteuil</font> <br/>by Claude Monet, 1875]]></info>
+		<image>images/euro_m3-4_s49.jpg</image>
+		<audio>audio/euro_m3-4_s49.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>685.4</xCord>
+			<yCord>112.35</yCord>
+			<width>134</width>
+			<popTitle>What does the painting show?</popTitle>
+			<popInfo><![CDATA[<p>This scene, set in the countryside, shows a well-dressed man, woman and child walking through a field of wildflowers on a spring or summer’s day.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>685.4</xCord>
+			<yCord>217.75</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Take a Closer Look]]></popTitle>
+			<popInfo><![CDATA[<p>From a distance the human figures seem well defined, but when you approach the painting closely, you see that they are really only composed of loose and sketchy brushstrokes and seem to almost dissolve into the surrounding landscape. Notice the lack of facial features. These were elements that characterized the Impressionists, although all artists who were considered part of the Impressionist Movement did not paint in exactly this style.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>494.65</xCord>
+			<yCord>195.75</yCord>
+			<width>85</width>
+			<popTitle>In the Open Air</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>The Impressionists were the first group of artists to set up easels in the outdoors and paint what they saw. This was known as painting in the ‘plein air’. Artists had long been doing  sketches in the open air, but these would be taken back to the studio and used as studies for larger canvases. The sketches were never submitted as finished works of art. Impressionists rejected studio art and instead considered the paintings that they had done in a few hours outdoors as completed paintings. </font></p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>900.5</xCord>
+			<yCord>189.75</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[“<font face='c-Italic'>Impression, Sunrise”</font>]]></popTitle>
+			<popInfo><![CDATA[<p>The Movement got its name from a painting by Claude Monet called ‘Impression, Sunrise’ that was exhibited at the first Impressionist show. Critics, who disliked its ‘unfinished’ quality, scornfully named the entire group of artists Impressionists. This impressionistic quality can be seen in the sketchy brushwork of this painting, and the lack of precision in the rendering of the figures, flowers, and tress.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>E</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>577.5</xCord>
+			<yCord>390.7</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Nature]]></popTitle>
+			<popInfo><![CDATA[<p>The Impressionists became very interested in natural light and the changes that weather, seasons, and time of day had on outdoor scenes. This can be seen in the clouds, the dappled light cast by the trees, the breeze, and the springtime colors Monet has painted.</p>]]></popInfo>
+		</pButton>
+
+		
+		<pButton> 
+			<Name>F</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>809.3</xCord>
+			<yCord>303.7</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Art of the Middle Class]]></popTitle>
+			<popInfo><![CDATA[<p><font size='13'>The Impressionists were mostly from the middle class, as were their patrons and buyers. Subsequently, they often painted scenes that reflected the activities, tastes, and pursuits of bourgeoisie like themselves. This well-dressed nuclear family, walking in a field on a summer’s day represents a middle class family at leisure. Other common subjects were street scenes, boating outings, theater scenes, mothers and children in domestic settings, and outdoor activities like dances and picnics. Not all Impressionists painted the middle class, but nearly all chose subjects that reflected late 19th century urban life. </font></p>]]></popInfo>
+		</pButton>
+		
+		
+		<pButton> 
+			<Name>G</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>873.55</xCord>
+			<yCord>426.05</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Monet’s Point of View]]></popTitle>
+			<popInfo><![CDATA[<p>As a member of the bourgeoisie who rejected the staid, formulaic art of the academy, Monet believed that everyday activities were legitimate artistic subjects. Unlike the Romantics, he did not idealize history, politics, nature, or the past but recorded his fleeting impressions of a middle class family’s summer outing and considered it a finished work of art.</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

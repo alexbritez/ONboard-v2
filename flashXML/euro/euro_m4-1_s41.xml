@@ -1,0 +1,41 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m4-1_s41.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>"Soviet Premier Nikita Khrushchev’s decision to pull Soviet nuclear missiles out of Cuba was justified."</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>A contemporary Russian newspaper article criticizing Khrushchev’s decision.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A U.S.-Soviet agreement guaranteeing the U.S. would never invade Cuba.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A summary of Russia’s military spending throughout the 1950s and 1960s.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A quotation from a Soviet soldier stationed in Cuba during the Cuban Missile Crisis.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The dates of Cold War confrontations between 1946 and 1962.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-1_s41_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

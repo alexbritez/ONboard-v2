@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Types of Graphs">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m4-2_s1</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>bio_m4-2_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="6_Activity_Interactivity">
+      <content>
+         <header>Graphing and Data Analysis</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M04_02_04P.mp4</url>
+      <image>bio_m4-2_s3.jpg</image>
+      <audio>bio_m4-2_s3</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction><![CDATA[
+		 	<li>Independent variable</li>
+			<li>Dependent variable</li>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m4-2_s6.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="88" y="82"><![CDATA[<h1></h1><p>The height of a bean plant is the dependent variable that changes during the course of the experiment. The growth of the plant is dependent on the amount of fertilizer.</p>]]></hotspot>
+			<hotspot dynamic="true" x="241" y="293"><![CDATA[<h1></h1><p>The concentration of fertilizer that is used is the independent variable that changes during the course of the experiment. This variable does not depend on the other variable. The person doing the experiment changes it.</p>]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m4-2_s6</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s8</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s11</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">A. Inference</match>
+   			<match id="1">B. Conclusion</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="55" y="335">1. The bean plants do not need fertilizer to grow.</drop>
+			<drop correct="2" x="55" y="374">2. The bean plants will continue to grow in week 3.</drop>
+         </drops>
+         <image>bio_m4-2_s12.jpg</image>
+         <feedbackAudio>bio_m4-2_s12_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m4-2_s12</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s13</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s14</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s15</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="height: 30px; width: 85px">
+            <match id="1">Inference</match>
+			<match id="2">Conclusion</match>
+         </matches>
+         <drops title=""  children-styles="height: 30px; width: 85px; overflow: hidden">
+            <drop correct="1" x="74" y="275"/>
+			<drop correct="2" x="74" y="341"/>
+         </drops>
+         <image>bio_m4-2_s16.jpg</image>
+         <feedbackAudio>bio_m4-2_s16_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m4-2_s16</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>bio_m4-2_s17</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which type of graph is shown when you press the view button?</question>
+            <answers>
+               <answer correct="true">Line graph</answer>
+			   <answer>Bar graph</answer>
+			   <answer>Circle graph</answer>
+			   <answer>Multiple line graph</answer>
+			   <answer>Multiple bar graph</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which type of graph is shown when you press the view button?</question>
+            <answers>
+               <answer>Line graph</answer>
+			   <answer>Bar graph</answer>
+			   <answer>Circle graph</answer>
+			   <answer>Multiple line graph</answer>
+			   <answer correct="true">Multiple bar graph</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which type of graph is shown when you press the view button?</question>
+            <answers>
+               <answer>Line graph</answer>
+			   <answer>Bar graph</answer>
+			   <answer correct="true">Circle graph</answer>
+			   <answer>Multiple line graph</answer>
+			   <answer>Multiple bar graph</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The main difference between a table and a graph is that a graph shows the relationship between the data sets.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which best describes how you would use this type of graph?</question>
+            <answers>
+               <answer correct="true">To show the relationship between the independent variable and the dependent variable</answer>
+               <answer>To compare parts of a whole</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>According to the data on this graph, what conclusion can you draw about the relationship between flea repellant and the number of fleas?</question>
+            <answers>
+               <answer>Flea repellant is ineffective at reducing the number of fleas.</answer>
+               <answer correct="true">Flea repellant reduces the number of fleas.</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>According to the data on this graph, what can you infer about the height of bean plants if the results were measured for a third week?</question>
+            <answers>
+               <answer>The bean plants would get shorter.</answer>
+               <answer correct="true">The bean plants would continue to grow taller.</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewD.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A line graph shows the relationship between two different independent variables.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>This type of graph is used to show the percent that each part represents of the whole.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Based on the information in the graph, you can conclude that the majority of pesticides used in the United States are conventional pesticides.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-2_s18_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-2_s18</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

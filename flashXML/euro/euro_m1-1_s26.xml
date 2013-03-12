@@ -1,0 +1,258 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m1-1_s26.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m1-1_s26_q4.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m1-1_s26_q5.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m1-1_s26_q5.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m1-1_s26_q7.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m1-1_s26_q8.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m1-1_s26_q8.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m1-1_s26_q10.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText>Spain and France make up the Iberian Peninsula.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[&quot;Eastern European&quot; countries are so classified because of their alliance with the Soviet Union after World War II.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>A nation is a special type of state in which the people are usually united by language, history, culture, and religion.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Compared to the modern map of Europe, what changes must have occurred to the political entities on this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Several kingdoms were taken over by a foreign empire.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Several independent city-states unified to become one nation.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>All of the following countries border Serbia EXCEPT</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Bulgaria</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Budapest</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Romania</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Croatia</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bosnia and Herzegovina</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Where are most of the countries that speak Romance languages located?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>North of France</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>East of Poland</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>South of Russia</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>South and Southwest of Germany</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>West and Northwest of Denmark</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Why did Germany believe that they had the right to annex Austria in 1938?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Because Austria was once part of the Holy Roman Empire.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Because Austria was once part of the Kingdom of Prussia.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Because Adolf Hitler was born in Austria.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Because Germany claimed all land north of the Alps as their own.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Because the Volga River connects Germany to Austria.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>In 1618, the Holy Roman Empire contained parts of each of the following present-day countries EXCEPT</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Switzerland</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Germany</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Russia</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Italy</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Czech Republic</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Which political entity shown on this map does not exist today in Europe?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>England</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Denmark</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Vienna</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Prague</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Spanish Netherlands</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>What element of foreshadowing is shown on this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The changing control of the Netherlands</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The desire for territorial expansion by Germanic nations</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

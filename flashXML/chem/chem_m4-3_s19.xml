@@ -1,0 +1,54 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[<font size='20'>What is the correct electron dot structure for carbon monoxide?</font>]]></title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m4-3_s19.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s19.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>A</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s2_a.mp3"/>
+			<xCord>549.65</xCord>
+			<yCord>228.4</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Wrong answer. Try again.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s2_a.mp3"/>
+			<xCord>858.25</xCord>
+			<yCord>228.4</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Wrong answer. Try again.]]></popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s2_a.mp3"/>
+			<xCord>549.65</xCord>
+			<yCord>421.4</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Wrong answer. Try again.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s19_FB.mp3"/>
+			<xCord>858.25</xCord>
+			<yCord>421.4</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[That’s Correct.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+	
+</PopUp>

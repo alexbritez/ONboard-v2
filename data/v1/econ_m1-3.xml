@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Scarcity">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m1-3_s1</video>
+    <credits>(l)Dinodia Images/Alamy, (cl)John Foxx/Stockbyte/Getty Images, (cr)Comstock Images/Jupiterimages, (r)Judith Collins/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m1-3_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Judith Collins/Alamy, (2)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m1-3_s3</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="4" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Hurricane destroys cotton</match>
+		<match id="2">War disrupts oil delivery</match>
+		<match id="3">Quantity of gold</match>
+		<match id="4">Wait list for new toy</match>
+		<match id="5">Oil reserves</match>
+		<match id="6">Fresh water supply</match>
+      </matches>
+      <drops title="Scarcity">3,5,6</drops>
+	  <drops title="Shortage">1,2,4</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-3_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M01_03_01A.jpg</url>
+    <image>econ_m1-3_s5.jpg</image>
+    <audio>econ_m1-3_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these is the economists' definition of "scarcity"?</question>
+        <answers>
+          <answer>There are only a few products available for consumers.</answer>
+		  <answer>Temporary scarcity is created by a natural disaster or reduction in producer output.</answer>
+          <answer correct="true">Unlimited wants are greater than limited resources.</answer>
+		  <answer>Decreases in consumer demand result in a surplus of products.</answer>
+		  <answer>Decreases in supply result in a disequilibrium in demand.</answer>
+        </answers>
+        <feedbackAudio>econ_m1-3_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-3_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m1-3_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Akihiro Sugimoto/age footstock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m1-3_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Dinodia Images/Alamy, (2)John Foxx/Stockbyte/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Why is gold more valuable than milk, when milk is more essential to life?</question>
+        <answers>
+          <answer correct="true">Gold is relatively more scarce, compared to the demand for it.</answer>
+		  <answer>Gold has more uses than milk does.</answer>
+		  <answer>There is an unlimited number of cows to produce milk.</answer>
+		  <answer>Few consumers want to buy gold, so that makes gold more scarce.</answer>
+		  <answer>Few consumers want to buy milk, so that makes milk more scarce.</answer>
+        </answers>
+        <feedbackAudio>econ_m1-3_s9_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m1-3_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)DreamPictures/Blend Images LLC, (2)Comstock Images/Jupiterimages, (3)Brand X Pictures/age fotostock, (4)Ingram Publishing, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m1-3_s11</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">A. can</match>
+    		<match id="2">B. capital</match>
+    		<match id="3">C. cannot</match>
+    		<match id="4">D. fewer</match>
+    		<match id="5">E. natural resources</match>
+    		<match id="6">F. productivity</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="344" y="23"></drop>
+    		<drop correct="2" x="94" y="176"></drop>
+    		<drop correct="3" x="83" y="23"></drop>
+    		<drop correct="4" x="58" y="284"></drop>
+    		<drop correct="5" x="179" y="131"></drop>
+    		<drop correct="6" x="385" y="131"></drop>
+      </drops>
+      <image>econ_m1-3_s12.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+    <audio>econ_m1-3_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>In economics, the term "scarcity" means</question>
+        <answers>
+          <answer>very few products are produced.</answer>
+		  <answer>consumer demand is lower than the supply at the market price.</answer>
+          <answer correct="true">our unlimited wants are greater than our limited resources.</answer>
+		  <answer>government limits the amount of products firms are allowed to sell.</answer>
+		  <answer>consumer demand is higher than the supply at the market price.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>What percentage of the world population faces scarcity?</question>
+        <answers>
+          <answer>10%</answer>
+		  <answer>25%</answer>
+		  <answer>45%</answer>
+		  <answer>80%</answer>
+          <answer correct="true">100%</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these statements about scarcity is correct?</question>
+        <answers>
+          <answer correct="true">Scarcity forces us to make choices about what we buy and what we do.</answer>
+		  <answer>Scarcity is a more significant problem in nations with larger populations.</answer>
+		  <answer>Wealthy people are able to escape the problem of scarcity.</answer>
+		  <answer>Scarcity is usually caused by natural disasters.</answer>
+		  <answer>Nations with high levels of worker productivity tend to experience more scarcity.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Why are products scarce?</question>
+        <answers>
+          <answer>Consumers are not interested in buying the products.</answer>
+          <answer correct="true">The resources required to produce them are scarce.</answer>
+		  <answer>Producers are not interested in producing the products.</answer>
+		  <answer>Consumers do not have enough money to buy the products.</answer>
+		  <answer>Government will not allow firms to produce the products.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these factors will NOT increase economic growth and reduce the effects of scarcity?</question>
+        <answers>
+          <answer>An increase in the amount of capital equipment</answer>
+		  <answer>An increase in the productivity of labor</answer>
+		  <answer>The discovery of additional natural resources</answer>
+          <answer correct="true">An increase in the annual wages of workers</answer>
+		  <answer>Improvements in technology</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-3_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

@@ -1,0 +1,99 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-2_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text><![CDATA[<p>Hot Tamales’ food is anything but hot. In fact, the food is awful. Even so, you’d think it would at least be served hot. They couldn’t even manage that!</p>
+<p>The only thing that will be hot after your meal is your heartburn. I hope the owner has invested in antacid stock. That’s the only way he or she is likely to make money from this restaurant.</p>
+<p>Bottom line: Save your own pesos and eat elsewhere. Hot Tamales could make you <font face='lc-Italic'>hate</font> tamales!<p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>Hot Tamales’ food is anything but hot. In fact, the food is awful. Even so, you’d think it would at least be served hot. They couldn’t even manage that!</p>
+<p>The only thing that will be hot after your meal is your heartburn. I hope the owner has invested in antacid stock. That’s the only way he or she is likely to make money from this restaurant.</p>
+<p>Bottom line: Save your own pesos and eat elsewhere. Hot Tamales could make you <font face='lc-Italic'>hate</font> tamales!</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>Hot Tamales’ food is anything but hot. In fact, the food is awful. Even so, you’d think it would at least be served hot. They couldn’t even manage that!</p>
+<p>The only thing that will be hot after your meal is your heartburn. I hope the owner has invested in antacid stock. That’s the only way he or she is likely to make money from this restaurant.</p>
+<p>Bottom line: Save your own pesos and eat elsewhere. Hot Tamales could make you <font face='lc-Italic'>hate</font> tamales!</p>]]></Text>
+		<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>What is the author’s purpose?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>To persuade</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To instruct</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To entertain</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To compare and contrast</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To analyze</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m1-2_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which word best describes the tone of the passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Neutral</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Critical</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Lighthearted</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Supportive</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sympathetic</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m1-2_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>True or False? The writing style of the passage is complex.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m1-2_s30_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

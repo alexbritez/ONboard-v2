@@ -1,0 +1,65 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-4_s17.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>Which of the following statements represents Brueghel’s point of view?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p><font size='15'>The point of view of the artist is that he wanted to realistically portray a scene in a town near where he lived.</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p><font size='15'>Since Brughel has placed himself above the scene, and seems to poke fun at the activities; he probably thinks both Carnival and Lent are foolish and excessive.</font></p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>Which of the following statements represents Brueghel’s point of view?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p><font size='15'>Brueghel condemns the immoral behavior of Carnival and makes fun of the overly pious figure of Lent, so he seems to be saying that no one in the town is behaving in a truly Christian way.</font></p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p><font size='15'>Brueghel’s has a sarcastic point of view because he is an artist.</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>How does the fact that Carnival and Lent do not actually clash reflect Brueghel’s point of view?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p><font size='15'>Brueghel may believe that carnival and lent are both sides of the Catholic faith and therefore irrelevant to the conflict between Protestants and Catholics.</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p><font size='15'>Brueghel may believe that battles over religion are foolish and produce no winner.</font></p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

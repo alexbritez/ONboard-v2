@@ -1,0 +1,83 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Religious Vocabulary</title>
+		<info></info>
+		<image>images/euro_m1-2_s6.jpg</image>
+		<audio>audio/euro_m1-2_s6.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>PROTESTANT</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>98.7</yCord>
+			<width>134</width>
+			<popTitle>Protestant</popTitle>
+			<popInfo><![CDATA[Protestants are basically Christians who are not members of the Roman Catholic or Eastern Orthodox Church. The name originated during the Reformation when those who “protested” against what they saw as problems with the Catholic Church were called “Protestants.”  ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>SACRAMENT</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>148.6</yCord>
+			<width>134</width>
+			<popTitle>Sacrament</popTitle>
+			<popInfo><![CDATA[A sacrament is a way in which believers think that God distributes grace. Sacraments are usually rituals, such as baptism (“washing away” the sins of a person using water) or marriage. Catholics believe that there are seven sacraments, whereas Luther believed that there were only two. Each Protestant denomination has certain beliefs on the number and validity of sacraments.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>EUCHARIST</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>198.5</yCord>
+			<width>134</width>
+			<popTitle>Eucharist</popTitle>
+			<popInfo><![CDATA[Eucharist (pronounced “U-ker-ist”) is another name for communion, or the sharing of bread and wine during a religious service, as Jesus and his disciples did during the Last Supper. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>TRANSUBSTANTIATION</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>248.4</yCord>
+			<width>134</width>
+			<popTitle>Transubstantiation</popTitle>
+			<popInfo><![CDATA[The belief (or not) in transubstantiation was one of the major differences between Protestants and Catholics during the Reformation. In the Catholic Church, it is believed that during communion, the bread and the wine are transformed into Christ’s actual body and blood during the Eucharist. This is known as “the real presence of Christ.” Today, most Protestant churches believe that communion is only a symbolic act.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ICONS</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>298.3</yCord>
+			<width>134</width>
+			<popTitle>Icons</popTitle>
+			<popInfo><![CDATA[Icons are visual representations of religious figures, such as Jesus, Mary, and the saints. In the Eastern Orthodox Church, the veneration (deep respect or awe) of icons is part of their religious faith. Religious art and sculpture is also very evident in Catholic churches. In contrast, many Protestant denominations believe that icons and other adornments distract believers during the worship service and favor plain churches, often featuring only a cross. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>HERESY</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>348.2</yCord>
+			<width>134</width>
+			<popTitle>Heresy</popTitle>
+			<popInfo><![CDATA[Heresy is any belief contrary to church dogma (the officially accepted version of a religious teaching). Catholics believed that those seeking to change the church (i.e., Luther, Calvin, and others) were guilty of heresy. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>INQUISITION</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>398.1</yCord>
+			<width>134</width>
+			<popTitle>Inquisition</popTitle>
+			<popInfo><![CDATA[There have been several inquisitions (special papal courts), but the Inquisition after the Reformation was instituted by Pope Gregory IX to root out heresy. The goal of the Inquisition was to reconcile heretics to the Catholic Church. The accused had a chance to recant and receive a light penance (punishment) such as making a pilgrimage. Those who refused to recant could be tortured, beaten, or burned. The inquisitors believed that their work was noble and that the heretic’s soul was in mortal danger. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ANTI-SEMITISM</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.2</xCord>
+			<yCord>448.15</yCord>
+			<width>134</width>
+			<popTitle>Anti-Semitism</popTitle>
+			<popInfo><![CDATA[A Semite is a person who speaks one of the Semitic languages. Just as English and Dutch are considered Germanic languages and French and Italian are Latin or Romance languages, Arabic and Hebrew are Semitic languages. So “anti” Semitic means against Semitic people. While this can include Arabs and other groups, it is most commonly associated in European history as being anti-Jewish hostility or discrimination. ]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

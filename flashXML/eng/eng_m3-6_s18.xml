@@ -1,0 +1,38 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[MISSTEPS: Logical Fallacies<br/>False Dilemma]]></title>
+		<info></info>
+		<image>images/eng_m3-6_s18.jpg</image>
+		<audio>audio/eng_m3-6_s18.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name><![CDATA[1]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>469.95</xCord>
+			<yCord>118.7</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Matt: ]]></popTitle>
+			<popInfo><![CDATA[Either you sing <font face='c-Italic' >The Star Spangled Banner</font> or you are not a patriot. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[2]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>469.95</xCord>
+			<yCord>231</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Ritchie: ]]></popTitle>
+			<popInfo><![CDATA[I don’t know all of the words.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[3]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>469.95</xCord>
+			<yCord>344</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Matt: ]]></popTitle>
+			<popInfo><![CDATA[Then you’re not a true American.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

@@ -1,0 +1,27 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Which sentence should be removed or revised?</p>]]></hText>
+		<qText><![CDATA[<p>A concept that has been evolving with scientific advances over the past decade is that drug addiction is a brain disease that develops over time as a result of the initial voluntary behavior of using drugs. A <font face='c-Italic'>disease</font>  is defined as the “condition of the living animal or plant body that impairs normal functioning.” Interestingly, <font face='c-Italic'>disease</font>  is also defined as a “harmful development, as in a social institution.” The consequence of this brain disease is virtually uncontrollable drug craving and use that interferes with, if not destroys, an individual's functioning in the family and in society. This medical condition demands formal treatment.</p>]]></qText>
+		<correctText><![CDATA[<p><font face='c-Bold'>Revise or Remove?</font></p>
+To maintain unity and support, the following sentence should be removed: “Interestingly, <font face='lc-Italic'>disease</font>  is also defined as a “harmful development, as in a social institution.”]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m3-8_s11.jpg" />
+		<audio>audio/eng_m3-8_s11.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

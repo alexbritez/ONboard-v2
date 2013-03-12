@@ -1,0 +1,55 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m1-2_s5.jpg</image>
+		<audio>audio/euro_m1-2_s5.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Lutheran</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Puritan</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Anglican</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Presbyterian</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Calvinist</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="520.1" yCord="125.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="520.1" yCord="198.85" spotScale="75" spotNum="2"/>
+		<dSpot xCord="520.1" yCord="272.55" spotScale="75" spotNum="3"/>
+		<dSpot xCord="520.1" yCord="346.25" spotScale="75" spotNum="4"/>
+		<dSpot xCord="520.1" yCord="419.95" spotScale="75" spotNum="5"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

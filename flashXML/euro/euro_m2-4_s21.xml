@@ -1,0 +1,37 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-4_s21.jpg</image>
+		<audio>audio/euro_m2-4_s21.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<p>Luther blamed the pope for what he saw as abuses in the church.</p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<p><font size='20'>Luther’s goal was to establish a new church based on new beliefs and principles.</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Luther did not believe in purgatory.</p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p><font size='20'>Luther believed that his position on indulgences was supported by Holy Scripture.</font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.2" yCord="176.9" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.2" yCord="255.55" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.2" yCord="334.2" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.2" yCord="412.85" spotScale="75" spotNum="1"/>
+		
+		<dSpot xCord="871.35" yCord="176.9" spotScale="75" spotNum="2"/>
+		<dSpot xCord="871.35" yCord="255.55" spotScale="75" spotNum="2"/>
+		<dSpot xCord="871.35" yCord="334.2" spotScale="75" spotNum="2"/>
+		<dSpot xCord="871.35" yCord="412.85" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Water Cycle">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m3-2_s1</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Rubberball/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m3-2_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m3-2_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">water table</match>
+			<match id="1">groundwater</match>
+			<match id="2">aquifier</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">Water that enters and is stored in the ground</drop>
+			<drop correct="2">Permeable layer of rock and soil that stores and carries water</drop>
+			<drop correct="3">The boundary between the saturated and non-saturated layers of soil or rock</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-2_s4</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m3-2_s5</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Evaporation and Transpiration</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-2_s6.jpg</image>
+         <hotspots>
+            <hotspot title="Evaporation" dynamic="true" x="365" y="168" audio="env_m3-2_s6_evaporation"><![CDATA[
+				<h1>Evaporation</h1>
+				<p>Evaporation is the process by which water changes from a liquid to a gas. During the water cycle, energy from the sun heats the surface of the ocean or other bodies of water. Some of the liquid water evaporates from these bodies of water and enters the atmosphere as a gas called water vapor.</p>
+			]]></hotspot>
+			<hotspot title="Transpiration" dynamic="true" x="205" y="53" audio="env_m3-2_s6_transpiration"><![CDATA[
+				<h1>Transpiration</h1>
+				<p>Water enters the atmosphere as a result of transpiration, the process in which water vapor is released from plants.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-2_s6</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m3-2_s7</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (cl)Don Hammond/Design Pics, (c)Image Source/Getty Images, (cr)Greg Wright/Alamy/</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m3-2_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Lynn Betss/USDA Natural Resources Conservation Service, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m3-2_s9</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="6_Activity_Interactivity">
+      <content>
+         <header>The Water Cycle</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_02_11A.mp4</url>
+      <image>env_m3-2_s10.jpg</image>
+      <audio>env_m3-2_s10</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="inside" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="width: 94px !important">
+            <match id="1">condensation</match>
+			<match id="2">evaporation</match>
+			<match id="3">infiltration</match>
+			<match id="4">precipitation</match>
+			<match id="5">runoff</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;" dropzone-styles="width: 82px !important">
+            <drop correct="3" x="42" y="201" />
+			<drop correct="4" x="154" y="201" />
+			<drop correct="1" x="250" y="201" />
+			<drop correct="5" x="350" y="201" />
+			<drop correct="2" x="469" y="201" />
+         </drops>
+         <image>env_m3-2_s11.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-2_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>What percent of the Earth's water supply is readily accessible to humans?</question>
+            <answers>
+				<answer>Less than one third</answer>
+				<answer>About one half</answer>
+				<answer>Approximately three quarters</answer>
+				<answer correct="true">Less than one percent</answer>
+				<answer>Almost all of it</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The process of water molecules leaving Earth and entering the atmosphere is known as</question>
+            <answers>
+				<answer>precipitation.</answer>
+				<answer>condensation.</answer>
+				<answer>runoff.</answer>
+				<answer>infiltration.</answer>
+				<answer correct="true">evaporation.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Porous, water-saturated layers of underground rock and sand are known as</question>
+            <answers>
+				<answer>aqueducts.</answer>
+				<answer>watersheds.</answer>
+				<answer>lakes.</answer>
+				<answer>reservoirs.</answer>
+				<answer correct="true">aquifers.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The main energy source that drives the water cycle comes from</question>
+            <answers>
+				<answer>the geothermal energy of the Earth.</answer>
+				<answer>the circulating wind and air currents on Earth.</answer>
+				<answer>the gravitational forces directed at the ocean from both the moon and Earth.</answer>
+				<answer correct="true">energy from the sun.</answer>
+				<answer>forces found within the water molecules themselves.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which process that occurs during the water cycle releases energy as water changes from one form into another?</question>
+            <answers>
+				<answer correct="true">Condensation</answer>
+				<answer>Evaporation</answer>
+				<answer>Infiltration</answer>
+				<answer>Runoff</answer>
+				<answer>Transpiration</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-2_s12</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,567 @@
+<shell>
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m1-4_s1</video>
+    <credits>(cl)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-19204], (c)Max Whittaker/Getty Images News/Getty Images, (cr)David McNew/Getty Images News/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+		  	<strong>Fourteenth Amendment</strong>
+		  </p>
+		  <p>
+		  	&quot;All persons born or <a href="#" data-id="0" class="hotspot"><strong>naturalized</strong></a> in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall <a href="#" data-id="1" class="hotspot"><strong>abridge</strong></a> the <a href="#" data-id="2" class="hotspot"><strong>privileges or immunities</strong></a> of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without <a href="#" data-id="3" class="hotspot"><strong>due process of law;</strong></a> nor deny to any person within its jurisdiction the <a href="#" data-id="4" class="hotspot"><strong>equal protection of the laws</strong></a>.&quot;
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Naturalized</h1>
+            <p>To become a citizen of the United States, an individual from another country goes through a process called &quot;naturalization.&quot; After a person is naturalized, he or she has all the citizenship rights of natural-born citizens, with the exception of being able to serve as president or vice president.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Abridge</h1>
+            <p>To limit or reduce, to diminish</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Privileges or immunities</h1>
+            <p>&quot;Privileges&quot; means benefits, and &quot;immunities&quot; means protections.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Due process of law</h1>
+            <p>Government must treat accused persons fairly according to the protections listed in the Constitution and other legal statutes.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Equal protection of the laws</h1>
+            <p>This clause forbids any state from denying equal treatment to citizens.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-4_s2</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-4_s3.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="50" y="70" audio="USGov_m1-4_s3A">
+          <![CDATA[
+            <h1><em>Jus soli</em></h1>
+            <p><em>Jus soli</em>, which means "right of the soil," refers to citienzship by birth in a country or territory. Any child born in the United States automatically acquires U.S. citizenship, even if the child's mother is in the United States illegally. This provision does not apply to a child whose parent is a foreign diplomat at the time of birth.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="530" y="70" audio="USGov_m1-4_s3B">
+          <![CDATA[
+            <h1><em>Jus sanguinis</em></h1>
+            <p><em>Jus sanguinis</em>, which means "right of blood," refers to citizenship being determined by the citizenship of a child's parents. Even if a child is born outside the United States, the child automatically acquires U.S. citizenship if at least one parent was a U.S. citizen at the time of the child's birth.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="295" y="345" audio="USGov_m1-4_s3C">
+          <![CDATA[
+            <h1>Naturalization</h1>
+            <p>When a foreigner wants to become a U.S. citizen, he or she follows these steps in the naturalization process: 1. Determine eligibility. 2. Complete an application and acquire the necessary documents. 3. Get photographed. 4. Send in an application, fee, and documents. 5. Get fingerprinted. 6. Be interviewed. 7. Receive a decision. 8. Take the oath of citizenship.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-4_s3</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-4_s4.jpg</image>
+      <hotspots>
+        <hotspot title="Fifteenth Amendment" dynamic="true" x="20" y="20">
+          <![CDATA[
+            <h1>15<sup>th</sup> Amendment</h1>
+            <p><em>The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.</em> This amendment gave African American men the right to participate in electing local, state, and national officials.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Nineteenth Amendment" dynamic="true" x="450" y="20" style="white-space:nowrap;">
+          <![CDATA[
+            <h1>19<sup>th</sup> Amendment</h1>
+            <p><em>The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.</em> This amendment gave women the right to vote.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Twenty-fourth Amendment" dynamic="true" x="20" y="345" style="white-space:nowrap;">
+          <![CDATA[
+            <h1>24<sup>th</sup> Amendment</h1>
+            <p><em>The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay poll tax or other tax.</em> This amendment ended the practice of forcing would-be voters to pay for the right to vote.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Twenty-sixth Amendment" dynamic="true" x="450" y="345" style="white-space:nowrap;">
+          <![CDATA[
+            <h1>26<sup>th</sup> Amendment</h1>
+            <p><em>The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.</em> This amendment allowed persons 18 years old to register and to vote in all elections.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-4_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Max Whittaker/Getty Images News/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="6">26th Amendment</match>
+        <match id="4">jus sanguinis</match>
+        <match id="1">jus soli</match>
+        <match id="5">equal protection of the laws</match>
+        <match id="10">15th Amendment</match>
+		<match id="7">14th Amendment</match>
+        <match id="2">naturalization</match>
+        <match id="3">due process of law</match>
+        <match id="9">24th Amendment</match>
+        <match id="8">19th Amendment</match>
+      </matches>
+      <drops title="" children-styles="margin:0;">
+        <drop correct="1"><![CDATA[1. Literally means &quot;right of the soil&quot;]]></drop>
+        <drop correct="2"><![CDATA[2. Legal process a citizen of another country goes through to<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obtain citizenship]]></drop>
+        <drop correct="3"><![CDATA[3. Government must &quot;follow the rules&quot; when treating accused<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;persons]]></drop>
+        <drop correct="4"><![CDATA[4. Literally means &quot;the right of blood&quot;]]></drop>
+        <drop correct="5"><![CDATA[5. Forbids any state from denying equal treatment to citizens]]></drop>
+		<drop correct="6"><![CDATA[6. Eliminates age as a voting barrier for those 18 and older]]></drop>
+        <drop correct="7"><![CDATA[7. Defines the term &quot;citizen&quot;]]></drop>
+        <drop correct="8"><![CDATA[8. Eliminates gender as a barrier to voting]]></drop>
+        <drop correct="9"><![CDATA[9. Eliminates the payment of a tax as a voting requirement]]></drop>
+        <drop correct="10"><![CDATA[10. Eliminates race as a barrier to voting]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-4_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>USGov_m1-4_s6</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which of the following is a state government office?</question>
+        <answers>
+          <answer>Mayor</answer>
+          <answer>President</answer>
+          <answer correct="true">Governor</answer>
+          <answer>Council member</answer>
+          <answer>County commissioner</answer>
+        </answers>
+        <figure>USGov_m1-4_s7_view.jpg</figure>
+        <feedbackAudio>USGov_m1-4_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m1-4_s7</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p style="font-size:85%;">
+		  	<strong>Local Government</strong>
+		  </p>
+		  <p style="font-size:85%;">
+		  	There are tens of thousands of local governments throughout the United States. Some of these are special-purpose governing bodies, such as school districts. Others are general-purpose governments over cities, towns, or boroughs. The general-purpose governments, called <a href="#" data-id="0" class="hotspot"><strong>municipalities,</strong></a> are the <a href="#" data-id="1" class="hotspot"><strong>grass-roots</strong></a> level of U.S. politics.
+          </p>
+		  <p style="font-size:85%;">
+		  	There are several ways a local government can be organized, but most have a <a href="#" data-id="2" class="hotspot"><strong>mayor</strong></a> and a <a href="#" data-id="3" class="hotspot"><strong>city council</strong></a>. In some cities, the mayor or council may appoint a <a href="#" data-id="4" class="hotspot"><strong>city manager</strong></a>.
+		  </p>
+		  <p style="font-size:85%;">
+		  	Mayors and council members are elected. Each council member typically represents a particular <a href="#" data-id="5" class="hotspot"><strong>ward</strong></a> of the city. Voters may also elect judges, school board members, and other commissioners who assist in the everyday operation of the local government.
+		  </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Municipalities</h1>
+            <p>local governments of cities, towns, or boroughs; incorporated by the state in which they are located</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Grass-roots</h1>
+            <p>most basic level of an organization; Many of the nation's leading political figures had their beginnings in local, grass-roots politics.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Mayor</h1>
+            <p>chief executive of a city or town government</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>City council</h1>
+            <p>elected legislative body of a city or town</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>City manager</h1>
+            <p>official usually appointed by a mayor or city council to run the daily operations of a city</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Ward</h1>
+            <p>district within a town or city</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-4_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+		  	<strong>State Government</strong>
+		  </p>
+		  <p>
+		  	State governments operate on a much broader scale than local governments. Municipalities focus on local <a href="#" data-id="0" class="hotspot"><strong>ordinances,</strong></a> whereas state legislatures pass laws that deal with issues facing larger areas.
+          </p>
+		  <p>
+		  	All states except Nebraska have a <a href="#" data-id="1" class="hotspot"><strong>bicameral</strong></a> legislature. Nebraska has a <a href="#" data-id="2" class="hotspot"><strong>unicameral</strong></a> legislature. States are often divided into <a href="#" data-id="3" class="hotspot"><strong>districts</strong></a> that incorporate several smaller municipalities. As a result, state representatives and state senators have a broad base of <a href="#" data-id="4" class="hotspot"><strong>constituents</strong></a> to take into consideration when making laws.
+		  </p>
+		  <p>
+		  	Governors are elected in a statewide election and serve as the chief executive of their state. Voters may also be asked to vote for <a href="#" data-id="5" class="hotspot"><strong>commissioners</strong></a> and state judges in state elections.
+		  </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Ordinances</h1>
+            <p>laws or regulations enacted by a local government specific to issues within the town, city, or county</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Bicameral</h1>
+            <p>Made up of two legislative chambers or branches</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Unicameral</h1>
+            <p>Made up of a single legislative chamber</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Districts</h1>
+            <p>divisions of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Constituents</h1>
+            <p>residents of a district or member of a group represented by an elected official</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Commissioners</h1>
+            <p>heads of special departments or commissions</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-4_s9</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="5">ordinance</match>
+        <match id="4">bicameral</match>
+        <match id="7">mayor</match>
+        <match id="2">constituent</match>
+        <match id="9">ward</match>
+		<match id="10">city manager</match>
+        <match id="3">district</match>
+        <match id="8">city council</match>
+        <match id="1">unicameral</match>
+        <match id="6">municipality</match>
+      </matches>
+      <drops title="" children-styles="margin:0;">
+        <drop correct="1"><![CDATA[1. Made up of a single legislative chamber]]></drop>
+        <drop correct="2"><![CDATA[2. Member of a group represented by an elected official]]></drop>
+        <drop correct="3"><![CDATA[3. Division of a state]]></drop>
+        <drop correct="4"><![CDATA[4. Made up of two legislative chambers or branches]]></drop>
+        <drop correct="5"><![CDATA[5. Law or regulation enacted by a local government]]></drop>
+		<drop correct="6"><![CDATA[6. Local government incorporated by a state]]></drop>
+        <drop correct="7"><![CDATA[7. Chief executive of a city]]></drop>
+        <drop correct="8"><![CDATA[8. Elected legislative body of a city or town]]></drop>
+        <drop correct="9"><![CDATA[9. District within a town or city]]></drop>
+        <drop correct="10"><![CDATA[10. Official appointed to run the daily operations of a city]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-4_s10</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>USGov_m1-4_s11</video>
+    <credits>(tr)Comstock/Getty Images, (c)Saul Loeb/AFP/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="1_Module_Intro">
+    <video>USGov_m1-4_s12</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_m1-4_s13</video>
+    <credits>(tr)Comstock/Getty Images, (c)Bettmann/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="5">House of Representatives</match>
+        <match id="1">census</match>
+        <match id="7">general election</match>
+        <match id="4">gerrymandering</match>
+        <match id="6">Senate</match>
+		<match id="3">redistricting</match>
+        <match id="2">reapportioned</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom:0.25em;">
+        <drop correct="1"><![CDATA[1. Official count of the population of the United States]]></drop>
+        <drop correct="2"><![CDATA[2. Redistribution of congressional representatives based on<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;population changes]]></drop>
+        <drop correct="3"><![CDATA[3. Redrawing congressional district lines to accommodate shifts<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in population]]></drop>
+        <drop correct="4"><![CDATA[4. Drawing congressional districts in such a way as to favor one<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;party over another]]></drop>
+        <drop correct="5"><![CDATA[5. Has a total of 435 members]]></drop>
+		<drop correct="6"><![CDATA[6. Has a total of 100 members]]></drop>
+        <drop correct="7"><![CDATA[7. Regularly scheduled in November; voters make a final<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selection of office holders]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-4_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="2_Txt_Img_Animation">
+    <video>USGov_m1-4_s15</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="6_Activity_Interactivity">
+    <content>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_04_09A.jpg</url>
+    <image>USGov_m1-4_s16.jpg</image>
+    <audio>USGov_m1-4_s16</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m1-4_s17</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-4_s18.jpg</image>
+      <hotspots>
+        <hotspot title="Motor Voter Act" dynamic="true" x="100" y="15">
+          <![CDATA[
+            <h1>Motor Voter Act</h1>
+            <p>Legislation officially known as the National Voter Registration Act, 1993; Required state governments to allow qualified citizens to register to vote when applying for or renewing their driver's licenses; also allowed citizens to register in other public offices, or by mail-in registration</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Primary elections" dynamic="true" x="260" y="15">
+          <![CDATA[
+            <h1>Primary elections</h1>
+            <p>Elections in which voters choose the candidates who will run in the general election</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Closed primaries" dynamic="true" x="420" y="15">
+          <![CDATA[
+            <h1>Closed primaries</h1>
+            <p>Primary elections limited to registered party members who must declare their party affiliation in order to vote</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Midterm elections" dynamic="true" x="260" y="75">
+          <![CDATA[
+            <h1>Midterm elections</h1>
+            <p>Congressional elections that occur in the middle of a presidential term</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Precinct" dynamic="true" x="260" y="135">
+          <![CDATA[
+            <h1>Precinct</h1>
+            <p>A voting district; each city or county is usually divided into precincts containing from 200 to 1,000 voters</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Open primaries" dynamic="true" x="20" y="285">
+          <![CDATA[
+            <h1>Open primaries</h1>
+            <p>Primary elections in which voters are free to choose from any party when selecting candidates for the general election</p>
+          ]]>
+        </hotspot>
+        <hotspot title="General election" dynamic="true" x="20" y="345">
+          <![CDATA[
+            <h1>General election</h1>
+            <p>Regularly scheduled election in November; voters make a final selection of office holders</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Polling place" dynamic="true" x="450" y="345">
+          <![CDATA[
+            <h1>Polling place</h1>
+            <p>The location in a precinct where people go to vote</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-4_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Jonathan Nourok/Stone/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>In ____, voters must declare their party affiliation in order to vote for candidates.</question>
+        <answers>
+          <answer correct="true">closed primaries</answer>
+          <answer>midterm elections</answer>
+          <answer>general elections</answer>
+          <answer>open primaries</answer>
+          <answer>closed precincts</answer>
+        </answers>
+        <feedbackAudio>USGov_m1-4_s19_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m1-4_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>A major purpose of the U.S. census is to count the U.S. population for congressional apportionment.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Each state has equal representation in the House of Representatives.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>States have no control over the redistricting process.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>All officials of the federal government are directly elected by the people.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A voting district is called a precinct.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+	  <multiple>
+        <question>The National Voter Registration Act, known as the Motor Voter Act, helps citizens to become naturalized.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>In national midterm elections, the president and vice president are elected.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The Fifteenth Amendment defines the term "citizen."</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The presidential candidate who wins the popular vote nationwide always wins the electoral vote.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Elected officials represent constituents.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m1-4_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

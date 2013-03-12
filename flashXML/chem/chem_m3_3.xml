@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<XML att1="val1">
+	<Course title="Chemistry">	
+	
+		<Section title="Matter and Structure">
+		
+			<SubSection title="States, Properties, and Changes in Matter">		
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s1.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s2.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s3.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/dragdrop.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m3-3_s4.xml" photo=""/>	
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s5.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s6.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s7.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s8.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s9.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s10.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s11.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/dragdrop.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m3-3_s12.xml" photo=""/>	
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s13.swf" title="" photo="©Brand X Pictures/PunchStock"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s14.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s15.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s16.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s17.swf" title="" photo="phloen/Alamy"/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/dragdrop.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m3-3_s18.xml" photo=""/>	
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/chem_m3-3_s19.swf" title="" photo=""/>
+				<Page data="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/assets/mc.swf" title="" displaybar="false" info="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/xml/chem_m3-3_s20.xml" photo=""/>	
+			</SubSection>
+		
+		</Section>
+
+	</Course>
+</XML>

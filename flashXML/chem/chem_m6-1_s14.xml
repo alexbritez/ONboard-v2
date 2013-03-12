@@ -1,0 +1,35 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-1_s14.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[3Ba(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face='c-Italic'>aq</font>) + Al<font face='SubScript'>2</font>(SO<font face='SubScript' >4</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) <font face='CambriaMath'>→</font><br/>2Al(NO<font face='SubScript'>3</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) + 3BaSO<font face='SubScript'>4</font> (<font face='c-Italic'>s</font>)<br/><br/><font size='24'>How many nitrate ions are formed when two formula units of aluminum nitrate are dissociated?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>3</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>5</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>6</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-1_s14_FB.mp3" />
+	</question>
+</MultipleChoice>

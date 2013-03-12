@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-4_s20.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>What was most likely Luther’s main purpose in this document?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>To show his intelligence in church matters</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To warn the church that it is in danger of God’s wrath</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To share his general thoughts on the state of the church</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To admonish the pope for allowing ignorant and wicked priests to pray on the fear of the dying</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To provide theological reasons why indulgences (especially the sale of such) go against church teachings</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s20_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

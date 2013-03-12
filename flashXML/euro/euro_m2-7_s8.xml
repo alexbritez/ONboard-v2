@@ -1,0 +1,68 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What significant conclusions can be drawn from the data?</title>
+		<info></info>
+		<image>images/euro_m2-7_s8.jpg</image>
+		<audio>audio/euro_m2-7_s8.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>FRANCE</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>650.5</xCord>
+			<yCord>220</yCord>
+			<width>134</width>
+			<popTitle>FRANCE</popTitle>
+			<popInfo>The lack of destructive warfare in France for most of the century, improved agriculture and transportation, reduced mortality from diseases like the plague and smallpox, and a rural economy that favored high birth rates all may have contributed. These factors also applied to England to a great extent.</popInfo>
+		</pButton>
+
+	<pButton> 
+			<Name>RUSSIA AND SWEDEN</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>682.45</xCord>
+			<yCord>109.7</yCord>
+			<width>134</width>
+			<popTitle>RUSSIA AND SWEDEN</popTitle>
+			<popInfo>Russia and Sweden were at war with one another for the first quarter of the 18th century, which would have had an effect on the smaller country’s birthrate. The vast majority of Russians were poor peasants, most of them serfs. Although they had high birth rates, they did not benefit from improved agriculture and the elimination of some diseases as people in Western Europe. </popInfo>
+		</pButton>
+
+	<pButton> 
+			<Name>IRELAND</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>710</xCord>
+			<yCord>374.65</yCord>
+			<width>134</width>
+			<popTitle>IRELAND</popTitle>
+			<popInfo>Ireland in the 18th century was almost wholly subjugated by the English and was a poor peasant-based society dependent upon a few main crops. </popInfo>
+		</pButton>
+
+	<pButton> 
+			<Name>EAST PRUSSIA</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>675</xCord>
+			<yCord>426.65</yCord>
+			<width>134</width>
+			<popTitle>EAST PRUSSIA</popTitle>
+			<popInfo>East Prussia had been devastated by the Thirty Years’ War which ended in 1648. Like Russia, Prussian peasants were bound to the land as serfs. These factors may have stalled the population growth in East Prussia.</popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,40 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m2-3_s31.mp3</audio>
+		<endFeedback feedback=""/>
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text>To many people, fishing is finding a “fishy-looking” spot, tossing a hooked worm into the water, and hoping that a hungry fish just happens to be nearby. Anyone who has used this haphazard method can attest to the fact that failures usually outnumber successes. The problem with the “bait and wait” method is that it is very limited. The bait has less chance of encountering a fish than it would if it were presented in different areas of water. A more intelligent approach to fishing is to use the knowledge that at any given moment fish can be in three parts of a lake. Assuming that a lake has fish, anglers will find them on the surface, in the middle, or on the bottom of the lake. Fishing each of these areas involves the use of a separate technique. By fishing the surface, fishing the middle, or fishing the bottom, you greatly increase the chances of catching a fish.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>What is the student classifying in the essay?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Techniques for fishing at different lakes</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Techniques for fishing at different depths of a lake</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>Types of fish that can be found in any lake</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>Types of bait that should be used when fishing</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+</MultipleChoice>

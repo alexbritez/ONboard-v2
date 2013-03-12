@@ -1,0 +1,28 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Point of View]]></hText>
+		<qText><![CDATA[<p>Write a short paragraph comparing and contrasting the point of view of King James I and members of the House of Commons in 1604.</p>]]></qText>
+		<correctText><![CDATA[<font size='11'>Paragraphs should note the following:<br/>James was a king so his point of view was that of a monarch.<br/>James was biased towards the divine right of kings because he was a king.<br/>The members of the House of Commons were elected officials so their point of view establishes the importance of the House of Commons to running the nation.<br/>The members of the House of Commons were biased towards a limited monarchy that respected the powers and views of Parliament because they were elected officials. <br/>King James I and the members of the House of Commons have different points of view.
+</font>]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/euro_m4-4_s20.mp3</audio>
+		<feedback>audio/euro_m4-4_s20_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

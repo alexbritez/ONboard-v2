@@ -1,0 +1,75 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Romantic Nationalism </title>
+		<info><![CDATA[<font face='c-Italic' size='24'>Third of May</font><br/>Francisco Goya, 1814]]></info>
+		<image>images/euro_m3-4_s45.jpg</image>
+		<audio>audio/euro_m3-4_s45.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>SHOW</Name>   
+			<audio enable="true" url="audio/euro_m3-4_s45_SHOW.mp3"/>
+			<xCord>516.95</xCord>
+			<yCord>115.7</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[What does the painting show? ]]></popTitle>
+			<popInfo><![CDATA[<p>The painting shows the moment before a Spanish peasant is shot by a firing squad of French soldiers. A line of terrified peasants await their turn to be shot. The scene takes place at night and is illuminated by a single lantern at the soldiers’ feet. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CONTEXT</Name>
+			<audio enable="true" url="audio/euro_m3-4_s45_CONTEXT.mp3"/>
+			<xCord>735.2</xCord>
+			<yCord>115.7</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[What is the historical context? ]]></popTitle>
+			<popInfo><![CDATA[<p>Goya illustrates a moment in the beginning of the Pennisular War, between Napoleonic French Forces and Spanish guerrilla fighters. A popular uprising on May 2, 1808 had led to violent street fighting in Madrid and French troops were killed. The French rounded up and shot hundreds of Spaniards in various locations around Madrid on the next day – the third of May.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>MAIN VICTIM</Name>
+			<audio enable="true" url="audio/euro_m3-4_s45_MAIN_VICTIM.mp3"/>
+			<xCord>606.75</xCord>
+			<yCord>191.4</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Goya’s Main Victim]]></popTitle>
+			<popInfo><![CDATA[<p>The main victim stands in the spotlight. His outstretched arms recall the pose of crucifixion making him an explicit religious symbol of sacrifice. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>EMOTION</Name>
+			<audio enable="true" url="audio/euro_m3-4_s45_EMOTION.mp3"/>
+			<xCord>875.2</xCord>
+			<yCord>333.2</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Emotional Reaction ]]></popTitle>
+			<popInfo><![CDATA[<p>Goya’s victims are not beautifully or heroically portrayed. Blood and gore are used more freely than other Romantic era artists to excite the emotions of his viewers. 
+The soldiers are like shooting machines, while we relate to the victims with shock and pity. 
+</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>HORROR</Name>
+			<audio enable="true" url="audio/euro_m3-4_s45_HORROR.mp3"/>
+			<xCord>500</xCord>
+			<yCord>333.2</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[The Horror of the Scene]]></popTitle>
+			<popInfo><![CDATA[<p>The victim is surrounded the dead and other peasants, shielding their eyes and ears from the horror of the executions. The lantern illuminates the scene like a footlight on a stage, adding to the drama and horror.</p>]]></popInfo>
+		</pButton>
+
+		
+		<pButton> 
+			<Name>POINT OF VIEW</Name>
+			<audio enable="true" url="audio/euro_m3-4_s45_POINT_OF_VIEW.mp3"/>
+			<xCord>673.85</xCord>
+			<yCord>447.05</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Goya’s Point of View ]]></popTitle>
+			<popInfo><![CDATA[<p>Goya was unconcerned with spatial realism and the classical treatment of the human figure. The impact of his art relies on other compositional elements like the straight line of the soldiers facing the uneven line of the victims.</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

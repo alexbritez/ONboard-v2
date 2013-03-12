@@ -1,0 +1,29 @@
+<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p><font face='c-Bold'>Synthesis Prompt:</font></p>]]></hText>
+		<image></image>
+		<audio>audio/eng_m3-7_s13.mp3</audio>
+		<mainText><![CDATA[<p>The struggle for equal rights for women in the United States began long before the nation existed, and some would argue that this struggle continues even today. While most people would agree that men and women should have equal rights, many citizens fail to realize the complexity and scope of the inequality that women endure.
+<br/>Read the following sources carefully. In a well-organized essay, take a position on the relevance of the women’s rights struggle to the overall cultural prosperity of the United States.
+<br/>Make sure that your argument is central; use the sources to illustrate and support your reasoning. Avoid merely summarizing the sources. Indicate clearly which sources you are drawing from, whether through direct quotation, paraphrase, or summary. You may cite the sources as Source A, Source B, etc., or by using the descriptions in parentheses.
+Source A (Jones)<br/>Source B (Wollstonecraft)<br/>Source C (Schlafly)<br/>Source D (Peters)<br/>Source E (Bureau of Labor Statistics)</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

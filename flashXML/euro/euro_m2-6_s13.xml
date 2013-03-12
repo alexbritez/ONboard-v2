@@ -1,0 +1,60 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What is the historical context of the information?</title>
+		<info><![CDATA[<p></p>]]></info>
+		<image>images/euro_m2-6_s13.jpg</image>
+		<audio>audio/euro_m2-6_s13.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>SCRAMBLE</Name>   
+			<audio enable="true" url="audio/euro_m2-6_s13_scramble.mp3"/>
+			<xCord>575.5</xCord>
+			<yCord>119.4</yCord>
+			<popTitle><![CDATA[<p>The 'Scramble for Africa'</p>]]></popTitle>
+			<popInfo><![CDATA[<p>•  Occurred in the late 19th and early 20th centuries<br/>•  Much of Asia was already colonized
+</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>IMPERIALISM</Name>   
+			<audio enable="true" url="audio/euro_m2-6_s13_imperialism.mp3"/>
+			<xCord>575.5</xCord>
+			<yCord>176.4</yCord>
+			<popTitle><![CDATA[<p>The Age of Imperialism</p>]]></popTitle>
+			<popInfo><![CDATA[<p>•  Nations which controlled colonies were called<br />   empires<br />•  Competition among nations to acquire more<br/>   colonies was intense</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>MOTIVATIONS</Name>   
+			<audio enable="true" url="audio/euro_m2-6_s13_motivations.mp3"/>
+			<xCord>575.5</xCord>
+			<yCord>264.4</yCord>
+			<popTitle><![CDATA[<p>Motivations</p>]]></popTitle>
+			<popInfo><![CDATA[<p>•  The need for raw materials and markets for the<br />   expanding Industrial Revolution<br />•  Nationalism<br />•  A belief in the superiority of European civilization<br />•  A feeling of duty for Europeans to spread the<br />   benefits of their cultural, political, and economic<br />   achievements to the ‘uncivilized’ parts of the world</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>1885</Name>   
+			<audio enable="true" url="audio/euro_m2-6_s13_1885.mp3"/>
+			<xCord>575.5</xCord>
+			<yCord>334.35</yCord>
+			<popTitle><![CDATA[<p>The Berlin Conference</p>]]></popTitle>
+			<popInfo><![CDATA[<p>•  Held in 1885<br />•  Called by Germany’s Chancellor Otto von Bismarck<br />•  Purpose was to draft a code governing the way that<br />   European powers should proceed to acquire<br />   African territories<br />•  Intended to avoid conflicts among European<br />   powers during the Scramble for Africa</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

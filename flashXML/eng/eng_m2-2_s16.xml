@@ -1,0 +1,44 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m2-2_s16.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text>Antonio thought he could get away with not studying, but he found out that he needed to read his textbooks and do his homework. He had to go back to square one. Although he is not proud of himself, he is finally satisfied about his grades.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Which phrase used in the paragraph is a<br/><br/>nonstandard idiom?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[“get away with”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[“go back to square one”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[“do his homework”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[“proud of himself”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[“satisfied about his grades”]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m2-2_s16_FB.mp3" />
+	</question>
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->

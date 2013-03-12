@@ -1,0 +1,95 @@
+<PopUp>
+	<slideInfo>
+		<title>Historical Context</title>
+		<info>These characteristics can cause an author to have a certain bias that may be reflected in his or her writing.</info>
+		<image>images/euro_m3-1_s19.jpg</image>
+		<audio>audio/euro_m3-1_s19.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Social class</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_social.mp3"/>
+			<xCord>562.6</xCord>
+			<yCord>192.1</yCord>
+			<width>134</width>
+			<popTitle>Social class</popTitle>
+			<popInfo>Upper Middle Class/Wealthy</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Nationality</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_nation.mp3"/>
+			<xCord>833</xCord>
+			<yCord>127.4</yCord>
+			<width>134</width>
+			<popTitle>Nationality</popTitle>
+			<popInfo>British</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Age</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_age.mp3"/>
+			<xCord>562.6</xCord>
+			<yCord>127.4</yCord>
+			<width>134</width>
+			<popTitle>Age</popTitle>
+			<popInfo>28 years old</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Political</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_political.mp3"/>
+			<xCord>562.6</xCord>
+			<yCord>321.5</yCord>
+			<width>134</width>
+			<popTitle>Political</popTitle>
+			<popInfo>Fabian Society, a socialist organization</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Gender</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_gender.mp3"/>
+			<xCord>697.8</xCord>
+			<yCord>97.35</yCord>
+			<width>134</width>
+			<popTitle>Gender</popTitle>
+			<popInfo>Male</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Occupation</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_occupation.mp3"/>
+			<xCord>833</xCord>
+			<yCord>192.1</yCord>
+			<width>134</width>
+			<popTitle>Occupation</popTitle>
+			<popInfo>Writer and volunteer in the Royal Navy</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Education</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_education.mp3"/>
+			<xCord>562.6</xCord>
+			<yCord>256.8</yCord>
+			<width>134</width>
+			<popTitle>Education</popTitle>
+			<popInfo>Cambridge University</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Purpose</Name>
+			<audio enable="true" url="audio/euro_m3-1_s19_purpose.mp3"/>
+			<xCord>562.6</xCord>
+			<yCord>386.2</yCord>
+			<width>134</width>
+			<popTitle>Purpose</popTitle>
+			<popInfo>To celebrate the heroism of the British soldiers during World War I</popInfo>
+		</pButton>
+
+
+	
+	</popButtons>
+</PopUp>

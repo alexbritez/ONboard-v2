@@ -1,0 +1,57 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m2-1_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<!--<fraction></fraction>-->
+		<qText>__________, the more I want to continue arguing.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>The most we argue </font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				<frac></frac>
+				 <aText><![CDATA[<p>The side you take </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Arguing forever</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The more you disagree</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

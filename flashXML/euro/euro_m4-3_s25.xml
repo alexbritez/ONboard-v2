@@ -1,0 +1,72 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>The Effects of European Imperialism</title>
+		<info></info>
+		<image>images/euro_m4-3_s25.jpg</image>
+		<audio>audio/euro_m4-3_s25.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>WWI</Name>   
+			<audio enable="true" url="audio/euro_m4-3_s25_A.mp3"/>
+			<xCord>635.75</xCord>
+			<yCord>149.7</yCord>
+			<width>134</width>
+			<popTitle>World War I</popTitle>
+			<popInfo><![CDATA[One of the effects of imperialism was the tension it caused between imperial nations due to military and economic competition. This tension was a contributing factor leading up to World War I.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>COLONIAL PEOPLES</Name>
+			<audio enable="true" url="audio/euro_m4-3_s25_B.mp3"/>
+			<xCord>799.1</xCord>
+			<yCord>177.7</yCord>
+			<width>150</width>
+			<popTitle>Colonial Peoples</popTitle>
+			<popInfo><![CDATA[A tragic effect of imperialism on African colonies was the tremendous suffering and loss of life among Africa’s indigenous peoples. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ECONOMICS</Name>
+			<audio enable="true" url="audio/euro_m4-3_s25_C.mp3"/>
+			<xCord>670.3</xCord>
+			<yCord>231.4</yCord>
+			<width>85</width>
+			<popTitle>Economics</popTitle>
+			<popInfo><![CDATA[Modern economic research indicates that the European empires gained very few net economic benefits from imperialism given the tremendous costs of maintaining an empire.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>WWII</Name>
+			<audio enable="true" url="audio/euro_m4-3_s25_D.mp3"/>
+			<xCord>664.1</xCord>
+			<yCord>350.15</yCord>
+			<width>85</width>
+			<popTitle>World War II</popTitle>
+			<popInfo><![CDATA[The devastation of Europe as a result of World War II and rising nationalism in the colonies led to the end of Europe’s empires in Africa and Asia. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>DECOLONIZATION</Name>
+			<audio enable="true" url="audio/euro_m4-3_s25_E.mp3"/>
+			<xCord>854.85</xCord>
+			<yCord>306.15</yCord>
+			<width>85</width>
+			<popTitle>Decolonization</popTitle>
+			<popInfo><![CDATA[By the 1960s, virtually all former colonies in Africa and Asia had achieved independence although they maintained economic and cultural ties with their former rulers to varying degrees.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

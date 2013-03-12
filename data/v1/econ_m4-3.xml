@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Rates of Return">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m4-3_s1</video>
+    <credits>(cl)Joe Sohm/Digital Vision/Getty Images, (c)Bloomberg/Getty Images, (cr)JG Photography/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m4-3_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Mario Lopez/AP Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Increasing and Diminishing Marginal Returns</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m4-3_s3.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" audio="econ_m4-3_s3_worker1" x="557" y="61">
+          <![CDATA[
+			<h1>Worker 1: 2 pairs of jeans</h1>
+			<p>The first worker is able to make two pairs of jeans by himself. The total production of jeans is two pairs.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" audio="econ_m4-3_s3_worker2" x="557" y="140">
+          <![CDATA[
+			<h1>Worker 2: 3 pairs, increases total product to 5</h1>
+			<p>The second worker adds an additional three pairs of jeans. This brings the total production of jeans to five.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" audio="econ_m4-3_s3_worker3" x="557" y="217">
+          <![CDATA[
+			<h1>Worker 3: 5 pairs, increases total product to 10</h1>
+			<p>Adding a third worker enables all three workers to be more productive due to specialization of labor. The total production of jeans increases to ten pairs. The addition of this worker has doubled production.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" audio="econ_m4-3_s3_worker4" x="557" y="294">
+          <![CDATA[
+			<h1>Worker 4: 4 pairs, increases total product to 14</h1>
+			<p>The fourth worker makes four more pairs of jeans, bringing the total production to fourteen pairs. Although the fourth worker added four pairs to the total output produced, her contribution was not as great as the previous worker, so we begin to see diminishing returns.</p>
+		  ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m4-3_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m4-3_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Calculating Marginal Product</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m4-3_s5.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="32" y="122">
+          <![CDATA[
+			<h1>Marginal Product</h1>
+			<p>The additional output produced by adding one more unit of an input</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="537" y="105">
+          <![CDATA[
+			<h1>Change in Total Product</h1>
+			<p>The change in total product is calculated by subtracting the first total product from the second total product.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="466" y="218">
+          <![CDATA[
+			<h1>Change in Inputs</h1>
+			<p>The change in inputs usually refers to the change in the number of workers. Usually this number will equal 1. Because dividing by 1 leaves the number the same, the marginal product is usually equal to change in total product, and this divisional step is unnecessary.</p>
+		  ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m4-3_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="inside-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">-2</match>
+		<match id="2">8</match>
+		<match id="3">14</match>
+		<match id="4">24</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="426" y="348"></drop>
+		<drop correct="2" x="426" y="286"></drop>
+		<drop correct="3" x="300" y="160"></drop>
+		<drop correct="4" x="300" y="223"></drop>
+      </drops>
+      <image>econ_m4-3_s6.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m4-3_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m4-3_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Mario Lopez/AP Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Marginal product is always negative.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>If a firm hired one additional worker and the total product produced increased by 10 units, what is the marginal product of that worker?</question>
+        <answers>
+          <answer correct="true">10 units</answer>
+		  <answer>20 units</answer>
+		  <answer>5 units</answer>
+		  <answer>0 units</answer>
+		  <answer>1 unit</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple hasFigure="true">
+        <question>Click VIEW to see the table. With the addition of which worker do diminishing marginal returns set in?</question>
+        <answers>
+          <answer>1</answer>
+		  <answer>2</answer>
+		  <answer>3</answer>
+          <answer correct="true">4</answer>
+		  <answer>5</answer>
+        </answers>
+        <figure>econ_m4-3_s8_view.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A company will always hire a worker whose marginal product is negative.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Marginal product is calculated by dividing the change in total product by the change in inputs.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-3_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+</shell>

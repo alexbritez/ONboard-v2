@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Identifying the Main Idea">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m1-1_s1</video>
+      <credits>(c)Ned M. Seidler/National Geographic/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s2</video>
+      <credits>(bkgd) Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)Universal History Archive/Universal Images Group/Getty Images, ©Danita Delimont/Gallo Images/Getty Images, (r)Melba Photo Agency/PunchStock, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s4</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Brand X Pictures/Age Fotostock, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s5</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images, (1)Danita Delimont/Gallo Images/Getty Images, (2)Photodisc/Getty Images.</credits>
+   </scene>
+
+	<scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+	<scene id="7" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Cave Paintings</header>
+         <text><![CDATA[
+		 	<p>Cave and open-air paintings are some of the earliest known forms of art. They also can be considered a form of communication. Before many cultures developed a written language, humans used cave paintings to show their activities, ideas, and local plants and animals. Humans also created the art to pass along ideas to their descendants. The most famous cave paintings in Europe date as far back as 14,000 B.C.E. Two of the most well-known sites are Altamira in northern Spain and Lascaux Grotto in France, both of which feature similar images of wild oxen and bison.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-1_s9</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s8</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="3_txt_img_reading">
+      <content>
+         <header italic="false">What Cave Paintings Tell Us</header>
+         <text><![CDATA[
+		 	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cave paintings are invaluable to historians, archaeologists, and anthropologists because they reveal information about the lives of the people who produced them. For example, by studying the stress put on one kind of symbol as opposed to another, it is possible to determine whether a society was centered on agriculture or on hunting and gathering. Paintings depicting people and weapons show what types of technology a society had mastered.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-1_s11</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these statements forms the best main idea of the paragraph?</question>
+            <answers>
+				<answer>Cave paintings use symbols for objects.</answer>
+				<answer correct="true">Cave paintings give clues about ancient people's technology and whether they were farmers or hunter-gatherers.</answer>
+				<answer>Some cave paintings reveal people with weapons.</answer>
+				<answer>Cave art is important to historians, archaeologists, and anthropologists.</answer>
+            </answers>
+            <figure>
+				<header>What Cave Paintings Tell Us</header>
+				 <text><![CDATA[
+					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cave paintings are invaluable to historians, archaeologists, and anthropologists because they reveal information about the lives of the people who produced them. For example, by studying the stress put on one kind of symbol as opposed to another, it is possible to determine whether a society was centered on agriculture or on hunting and gathering. Paintings depicting people and weapons show what types of technology a society had mastered.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-1_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s10_mc</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="3_txt_img_reading">
+      <content>
+         <header>Chronicle of Peru</header>
+         <text><![CDATA[
+		 	<p>&quot;As this kingdom was so vast, in each of the many provinces there were many storehouses filled with supplies and other needful things; thus, in times of war, wherever the armies went they drew upon the contents of these storehouses, without ever touching the supplies of their confederates or laying a finger on what they had in their settlements. . . . Then the storehouses were filled up once more with the tributes paid the Inca. If there came a lean year, the storehouses were opened and the provinces were lent what they needed in way of supplies; then, in a year of abundance, they paid back all they had received. No one who was lazy or tried to live by the work of others was tolerated; everyone had to work. Thus on certain days each lord went to his lands and took the plow in hand and cultivated the earth, and did other things. Even the Inca [rulers] themselves did this to set an example. And under their system there was none such [laziness] in all the kingdom, for, if he had his health, he worked and lacked for nothing; and if he was ill, he received what he needed from the storehouses. And no rich man could deck himself out in more finery than the poor, or wear different clothing, except the rulers and the headmen, who, to maintain their dignity, were allowed great freedom and privilege.&quot;</p>
+			<p style="font-size:80%;"><strong>Source:</strong> Pedro Cieza de L&eacute;on. <em>The Second Part of the Chronicle of Peru</em>, translated by Clements R. Markham. London: Hakluyt Society. 1883.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-1_s13</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="1_Module_Intro">
+      <video>WHIS_m1-1_s12</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Ned M. Seidler/National Geographic/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these is the best main idea of the passage?</question>
+            <answers>
+				<answer>Inca armies used supplies in the storehouses as they traveled through the empire.</answer>
+				<answer>The Inca rulers ensured equality among their subjects and allowed no displays of wealth.</answer>
+				<answer>Storehouses were resupplied through tribute as well as when the people were able to pay back what was given to them in times of need.</answer>
+				<answer correct="true">Everyone in the Inca empire valued hard work and benefited when the storehouses were kept filled.</answer>
+            </answers>
+            <figure>
+				<header>Chronicle of Peru</header>
+				 <text><![CDATA[
+					<p>&quot;As this kingdom was so vast, in each of the many provinces there were many storehouses filled with supplies and other needful things; thus, in times of war, wherever the armies went they drew upon the contents of these storehouses, without ever touching the supplies of their confederates or laying a finger on what they had in their settlements. . . . Then the storehouses were filled up once more with the tributes paid the Inca. If there came a lean year, the storehouses were opened and the provinces were lent what they needed in way of supplies; then, in a year of abundance, they paid back all they had received. No one who was lazy or tried to live by the work of others was tolerated; everyone had to work. Thus on certain days each lord went to his lands and took the plow in hand and cultivated the earth, and did other things. Even the Inca [rulers] themselves did this to set an example. And under their system there was none such [laziness] in all the kingdom, for, if he had his health, he worked and lacked for nothing; and if he was ill, he received what he needed from the storehouses. And no rich man could deck himself out in more finery than the poor, or wear different clothing, except the rulers and the headmen, who, to maintain their dignity, were allowed great freedom and privilege.&quot;</p>
+					<p style="font-size:80%;"><strong>Source:</strong> Pedro Cieza de L&eacute;on. <em>The Second Part of the Chronicle of Peru</em>, translated by Clements R. Markham. London: Hakluyt Society. 1883.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-1_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s15</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="1_Module_Intro">
+      <video>WHIS_m1-1_s14</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Universal History Archive/Universal Images Group/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="3_txt_img_reading">
+      <content>
+         <header italic="false">About the Tang, 600s C.E.:</header>
+         <text><![CDATA[
+		 	<p>&quot;Young and old Chinese all wear silk clothes in both winter and summer, but silk of the best quality is reserved for the kings. . . . During the winter, the men wear two, three, four, five pairs of pants, and even more, according to their means. This practice has the goal of protecting the lower body from the high humidity of the land, which they fear. During the summer, they wear a single shirt of silk or some similar material. They do not wear turbans.&quot;</p>
+			<p style="font-size:80%;"><strong>Source:</strong> Gabriel Ferrand, trans. <em>Voyage du marchand arabe Sulayman en Inde et en Chine</em>. Paris, 1922. Translation by Jerry H. Bentley.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-1_s17</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these is the best choice as the main idea for the paragraph?</question>
+            <answers>
+				<answer>More silk was worn in the winter than in the summer.</answer>
+				<answer>The best silk was reserved for the Tang king.</answer>
+				<answer correct="true">Silk was the fabric worn by both rich and poor in Tang China.</answer>
+				<answer>During the winter, men in Tang China wore several pairs of pants at once.</answer>
+            </answers>
+            <figure>
+				<header italic="false">About the Tang, 600s C.E.:</header>
+				 <text><![CDATA[
+					<p>&quot;Young and old Chinese all wear silk clothes in both winter and summer, but silk of the best quality is reserved for the kings. . . . During the winter, the men wear two, three, four, five pairs of pants, and even more, according to their means. This practice has the goal of protecting the lower body from the high humidity of the land, which they fear. During the summer, they wear a single shirt of silk or some similar material. They do not wear turbans.&quot;</p>
+					<p style="font-size:80%;"><strong>Source:</strong> Gabriel Ferrand, trans. <em>Voyage du marchand arabe Sulayman en Inde et en Chine</em>. Paris, 1922. Translation by Jerry H. Bentley.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-1_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s18</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>&quot;The Chinese conduct commercial transactions and business affairs with equity. When someone lends money to another person, he writes up a note documenting the loan. The borrower writes up another note on which he affixes an imprint of his index finger and middle finger together. Then they put the two notes together, roll them up, and write a formula at the point where one touches the other [so that part of the written formula appears on each note]. Next, they separate the notes and entrust to the lender the one on which the borrower recognizes his debt.&quot;</p>
+			<p style="font-size:80%;"><strong>Source:</strong> Gabriel Ferrand, trans. <em>Voyage du marchand arabe Sulayman en Inde et en Chine</em>. Paris, 1922. Translation by Jerry H. Bentley.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-1_s19</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these would serve as the best main idea for the paragraph?</question>
+            <answers>
+				<answer correct="true">The Tang Chinese had a sophisticated method of borrowing and lending that insured both parties.</answer>
+				<answer>Borrowing and lending was something that occurred only in Tang China.</answer>
+				<answer>Corporal punishment served as a deterrent to bad loans.</answer>
+				<answer>Loans In Tang China required written documentation.</answer>
+            </answers>
+            <figure>
+				 <text><![CDATA[
+					<p>&quot;The Chinese conduct commercial transactions and business affairs with equity. When someone lends money to another person, he writes up a note documenting the loan. The borrower writes up another note on which he affixes an imprint of his index finger and middle finger together. Then they put the two notes together, roll them up, and write a formula at the point where one touches the other [so that part of the written formula appears on each note]. Next, they separate the notes and entrust to the lender the one on which the borrower recognizes his debt.&quot;</p>
+					<p style="font-size:80%;"><strong>Source:</strong> Gabriel Ferrand, trans. <em>Voyage du marchand arabe Sulayman en Inde et en Chine</em>. Paris, 1922. Translation by Jerry H. Bentley.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-1_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s20</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s21</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Randy Faris/CORBIS, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these would serve as a main-idea statement for both passages?</question>
+            <answers>
+               <answer>The Chinese used strange methods to conduct business.</answer>
+			   <answer>Although Chinese methods of commerce seem foreign, they were nevertheless sophisticated.</answer>
+               <answer correct="true">Tang China was a sophisticated society in which people wore silk and engaged in complex financial transactions.</answer>
+			   <answer>Both rich and poor Tang Chinese wore silk year-round.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-1_s22_FB2</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s22</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="6_Activity_Interactivity">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M01_01_10P.mp4</url>
+		<image>WHIS_m1-1_s23.jpg</image>
+		<audio>WHIS_m1-1_s23</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these statements is the best main idea of the map?</question>
+            <answers>
+               <answer correct="true">Alexander the Great fought many battles to extend his empire from Macedonia to Egypt to India.</answer>
+			   <answer>Granicus was the first major battle Alexander the Great was involved in after conquering Greece.</answer>
+               <answer>Alexander the Great named many cities after himself during his empire's expansion.</answer>
+			   <answer>Alexander the Great died in Babylon after conquering many lands.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-1_s24_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s24</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s25</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which statement would make the best title of the chart?</question>
+            <answers>
+				<answer>Nuclear Capabilities of Developing Countries</answer>
+				<answer>Nuclear Capabilities of Developed Countries</answer>
+               <answer>Countries Seeking Nuclear Weapons</answer>
+			   <answer correct="true">World Nuclear Weapons Capabilities</answer>
+            </answers>
+            <figure>WHIS_m1-1_s26_view.jpg</figure>
+            <feedbackAudio>WHIS_m1-1_s26_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s26</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m1-1_s27.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="97" y="58"><![CDATA[
+				<h1></h1>
+				<p>The figure is Mikhail Gorbachev, the last president of the Soviet Union.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="275" y="149"><![CDATA[
+				<h1></h1>
+				<p>The hammer and sickle is the symbol of Soviet communism.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="154" y="288"><![CDATA[
+				<h1></h1>
+				<p>The broken pieces symbolize the fall of the Soviet Union and Soviet communism in 1991.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m1-1_s25_2</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-ppmsc-07958], (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is the main idea of the cartoon?</question>
+            <answers>
+				<answer>The Soviet Union collapsed but would continue to be a superpower.</answer>
+				<answer>The Soviet Union collapsed but would remain a Communist country.</answer>
+               <answer correct="true">Communism in the Soviet Union came to an end under Gorbachev.</answer>
+			   <answer>Gorbachev strengthened the Soviet Union.</answer>
+            </answers>
+            <figure>WHIS_m1-1_s27_view.jpg</figure>
+            <feedbackAudio>WHIS_m1-1_s28_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s28</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-ppmsc-07958], (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-1_s29</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these titles is most appropriate for this time line?</question>
+            <answers>
+				<answer>The Rise of the Roman Empire</answer>
+				<answer correct="true">The Power and Longevity of the Romans</answer>
+               <answer>Achievements of Ancient Greece</answer>
+			   <answer>The Fall of Rome</answer>
+            </answers>
+            <figure>WHIS_m1-1_s30_view.jpg</figure>
+            <feedbackAudio>WHIS_m1-1_s30_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s30</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>Don Affonso [King of Portugal, etc.]. To all who may see this our letter, we make known that, in order to defend, guard and preserve the trades of Guineea, the barters and mines of gold, and the commerce which rightly belongs to these kingdoms only and to no others, as is fitting for a matter of such importance, substance, moment and value, we, by this present letter, give the following power, authority, and special command to the captains, who at any time may be sent by my son, the prince etc., to the said Guineea: if they meet any caravels whatever, or any ships, of any people whatsoever of Espanha [Spain], or belonging to any other persons, who are, or may be, on their way out to the said Guineea or on their way back, or who are in it, in any manner whatsoever, beyond the boundaries, which by the agreed terms of the peace, made between our said kingdoms and those of Castile, have been appointed and declared, these boundaries and limits running downwards from the Canarias towards Guinea, that as soon as such persons shall have been seized, without any further order or course of law, all may be, and shall be, forthwith cast into the sea, so that they may then die a natural death; and they may not be carried to these kingdoms, or to any other parts, because they are to suffer punishment for trying and desiring to do something strictly forbidden and prohibited. It will be a good lesson to those, who may hear or learn of it, to beware of doing the like. Accordingly, we recommend my said son to order his said captains, whom he sends in future to the said Guineea, to do this accordingly, and to give them a special instruction to this effect; accordingly, we give him full authority, as we have and hold it, to do this and to command it to be so done. To certify all this, we command this our letter, signed by us and sealed with our seal, to be issued by him. Done in Vjana, on 6 April 1480.</p>
+			<p style="font-size:80%;"><strong>Credit:</strong> From EUROPEANS IN WEST AFRICA, 1450–1560 by John William Blake, published by The Hakluyt Society.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-1_s31</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>Don Affonso [King of Portugal, etc.]. To all who may see this our letter, we make known that, in order to defend, guard and preserve the trades of Guineea, <del>the barters and mines of gold, and the commerce which rightly belongs to these kingdoms only and to no others, as is fitting for a matter of such importance, substance, moment and value, we,</del> by this present letter, give the following power<del>, authority, and special command</del> to the captains, <del>who at any time may be sent by my son, the prince etc., to the said Guineea:</del> if they meet any <del>caravels whatever, or any</del> ships, of any people whatsoever of Espanha [Spain], <del>or belonging to any other persons,</del> who are, or may be, on their way out to the said Guineea or on their way back, <del>or who are in it, in any manner whatsoever, beyond the boundaries, which by the agreed terms of the peace, made between our said kingdoms and those of Castile, have been appointed and declared, these boundaries and limits running downwards from the Canarias towards Guinea, that as soon as such persons shall have been seized, without any further order or course of law,</del> all may be, and shall be, forthwith cast into the sea, so that they may then die a natural death; <del>and they may not be carried to these kingdoms, or to any other parts, because they are to suffer punishment for trying and desiring to do something strictly forbidden and prohibited</del>. It will be a good lesson to those, who may hear or learn of it, to beware of doing the like. Accordingly, we recommend my said son to order his said captains<del>, whom he sends in future to the said Guineea,</del> to do this <del>accordingly, and to give them a special instruction to this effect; accordingly, we give him full authority, as we have and hold it, to do this and to command it to be so done. To certify all this, we command this our letter, signed by us and sealed with our seal, to be issued by him.</del> Done in Vjana, on 6 April 1480.</p>
+			<p style="font-size:80%;"><strong>Credit:</strong> From EUROPEANS IN WEST AFRICA, 1450–1560 by John William Blake, published by The Hakluyt Society.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-1_s32</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these statements forms the best main idea of Don Affonso's letter?</question>
+            <answers>
+               <answer>King Affonso is notifying his son to watch for ships throwing Portuguese sailors overboard.</answer>
+			   <answer correct="true">King Affonso is authorizing his captains to throw overboard all people on Spanish ships that are interfering with Portuguese trade.</answer>
+               <answer>King Affonso is warning the people of Guineea not to trade with other Europeans.</answer>
+			   <answer>King Affonso's son is informing his father that he has taken control of Guineea and is seeking permission to punish trespassers.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-1_s33_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s33</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer. Click 'View' to see the main idea.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Two of the most famous cave paintings show drawings of elephants and tigers.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: Before many cultures developed a written language, humans used cave paintings to show their activities, ideas, and local plants and animals.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Some cave paintings reveal people with weapons.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: Before many cultures developed a written language, humans used cave paintings to show their activities, ideas, and local plants and animals.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Rich people in the Inca empire dressed in more elegant clothing than the poor. </question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: Everyone in the Inca empire valued hard work and benefited when the storehouses were kept filled.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>In times of war, Inca soldiers took food and supplies from the local people. </question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: Everyone in the Inca empire valued hard work and benefited when the storehouses were kept filled.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>In Tang China, the person who borrowed money put his thumbprint on two pieces of paper.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: The Tang Chinese had a sophisticated method of borrowing and lending that insured both parties.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>In Tang China, a formula overlapped both the borrower's and the lender's written notes.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: The Tang Chinese had a sophisticated method of borrowing and lending that insured both parties.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Granicus was the first major battle Alexander the Great was involved in after conquering Greece.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: Alexander the Great fought many battles to extend his empire from Macedonia to Egypt to India.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Alexander the Great died in Babylon after conquering many lands.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: Alexander the Great fought many battles to extend his empire from Macedonia to Egypt to India. </p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>The girl you met at the beginning of this submodule liked to read biographies.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: This girl is adventurous, kind, and hardworking.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>The girl you met at the beginning of this submodule was saving her money for a skydiving lesson.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p>Main Idea: This girl is adventurous, kind, and hardworking.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-1_s34</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

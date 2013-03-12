@@ -1,0 +1,88 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Your conversation with a reader of your conclusion:</title>
+		<info></info>
+		<image>images/eng_m3-5_s5.jpg</image>
+		<audio>audio/eng_m3-5_s5.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>636.55</xCord>
+			<yCord>167.4</yCord>
+			<width>134</width>
+			<popTitle>1</popTitle>
+			<popInfo><![CDATA[<p><font face='lc-Bold'>Reader:</font> So What?</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>767.7</xCord>
+			<yCord>198.4</yCord>
+			<width>134</width>
+			<popTitle>2</popTitle>
+			<popInfo><![CDATA[<p><font face='lc-Bold'>YOU:</font> Let me show you how the points in the paper fit together.</p>]]></popInfo>
+		</pButton>	
+		
+		<pButton> 
+			<Name>3</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>636.55</xCord>
+			<yCord>236.75</yCord>
+			<width>134</width>
+			<popTitle>3</popTitle>
+			<popInfo><![CDATA[<p><font face='lc-Bold'>Reader:</font> Why should I care?</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>4</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>767.7</xCord>
+			<yCord>267.75</yCord>
+			<width>134</width>
+			<popTitle>4</popTitle>
+			<popInfo><![CDATA[<p><font face='lc-Bold'>YOU:</font> Because I’m giving you new meaning. I’m explaining how the sum of the paper is worth more than the parts.</p>]]></popInfo>
+		</pButton>			
+		
+		<pButton> 
+			<Name>5</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>636.55</xCord>
+			<yCord>306.1</yCord>
+			<width>134</width>
+			<popTitle>5</popTitle>
+			<popInfo><![CDATA[<p><font face='lc-Bold'>Reader:</font> Hmmm. This gives me something to think about concerning your topic.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>6</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>767.7</xCord>
+			<yCord>337.1</yCord>
+			<width>134</width>
+			<popTitle>6</popTitle>
+			<popInfo><![CDATA[<p><font face='lc-Bold'>YOU:</font> Good. My job here is done!</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

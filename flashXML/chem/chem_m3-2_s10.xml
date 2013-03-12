@@ -1,0 +1,37 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s10.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+	<question>
+		<qText>All of the following are true about compounds except:</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Compounds are composed of two or more elements in a specific ratio.</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Compounds have different properties from the properties of their elements. </aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Compounds are composed of one type of atom. </aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Compounds can be broken down into simpler substances. </aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s10_FB.mp3" />
+	</question>	
+	
+</MultipleChoice>

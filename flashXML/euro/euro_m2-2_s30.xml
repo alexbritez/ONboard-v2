@@ -1,0 +1,42 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-2_s30.jpg</image>
+		<audio>audio/euro_m2-2_s30.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>One</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Two</boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Three</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Four</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Five</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Six</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="503.55" yCord="149.65" spotScale="70" spotNum="1"/>
+		<dSpot xCord="503.55" yCord="212.6" spotScale="70" spotNum="2"/>
+		<dSpot xCord="503.55" yCord="269.15" spotScale="70" spotNum="3"/>
+		<dSpot xCord="503.55" yCord="325.75" spotScale="70" spotNum="4"/>
+		<dSpot xCord="503.55" yCord="389.4" spotScale="70" spotNum="5"/>
+		<dSpot xCord="503.55" yCord="446.65" spotScale="70" spotNum="6"/>
+	</dropSpots>
+</DragDrop>

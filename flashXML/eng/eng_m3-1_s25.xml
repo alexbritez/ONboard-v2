@@ -1,0 +1,103 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-1_s25.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>A moth is drawn to light just as I am pulled to the theater.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Allusion</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Analogy</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Irony</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Symbolism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Juxtaposition</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness.<br/><font size="18">—Charles Dickens, <font face="lc-italic">A Tale of Two Cities</font></font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Personification and symbolism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Analogy and metaphor</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Repetition and parallel structure</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Diction and allusion</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Imagery and hyperbole</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	<question>
+		<qText>Cara strategically planned her rise to the top of the corporation as though she were a modern female Napoleon.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Allusion</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Irony</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Juxtaposition</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Repetition</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Personification</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

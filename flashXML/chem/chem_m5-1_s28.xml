@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<font size="24">Convert 321 liters of H<font face='SubScript'>2</font>O<font face='c-Italic'>(g)</font> to grams.</font>]]></hText>
+		<qText></qText>
+		<correctText><![CDATA[<font face='c-Bold' size='13'>The correct answer is: </font><br />258 g]]></correctText>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-1_s22.swf" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-1_s28.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3</feedback>
+	</slideInfo>	
+</FillIn>

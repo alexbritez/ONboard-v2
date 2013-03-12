@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-3_s25.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[ What is the main idea expressed in this excerpt from <font face='lc-Italic'>Two Treatises of Government</font>?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>In a properly organized society, the government acts as an umpire to pass judgment when disputes between citizens occur.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Absolute monarchy can be a good form of government, if the king judges fairly in disputed matters.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Kings have the right to make laws without the consent of the people. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A good king should never stoop to follow the laws made for his subjects, since he is not bound by them.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>In civil society, individuals have the right to pass judgment and punish wrongdoers.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-3_s25_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

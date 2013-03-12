@@ -1,0 +1,29 @@
+﻿<PopUp>
+	<slideInfo>
+		<title></title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-2_s23.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s23.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Olde Tyme</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>412.35</xCord>
+			<yCord>184.3</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[<font face='c-Bold'>The correct molar formula is:</font><br />C<font face='SubScript'>21</font>H<font face='SubScript'>18</font>O<font face='SubScript'>6</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Olde Tyme</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>-100</xCord>
+			<yCord>-100</yCord>
+			<width>134</width>
+			<popTitle>The correct molar formula is:</popTitle>
+			<popInfo><![CDATA[C<font face='SubScript'>21</font>H<font face='SubScript'>18</font>O<font face='SubScript'>6</font>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

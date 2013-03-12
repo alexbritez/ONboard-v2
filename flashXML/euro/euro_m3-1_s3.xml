@@ -1,0 +1,43 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-1_s3.jpg</image>
+		<audio>audio/euro_m3-1_s3.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+		<feedback>audio/euro_m3-1_s3_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[The officiating was terrible the entire game.]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[As a whole, the Tigers are poor free-throw shooters.]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Both teams were successful at defending the three-point shot.]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[It was a stunning come from behind victory.]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[If the player was shooting the ball, it should have counted.]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[After whining to the referees for 5 minutes, the team finally left the floor.]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="530" yCord="217.25" spotScale="50" spotNum="1"/>
+		<dSpot xCord="530" yCord="312.25" spotScale="50" spotNum="1"/>
+		<dSpot xCord="722.5" yCord="217.25" spotScale="50" spotNum="2"/>
+		<dSpot xCord="722.5" yCord="312.25" spotScale="50" spotNum="2"/>
+		<dSpot xCord="915" yCord="217.25" spotScale="50" spotNum="3"/>
+		<dSpot xCord="915" yCord="312.25" spotScale="50" spotNum="3"/>
+	</dropSpots>
+</DragDrop>

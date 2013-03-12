@@ -1,0 +1,72 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Geographic Features of Europe: Rivers</title>
+		<info></info>
+		<image>images/euro_m1-1_s18.jpg</image>
+		<audio>audio/euro_m1-1_s18.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>Volga</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>892.25</xCord>
+			<yCord>268.4</yCord>
+			<width>134</width>
+			<popTitle>Volga</popTitle>
+			<popInfo><![CDATA[The Volga River is the longest river in Europe and is important to Russia for shipping and transportation.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Danube</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>751.45</xCord>
+			<yCord>308.4</yCord>
+			<width>85</width>
+			<popTitle>Danube</popTitle>
+			<popInfo><![CDATA[The Danube River is one of the most important rivers in Europe and today forms a part of the borders of 10 European countries. It originates in Germany and empties into the Black Sea.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Loire</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>538.7</xCord>
+			<yCord>360.4</yCord>
+			<width>92</width>
+			<popTitle>Loire</popTitle>
+			<popInfo><![CDATA[The Loire River is France’s longest river, and provides water to the scenic Loire Valley, famous for its wine, cheese, and produce. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Rhine</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>669.55</xCord>
+			<yCord>358.4</yCord>
+			<width>52</width>
+			<popTitle>Rhine</popTitle>
+			<popInfo><![CDATA[The Rhine River originates in Switzerland and flows all the way to the North Sea, passing through many different countries.  It is an important waterway for both tourism and commerce. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Seine</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>564.65</xCord>
+			<yCord>315.4</yCord>
+			<width>87</width>
+			<popTitle>Seine</popTitle>
+			<popInfo><![CDATA[The Seine River is both a commercial waterway and an important tourist destination. It winds through France’s capital city of Paris.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Thames</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>568.6</xCord>
+			<yCord>260.4</yCord>
+			<width>74</width>
+			<popTitle>Thames</popTitle>
+			<popInfo><![CDATA[The River Thames is located in England and became particularly important as London’s dominance in trade increased.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Variables">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m2-4_s1</video>
+      <credits>(tr)Fotosearch/Getty Images, (l)Royalty-Free/Corbis, (b)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m2-4_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (b)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">independent variable</match>
+			<match id="2">dependent variable</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="201" y="157" />
+			<drop correct="1" x="201" y="221" />
+         </drops>
+         <image>bio_m2-4_s3.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m2-4_s3</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m2-4_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (b)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">independent variable</match>
+			<match id="2">dependent variable</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="-1" y="262" />
+			<drop correct="1" x="287" y="359" />
+         </drops>
+         <image>bio_m2-4_s5.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m2-4_s5</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+      <image>bio_m2-4_s6.jpg</image>
+      <audio>bio_m2-4_s6</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)WILDLIFE GmbH/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which statement best represents the hypothesis for the simulated experiment that you performed?</question>
+            <answers>
+               <answer>If corn plants are grown under different conditions, then their yield will be different.</answer>
+			   <answer>Corn plants will grow differently depending on their environment.</answer>
+               <answer correct="true">If the level of infestation by the European core borer is changed, then the level of corn yield will be affected.</answer>
+			   <answer>If different strains of European core borer are used, then the corn yield will be affected.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which represents the independent variable in the simulated experiment that you performed?</question>
+            <answers>
+               <answer>Corn yield</answer>
+			   <answer>Amount of soil</answer>
+			   <answer>Growth chamber</answer>
+               <answer correct="true">Level of infestation</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which is the variable that you control in an experiment?</question>
+            <answers>
+               <answer correct="true">Independent variable</answer>
+			   <answer>Dependent variable</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[The 'If' part of a hypothesis states the]]></question>
+            <answers>
+               <answer correct="true">independent variable.</answer>
+			   <answer>dependent variable.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Suppose you do an experiment to test how temperature affects the time it takes for corn seeds to germinate. You plant all seeds in the same kind of soil and give them the same amount of water. You also plant all seeds at the same depth in the soil. What is the dependent variable in this experiment?</question>
+            <answers>
+               <answer>Temperature</answer>
+               <answer correct="true">Time to germinate</answer>
+			   <answer>Kind of soil</answer>
+			   <answer>Amount of water</answer>
+			   <answer>Depth of seed</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-4_s7</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

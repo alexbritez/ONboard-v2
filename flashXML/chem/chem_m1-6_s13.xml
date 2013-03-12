@@ -1,0 +1,29 @@
+﻿ <PopUp>
+	<slideInfo>
+		<title>Estimation with Mole Conversions</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-6_s13.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s13.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s13_a1.mp3"/>
+			<xCord>444</xCord>
+			<yCord>163</yCord>
+			<width>35</width>
+			<popTitle>Correct Estimation Answer:  </popTitle>
+			<popInfo><![CDATA[3 mol Cl<font face='SubScript'>2</font><br /><br />Explanation: Change 70.90 grams to 70 grams, and change 205 grams to 210 grams. Since 70 goes evenly into 210 grams, your solution will be 3 mol Cl<font face='SubScript'>2</font>.<br /><br />Correct answer: 2.89 moles Cl<font face='SubScript'>2</font.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s13_a2.mp3"/>
+			<xCord>444</xCord>
+			<yCord>315</yCord>
+			<width>35</width>
+			<popTitle>Correct Estimation Answer:  </popTitle>
+			<popInfo><![CDATA[0.5 mol CO<font face='SubScript'>2</font><br /><br />Explanation: Change 21.4 grams to 22 grams, and round 44.01 grams to 44 grams. Your solution will be 0.5 mol CO<font face='SubScript'>2</font>.<br /><br />Correct answer:  0.486 moles CO<font face='SubScript'>2</font>.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

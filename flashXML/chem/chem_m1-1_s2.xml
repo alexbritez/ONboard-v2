@@ -1,0 +1,77 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo.jpg" />
+	</slideInfo>
+	<question>
+		<qText><![CDATA[This question has <font face='lc-Bold' size='35'>bold</font>, <font face='lc-Italic' size='35'>italics</font>, <font face='SuperScript' size='30'>superscript</font> and <font face='SubScript' size='30'>subscript</font>.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[This answer has <font face='c-Bold' size='18'>bold</font>, <font face='c-Italic' size='18'>italics</font>, <font face='SuperScript' size='20'>superscript</font> and <font face='SubScript' size='20'>subscript</font>.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerB</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerC</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerD</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+	</question>
+	<question>
+		<qText><![CDATA[This question has <font face='lc-Bold' size='35'>bold</font>, <font face='lc-Italic' size='35'>italics</font>, <font face='SuperScript' size='30'>superscript</font> and <font face='SubScript' size='30'>subscript</font>.-2]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[This answer has <font face='c-Bold' size='18'>bold</font>, <font face='c-Italic' size='18'>italics</font>, <font face='SuperScript' size='20'>superscript</font> and <font face='SubScript' size='20'>subscript</font>.-2]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerB-2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerC-2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerD-2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+	</question>
+	<question>
+		<qText><![CDATA[This question has <font face='lc-Bold' size='35'>bold</font>, <font face='lc-Italic' size='35'>italics</font>, <font face='SuperScript' size='30'>superscript</font> and <font face='SubScript' size='30'>subscript</font>.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[This answer has <font face='c-Bold' size='18'>bold</font>, <font face='c-Italic' size='18'>italics</font>, <font face='SuperScript' size='20'>superscript</font> and <font face='SubScript' size='20'>subscript</font>.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerB</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerC</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerD</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>AnswerE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+	</question>
+</MultipleChoice>

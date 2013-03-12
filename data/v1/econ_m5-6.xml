@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Supply, Demand, and Equilibrium">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-6_s1</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-6_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-6_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m5-6_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Digital Vision/Punchstock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>At a price of $4 per bushel, what quantity of corn will consumers demand?</question>
+        <answers>
+          <answer>10 bushels</answer>
+          <answer correct="true">20 bushels</answer>
+		  <answer>30 bushels</answer>
+		  <answer>40 bushels</answer>
+		  <answer>50 bushels</answer>
+        </answers>
+        <figure>econ_m5-6_s5_view.jpg</figure>
+        <feedbackAudio>econ_m5-6_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-6_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>According to the graph, what price should corn farmers charge?</question>
+        <answers>
+          <answer>$5 because it's the most they can expect people to pay</answer>
+		  <answer>$1 because they will sell the most corn</answer>
+		  <answer>$4 because they will sell 80 bushels</answer>
+		  <answer>It doesn't matter which price they set because they will always earn the same income.</answer>
+          <answer correct="true">It's impossible to tell from this graph because it shows only part of the story: consumer behavior.</answer>
+        </answers>
+        <figure>econ_m5-6_s5_view.jpg</figure>
+        <feedbackAudio>econ_m5-6_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m5-6_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m5-6_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m5-6_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Royalty-Free/Corbis, (2)Fancy Photography/Veer, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>At a price of $4 per bushel, what quantity of corn will producers supply?</question>
+        <answers>
+          <answer>5 bushels</answer>
+		  <answer>20 bushels</answer>
+		  <answer>35 bushels</answer>
+          <answer correct="true">50 bushels</answer>
+		  <answer>60 bushels</answer>
+        </answers>
+        <figure>econ_m5-6_s10_view.jpg</figure>
+        <feedbackAudio>econ_m5-6_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-6_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-6_s11.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="67" y="142">
+			<![CDATA[
+				<h1>Price</h1>
+				<p>Price is the Y-Axis label. &quot;Price&quot; can be either the price paid by consumers or the price received by producers.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="380" y="354">
+			<![CDATA[
+				<h1>Quantity</h1>
+				<p>Quantity is the X-Axis label. &quot;Quantity&quot; can be either the Quantity Demanded (Qd) or the Quantity Supplied (Qs).</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="510" y="6">
+			<![CDATA[
+				<h1>Supply</h1>
+				<p>Supply is the label for the upward-sloping supply curve. Producers are willing and able to produce more of a good when the price goes up.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="541" y="292">
+			<![CDATA[
+				<h1>Demand</h1>
+				<p>Demand is the label for the downward-sloping demand curve. Consumers are willing and able to buy more of a good when the price goes down.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="438" y="145">
+			<![CDATA[
+				<h1>Equilibrium</h1>
+				<p>Equilibrium is the intersection of supply and demand. This is the one location on the graph where both consumers and producers will be satisfied.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="190" y="116">
+			<![CDATA[
+				<h1>Equilibrium price (Peq)</h1>
+				<p>Equilibrium price (Peq) is the price of the good at market equilibrium. This is also called the &quot;market-clearing price,&quot; because at this price there is an equal number of producers and consumers. Any other price will result in a mismatch of buyers and sellers.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="338" y="281">
+			<![CDATA[
+				<h1>Equilibrium quantity (Qeq)</h1>
+				<p>Equilibrium quantity (Qeq) is the quantity of the good that will be produced at equilibrium. All of the goods produced at this quantity will be sold.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-6_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-6_s12.jpg</image>
+      <hotspots>
+        <hotspot audio="econ_m5-6_s12b" dynamic="true" x="93" y="46">
+			<![CDATA[
+				<h1>P1</h1>
+				<p><strong>P1</strong> is higher than the equilibrium price. Notice that at P1, suppliers will produce a much greater quantity than consumers are willing to buy. This creates a surplus of the good. Producers will lower the price in order to get rid of the surplus, ending up back at Peq.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-6_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-6_s13.jpg</image>
+      <hotspots>
+        <hotspot audio="econ_m5-6_s13b"  dynamic="true" x="93" y="220">
+			<![CDATA[
+				<h1>P2</h1>
+				<p><strong>P2</strong> is below equilibrium price. Notice that at P2, consumers demand more of the good than producers will supply. This creates a shortage of the good. Producers will increase the price and produce more, ending up back at Peq.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-6_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="inside" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Price</match>
+		<match id="2">Quantity</match>
+		<match id="3">Supply</match>
+		<match id="5">Equilibrium</match>
+		<match id="6">Peq</match>
+		<match id="7">Qeq</match>
+		<match id="4">Demand</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="69" y="177"></drop>
+		<drop correct="2" x="266" y="367"></drop>
+		<drop correct="3" x="463" y="36"></drop>
+		<drop correct="4" x="463" y="326"></drop>
+		<drop correct="5" x="324" y="177"></drop>
+		<drop correct="6" x="167" y="153"></drop>
+		<drop correct="7" x="314" y="316"></drop>
+      </drops>
+      <image>econ_m5-6_s14.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-6_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What are the equilibrium price and quantity in this market for apples?</question>
+        <answers>
+          <answer>Price = $1.25, Quantity = 40</answer>
+          <answer correct="true">Price = $1.25, Quantity = 30</answer>
+		  <answer>Price = $1.00, Quantity = 30</answer>
+		  <answer>Price = $1.00, Quantity = 40</answer>
+		  <answer>Price = $0.75, Quantity = 40</answer>
+        </answers>
+        <figure>econ_m5-6_s15_view.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple hasFigure="true">
+        <question>What is one price on this graph that would create a surplus of apples?</question>
+        <answers>
+          <answer>$0.25</answer>
+		  <answer>$0.75</answer>
+		  <answer>$1.00</answer>
+		  <answer>$1.25</answer>
+          <answer correct="true">$1.50</answer>
+        </answers>
+        <figure>econ_m5-6_s15_view.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple hasFigure="true">
+        <question>What is one price on this graph that would create a shortage of apples?</question>
+        <answers>
+          <answer correct="true">$0.75</answer>
+		  <answer>$1.25</answer>
+		  <answer>$1.50</answer>
+		  <answer>$1.75</answer>
+		  <answer>$2.00</answer>
+        </answers>
+        <figure>econ_m5-6_s15_view.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>According to the Law of Supply, which of the following is true?</question>
+        <answers>
+          <answer>As prices go up, producers will supply less of a good.</answer>
+          <answer correct="true">As prices go up, producers will supply more of a good.</answer>
+		  <answer>As prices go down, producers will supply more of a good.</answer>
+		  <answer>As prices go down, producers will supply a constant amount of a good.</answer>
+		  <answer>As prices go up, producers will demand more.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following is an example of demand?</question>
+        <answers>
+          <answer>Megan is saving her money to go on a cruise.</answer>
+		  <answer>Jack is willing and able to sell his baseball card collection for $1,000.</answer>
+          <answer correct="true">David wants a Corvette and is able to purchase it.</answer>
+		  <answer>Amy is waiting for the price of snowboards to decrease before purchasing one.</answer>
+		  <answer>Mickey is waiting until summer before raising the price of tennis rackets in her store.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-6_s15</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

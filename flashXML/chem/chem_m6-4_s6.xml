@@ -1,0 +1,44 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-4_s6.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Identify the acid with its conjugate base in the reaction below.<br /><br /><font size='26'>H<font face='chemNums'>2</font>SO<font face='chemNums'>4</font> + CH<font face='chemNums'>3</font>NH<font face='chemNums'>2</font> <font face='CambriaMath'>→</font> HSO<font face='chemNums'>=</font> + CH<font face='chemNums'>3</font>NH<font face='chemNums'>7</font></font>]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[ H<font face='chemNums'>2</font>SO<font face='chemNums'>4</font>,  CH<font face='chemNums'>3</font>NH<font face='chemNums'>2</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[CH<font face='chemNums'>3</font>NH<font face='chemNums'>2</font>, CH<font face='chemNums'>3</font>NH<font face='chemNums'>7</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				<aText><![CDATA[CH<font face='chemNums'>3</font>NH<font face='chemNums'>2</font>,  HSO<font face='chemNums'>=</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				<aText><![CDATA[H<font face='chemNums'>2</font>SO<font face='chemNums'>4</font>,  HSO<font face='chemNums'>=</font> ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-4_s6_FB.mp3" />
+	</question>
+
+	
+
+
+
+	
+</MultipleChoice>

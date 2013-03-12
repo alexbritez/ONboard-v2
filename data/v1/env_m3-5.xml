@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Ecology">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m3-5_s1</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (l)USGS photo by Don Becker, (c)Goodshoot/PunchStock, (r)DLILLC/CORBIS, (b)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s2</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (c)USGS photo by Don Becker, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="number" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchContainerStyle="margin-top:1em !important;">
+         <matches title="">
+            <match id="1"><![CDATA[1. The availability of nitrogen in the soil<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;affects the growth of plants.]]></match>
+			<match id="2"><![CDATA[2. A cow is an example of an herbivore<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because it eats grass.]]></match>
+			<match id="3"><![CDATA[3. Acid precipitation can erode marble<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;statues.]]></match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="88" y="66" />
+			<drop correct="3" x="88" y="166" />
+			<drop correct="1" x="88" y="266" />
+         </drops>
+         <image>env_m3-5_s3.jpg</image>
+		 <feedbackAudio>env_m3-5_s3_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-5_s3</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s4</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (c)Goodshoot/PunchStock, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s6</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s7</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-5_s9.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="181" y="147" audio="env_m3-5_s9b"><![CDATA[
+				<h1>Herbivores</h1>
+				<p>These primary consumers, or herbivores, become food for the third trophic level primary carnivores.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="314" y="118" audio="env_m3-5_s9c"><![CDATA[
+				<h1>Primary Carnivore</h1>
+				<p>The primary carnivores become food for the fourth trophic level secondary carnivores, like the owl.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="555" y="239" audio="env_m3-5_s9d"><![CDATA[
+				<h1>Detritivore</h1>
+				<p>The detritivores are the last part of this food web. These scavengers, like the vulture, feed upon the remains of dead animals.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-5_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these organisms is not a consumer?</question>
+            <answers>
+               <answer>Owl</answer>
+			   <answer>Vulture</answer>
+               <answer correct="true">Mushroom</answer>
+			   <answer>Grasshopper</answer>
+			   <answer>Shrew</answer>
+            </answers>
+			<figure>env_m3-5_s10_view.jpg</figure>
+            <feedbackAudio>env_m3-5_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-5_s10</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which organisms is the top carnivore in this diagram?</question>
+            <answers>
+               <answer correct="true">Owl</answer>
+			   <answer>Vulture</answer>
+               <answer>Mushroom</answer>
+			   <answer>Grasshopper</answer>
+			   <answer>Shrew</answer>
+            </answers>
+			<figure>env_m3-5_s10_view.jpg</figure>
+            <feedbackAudio>env_m3-5_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-5_s12.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="503" y="30" audio=""><![CDATA[
+				<h1></h1>
+				<p>This arrow represents the origin of energy from the Sun. </p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="296" y="137" audio=""><![CDATA[
+				<h1></h1>
+				<p>The blue arrows represent the flow of energy that enters the ecosystem as light from the Sun and is passed along as energy to successive trophic levels. At each step, the energy available to each trophic level is less than the one before it.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="108" y="315" audio=""><![CDATA[
+				<h1></h1>
+				<p>The red arrows represent when energy is changed into heat.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="231" y="50" audio=""><![CDATA[
+				<h1></h1>
+				<p>The tan arrows represent the change of energy into wastes useful only to detritivores.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-5_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s13</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (c)Photodisc/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s14</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (c)Photodisc/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">+ / +</match>
+			<match id="2">+ / 0</match>
+			<match id="3">+ / -</match>
+			<match id="4">0 / -</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="23" y="143" />
+			<drop correct="2" x="164" y="143" />
+			<drop correct="3" x="305" y="143" />
+			<drop correct="4" x="446" y="143" />
+         </drops>
+         <image>env_m3-5_s15.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-5_s15</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m3-5_s16</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (c)USGS photo by Don Becker, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Community</match>
+			<match id="5">Organism</match>
+			<match id="2">Ecosystem</match>
+			<match id="1">Biome</match>
+			<match id="4">Population</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="243" y="75" />
+			<drop correct="2" x="243" y="132" />
+			<drop correct="3" x="243" y="189" />
+			<drop correct="4" x="243" y="246" />
+			<drop correct="5" x="243" y="303" />
+         </drops>
+         <image>env_m3-5_s17.jpg</image>
+		 <feedbackAudio>env_m3-5_s17_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-5_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="6_Activity_Interactivity">
+      <content action="play">
+         <header>Biomes</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_05_08P.mp4</url>
+      <image>env_m3-5_s18.jpg</image>
+      <audio>env_m3-5_s18</audio>
+      <credits>tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <!--<scene id="19" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="height:47px;">
+            <match id="1">Tundra</match>
+			<match id="2">Savanna</match>
+			<match id="3">Desert</match>
+			<match id="4">Taiga</match>
+			<match id="5">Temperate Deciduous Forest</match>
+			<match id="6">Temperate Grassland</match>
+			<match id="7">Tropical Rain Forest</match>
+			<match id="8">Temperate Evergreen Forest</match>
+         </matches>
+         <drops title="Biome" children-styles="margin-bottom: 0.5em; height:42px;">
+            <drop correct="7">Contains at least half of Earth's species of animals and plants</drop>
+			<drop correct="2">Grassland that borders the tropics and has alternating rainy and dry seasons</drop>
+			<drop correct="3">Receives less than 25 centimeters of rain a year</drop>
+			<drop correct="6">Found halfway between the equator and the poles, and has fertile soil</drop>
+			<drop correct="5">Regions with warm summers, cool winters, and plentiful rain</drop>
+			<drop correct="8">Regions with cold winters and a strong, seasonal dry period</drop>
+			<drop correct="4">Contains coniferous trees that can survive long, cold winters in the far north</drop>
+			<drop correct="1">Permafrost often covers the ground much of the year</drop>
+         </drops>
+         <image>env_m3-5_s19.jpg</image>
+		 <feedbackAudio>env_m3-5_s19_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-5_s19</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>-->
+
+   <scene id="19" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="height:36px;">
+            <match id="1">Tundra</match>
+			<match id="2">Savanna</match>
+			<match id="3">Desert</match>
+			<match id="4">Taiga</match>
+			<match id="5">Temperate Deciduous Forest</match>
+			<match id="6">Temperate Grassland</match>
+			<match id="7">Tropical Rain Forest</match>
+			<match id="8">Temperate Evergreen Forest</match>
+         </matches>
+         <drops title="Biome" children-styles="margin-bottom: 0.5em;" dropzone-styles="height: 24px">
+            <drop correct="7" x="0" y="56" />
+			<drop correct="2" x="0" y="100" />
+			<drop correct="3" x="0" y="143" />
+			<drop correct="6" x="0" y="185" />
+			<drop correct="5" x="0" y="228" />
+			<drop correct="8" x="0" y="271" />
+			<drop correct="4" x="0" y="313" />
+			<drop correct="1" x="0" y="356" />
+         </drops>
+         <image>env_m3-5_s19.jpg</image>
+		 <feedbackAudio>env_m3-5_s19_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-5_s19</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>An ecosystem is the study of interactions of organisms with one another and their physical environment.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A producer is an organism that makes its own food.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An omnivore is an example of a producer.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Mutualism is an example of a symbiotic relationship.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A biome is a large area of Earth characterized by specific kinds of animals and plants.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Water and oxygen are examples of biotic factors.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A trophic level is the feeding level an organism occupies in a food chain or food web.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The flow of energy in an ecosystem begins with the Sun.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A community is members of a single species living in the same area.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The desert biome receives less than 25 centimeters of rain a year.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-5_s20</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

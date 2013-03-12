@@ -1,0 +1,62 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-2_s14.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-2_s14.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-2_s14.jpg</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<font size=''>A 750 mL sample of nitrogen gas is cooled from 75°C to 25°C. Find its new volume if pressure remains constant.</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>250 mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>642 mL</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>876 mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>2250 mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-2_s10_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size=''>A gas at 84 °C occupies a volume of 0.50 L. What will be the temperature in °C when the gas has a volume of 1.00 L?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>42°C</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>168°C</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>441°C</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>714°C</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-2_s10_FB.mp3" />
+	</question>
+</MultipleChoice>

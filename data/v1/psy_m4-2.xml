@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Curves">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m4-2_s1</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s2</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s3</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s4</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="5" type="7_Activity_Drag_Drop">
+      <matchingInstructions><![CDATA[Place the paired numbers (IQ score, number of scores) in their correct places on the graph.<br/><br/>Match the items on the left to the correct areas on the right.]]></matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" skipLetter="1">
+         <matches title="">
+            <match id="1">B: 71, 135</match>
+			<match id="2">C: 86, 190</match>
+			<match id="3">D: 100, 300</match>
+			<match id="4">E: 114, 190</match>
+			<match id="5">F: 129, 135</match>
+			<match id="6">G: 144, 25</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="162" y="212" />
+			<drop correct="2" x="221" y="159" />
+			<drop correct="3" x="283" y="53" />
+			<drop correct="4" x="343" y="159" />
+			<drop correct="5" x="404" y="212" />
+			<drop correct="6" x="462" y="300" />
+         </drops>
+         <image>psy_m4-2_s5.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m4-2_s5</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s6</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s7</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s8</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s9</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s10</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s11</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s12</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s13</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Of the scores in our standardized test distribution, how many should occur between 80 and 100?</question>
+            <answers>
+				<answer>50%</answer>
+				<answer>85%</answer>
+				<answer correct="true">47.5%</answer>
+				<answer>20%</answer>
+            </answers>
+            <figure>psy_m4-2_s14_viewA.jpg</figure>
+            <feedbackAudio>psy_m4-2_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-2_s14</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Of the scores in our standardized test distribution, how many should occur between 90 and 110?</question>
+            <answers>
+				<answer correct="true">68%</answer>
+				<answer>95%</answer>
+				<answer>20%</answer>
+				<answer>40%</answer>
+            </answers>
+            <figure>psy_m4-2_s14_viewA.jpg</figure>
+            <feedbackAudio>psy_m4-2_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-2_s15</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="9_Activity_Image_Rollclick">
+		<content>
+			<header><![CDATA[]]></header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m4-2_s16.jpg</image>
+			<hotspots>
+				<hotspot audio="psy_m4-2_s16_A" dynamic="true" x="147" y="3">
+					<![CDATA[
+					<h1></h1>
+					<p>A z-score is the number of standard deviations a bit of data is greater or less than the mean.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="psy_m4-2_s16_B" dynamic="true" x="360" y="282">
+					<![CDATA[
+					<h1></h1>
+					<p>An I.Q. score of 115 is one standard deviation above the mean. Its z-score is 1.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="psy_m4-2_s16_C" dynamic="true" x="200" y="282">
+					<![CDATA[
+					<h1></h1>
+					<p>An I.Q. score of 70 is two standard deviations below the mean. Its z-score is -2.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="psy_m4-2_s16_D" dynamic="true" x="483" y="357">
+					<![CDATA[
+					<h1></h1>
+					<p>Z-scores for I.Q. scores greater than the mean are positive.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="psy_m4-2_s16_E" dynamic="true" x="173" y="357">
+					<![CDATA[
+					<h1></h1>
+					<p>Z-scores for I.Q. scores less than the mean are negative.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m4-2_s16</audio>
+		<credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Using the information on the graph, what is the z-score for an I.Q. score of 85?</question>
+            <answers>
+				<answer>2</answer>
+				<answer>-2</answer>
+				<answer>1</answer>
+				<answer correct="true">-1</answer>
+            </answers>
+            <figure>psy_m4-2_s17_view.jpg</figure>
+            <feedbackAudio>psy_m4-2_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-2_s17</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which I.Q. score has a z-score of 2?</question>
+            <answers>
+				<answer correct="true">130</answer>
+				<answer>100</answer>
+				<answer>85</answer>
+				<answer>70</answer>
+            </answers>
+            <figure>psy_m4-2_s17_view.jpg</figure>
+            <feedbackAudio>psy_m4-2_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-2_s18</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s19</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s20</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m4-2_s21</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of the two skewed curves likely represents the scores on a class test that was much too difficult for the students?</question>
+            <answers>
+				<answer>Curve 1</answer>
+				<answer correct="true">Curve 2</answer>
+            </answers>
+            <figure>psy_m4-2_s22_view.jpg</figure>
+            <feedbackAudio>psy_m4-2_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-2_s22</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of the skewed curves likely represents the heights of the players on a professional basketball team?</question>
+            <answers>
+				<answer correct="true">Curve 1</answer>
+				<answer>Curve 2</answer>
+            </answers>
+            <figure>psy_m4-2_s22_view.jpg</figure>
+            <feedbackAudio>psy_m4-2_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+	<scene id="24" type="End_Multiple_Choice">
+		<instruction>Click on the correct answer.</instruction>
+		<multiple_choice>
+			<multiple>
+				<question><![CDATA[Which term is interchangeable with the term &quot;normal curve&quot;?]]></question>
+				<answers>
+					<answer correct="true">bell curve</answer>
+					<answer>skewed curve</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>What is the purpose of a frequency table?</question>
+				<answers>
+					<answer correct="true">to organize data</answer>
+					<answer>to skew data</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>In which type of curve are the mean, median, and mode identical?</question>
+				<answers>
+					<answer>skewed curve</answer>
+					<answer correct="true">bell curve</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>In a normal distribution, what percentage of the data is found within one standard deviation of the mean?</question>
+				<answers>
+					<answer correct="true">68%</answer>
+					<answer>95%</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>What type of z-score indicates that a value is greater than the mean?</question>
+				<answers>
+					<answer>negative</answer>
+					<answer correct="true">positive</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>A left-skewed graph has data that accumulates on which side of the graph?</question>
+				<answers>
+					<answer>left</answer>
+					<answer correct="true">right</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>If a class's test scores are plotted on a graph, and the graph is right-skewed, what can you assume about the test?</question>
+				<answers>
+					<answer>The test was easy for the students.</answer>
+					<answer correct="true">The test was hard for the students.</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>A z-score is the number of standard deviations a bit of data is greater or less than</question>
+				<answers>
+					<answer correct="true">the mean</answer>
+					<answer>the median</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Approximately what percent of data are found within three standard deviations of the mean in a normal distribution?</question>
+				<answers>
+					<answer>95%</answer>
+					<answer correct="true">99%</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>15 is the standard deviation used for</question>
+				<answers>
+					<answer correct="true">I.Q. scores</answer>
+					<answer>all data sets</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+		</multiple_choice>
+		<audio>psy_m4-2_s24</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+</shell>

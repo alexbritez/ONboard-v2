@@ -1,0 +1,501 @@
+<shell title="Data Skills">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m3-2_s1</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s2</video>
+    <credits>(tr)Comstock/Getty Images, (c)George &amp; Judy Manna/Photo Researchers, Inc., (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="6_Activity_Interactivity">
+    <content>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M03_02_05A.jpg</url>
+    <image>USGov_m3-2_s3.jpg</image>
+    <audio>USGov_m3-2_s3</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="text" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="" children-styles="font-size: 18px;">
+        <match id="1">North</match>
+        <match id="2">Northeast</match>
+        <match id="3">South</match>
+        <match id="4">Southeast</match>
+        <match id="5">East</match>
+        <match id="6">Northwest</match>
+        <match id="7">West</match>
+        <match id="8">Southwest</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="6" x="20" y="16"></drop>
+        <drop correct="1" x="245" y="16"></drop>
+        <drop correct="2" x="459" y="16"></drop>
+        <drop correct="7" x="20" y="179"></drop>
+        <drop correct="5" x="459" y="179"></drop>
+        <drop correct="8" x="20" y="329"></drop>
+        <drop correct="3" x="245" y="329"></drop>
+        <drop correct="4" x="459" y="329"></drop>
+      </drops>
+      <image>USGov_m3-2_s4.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m3-2_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="" children-styles="font-size: 18px;">
+        <match id="1">North</match>
+        <match id="2">Northeast</match>
+        <match id="3">South</match>
+        <match id="4">Southeast</match>
+        <match id="5">East</match>
+        <match id="6">Northwest</match>
+        <match id="7">West</match>
+        <match id="8">Southwest</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="4"><![CDATA[<span style="font-size:17px;">In which direction would you go to get from Missouri to Alabama?</span>]]></drop>
+        <drop correct="5"><![CDATA[<span style="font-size:17px;">The Atlantic Ocean is which direction from Washington, D.C.?</span>]]></drop>
+        <drop correct="1"><![CDATA[<span style="font-size:17px;">Minnesota lies __________ of Iowa.</span>]]></drop>
+        <drop correct="8"><![CDATA[<span style="font-size:17px;">California is located __________ of Minnesota.</span>]]></drop>
+        <drop correct="7"><![CDATA[<span style="font-size:17px;">Lake Michigan is located __________ of Lake Huron.</span>]]></drop>
+        <drop correct="3"><![CDATA[<span style="font-size:17px;">Texas is __________ of Kansas.</span>]]></drop>
+        <drop correct="6"><![CDATA[<span style="font-size:17px;">In which direction would you go to get from Denver to Seattle?</span>]]></drop>
+        <drop correct="2"><![CDATA[<span style="font-size:17px;">In which direction would you go to get from Philadelphia to Boston?</span>]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m3-2_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="6_Activity_Interactivity">
+    <content>
+      <header>Political maps show political divisions:</header>
+      <instruction>
+        <![CDATA[
+          <ul>
+            <li>Countries</li>
+            <li>States</li>
+            <li>Counties</li>
+            <li>Territories</li>
+            <li>Other political subdivisions</li>
+            <li>Cities</li>
+            <li>Some physical features</li>
+          </ul>
+          Political maps = reference maps
+        ]]>
+      </instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M03_02_06A.jpg</url>
+    <image>USGov_m3-2_s6.jpg</image>
+    <audio>USGov_m3-2_s6</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="6_Activity_Interactivity">
+    <content>
+      <header>Physical maps show physical features:</header>
+      <instruction>
+        <![CDATA[
+          <ul>
+            <li>Mountains</li>
+            <li>Waterways</li>
+            <li>Plains</li>
+            <li>Volcanoes</li>
+          </ul>
+          Elevation = height of land above sea level <br /><br />
+          Relief = how flat or rugged the land surface is <br /><br />
+          Topographic maps show elevation or relief.
+        ]]>
+      </instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M03_02_07A.jpg</url>
+    <image>USGov_m3-2_s7.jpg</image>
+    <audio>USGov_m3-2_s7</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s8</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s9</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What does the red dot on this map mean?</question>
+        <answers>
+          <answer>Initiative for legislation and popular referendum</answer>
+          <answer>Popular referendum only</answer>
+          <answer>Initiative for constitutional amendments only</answer>
+          <answer>Neither method used for legislation</answer>
+          <answer correct="true">States with recall</answer>
+        </answers>
+        <figure>USGov_m3-2_s10_view.jpg</figure>
+        <feedbackAudio>USGov_m3-2_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-2_s10</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s11</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>In which states does the percentage of African American registered voters now exceed the percentage of white registered voters?</question>
+        <answers>
+          <answer>Alabama, Georgia, Louisiana</answer>
+          <answer>Alabama, Mississippi, South Carolina</answer>
+          <answer>Alabama, North Carolina, South Carolina</answer>
+          <answer correct="true">Georgia, Mississippi, South Carolina</answer>
+          <answer>Louisiana, Mississippi, South Carolina</answer>
+        </answers>
+        <feedbackAudio>USGov_m3-2_s12_FB</feedbackAudio>
+		<figure>USGov_m3-2_s12_view.jpg</figure>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-2_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+        <p>
+          The lowest federal courts in the American judicial system are the district courts. There are 94 federal district courts—at least one in every state and as many as four in some states. These district courts are the chief trial courts of the federal system, meaning that almost all criminal and civil cases arising under federal law are argued first in the district courts.
+		  </p>
+		  <p>
+Cases that are appealed from district courts go to federal courts of appeals, which are the second level of the federal court system. The United States has 13 courts of appeals. Eleven of these have jurisdiction over a "circuit" comprising from three to nine states. The other two appeals courts hear cases arising in the District of Columbia and cases involving patents and trade (U.S. Court of Appeals for the Federal Circuit).
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m3-2_s13</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s14</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s15</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m3-2_s16.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="455" y="260">
+          <![CDATA[
+            <h1>Political appointment</h1>
+            <p>Governors select judges in these states, except for Virginia, South Carolina, and Connecticut where the legislature appoints the judges.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="497" y="295">
+          <![CDATA[
+            <h1>Partisan/nonpartisan election</h1>
+            <p>Judges in these states are elected by votes in partisan or nonpartisan elections. The judges can be state, county, or city judges.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="393" y="323">
+          <![CDATA[
+            <h1>Merit plan</h1>
+            <p>These states use a "merit system," or the Missouri Plan. The plan permits the governor to select judges from a list of nominees recommended by a special commission. The judge must be approved in a public vote after serving for a designated period of time.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m3-2_s16</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s17</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>In which region of the country do most non-Hispanic African Americans live?</question>
+        <answers>
+          <answer>Midwest</answer>
+          <answer>North</answer>
+          <answer correct="true">South</answer>
+          <answer>Southwest</answer>
+          <answer>West</answer>
+        </answers>
+        <figure>USGov_m3-2_s18_view.jpg</figure>
+        <feedbackAudio>USGov_m3-2_s18_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-2_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s19</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>In which region of the country do most Hispanic Americans live?</question>
+        <answers>
+          <answer>Midwest</answer>
+          <answer>North</answer>
+          <answer>South</answer>
+          <answer correct="true">Southwest</answer>
+          <answer>West</answer>
+        </answers>
+        <figure>USGov_m3-2_s20_view.jpg</figure>
+        <feedbackAudio>USGov_m3-2_s20_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-2_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m3-2_s21.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="429" y="318">
+          <![CDATA[
+            <p>States with large populations of minorities tend to have a larger percentage of legislators from minority groups. Alabama and Mississippi have the highest proportion of African American state legislators. New Mexico has the highest proportion of Hispanic American legislators.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m3-2_s21</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s22</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="6_Activity_Interactivity">
+    <content>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M03_02_14A.jpg</url>
+    <image>USGov_m3-2_s23.jpg</image>
+    <audio>USGov_m3-2_s23</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="24" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>How many seats in the House of Representatives did Republicans have as a result of the 2010 election?</question>
+        <answers>
+          <answer>47</answer>
+          <answer>51</answer>
+          <answer>57</answer>
+          <answer>191</answer>
+          <answer correct="true">244</answer>
+        </answers>
+        <figure>USGov_m3-2_s24_view.jpg</figure>
+        <feedbackAudio>USGov_m3-2_s24_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-2_s24</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="25" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which of the following is a true statement about the map?</question>
+        <answers>
+          <answer correct="true">Several districts changed from Democrat to Republican in the 2010 election.</answer>
+          <answer>Several districts changed from Republican to Democrat in the 2010 election.</answer>
+          <answer>The number of representatives from each party remained unchanged after the 2010 election.</answer>
+          <answer>Control of the House remained with the same party after the 2010 election.</answer>
+          <answer>Democrats gained control of the House in the 2010 election.</answer>
+        </answers>
+        <figure>USGov_m3-2_s25_view.jpg</figure>
+        <feedbackAudio>USGov_m3-2_s25_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-2_s25</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="26" type="9_Activity_Image_Rollclick">
+    <content>
+	<header>Regional Voting Characteristics</header>
+    </content>
+    <activity type="image">
+      <image>USGov_m3-2_s26.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="554" y="75">
+          <![CDATA[
+            <p>This is the Northeast. Many of the nation's largest cities are located in this region. One of the region's characteristics is diversity &mdash; many cultures, ethnic groups, and religions are found here. Political scientists associate these demographic differences and the heavily urban population with the fact that citizens have voted overwhelmingly Democratic in past presidential elections.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="409" y="215">
+          <![CDATA[
+            <p>This is the southern region. These states, along with states in the Southwest, have been referred to as the "Sunbelt." This region is characterized by large rural areas. Southern voters tend to be religious and conservative. For many years, the term "solid South" was used to describe this area. Because of its conservative leanings, the region usually supports the Republican Party.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="400" y="85">
+          <![CDATA[
+            <p>States in this region are often referred to as "swing states" because they are not heavily dominated by one of the two major parties. The region is also known by the nickname the "rust belt" due to its loss of manufacturing jobs. Conservative populations shifting from the rural areas to the cities have caused the region to move more toward the center of the political spectrum. Swing states are extremely important to presidential candidates because they may "swing" from one party to the other in an election.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="269" y="78">
+          <![CDATA[
+            <p>This region is called the Midwest, or the Great Plains states. It has been loyally Republican for many years, and was the center of the Populist and Progressive movements in the late 1800s. Large farms and rugged individualism create a strong foundation for conservative ideologies.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="196" y="52">
+          <![CDATA[
+            <p>This region is known as the Mountain West. It is not as diverse as other regions in the nation. Its population is conservative and individualistic. In some places, voters have indicated a strong mistrust of government. It can be said that this region is the most libertarian of all the regions in the nation. Libertarians believe in less government involvement in citizens' lives.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="196" y="154">
+          <![CDATA[
+            <p>The Southwest is one of the nation's fastest growing areas. The states here are an extension of the Sunbelt. The region's growing population may be due to retiring baby boomers (Americans born right after World War II) from the northeast and Midwest. Because of the region's proximity to Mexico, immigration is a growing state and national issue here.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="67" y="97">
+          <![CDATA[
+            <p>This region is known as the Pacific West. It covers the entire length of the country, from Canada to Mexico. This region is very diverse. A strong concern for the environment, strong support for freedom of ideas, and a diverse population cause this region to be a stronghold of Democrats.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="129" y="268">
+          <![CDATA[
+            <p>This is the newest region in the nation. Both Alaska and Hawaii were added as states in the 1950s. Alaska is not as diverse as other parts of the nation. Politically, Alaska is conservative and is a stronghold for the Republican Party. Hawaii is more diverse and has voted consistently for Democratic presidential candidates.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m3-2_s26</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="27" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s27</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="28" type="2_Txt_Img_Animation">
+    <video>USGov_m3-2_s28</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="29" type="End_Multiple_Choice">
+    <instruction>Click TRUE if the statement is true. Click FALSE if the statement is false.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Regional maps can identify voting patterns, which are important for candidates running for office.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Maps reflecting diversity within the population could show the political leanings of a state.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Maps detailing how states handle certain policy issues can help you understand the federal structure.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A compass rose is used to show distance on a map.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Cardinal directions are northeast, southeast, northwest, and southwest.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+	  <multiple>
+        <question>Political maps show how humans have organized the Earth into political divisions.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Special-purpose maps emphasize one specific theme or particular topic about an area.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Electoral maps are redrawn for every presidential election.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Democrat strongholds are typically shown as red on maps.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A weakness of political maps is that they cannot show change over time.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-2_s29</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

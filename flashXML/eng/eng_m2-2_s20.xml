@@ -1,0 +1,38 @@
+﻿<PopUp>
+	<slideInfo>
+		<title></title>
+		<info></info>
+		<image>images/eng_m2-2_s20.jpg</image>
+		<audio>audio/eng_m2-2_s20.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>948.1</xCord>
+			<yCord>195.1</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Change “at the present time” to “now.”]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>968.1</xCord>
+			<yCord>234.6</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Eliminate the words “the purpose of.” These are unnecessary for meaning.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>868.1</xCord>
+			<yCord>274.1</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Eliminate the phrase “for dancers.” The competition “for dancers” is already implied by the word “tango” used earlier in the statement.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

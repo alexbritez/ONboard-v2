@@ -1,0 +1,46 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-7_s12.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-7_s12.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+		<fraction>true</fraction>
+			<boxText><![CDATA[21]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[11]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[180]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="765.2" yCord="184.6" spotScale="100" spotNum="1"/>
+		<dSpot xCord="765.2" yCord="276.35" spotScale="100" spotNum="2"/>
+		<dSpot xCord="765.2" yCord="368.1" spotScale="100" spotNum="3"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

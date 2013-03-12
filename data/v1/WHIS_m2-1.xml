@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Reading and Interpreting">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m2-1_s1</video>
+      <credits>(l to r)Photos 12/Alamy, (2)Leemage/Universal Images Group/Getty Images, (3)ROBERTO SCHMIDT/AFP/Getty Images, (4)MPI/Archive Photos/Getty Images, (5)French School/The Bridgeman Art Library/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Comstock Images/Getty Images, (2)Jose Luis Pelaez Inc/Blend Images LLC, (3)Amos Morgan/Photodisc/Getty Images, (4)Digital Vision/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m2-1_s4.jpg</image>
+         <hotspots>
+			<hotspot title="Step 1" dynamic="true" x="472" y="13"><![CDATA[
+				<h1>Step 1</h1>
+				<p>The baker gathers together the ingredients: flour, eggs, sugar, butter, baking powder, and milk.</p>
+			]]></hotspot>
+			<hotspot title="Step 2" dynamic="true" x="472" y="69"><![CDATA[
+				<h1>Step 2</h1>
+				<p>Using a mixer, the baker beats together the separate ingredients into a smooth mixture.</p>
+			]]></hotspot>
+			<hotspot title="Step 3" dynamic="true" x="472" y="125"><![CDATA[
+				<h1>Step 3</h1>
+				<p>The baker pours the smooth batter into two circular pans. On a whim, the baker swirls melted chocolate into one pan.</p>
+			]]></hotspot>
+			<hotspot title="Step 4" dynamic="true" x="472" y="181"><![CDATA[
+				<h1>Step 4</h1>
+				<p>The baker puts the pans in the oven to bake.</p>
+			]]></hotspot>
+			<hotspot title="Step 5" dynamic="true" x="472" y="237"><![CDATA[
+				<h1>Step 5</h1>
+				<p>The baker removes the pans holding springy cakes from the oven and puts them on a rack to allow them to set.</p>
+			]]></hotspot>
+			<hotspot title="Step 6" dynamic="true" x="472" y="293"><![CDATA[
+				<h1>Step 6</h1>
+				<p>After 15 minutes, the baker removes the firmer cakes from their pans.</p>
+			]]></hotspot>
+			<hotspot title="Step 7" dynamic="true" x="472" y="349"><![CDATA[
+				<h1>Step 7</h1>
+				<p>Two hours later, the baker stacks the layers and decorates the cake with frosting.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m2-1_s4</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Howard Grey/Digital Vision/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Heat from oven</match>
+			<match id="2">Flour, milk, sugar, eggs</match>
+			<match id="3">Mixer</match>
+			<match id="4">Melted chocolate</match>
+			<match id="5">Baker's skill</match>
+			<match id="6">Goal</match>
+			<match id="7">Baker's whim</match>
+         </matches>
+         <drops title="Elements of Continuity">2,5,6</drops>
+		 <drops title="Agents of Change">1,3,4,7</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m2-1_s5</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Radius/SuperStock, (2)Howard Grey/Digital Vision/Getty Images, (3)Brand X Pictures/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s7</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)EIGHTFISH/The Image Bank/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Vikings</header>
+         <text><![CDATA[
+		 	<p>The Vikings surged out of Scandinavia in the ninth century and attacked areas in Russia, the British Isles, northern France, and the Mediterranean. With their shallow-draft longships, square sails, and powerful oars, the Vikings were able to stealthily make their way up shallow waterways. Vikings coordinated their ships' movements and timed their attacks to take advantage of the tides. Fleets of Viking longships with ferocious dragon heads carved on their prows could sail up a river, surprise a village or monastery far from the sea, and spill out crews of warriors who conducted lightning raids on unprepared victims.</p>
+			<p>From the monasteries and towns, Vikings seized golden vessels, coins, and other moveable wealth such as tapestries, glassware, and even farm animals. Thousands of young Viking men chose to take to the seas as a way to gain their fortunes.</p>
+			<p>Sometimes Viking fleets attacked larger cities. In 855 C.E., for example, a Viking force of at least 700 longships sailed up the Seine River and besieged Paris. In 994, more than 100 longships sprinted up the Thames River and raided London. Even mighty Constantinople was raided at least three times during the ninth and tenth centuries. Many regions in Europe were politically unstable during this period, and they struggled to defeat the Vikings and other raiders who besieged various parts of the continent.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-1_s8</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s9</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Photos 12/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Buccaneers</header>
+         <text><![CDATA[
+		 	<p>In the seventeenth and eighteenth centuries, pirates of European descent, also known as buccaneers, looted and plundered throughout the Western and Eastern Hemispheres. Buccaneers used technological advances of the time, such as new types of lateen sails, improved gunpowder weapons, the astrolabe, the compass, a more accurate understanding of ocean currents and prevailing winds, and improved maps.</p>
+			<p>From the Caribbean to western South America, pirates disrupted international trade routes by using stealth and occasionally large fleets to seize treasure from the Americas—primarily bars of gold and silver. Pirate fleets in the Caribbean also besieged Spanish ports like Porto Bello in Panama, Cartagena in Colombia, and Havana in Cuba in an effort to seize silver from the mines.</p>
+			<p>Pirates lived brutal, often short lives. Their greatest successes came when European powers and various Asian states were distracted fighting each other. When those nations turned their attention to the buccaneers, pirate lairs in the Caribbean were systematically seized and their inhabitants slaughtered.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-1_s10</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s11</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Leemage/Universal Images Group/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Somali Pirates</header>
+         <text><![CDATA[
+		 	<p>The International Maritime Organization (IMO) reports that pirate attacks have continued to increase worldwide, with the Horn of Africa remaining the most dangerous area for shipping. Other dangerous areas include the coastal waters of Indonesia, the South China Sea, Bangladesh, and Nigeria.</p>
+			<p>The most infamous modern pirates are based in war-torn Somalia. Thousands of impoverished young men band together to seek wealth and seize everything from small, privately owned cruisers to huge oil tankers in the Arabian Sea and Indian Ocean. Using GPS, speedboats, rocket-propelled grenades, and automatic rifles, Somali pirates take captains by surprise and seize huge vessels, which often are so automated that their crews are small in number. The pirates have stolen cargoes of food, manufactured goods, and oil shipments. They also take hostages, and then demand millions of dollars in ransom.</p>
+			<p>Alarmed by the sharp increase in Somali piracy, a number of nations have sent naval vessels to stop pirate attacks. Modern technology and the use of armed security forces on some vessels have begun to deter pirate attacks.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-1_s12</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s13</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)ROBERTO SCHMIDT/AFP/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Golden vessels</match>
+			<match id="2">GPS and speedboats</match>
+			<match id="3">Attack monasteries</match>
+			<match id="4">Gold and silver bars</match>
+			<match id="5">Hostages for ransom</match>
+			<match id="6">Lateen sails</match>
+			<match id="7">Horn of Africa</match>
+			<match id="8">Study ocean currents</match>
+			<match id="9">Shallow-draft longboats</match>
+			<match id="10">Attack ports</match>
+			<match id="11">Study the tides</match>
+			<match id="12">Seize oil tankers</match>
+         </matches>
+         <drops title="Vikings">1,3,9,11</drops>
+		 <drops title="Buccaneers">4,6,8,10</drops>
+		 <drops title="Somali Pirates">2,5,7,12</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m2-1_s14</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these was an agent of change in each pirate scenario?</question>
+            <answers>
+				<answer>The three groups of pirates all moved near coastal waters to conduct raids.</answer>
+				<answer>People on the fringes of society became greedy.</answer>
+				<answer>Gold and other precious metals were discovered.</answer>
+				<answer correct="true">New technology of the time made others' wealth accessible.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-1_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-1_s15</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these is an element of continuity in each pirate scenario?</question>
+            <answers>
+				<answer>The three groups all plundered the same continent.</answer>
+				<answer>All seized the same type of wealth.</answer>
+				<answer correct="true">Pirates in all three eras were motivated by the quest for easy wealth.</answer>
+				<answer>All used the same type of ships to carry out their attacks.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-1_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-1_s16</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s17</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Photos 12/Alamy, (2)Leemage/Universal Images Group/Getty Images, (3)ROBERTO SCHMIDT/AFP/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s18</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>The Silk Roads</header>
+         <instruction><![CDATA[
+        <h1>Click to Explore</h1>
+        <p>Click on the 'hot spots' to view additional information.</p>
+        ]]></instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+				<p style="font-size:90%">The Silk Roads, <a href="#" data-id="0" class="hotspot"><strong>a network of ancient trade routes across the formidable terrain of Central Asia</strong></a>, were the stage upon which classical societies encountered each other. Beginning in 500 B.C.E., the long military and economic reach of two powerful empires—Rome in the West and Han China in the<br/>East—<a href="#" data-id="1" class="hotspot"><strong>transformed these prehistoric trade routes into consequential conduits for an ever growing volume of goods, ideas, people, flora, and fauna.</strong></a> <a href="#" data-id="2" class="hotspot"><strong>Within each of the two empires, however, the trade routes accelerated commercial, cultural, political, and biological development of their formerly more autonomous societies.</strong></a> <a href="#" data-id="3" class="hotspot"><strong>The Silk Roads linked individuals from West to East into far-reaching economic, imperial, and religious networks that thrived well into the 15th century.</strong></a></p>
+				<p style="font-size:90%;">Source: <em>Traditions &amp; Encounters</em>, 5th Edition, Jerry H. Bentley and Herbert F. Ziegler, McGraw-Hill Publishers.</p>
+			]]></text>
+			<hotspots>
+				<hotspot>
+					<![CDATA[
+					<p>Chinese merchants used camels to carry goods across difficult and dangerous deserts and mountains to Central Asia. From there, Arabs carried the goods to the Mediterranean Sea, where they met with traders from Europe.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<p>Chinese and Arab merchants had to pay taxes and bribes to the kingdoms they moved through, which made the trip expensive. For this reason, they carried mainly high-priced goods—silk, spices, tea, and porcelain—that were scarce and highly valued in Europe.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<p>China, isolated from other regions for centuries, adopted Buddhism when that religion entered the empire via the Silk Roads, and Buddhism remains an important belief system in China today. China's cuisine also changed as it was introduced to such foods as onions and grapes. In turn, Chinese inventions and ideas, such as paper and paper money, spread to other regions.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<p>As traders interacted, the belief systems of Buddhism, Islam, and Christianity spread along the Silk Roads.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>WHIS_m2-1_s19</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="20" type="6_Activity_Interactivity">
+		<content>
+			<header>The Silk Roads</header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M02_01_09A.mp4</url>
+		<image>WHIS_m2-1_s20.jpg</image>
+		<audio>WHIS_m2-1_s20</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="21" type="6_Activity_Interactivity">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M02_01_10A.jpg</url>
+		<image>WHIS_m2-1_s21.jpg</image>
+		<audio>WHIS_m2-1_s21</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="22" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Columbian Exchange</header>
+         <text><![CDATA[
+		 	<p>When Christopher Columbus landed in the Americas and established a colony for Spain, he took the first step in creating an immense trade network. The Columbian Exchange—the global diffusion of plants, food crops, animals, human populations, and disease that took place after the voyages of exploration by Columbus and other European mariners—had consequences much more profound than did earlier rounds of biological exchange. Unlike the earlier processes, the Columbian Exchange involved lands with radically different flora, fauna, and diseases. For thousands of years, the various species of the Eastern Hemisphere, the Western Hemisphere, and Oceania had evolved along separate lines. By creating links between these biological zones, the European voyages of exploration set off a round of biological exchange that permanently altered the world's human geography and natural environment.</p>
+			<p style="font-size:90%;">Source: <em>Traditions &amp; Encounters</em>, 5th Edition, Jerry H. Bentley and Herbert F. Ziegler, McGraw-Hill Publishers.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-1_s22</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="6_Activity_Interactivity">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+		<image>WHIS_m2-1_s23.jpg</image>
+		<audio>WHIS_m2-1_s23</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="24" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s24</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-1_s25</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)MPI/Archive Photos/Getty Images, (2)French School/The Bridgeman Art Library/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Conflict can be considered an agent of change.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A single individual cannot be classified as an agent of change.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A good thesis statement must address the time period and the global issue.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Begin writing your CCOT essay as soon as you read the topic.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Recognizing changes and continuities, as well as reasons for both, are important skills in world history.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-1_s26</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

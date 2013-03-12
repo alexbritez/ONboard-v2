@@ -1,0 +1,150 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s17.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+	<question>
+		<qText><![CDATA[Which of the following <font face='lc-Italic'>cannot</font> be broken down into simpler substances?]]></qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Salt</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Coffee</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Carbon dioxide</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Copper</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+
+	<question>
+		<qText>Which of the following contains two or more elements combined in a specific ratio?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Sodium</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Water</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Cement</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Potassium</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+
+	<question>
+		<qText>Which group of elements contains only metals?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Sodium, sulfur, silicon</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Phosphorus, carbon, magnesium</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Iron, sodium, calcium</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Magnesium, silicon, cobalt</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+
+	<question>
+		<qText>Which of the following relies on the difference in boiling points to separate the components of a mixture?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Chromatography</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Distillation</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Filtration</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Magnetic separation</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+
+	<question>
+		<qText>Because of its composition, the air over a coal-fired power plant should be classified as a(n)</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>compound</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>element</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>mixture</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>solution</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+</MultipleChoice>

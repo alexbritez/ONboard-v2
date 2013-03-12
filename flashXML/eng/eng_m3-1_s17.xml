@@ -1,0 +1,38 @@
+<PopUp>
+	<slideInfo>
+		<title>Which rhetorical mode is the author of this passage using?</title>
+		<info></info>
+		<image>images/eng_m3-1_s17.jpg</image>
+		<audio>audio/eng_m3-1_s17.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Process Analysis</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>403.2</xCord>
+			<yCord>439.3</yCord>
+			<width>145</width>
+			<popTitle>Process Analysis</popTitle>
+			<popInfo>This is not correct. The author does not explain a process or show how something is done.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Description</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>641.2</xCord>
+			<yCord>439.3</yCord>
+			<width>113</width>
+			<popTitle>Description</popTitle>
+			<popInfo>You are correct. The author uses the rhetorical mode of description in this passage.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Classification</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>850.2</xCord>
+			<yCord>439.3</yCord>
+			<width>125</width>
+			<popTitle>Classification</popTitle>
+			<popInfo>This is not correct. The author does not put items into categories or classify them in any way.</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

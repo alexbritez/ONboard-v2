@@ -1,0 +1,209 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m2-1_s24.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-1_s24.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>High school textbooks and AP textbooks are pretty much the same.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+		<question>
+		<qText>Special features in AP textbooks are mostly text, not usually image-based.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>You can apply the same reading style to your textbook that you use to read blogs or online articles.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>Within each textbook section, individual paragraphs provide important details that support the main point of the section.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>An implied main idea is not clearly stated by the author, but suggested by the details in the text.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>Turning text features into questions gives you a good method to structure your notes.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>What would be the best question to ask about this heading: "New crops and techniques"?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>What new crops were being grown?</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>How did the new crops and techniques affect agriculture during this period?</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>What would be the best question to ask about this heading: "Burke"?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>What was Edmund Burke's ideology?</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Who was Edmund Burke?</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>What would be the best question to ask about this heading: "The Paris Commune"?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>What were the motives behind the Paris Commune?</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>What was the Paris Commune?</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>What would be the best question to ask about this graph?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>How much had the population of France increased between 1700 and 1800?</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>What caused the increase in population between 1700 and 1800?</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

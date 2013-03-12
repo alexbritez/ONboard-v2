@@ -1,0 +1,135 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m1-3_s41.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p><font face='c-Bold'>Should Higher Education for Women Differ?</font><br/>What is the best attainable training for the physician or the lawyer, man or woman? There is no reason to believe that typhoid or scarlet fever or phthisis can be successfully treated by a woman physician in one way and by a man physician in another way. There is indeed every reason to believe that unless treated in the best way the patient may die, the sex of the doctor affecting the result less even than the sex of the patient. The question needs only to be put for us to feel irrevocably sure that there is no special woman’s way of dealing with disease.<br/><br/><font size='12'>Source: “Should the Higher Education of Women Differ from That of Men?” by M. Carey Thomas. <font face='c-Italic'>Educational Review</font> 21, 1901.</font></p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+//1	
+
+	<question>
+		<qText>Pathos uses choice of language and visuals to tug at the emotions of the audience.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+				<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>The “crackling, hissing log” is an example of which of these?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Allusion</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Onomatopoeia</aText> 
+				<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Oxymoron</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Juxtaposition</aText> 
+				 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//3
+	<question>
+		<qText>“If a free society cannot help the many who are poor, it cannot save the few who are rich.”</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>This statement shows juxtaposition.</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>This statement shows metaphor.</aText> 
+				<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>This statement shows satire.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>This statement shows alliteration.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+	
+//4
+	<question>
+		<qText>Logical appeals must be supported by sufficient gravitas.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+				<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+	
+//5
+	<question>
+		<qText>Which appeal is M. Carey Thomas using in this excerpt?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>ETHOS</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>PATHOS</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>LOGOS</aText> 
+				 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+
+	
+</MultipleChoice>

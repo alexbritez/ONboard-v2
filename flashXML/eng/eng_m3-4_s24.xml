@@ -1,0 +1,137 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Fluency and Transitions</title>
+		<info></info>
+		<image>images/eng_m3-4_s24.jpg</image>
+		<audio>audio/eng_m3-4_s24.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>To Illustrate</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.6</xCord>
+			<yCord>96.35</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>for example, for instance, for one thing, as an illustration, in this case</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Exemplify</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>847.3</xCord>
+			<yCord>392.85</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>particularly, specifically, chiefly, especially, in particular, namely</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Generalize</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>847.3</xCord>
+			<yCord>96.35</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>generally, usually, ordinarily, as a rule, for the most part</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Clarify</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.6</xCord>
+			<yCord>155.65</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>that is, in other words, for instance</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Add Information</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.6</xCord>
+			<yCord>392.85</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>also, another, for example, in addition, moreover, furthermore</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Emphasize a Point</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.6</xCord>
+			<yCord>452.15</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>for this reason, again, in fact, especially, above all, even, particularly, chiefly</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Compare</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.6</xCord>
+			<yCord>214.95</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>likewise, also, similarly, in the same manner</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Contrast</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.6</xCord>
+			<yCord>274.25</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>but, yet, however, although, on the other hand, in contrast</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Show Location</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>700.45</xCord>
+			<yCord>452.3</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>throughout, above, behind, beside, over, under, against, between</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Show Time</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.6</xCord>
+			<yCord>333.55</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>first, second, third, then, while, suddenly, during, as soon as, meanwhile</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>To Conclude</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>847.3</xCord>
+			<yCord>452.3</yCord>
+			<width>134</width>
+			<popTitle>EXAMPLES</popTitle>
+			<popInfo>in conclusion, finally, lastly, therefore, to sum up</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,143 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-3_s16.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[What is the molarity of a solution of 1.5 moles of a substance dissolved in 250 milliliters of water?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.38 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.7 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4.0 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[6.0 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[What is the molarity of a solution of 10.0 grams of NaOH dissolved in 500. milliliters of water?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.250 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.500 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.00 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[8.00 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[How much 12.0 molar HCl will be needed to make 250. milliliters of a 0.200 molar solution?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[4.17 mL]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>6.43 mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>7.33 mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>8.50 mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[How many grams of KCl, with a molar mass of 74.55 grams per mole, will be needed to make 100.0 milliliters of a 0.18 molar solution?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.75 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>1.3 g</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>2.2 g</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>3.4 g</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[What is the concentration of the sodium ion (Na<font face='SuperScript'>+</font>) if 70.0 milliliters of a 2.0-molar solution of Na<font face='SubScript'>2</font>CO<font face='SubScript'>3</font> is added to 130. milliliters of a <br/>1.0-molar solution of Na<font face='SubScript'>3</font>PO<font face='SubScript'>4</font>? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[1.35 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.35 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[3.35 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4.35 <font face='c-Italic' >M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+</MultipleChoice>

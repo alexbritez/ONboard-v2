@@ -1,0 +1,38 @@
+// Safari on Windows Hotfixes
+.win.safari {
+  #numberPanel {
+    a {
+      font-weight: normal !important;
+      &#btn-saveAndExit {
+        text-align: center;
+      }
+    }
+  }
+
+  #footer {
+    #controls {
+      a {
+        font-weight: normal;
+      }
+    }
+  }
+}
+
+.ipad, .iphone {
+  .vjs-mute-control {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+
+.win.ie {
+  #video {
+    width: 100% !important;
+    height: 538px !important;
+  }
+}
+
+.ie .vjs-default-skin .vjs-load-progress {
+  display: none !important;
+  visibility: hidden !important;
+}

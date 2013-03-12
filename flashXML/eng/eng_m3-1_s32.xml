@@ -1,0 +1,38 @@
+<PopUp>
+	<slideInfo>
+		<title>Annotating and Questioning the Text</title>
+		<info></info>
+		<image>images/eng_m3-1_s32.jpg</image>
+		<audio>audio/eng_m3-1_s32.mp3</audio>
+		<popType>4</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>808.5</xCord>
+			<yCord>129</yCord><!-- +52 -->
+			<width>107</width>
+			<popTitle></popTitle>
+			<popInfo>Imagery: The robot's voice is mechanical.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>871.5</xCord>
+			<yCord>334</yCord>
+			<width>199</width>
+			<popTitle></popTitle>
+			<popInfo>That's creepy!</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>751.5</xCord>
+			<yCord>392</yCord>
+			<width>357</width>
+			<popTitle></popTitle>
+			<popInfo>Irony: The machine questions the man who made it.</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

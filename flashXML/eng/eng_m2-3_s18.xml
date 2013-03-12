@@ -1,0 +1,80 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Rules of Process Analysis</title>
+		<info><![CDATA[<p>Determine how much your audience already knows about your topic.<br/><br/>Write in a step-by-step style, using signal words such as <font face='c-Italic'>first, second, then, next,</font> and <font face='c-Italic'>finally.</font><p>]]></info>
+		<image>images/eng_m2-3_s18.jpg</image>
+		<audio>audio/eng_m2-3_s18.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Step 1</Name>   
+			<audio enable="false"/>
+			<xCord>471.75</xCord>
+			<yCord>102.4</yCord>
+			<width></width>
+			<popTitle>Step 1</popTitle>
+			<popInfo><![CDATA[<p>First, gather together the following ingredients: flour, eggs, sugar, softened butter, baking powder, melted chocolate, and milk.<p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Step 2</Name>   
+			<audio enable="false"/>
+			<xCord>471.75</xCord>
+			<yCord>159.35</yCord>
+			<width></width>
+			<popTitle>Step 2</popTitle>
+			<popInfo><![CDATA[<p>Then, using a mixer, beat together all of the ingredients EXCEPT THE MELTED CHOCOLATE for two minutes until the mixture is smooth.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Step 3</Name>   
+			<audio enable="false"/>
+			<xCord>471.75</xCord>
+			<yCord>216.3</yCord>
+			<width></width>
+			<popTitle>Step 3</popTitle>
+			<popInfo><![CDATA[<p>Next, pour and distribute the batter evenly into two circular pans. Swirl melted chocolate over the batter in one pan.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Step 4</Name>   
+			<audio enable="false"/>
+			<xCord>471.75</xCord>
+			<yCord>273.25</yCord>
+			<width></width>
+			<popTitle>Step 4</popTitle>
+			<popInfo><![CDATA[<p>Fourth, put the pans in a 350<font face='SuperScript'>o</font> oven for 25 minutes.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Step 5</Name>   
+			<audio enable="false"/>
+			<xCord>471.75</xCord>
+			<yCord>330.2</yCord>
+			<width></width>
+			<popTitle>Step 5</popTitle>
+			<popInfo><![CDATA[<p>After 25 minutes, or when a knife inserted into the middle of the cake comes out clean, remove the pans from the oven and set on a rack to cool for 10 minutes.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Step 6</Name>   
+			<audio enable="false"/>
+			<xCord>471.75</xCord>
+			<yCord>387.15</yCord>
+			<width></width>
+			<popTitle>Step 6</popTitle>
+			<popInfo><![CDATA[<p>Then remove the cakes from their pans and allow them to cool for two hours.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Step 7</Name>   
+			<audio enable="false"/>
+			<xCord>471.75</xCord>
+			<yCord>444.1</yCord>
+			<width></width>
+			<popTitle>Step 7</popTitle>
+			<popInfo><![CDATA[<p>Finally, spread frosting over the top of the first layer. Carefully place the second layer on top of the first layer and spread frosting over the top and sides of both layers.</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

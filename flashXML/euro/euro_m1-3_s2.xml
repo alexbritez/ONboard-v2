@@ -1,0 +1,64 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Political and Diplomatic Terminology</title>
+		<info></info>
+		<image>images/euro_m1-3_s2.jpg</image>
+		<audio>audio/euro_m1-3_s2.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Suffrage</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s2_suffrage.mp3"/>
+			<xCord>450.75</xCord>
+			<yCord>107.45</yCord>
+			<width>134</width>
+			<popTitle>Suffrage</popTitle>
+			<popInfo>Suffrage means the right to vote – for men or women. In Europe, the right to vote was limited by gender, ethnicity, rank, social class, religion, property ownership, and income level. Women over the age of 21 were granted the right to vote in the United Kingdom in 1928, in Spain in 1931, in France in 1944, and in newly democratic Germany in 1919.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Parliament</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s2_parliament.mp3"/>
+			<xCord>602.05</xCord>
+			<yCord>107.45</yCord>
+			<width>134</width>
+			<popTitle>Parliament</popTitle>
+			<popInfo>Parliament is the official name of the legislative body in the United Kingdom and France. When the German states were part of the Holy Roman Empire, the legislature was known as the Diet. In unified Germany, it was known as the Reichstag. Germany’s current legislative body is called the Bundestag. In Russia, the representative body is called the State Duma.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Minister</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s2_minister.mp3"/>
+			<xCord>753.35</xCord>
+			<yCord>107.45</yCord>
+			<width>134</width>
+			<popTitle>Minister</popTitle>
+			<popInfo>A minister is a government official. In the United States, “secretaries” lead executive departments. In Europe, similar officials are called ministers, as in Foreign Minister. A Privy Council was just a group of nobles that advised a head of state. “Privy” means private or secret. </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Ambassador</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s2_ambassador.mp3"/>
+			<xCord>500.75</xCord>
+			<yCord>444.4</yCord>
+			<width>134</width>
+			<popTitle>Ambassador</popTitle>
+			<popInfo>An ambassador is an official representative of one country in another country. Today, the role of ambassador is often symbolic, but historically the ambassador was tasked with gathering information about or spreading information to foreign courts. </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Law or Code</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s2_law.mp3"/>
+			<xCord>911.15</xCord>
+			<yCord>442.4</yCord>
+			<width>134</width>
+			<popTitle>Law or Code</popTitle>
+			<popInfo>Laws applied to the entire kingdom and were thus distinct from local customs which came to be called common law. Common law is most associated with England. The Napoleonic or Civil Code was made possible by the French Revolution. The new civil code liquidated the manorial system, established religious toleration, and reduced the power of the guilds. The nobility lost many of its privileges and careers were open to anyone with talent. The code was seen as a boost to individual freedom.
+</popInfo>
+		</pButton>
+
+</popButtons>
+</PopUp>

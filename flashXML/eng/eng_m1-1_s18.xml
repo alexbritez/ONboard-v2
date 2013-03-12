@@ -1,0 +1,162 @@
+<PopUp>
+	<slideInfo>
+		<title>Analyzing Paragraph 3</title>
+		<info></info>
+		<image>images/eng_m1-1_s18.jpg</image>
+		<audio>audio/eng_m1-1_s18.mp3</audio>
+		<popType>4</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>slaves</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>820.45</xCord>
+			<yCord>135.95</yCord>
+			<width>48.2</width>
+			<popTitle>Slaves</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>peculiar</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>547.8</xCord>
+			<yCord>194.95</yCord>
+			<width>66.2</width>
+			<popTitle>Peculiar</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>war</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>629.8</xCord>
+			<yCord>222.95</yCord>
+			<width>38.2</width>
+			<popTitle>War</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>strengthen</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>720.8</xCord>
+			<yCord>222.95</yCord>
+			<width>88.1</width>
+			<popTitle>Strengthen</popTitle>
+			<popInfo><![CDATA[This is a positive term.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>insurgents</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>736.55</xCord>
+			<yCord>250.95</yCord>
+			<width>86.2</width>
+			<popTitle>Insurgents</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>rend</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>857.3</xCord>
+			<yCord>250.95</yCord>
+			<width>42.2</width>
+			<popTitle>Rend</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>restrict</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>951.3</xCord>
+			<yCord>280.65</yCord>
+			<width>52.2</width>
+			<popTitle>Restrict</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>magnitude</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>454.95</xCord>
+			<yCord>335.95</yCord>
+			<width>86.2</width>
+			<popTitle>Magnitude</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>duration</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>589.95</xCord>
+			<yCord>335.95</yCord>
+			<width>68.2</width>
+			<popTitle>Duration</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Conflict</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>691.6</xCord>
+			<yCord>364.9</yCord>
+			<width>60.2</width>
+			<popTitle>Conflict</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>triumph</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>875.4</xCord>
+			<yCord>393.9</yCord>
+			<width>66.2</width>
+			<popTitle>Triumph</popTitle>
+			<popInfo><![CDATA[This is a positive term.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>bible</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>893.35</xCord>
+			<yCord>425.05</yCord>
+			<width>43.7</width>
+			<popTitle>Bible</popTitle>
+			<popInfo><![CDATA[This is a positive term.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>pray</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>973.35</xCord>
+			<yCord>425.05</yCord>
+			<width>35.7</width>
+			<popTitle>Pray</popTitle>
+			<popInfo><![CDATA[This is a positive term.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>god</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>519.95</xCord>
+			<yCord>450.05</yCord>
+			<width>35.7</width>
+			<popTitle>God</popTitle>
+			<popInfo><![CDATA[This is a positive term.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>against</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>767.5</xCord>
+			<yCord>454.05</yCord>
+			<width>56.2</width>
+			<popTitle>Against</popTitle>
+			<popInfo><![CDATA[This is a negative term.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

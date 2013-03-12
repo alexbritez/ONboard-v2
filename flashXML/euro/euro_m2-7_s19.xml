@@ -1,0 +1,63 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-7_s19.jpg</image>
+		<audio>audio/euro_m2-7_s19.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>62</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size='22'>The countries that produced more coal and pig iron had more factories.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[<font size='22'>Pig iron and coal production quadrupled in the UK between 1831 and 1850.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[<font size='20'>Rising raw cotton consumption was related to increasing coal and pig iron production.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[<font size='22'>Industrial cities in Britain grew faster than those in Belgium.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[<font size='22'>The German States had few resources.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[<font size='20'>By 1850 coal and pig iron in the UK had other uses besides the textile industry.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[<font size='20'>Coal production in each country was in direct proportion to raw cotton consumption. </font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[<font size='20'>The relationship between these commodities was similar in France and the UK.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="569.45" yCord="169" spotScale="80" spotNum="1"/>
+		<dSpot xCord="569.45" yCord="255.65" spotScale="80" spotNum="1"/>
+		<dSpot xCord="569.45" yCord="342.3" spotScale="80" spotNum="1"/>
+		<dSpot xCord="569.45" yCord="428.95" spotScale="80" spotNum="1"/>
+		
+		<dSpot xCord="865.45" yCord="169" spotScale="80" spotNum="2"/>
+		<dSpot xCord="865.45" yCord="255.65" spotScale="80" spotNum="2"/>
+		<dSpot xCord="865.45" yCord="342.3" spotScale="80" spotNum="2"/>
+		<dSpot xCord="865.45" yCord="428.95" spotScale="80" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>

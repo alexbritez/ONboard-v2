@@ -1,0 +1,161 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-5_s23.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>Who is pictured in the photo?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[All but one of the people pictured are Jewish]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[All the people are Jewish ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[All but three of the people are Jewish]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>The clues to the identity of the people crossing the street include all of the following EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[the style of their clothing and the fact that they are wearing hats]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[the sign and the stars sewn onto their clothing]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[the barbed wire barrier along the street and the wooden gate]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[the officials supervising their crossing]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Who are the men dressed in civilian clothes who are wearing armbands?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[They are Polish policemen]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[They are members of the Jewish Police force]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[They are Germans]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>The man in the uniform is either a German soldier or military policeman. Why is he facing away from the crowd?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[His job is to direct traffic, not people.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[As a German he would have wanted as little contact with Jews as possible. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Both a and b are correct]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following is the best possible explanation for why the people are being controlled as they crossed the street?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The ghetto is divided into sections and the street they are crossing is not part of the ghetto.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The people are being driven into the ghetto from their homes in other parts of the city.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The people are being monitored as they move from one area of the ghetto to the other to make sure no one escapes.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The people have been allowed outside the ghetto to shop and are being escorted back in.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+				<aBtn>
+				 <aText><![CDATA[The people are being protected from the local populace by the Jewish and German policemen.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+			
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

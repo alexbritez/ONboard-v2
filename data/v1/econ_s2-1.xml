@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to AP Economics Exam">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_s2-1_s1</video>
+    <credits>(l),Caroline Mowry/Somos Images/Corbis,  (r)Photodisc/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Stephanie Dalton Cowan/Photodisk/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s3</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images,  (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s4</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images,  (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following could be a definition for the term "opportunity cost"?</question>
+        <answers>
+          <answer>The monetary cost of producing one more unit of a product</answer>
+          <answer correct="true">The most valuable alternative one gives up as the result of a decision</answer>
+		  <answer>The revenue a firm receives from selling one more product</answer>
+		  <answer>The monetary cost of hiring one more worker</answer>
+		  <answer>The benefit one receives from making one choice rather than another</answer>
+        </answers>
+        <feedbackAudio>econ_s2-1_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_s2-1_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>All of these are characteristics of a perfectly competitive market EXCEPT</question>
+        <answers>
+          <answer>A large number of firms</answer>
+		  <answer>No significant barriers to entry or exit</answer>
+		  <answer>Identical products</answer>
+          <answer correct="true">Long-run economic profit</answer>
+		  <answer>Price-taking individual firms</answer>
+        </answers>
+        <feedbackAudio>econ_s2-1_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_s2-1_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="false">
+        <question><![CDATA[<p>A profit-maximizing perfectly competitive industry in long-run equilibrium exhibits which of these features?</p>
+		<p>I.  Allocative efficiency<br/>
+		II. Productive efficiency<br/>
+		III. Firms earning economic profit<br/>
+		IV. Firms earning normal profit</p>
+		]]></question>
+        <answers>
+          <answer>II only</answer>
+		  <answer>III only</answer>
+		  <answer>I, III, and IV only</answer>
+          <answer correct="true">I, II, and IV only</answer>
+		  <answer>I, II, III, and IV</answer>
+        </answers>
+        <figure>_figure</figure>
+        <feedbackAudio>econ_s2-1_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_s2-1_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s11</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What is the marginal product of the fourth worker?</question>
+        <answers>
+          <answer correct="true">4 products</answer>
+		  <answer>28 products</answer>
+		  <answer>18 products</answer>
+		  <answer>2 products</answer>
+		  <answer>7 products</answer>
+        </answers>
+        <figure verticalAlign="center">econ_s2-1_s12_view.jpg</figure>
+        <feedbackAudio>econ_s2-1_s12_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_s2-1_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Exam Strategies</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_s2-1_s13.jpg</image>
+      <hotspots>
+        <hotspot audio="econ_s2-1_s13_paceyourself" title="Strategy 1: Pace Yourself" dynamic="true" x="79" y="5">
+          <![CDATA[
+            <h1>Pace Yourself</h1>
+            <p>The AP Exam has 60 multiple-choice questions. You have 70 minutes to answer all of them. Answer the simpler classic questions first. You should be able to answer three or four classic questions in the amount of time it takes to answer the other kinds of questions. Get the easy ones out of the way, and then go back to tackle the others.</p>
+          ]]>
+        </hotspot>
+        <hotspot audio="econ_s2-1_s13_dontdoubt" title="Strategy 2: Don't Doubt Yourself" dynamic="true" x="49" y="54">
+          <![CDATA[
+            <h1>Don't Doubt Yourself</h1>
+            <p>If you think you know an answer, go with it. Don't talk yourself into believing that there must be a more complicated answer. If you're spending too much time on a question, circle it and come back to it later. You might find a "hint" in another question that may help you select the correct answer.</p>
+          ]]>
+        </hotspot>
+        <hotspot audio="econ_s2-1_s13_crossoutwrong" title="Strategy 3: Cross Out Wrong Answers" dynamic="true" x="18" y="103">
+          <![CDATA[
+            <h1>Cross Out Wrong Answers</h1>
+            <p>Draw a line through the answer choices that you are sure are wrong to eliminate them from your line of vision. This will help to narrow the five choices down to two or three.</p>
+          ]]>
+        </hotspot>
+		<hotspot audio="econ_s2-1_s13_writeinthetest" title="Strategy 4: Write in the Test Booklet" dynamic="true" x="18" y="303">
+          <![CDATA[
+            <h1>Write in the Test Booklet</h1>
+            <p>Nothing in the test booklet will be scored. Make notes, circle terms, write definitions, or draw graphics to help you as you read the test questions.</p>
+          ]]>
+        </hotspot>
+		<hotspot audio="econ_s2-1_s13_makeeducatedguesses" title="Strategy 5: Make Educated Guesses" dynamic="true" x="45" y="352">
+          <![CDATA[
+            <h1>Make Educated Guesses</h1>
+            <p>Your total score on the multiple-choice section is based on the number of questions answered correctly. Points are not deducted for incorrect answers, so you might as well make an educated guess with the hope of choosing correctly.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_s2-1_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Ingram Publishing, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_s2-1_s14.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="15" y="82">
+          <![CDATA[
+            <h1</h1>
+            <p>Before the AP Exam, quiz yourself about economic terms, their meanings, and their significance. Be sure that you know not only the definition of the term but also how that term relates to other terms and concepts. Use clues in the term to help you figure out its meaning.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="15" y="243">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is D. Command economies are defined as economies in which the government owns/operates most firms or makes significant output and price decisions.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_s2-1_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_s2-1_s15.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="15" y="82">
+          <![CDATA[
+            <h1</h1>
+            <p>After carefully reading the question, read each of the five choices. Turn the choices into a True/False quiz by writing the word &quot;true&quot; next to the ones you are sure are correct and &quot;false&quot; next to the one you believe to be false. The false answer is the correct answer to the question.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="15" y="275">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is E. Increases in the amount and quality of resources and technology promote economic growth. But a tight money policy increases interest rates, so firms are less likely to invest in capital, which can limit economic growth.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_s2-1_s15</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_s2-1_s16.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="15" y="33">
+          <![CDATA[
+            <h1</h1>
+            <p>Read the Roman numeral choices and find one that answers the question. Then underline only the answers that contain that Roman numeral. Go back and read the choices again to find another correct statement. Look to see which of the answers contain both of the choices you feel are correct. Continue this elimination process until only one answer contains all of the correct choices.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="15" y="279">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is C. Structural unemployment is the result of a mismatch between a worker's skills and the available jobs. The country does not need workers with the skill set this worker has. Decreased demand for labor due to a recession (III.) is cyclical unemployment.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_s2-1_s16</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_s2-1_s17.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="15" y="24">
+          <![CDATA[
+            <h1</h1>
+            <p>Look at the graph or table first and decide what its focus is. What is being compared or analyzed? Place your hand over the question and read each of the five choices carefully. Many times you will be able to eliminate some answer choices simply by understanding the focus of the graph or table. Look at the answer choices one by one and apply them to the data. Eliminate answers as you go.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="15" y="177">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is B. In order to produce 1 more computer, this society had to reduce book production by 2 books (falling from 19 to 17). The forgone production is the opportunity cost.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_s2-1_s17</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s18</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images,  (c)EIGHTFISH/The Image Bank/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="3_txt_img_reading">
+    <content>
+      <header italic="false"><![CDATA[SAMPLE Free-Response &quot;Long&quot; Question]]></header>
+      <text>
+        <![CDATA[
+			<p>Maggiori Farms produces raspberries in a perfectly competitive domestic industry with a closed economy.</p>
+			<p><strong>(a)</strong> Draw correctly labeled side-by-side graphs for the raspberry industry and for Maggiori Farms in long-run equilibrium. Show the following:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Price and output in the industry<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Price and output for Maggiori Farms</p>
+			<p><strong>(b)</strong> Now assume the government opens the economy to imported raspberries, which sell at a world price significantly lower than the domestic price. Draw new correctly labeled side-by-side graphs for the domestic raspberry industry and show the following short-run effects of opening trade on the domestic raspberry industry.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The change in domestic industry supply and/or demand. Explain.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The price and quantity of raspberries in the domestic industry<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The price and quantity of raspberries produced by Maggiori Farms<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) State whether Maggiori Farms is experiencing a profit or a loss</p>
+			<p><strong>(c)</strong> State the rule for determining whether Maggiori Farms should continue producing in the short run.</p>
+			<p><strong>(d)</strong> Explain how the following will change in the long run for the domestic raspberry industry.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The number of domestic firms producing raspberries<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The reasoning for the change in the number of domestic firms<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Domestic output of raspberries</p>
+		]]>
+      </text>
+    </content>
+    <audio>econ_s2-1_s19</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s20</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s21</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Sample Reader Rubric</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_s2-1_s22.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="-48" y="4">
+          <![CDATA[
+            <h1</h1>
+            <p>The question is worth 7 total points.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="371" y="113">
+          <![CDATA[
+            <h1</h1>
+            <p>1 point is earned for stating the marginal product of the sixth worker is 2 balls.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="431" y="146">
+          <![CDATA[
+            <h1</h1>
+            <p>1 point is earned for stating the marginal revenue product of the third worker is $120.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="492" y="152">
+          <![CDATA[
+            <h1</h1>
+            <p>1 point is earned for stating the profit-maximizing rule that the firm should hire labor where the marginal revenue product equals the marginal resource cost (wage).</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="487" y="214">
+          <![CDATA[
+            <h1</h1>
+            <p>1 point is earned for stating Herman's Hoops should hire 4 workers (although MRP>MRC, the firm would not hire the 5th worker because MRC>MRP, so the firm stops hiring with the 4th worker).</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="462" y="248">
+          <![CDATA[
+            <h1</h1>
+            <p>1 point is earned for explaining that the seventh worker brings negative returns, decreasing the firm's output.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="499" y="287">
+          <![CDATA[
+            <h1</h1>
+            <p>1 point is earned for stating the firm's short-run daily profit would be $40. The total revenue (46 balls x $10) – total cost ($20 fixed + $400 variable) = $40.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="460" y="327">
+          <![CDATA[
+            <h1</h1>
+            <p>1 point is earned for stating the firm would hire 3 workers.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_s2-1_s22</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s23</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="24" type="2_Txt_Img_Animation">
+    <video>econ_s2-1_s24</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images,  (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="25" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>The three free-response questions are equally weighted, and you should divide your 50 minutes equally between them.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>You are penalized for wrong answers when you take the AP Exam.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>You have a total of 70 minutes to complete 60 multiple-choice questions.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>You should keep the test booklet clean of any scribbling while you take the AP Exam.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The EXCEPT-type question is looking for an incorrect answer.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_s2-1_s25</audio>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images,  (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

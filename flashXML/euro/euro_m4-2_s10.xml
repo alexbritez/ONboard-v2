@@ -1,0 +1,44 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m4-2_s10.jpg</image>
+		<audio>audio/euro_m4-2_s10.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Prior to the Italian Renaissance, a “medieval synthesis” had emerged.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size='18'>The “medieval synthesis” included a “golden age” in the arts.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Petrarch can be viewed as the “father” of Humanism.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Renaissance means “rebirth”.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="19">The Renaissance in Europe never reached the level of culture seen during the Tang Dynasty in China.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>The Renaissance rejected the culture of the early Christian Church.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.4" yCord="176.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="255.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="334.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="412.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="874.4" yCord="176.8" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="255.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="334.15" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="412.8" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

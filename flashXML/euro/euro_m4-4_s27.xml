@@ -1,0 +1,119 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m4-4_s22.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[How did the House of Commons through the Bill of Rights label the conduct of King James II?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>As lawful</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>As illegal</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s5_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[Religious differences were still an issue in England in the late seventeenth century.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s5_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[According to the English Bill of Rights, who had the power to levy money for use by the monarch?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Parliament</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The monarch</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s5_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[Which issue is NOT mentioned in the excerpt from the Bill of Rights?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Free speech</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To petition the monarch</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Reasonable bail</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Banning capital punishment</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Keeping a standing army during peacetime</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s5_FB.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[The English Bill of Rights gives which side more power?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Parliament</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the monarch</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-4_s5_FB.mp3" />
+	</question>
+</MultipleChoice>

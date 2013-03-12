@@ -1,0 +1,113 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>19th Century: The Age of Ideologies</title>
+		<info></info>
+		<image>images/euro_m1-3_s9.jpg</image>
+		<audio>audio/euro_m1-3_s9.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Liberalism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>466.2</xCord>
+			<yCord>100.2</yCord>
+			<width>134</width>
+			<popTitle>Liberalism</popTitle>
+			<popInfo>While the liberalism of Europe has some similarities to liberalism in the United States, you must understand that these philosophies are different. European liberalism is a nineteenth- and twentieth-century ideology supporting individualism, political freedom, constitutional government, and (in the nineteenth century) laissez-faire (or no government intervention in) economic policies.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Conservatism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>466.2</xCord>
+			<yCord>179.2</yCord>
+			<width>134</width>
+			<popTitle>Conservatism</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>As with liberalism, European conservatism differs from a modern American understanding of this term. European conservatism is an ideology that stresses order and traditional values. This often included a monarchical or other absolutist form of government, even into the twentieth century. <br/>The <font face='c-Italic'>ancien régime</font> or “old order” in French is often associated with European conservatism. This term refers to the French political and social system before the Revolution, which included the three estates (clergy, nobility, everyone else) under the authority of the king.</font><p>]]></popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Nationalism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>466.2</xCord>
+			<yCord>258.2</yCord>
+			<width>134</width>
+			<popTitle>Nationalism</popTitle>
+			<popInfo>Nationalism is a 19<font face='SuperScript'>th</font> or 20<font face='SuperScript'>th</font> century ideology stressing the importance of national identity and the nation-state.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Constitutionalism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>466.2</xCord>
+			<yCord>337.2</yCord>
+			<width>134</width>
+			<popTitle>Constitutionalism</popTitle>
+			<popInfo>Constitutionalism is the idea that political authority rests in written law, not in the person of an absolute monarch. While seemingly natural to us in the United States, this was a radical idea in most of Europe until the 19th century. </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Absolutism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>466.2</xCord>
+			<yCord>416.2</yCord>
+			<width>134</width>
+			<popTitle>Absolutism</popTitle>
+			<popInfo>Royal absolutism is a government in which all power is vested in the ruler. In the 19th and 20th centuries, socialist and fascist dictators also ruled as absolutists. </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Imperialism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>931.2</xCord>
+			<yCord>100.2</yCord>
+			<width>134</width>
+			<popTitle>Imperialism</popTitle>
+			<popInfo>Imperialism is the policy of extending a nation’s authority by territorial acquisition or by the establishment of economic and political control over other nations or peoples.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Fascism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>931.2</xCord>
+			<yCord>179.2</yCord>
+			<width>134</width>
+			<popTitle>Fascism</popTitle>
+			<popInfo>Fascism is a philosophy or system of government that advocates a dictatorship of the extreme right together with an ideology of belligerent nationalism.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Capitalism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>931.2</xCord>
+			<yCord>258.2</yCord>
+			<width>134</width>
+			<popTitle>Capitalism</popTitle>
+			<popInfo>Capitalism is an economic system characterized by freedom of the market with private and corporate ownership of the means of production and distribution that are operated for profit. </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Socialism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>931.2</xCord>
+			<yCord>337.2</yCord>
+			<width>134</width>
+			<popTitle>Socialism</popTitle>
+			<popInfo><![CDATA[<p>Socialism is a 19<font face='SuperScript'>th</font> and 20<font face='SuperScript'>th</font> century ideology stressing cooperation, community, and public ownership of the means of production (factories, machines, tools, etc.).<p>]]></popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Communism</Name>   
+			<audio enable="false" url="audio/euro_m1-3_s9.mp3"/>
+			<xCord>931.2</xCord>
+			<yCord>416.2</yCord>
+			<width>134</width>
+			<popTitle>Communism</popTitle>
+			<popInfo><![CDATA[<p>Communism is a far left social system advocated by Karl Marx and others beginning in the nineteenth century. The 20<font face='SuperScript'>th</font> century was the most active for the growth of communism, and there are still communist nations today. According to Marx, a communist system would eliminate private property, have a classless society, and all property would be owned by the community or the state.<p>]]></popInfo>
+		</pButton>
+	
+</popButtons>
+</PopUp>

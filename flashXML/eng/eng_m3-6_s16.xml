@@ -1,0 +1,48 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[<p><font size='20'>MISSTEPS: Logical Fallacies<br/>Appeal to Inappropriate Authority</font></p>]]></title>
+		<info></info>
+		<image>images/eng_m3-6_s16.jpg</image>
+		<audio>audio/eng_m3-6_s16.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name><![CDATA[1]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>467.95</xCord>
+			<yCord>118.7</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Sam: ]]></popTitle>
+			<popInfo><![CDATA[The death penalty is cruel and inhumane because those undergoing capital punishment suffer excruciating mental and physical pain. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[2]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>467.95</xCord>
+			<yCord>174.05</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Aunt Sarah: ]]></popTitle>
+			<popInfo><![CDATA[No, it’s not. The governor is all for the death penalty in this state.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[3]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>467.95</xCord>
+			<yCord>229.4</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Sam: ]]></popTitle>
+			<popInfo><![CDATA[The governor is a politician. Look at what the medical experts are saying.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[4]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>467.95</xCord>
+			<yCord>284.75</yCord>
+			<width>52</width>
+			<popTitle><![CDATA[Aunt Sarah: ]]></popTitle>
+			<popInfo><![CDATA[Well, the governor has been head of this great state for twelve years. ]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

@@ -1,0 +1,109 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_s1-1_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Words can carry a positive or negative tone.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_s1-1_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[Knowing your audience is not important when you begin an essay.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_s1-1_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[An introductory paragraph may change, depending on one’s purpose for writing.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_s1-1_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[On the AP Exam, you should not answer the questions you do not know.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_s1-1_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[You may receive college credit if you perform well on the AP Exam.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_s1-1_s30_FB.mp3" />
+	</question>
+								
+</MultipleChoice>

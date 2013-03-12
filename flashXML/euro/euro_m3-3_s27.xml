@@ -1,0 +1,45 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-3_s27.jpg</image>
+		<audio>audio/euro_m3-3_s27.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>		
+		<dItem>
+			<boxText><![CDATA[<p>There is no security for one's life or property in the state of nature.</font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<p>Human nature is innately good.</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Natural men usually do not invest their labor in improvements.</font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Absolute monarchies are instituted by divine right.</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>			
+		<dItem>
+			<boxText><![CDATA[<p>Only sovereigns have the right to be above the law.</font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<p>Kings should always listen to and follow the ideas of their subjects.</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="577.45" yCord="222.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="284.75" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="346.7" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="408.75" spotScale="75" spotNum="1"/>
+		<dSpot xCord="864.45" yCord="222.8" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="284.75" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="346.7" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="408.75" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

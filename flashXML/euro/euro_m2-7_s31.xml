@@ -1,0 +1,211 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m2-7_s31.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q1-4.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q1-4.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q1-4.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q1-4.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q5-10.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q5-10.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q5-10.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q5-10.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q5-10.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s31_q5-10.swf</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>According to the bottom graph, this parish suffered the most severe food shortage in the 1650s.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The Thirty Years’ War occurred during the early 1600s.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The economic situation in the Auneuil Parish (top graph) was the best between 1760 and 1790.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The birth and death rates on both graphs are interrelated. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The data suggests that momentous border changes occurred in this region between 1991 and 1995.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The former Yugoslavia was divided into six separate sovereign nations.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The former Yugoslavia divided into separate states along strictly ethnic lines.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Due to the Dayton Agreement, the break-up of the former Yugoslavia happened peacefully.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>There are Bosnian Serbs and Bosnian Muslims in Bosnia-Herzegovina. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Based on the information provided, which of the following is a logical inference? </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Nationalism was still a driving force in Europe in the late 20th century.</aText> 
+			     <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Ethnic groups do not feel a sense of nationalism.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+		
+
+	
+</MultipleChoice>

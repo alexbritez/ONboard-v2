@@ -1,0 +1,92 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-4_s41.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s41.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s41.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s41.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s41.jpg</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>Which of the following is a logical inference? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>The purpose of both portraits was to portray the sitter as benevolent.</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The purpose of both portraits was to portray the sitters as all-powerful rulers.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following is a logical inference? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>The portrait tries to show that Marie Antoinette considered herself nothing more than an ordinary mother.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The portrait tries to show that Marie Antoinette was important to France because she was the mother of the future king.</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following is a logical inference? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>The trappings of royalty are on display in both portraits. </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Similar symbols of elevated status are present in both portraits.</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>	
+	
+	
+		<question>
+		<qText><![CDATA[<p>Which of the following is a logical inference? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Napoleon needed to connect himself symbolically to French kings and emperors because he had no hereditary claim to the throne. </p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Marie Antoinette needed to connect herself symbolically to the French throne because she was the daughter of French peasants. </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+</MultipleChoice>

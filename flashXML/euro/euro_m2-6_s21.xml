@@ -1,0 +1,78 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[<p>What is the meaning and significance of the data?</p>]]></title>
+		<info><![CDATA[<p></p>]]></info>
+		<image>images/euro_m2-6_s20.jpg</image>
+		<audio>audio/euro_m2-6_s21.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>ECONOMICS</Name>   
+			<audio enable="false" url=""/>
+			<xCord>772.3</xCord>
+			<yCord>300.35</yCord>
+			<popTitle><![CDATA[<p>ECONOMICS</p>]]></popTitle>
+			<popInfo><![CDATA[<p>In 1500, Russia was economically backward and politically chaotic. By 1700, it was the center of a growing and expanding empire, engaging much more with its neighbors in Western Europe.
+Trade and commerce with Constantinople was being eclipsed by trade in places like Antwerp. Therefore little effort was made to improve the speed of news from the east, while it improved substantially in the western directions.
+</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>SHIPPING</Name>   
+			<audio enable="false" url=""/>
+			<xCord>606.5</xCord>
+			<yCord>426.05</yCord>
+			<popTitle><![CDATA[<p>SHIPPING</p>]]></popTitle>
+			<popInfo><![CDATA[<p>Improved roads and canals as well as faster shipping in the Mediterranean probably accounted for the dramatic reduction in the time it took news to reach Venice from places like Lisbon by 1700.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>OVERLAND</Name>   
+			<audio enable="false" url=""/>
+			<xCord>753.7</xCord>
+			<yCord>414.05</yCord>
+			<popTitle><![CDATA[<p>OVERLAND</p>]]></popTitle>
+			<popInfo><![CDATA[<p>Most of the places where the speed of news altered little in 200 years were close to Venice. By 1700 the roads, which were already some of the best in Europe had not improved that much. News travelled overland from most of these areas and the speed of horses and men would not have changed in 200 years.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>POPULATION</Name>   
+			<audio enable="false" url=""/>
+			<xCord>600.9</xCord>
+			<yCord>370.05</yCord>
+			<popTitle><![CDATA[<p>POPULATION</p>]]></popTitle>
+			<popInfo><![CDATA[Europe had become much more populous by 1700. Existing roads were likely more clogged with traffic, cities were larger and it may have taken slightly more time to deliver news from individuals and businesses in cities by 1700 due to these factors.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>KNOWING</Name>   
+			<audio enable="false" url=""/>
+			<xCord>735.75</xCord>
+			<yCord>128.1</yCord>
+			<popTitle><![CDATA[<p>KNOWING</p>]]></popTitle>
+			<popInfo><![CDATA[<p>Communications of all kinds are vital to commerce, politics, and diplomacy. News of deliveries or delays in shipments would be important to businesses, especially in relation to their competitors. 
+In times of international tension, news sent to governments about movements of troops and the actions of belligerent nations could mean the difference between war and peace.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CULTURE</Name>   
+			<audio enable="false" url=""/>
+			<xCord>710.8</xCord>
+			<yCord>256.1</yCord>
+			<popTitle><![CDATA[<p>CULTURE</p>]]></popTitle>
+			<popInfo><![CDATA[Scholars and scientists relied upon the sharing of new discoveries and ideas. The spreading news of Martin Luther’s 95 Theses, for example, had a great impact on the development and spread of the Protestant Reformation.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

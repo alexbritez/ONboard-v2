@@ -1,0 +1,48 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-3_s10.jpg</image>
+		<audio>audio/euro_m2-3_s10.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>70</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Two people who want the same thing become natural enemies.]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Nature is all against all.]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[People are naturally good.]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[The natural condition of man supports culture and the arts.]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[The natural condition of man hurts commercial growth. ]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[In nature, man has a right to everything. ]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[There is security for all in the natural state of man. ]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="577.5" yCord="207.9" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.5" yCord="276.55" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.5" yCord="345.2" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.5" yCord="413.85" spotScale="75" spotNum="1"/>
+		<dSpot xCord="864.45" yCord="207.9" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="276.55" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="345.2" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="413.85" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

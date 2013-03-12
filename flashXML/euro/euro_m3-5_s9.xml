@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Posters</title>
+		<info></info>
+		<image>images/euro_m3-5_s9.jpg</image>
+		<audio>audio/euro_m3-5_s9.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>SUFFRAGETTES</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s9_SUFFRAGETTES.mp3"/>
+			<xCord>590.6</xCord>
+			<yCord>139.255</yCord>
+			<width>134</width>
+			<popTitle>Suffragette</popTitle>
+			<popInfo><![CDATA[<p>This poster was created in 1910 in Great Britain and illustrates the treatment of women prisoners who had been jailed for taking part in suffragette protests and demonstrations. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>HUNGER STRIKE</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s9_HUNGER_STRIKE.mp3"/>
+			<xCord>695.15</xCord>
+			<yCord>299.2</yCord>
+			<width>134</width>
+			<popTitle>Hunger Strike</popTitle>
+			<popInfo><![CDATA[<p>The main woman suffrage organization was the Women’s Social and Political Union, the WSPU. Once in prison, many protestors went on hunger strikes in order to try and force the government to release them. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>LIBERAL</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s9_LIBERAL.mp3"/>
+			<xCord>858.25</xCord>
+			<yCord>427.1</yCord>
+			<width>134</width>
+			<popTitle>The Liberal Government</popTitle>
+			<popInfo><![CDATA[<p>Prime Minster Herbert Asquith’s Liberal government force fed the women when they became very weak and refused to eat. This procedure was extremely painful and terrifying, and the poster calls it torture and a modern inquisition. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CREATOR</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s9_CREATOR.mp3"/>
+			<xCord>535.7</xCord>
+			<yCord>444.65</yCord>
+			<width>134</width>
+			<popTitle>Who Created the Poster? </popTitle>
+			<popInfo><![CDATA[<p>Although there is no direct evidence in the first poster of its creator or sponsor, its message indicates it was made by someone sympathetic to the suffragettes’ cause.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

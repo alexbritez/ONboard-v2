@@ -1,0 +1,66 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m1-5_s15.jpg</image>
+		<audio>audio/euro_m1-5_s15.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Bacon]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[More]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Erasmus]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Descartes]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Galileo]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Medici]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Newton]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Kepler]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Petrarch]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Copernicus]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="587.45" yCord="189.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="587.45" yCord="237.25" spotScale="75" spotNum="1"/>
+		<dSpot xCord="587.45" yCord="285" spotScale="75" spotNum="1"/>
+		<dSpot xCord="587.45" yCord="332.75" spotScale="75" spotNum="1"/>
+		<dSpot xCord="587.45" yCord="380.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="587.45" yCord="428.25" spotScale="75" spotNum="1"/>
+		<dSpot xCord="854.45" yCord="189.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="854.45" yCord="237.25" spotScale="75" spotNum="2"/>
+		<dSpot xCord="854.45" yCord="285" spotScale="75" spotNum="2"/>
+		<dSpot xCord="854.45" yCord="332.75" spotScale="75" spotNum="2"/>
+		<dSpot xCord="854.45" yCord="380.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="854.45" yCord="428.25" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>
+

@@ -1,0 +1,58 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[<font face='c-Italic' >School of Athens</font> by Raphael, c. 1509–1510]]></title>
+		<info></info>
+		<image>images/euro_m3-4_s11.jpg</image>
+		<audio>audio/euro_m3-4_s11.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>CONTEXT</Name>   
+			<audio enable="true" url="audio/euro_m3-4_s11_CONTEXT.mp3"/>
+			<xCord>464.95</xCord>
+			<yCord>100.7</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[<font size='18'>What is the historical context of the painting?</font>]]></popTitle>
+			<popInfo><![CDATA[<p>By 1510, Rome was in the midst of an enormous boom of art and architecture. Raphael was commissioned by Pope Julius II to design and paint a cycle of frescoes to decorate his private apartments in the Vatican. The basilica of St Peter had been under construction for four years under the architect Bramante. Nearby, Michelangelo was painting of the Sistine Chapel ceiling. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>SIGNIFICANCE</Name>
+			<audio enable="true" url="audio/euro_m3-4_s11_SIGNIFICANCE.mp3"/>
+			<xCord>933.1</xCord>
+			<yCord>100.7</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[<font size='18'>What is the meaning and significance?</font>]]></popTitle>
+			<popInfo><![CDATA[<p>The <font face='c-Italic'>School of Athens</font> exemplifies the classical spirit of the Renaissance.<font size='6'><br/><br/></font>The subject is purely secular.<font size='6'><br/><br/></font>The painting also conforms to the newly developed principles of mathematical perspective.<font size='6'><br/><br/></font>Portraiture is one of the hallmarks of the individualism of the Italian Renaissance.<font size='6'><br/><br/></font>Raphael has glorified his fellow artists Michelangelo, Leonardo, and Bramante, as well as himself.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>POINT OF VIEW</Name>
+			<audio enable="true" url="audio/euro_m3-4_s11_POINT_OF_VIEW.mp3"/>
+			<xCord>699</xCord>
+			<yCord>161.15</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[<font size='18'>What is the creator’s point of view?</font>]]></popTitle>
+			<popInfo><![CDATA[<p>Raphael wanted to demonstrate his own talent and gifts as an artist and his skill in rendering the human body and the natural world realistically. 
+He also wanted to honor himself and his fellow geniuses. 
+The painting also reflects the point of view of Raphael’s Humanist patron, Pope Julius II.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

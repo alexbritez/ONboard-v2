@@ -1,0 +1,229 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m2-6_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q34.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q34.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q56.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q56.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q78.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q78.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q910.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s30_q910.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Historians use maps only to show geographic features.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Visual information in your textbook is not as important as the information in the text.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which of the following accurately describes the information presented on this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Most important composers between the 16th and the 18th centuries were from Italy.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>The centers of music and new ideas shifted between the 16th and the 18th centuries.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which conclusion is best supported by the information presented on this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>By the 18th century, Germany and Austria featured several important cultural centers.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>There were no centers of music in Spain or Russia between the 16th and the 18th centuries.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which of the following accurately describes the information presented on this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Prussia continued to gain territory during the 1700s.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>Austria continued to lose territory during the 1700s.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which conclusion is best supported by the information presented in this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Prussia and Austria would come into conflict over territorial expansion.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>Austria remained the dominant power in central Europe during the 18th century.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which of the following accurately describes the information presented on this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>By this time, the Protestant religions had yet to make a strong impact.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>By this time, four major religions were practiced in Europe. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which conclusion is best supported by the information presented in this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Half of Ireland adopted Anglicanism because the Irish wanted a union with England.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>Neither Italy or Spain had a Protestant Reformation because their rulers were devout Catholics who saw no political or economic reason to convert.  </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which of the following is true, based on this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The French advanced deep into Russia before turning back. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>The Russians forced the French to retreat as soon as they reached the Russian border.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>false</fraction>
+		<qText>Which conclusion is best supported by the information presented in this map?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The Russians won the battles of Smolensk and Borodino.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>The French won the battles of Drissa and Borodino.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

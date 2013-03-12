@@ -1,0 +1,92 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-4_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s30.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s30.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s30.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s30.jpg</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>What made this sculpture a visible symbol of the legitimacy of mysticism as part of Catholicism? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>The fact that it was created and still exists.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>The fact that the creator was a renowned artist and that it is in a Catholic Church. </p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>How is this sculpture indicative of the Baroque style? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>By the lighting effects and the strong diagonal angles</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>By the fact that the artist lived during the Baroque period and was Italian</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Sculptures of the man who commissioned this painting and his family are arranged in theater boxes on either side of Saint Teresa in the chapel. Why?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>They wanted to be associated with a famous saint.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>They wanted to be associated with the chapel they paid for.</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>	
+	
+	
+		<question>
+		<qText><![CDATA[<p>Is it logical to infer that Bernini had a different attitude towards commissioners than Caravaggio? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Yes, because Bernini worked hard to create a beautiful work of art AND to please the commissioner</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>No, because both were focused only on the work of art</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+</MultipleChoice>

@@ -1,0 +1,155 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m3-5_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		
+//1
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//2
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//3
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//4
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//5
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	
+	</slideInfo>
+//1	
+	<question>  
+		<qText><![CDATA[The conclusion can have all of the following <font face='c-Italic'>EXCEPT</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>new evidence to support the thesis.</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>a thought-provoking question.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>an insightful comment.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>a comment about the future.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>Most conclusions will have a</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>quotation from the text.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>comment about the future.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>restated thesis sentence.</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>rhetorical question.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	
+//3
+	<question>
+		<qText>The primary purpose of the conclusion is to</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>point to the future.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>create deeper meaning or insight to the thesis.</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>express an opinion that leaves a lasting impression.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>add several last-minute details.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	
+//4
+	<question>
+		<qText>The strategies used in a concluding paragraph depend on the type of essay.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+	
+//5
+	<question>
+		<qText>An effective concluding paragraph is like a bumble bee because it</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>flies away once the essay has been written.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>buzzes different ideas around in the reader’s head.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>pollinates ideas about the topic in the reader.</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>stings the reader with a last-second zing.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	
+</MultipleChoice>

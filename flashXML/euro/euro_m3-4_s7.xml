@@ -1,0 +1,89 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing  Art with Common Theme</title>
+		<info></info>
+		<image>images/euro_m3-4_s7.jpg</image>
+		<audio>audio/euro_m3-4_s7.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>HUMANISM</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>570.8</xCord>
+			<yCord>100.7</yCord>
+			<width>134</width>
+			<popTitle>Humanism</popTitle>
+			<popInfo><![CDATA[<p>As you have learned, the ideas that became known as Renaissance Humanism emerged in the early 14th century. Humanism represented a new scholarship based upon classical literature, a new vision of the individual celebrating man’s unique talents, and a new appreciation of the natural world and the pleasures it affords. These ideas can be expressed as an embracing of individualism, classicism, and secularism.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CONTEXT</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>802.25</xCord>
+			<yCord>100.7</yCord>
+			<width>85</width>
+			<popTitle>Context</popTitle>
+			<popInfo><![CDATA[<p>Raphael represents the mature style of the High Italian Renaissance. 
+Humanist and classical ideals were fully developed by this time. Artists and patrons of the Italian Renaissance wanted art that reflected these ideas. Artists no longer labored as obscure artisans but were now considered geniuses worthy of individual recognition. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>SIGNIFICANCE</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>802.25</xCord>
+			<yCord>374.1</yCord>
+			<width>85</width>
+			<popTitle>Meaning and Significance</popTitle>
+			<popInfo><![CDATA[<p>The bond and relationship between mother and child is emphasized over spiritual messages about Jesus’s divinity. In fact, except for the red and blue robes and the faint halos, Raphael’s painting could be of any mother and child. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>REALISTIC</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>570.8</xCord>
+			<yCord>374.1</yCord>
+			<width>134</width>
+			<popTitle>Realistic Depictions</popTitle>
+			<popInfo><![CDATA[<p>Landscapes recede realistically. The artist uses lower horizons, lighter shading and smaller scale to show spatial distance. Similarly, the human bodies of both mother and child are painted with realistic exactness. </p>]]></popInfo>
+		</pButton>		
+		
+		<pButton> 
+			<Name>INDIVIDUALISM</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>570.8</xCord>
+			<yCord>430.1</yCord>
+			<width>134</width>
+			<popTitle>Individualism</popTitle>
+			<popInfo><![CDATA[<p>In this painting, Raphael has worked his own initials and the date of the painting into the lacy neckline of Mary’s gown, one of the earliest examples of an artist signing his work. </p>]]></popInfo>
+		</pButton>		
+
+		
+		<pButton> 
+			<Name>POINT OF VIEW</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>802.25</xCord>
+			<yCord>430.1</yCord>
+			<width>134</width>
+			<popTitle>Point of View</popTitle>
+			<popInfo><![CDATA[<p>Because he was influenced by Italian Renaissance Humanism, Raphael wanted to emphasize and take credit for his unique artistic talents. He showed his skill in details of clothing and drapery, and in his mastery of light and shading. He wanted to show how much he valued human beings and the natural world by depicting them realistically.</p>]]></popInfo>
+		</pButton>		
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

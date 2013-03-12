@@ -1,0 +1,155 @@
+/**
+ * HoverScroll Style Sheet
+ *
+ * @author RasCarlito <carl.ogren@gmail.com>
+ * @version 0.2.4
+ * @revision 21
+ */
+
+/* Main container */
+div.hoverscroll {
+	position:relative;
+}
+
+
+/* List container */
+div.hoverscroll div.listcontainer {
+	overflow:hidden;
+}
+div.hoverscroll div.fixed-listcontainer {
+    overflow: hidden;
+    float: left;
+}
+
+/* Actual list containing items */
+div.hoverscroll ul.list {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+/* Items contained in the list */
+div.hoverscroll ul.list li.item {
+	display:block;
+	padding:0;
+}
+div.hoverscroll.horizontal ul.list li.item {
+	float:left;
+}
+div.hoverscroll.horizontal.rtl ul.list li.item {
+	float: right;
+}
+
+
+
+/* Arrows */
+div.hoverscroll div.arrow {
+	position:absolute;
+	float:none;
+	background: #e7e7e7; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2U3ZTdlNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2ViZWJlYiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iI2Q5ZDlkOSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkYWRhZGEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #e7e7e7 0%, #ebebeb 50%, #d9d9d9 51%, #dadada 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e7e7e7), color-stop(50%,#ebebeb), color-stop(51%,#d9d9d9), color-stop(100%,#dadada)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e7', endColorstr='#dadada',GradientType=0 );
+	background-position:center;
+	background-repeat:no-repeat;
+}
+div.hoverscroll div.fixed-arrow {
+    display: block;
+    float: left;
+    background: #e7e7e7; /* Old browsers */
+		/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2U3ZTdlNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2ViZWJlYiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iI2Q5ZDlkOSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkYWRhZGEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+		background: -moz-linear-gradient(top,  #e7e7e7 0%, #ebebeb 50%, #d9d9d9 51%, #dadada 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e7e7e7), color-stop(50%,#ebebeb), color-stop(51%,#d9d9d9), color-stop(100%,#dadada)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #e7e7e7 0%,#ebebeb 50%,#d9d9d9 51%,#dadada 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e7', endColorstr='#dadada',GradientType=0 );
+		background-position:center;
+		background-repeat:no-repeat;
+}
+
+div.hoverscroll div.arrow.left,
+div.hoverscroll div.arrow.right,
+div.hoverscroll div.fixed-arrow.left,
+div.hoverscroll div.fixed-arrow.right {
+	top:0px;
+	width:40px;
+	height:100%;
+}
+div.hoverscroll div.arrow.left,
+div.hoverscroll div.fixed-arrow.left {
+	left:0px;
+	background-image:url('../ui/menu_arrow-left.png');
+}
+div.hoverscroll div.arrow.right,
+div.hoverscroll div.fixed-arrow.right {
+	right:0px;
+	background-image:url('../ui/menu_arrow-right.png');
+}
+
+div.hoverscroll div.arrow.top,
+div.hoverscroll div.arrow.bottom,
+div.hoverscroll div.fixed-arrow.top,
+div.hoverscroll div.fixed-arrow.bottom {
+	left:0px;
+	width:100%;
+	height:40px;
+}
+div.hoverscroll div.arrow.top,
+div.hoverscroll div.fixed-arrow.top {
+	top:0px;
+	background-image:url('gfx/arrow-up-small.png');
+
+}
+div.hoverscroll div.arrow.bottom,
+div.hoverscroll div.fixed-arrow.bottom {
+	bottom:0px;
+	background-image:url('gfx/arrow-down-small.png');
+}
+
+
+/* Hover Zones */
+/*
+div.hoverscroll div.hoverZoneLeft,
+div.hoverscroll div.hoverZoneRight,
+div.hoverscroll div.hoverZoneTop,
+div.hoverscroll div.hoverZoneBottom {
+	position:absolute;
+}
+div.hoverscroll div.hoverZoneLeft {
+	cursor: url('gfx/mouse-arrow-left.cur'), w-resize;
+	top:0px;
+	left:0px;
+	width:40%;
+	height:100%;
+}
+div.hoverscroll div.hoverZoneRight {
+	cursor: url('gfx/mouse-arrow-right.cur'), w-resize;
+	top:0px;
+	right:0px;
+	width:40%;
+	height:100%;
+}
+div.hoverscroll div.hoverZoneTop {
+	cursor: url('gfx/mouse-arrow-up.cur'), n-resize;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:40%;
+}
+div.hoverscroll div.hoverZoneBottom {
+	cursor: url('gfx/mouse-arrow-down.cur'), n-resize;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	height:40%;
+}
+*/

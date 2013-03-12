@@ -1,0 +1,249 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s21.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s21_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s21_q2.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s21_q3.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s21_q5.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s21_q6.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s21_q7.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which type of graph is shown when you press the View button?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Line graph</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Bar graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Circle graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Table graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+	<question>
+		<qText>Which type of graph is shown when you press the View button?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Line graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Bar graph</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Circle graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Table graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+	<question>
+		<qText>Which type of graph is shown when you press the View button?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Line graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Bar graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Circle graph</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Table graph</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+	<question>
+		<qText>The main difference between a table and a graph is that a graph visually shows the relationship between the data sets. </qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>		
+	
+	 <question>
+		<qText>Which best describes how you would use this type of graph?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>To show the relationship between the independent variable and the dependent variable</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>To compare parts of a whole</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+	<question>
+		<qText>According to the data on this graph, what conclusion can you draw about the relationship between flea repellant and the number of fleas?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>Flea repellant is ineffective at reducing the number of fleas.</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>Flea repellant reduces the number of fleas.</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+	<question>
+		<qText>According to the data on this graph, what can you infer about the height of bean plants if the results were measured for a third week?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>The bean plants would get shorter.</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>The bean plants would continue to grow taller.</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+	<question>
+		<qText><![CDATA[What does the R<font face='SuperScript' size='30'>2</font> value report?]]></qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText><![CDATA[The relationship of <font face='lc-Italic'>a</font> to <font face='lc-Italic'>b</font> in the trend line equation.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>How well the trend line of a graph fits the data.</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>The slope of the trend line.</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText><![CDATA[The relationship of the <font face='lc-Italic'>x</font>- and <font face='lc-Italic'>y</font>-axes.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+	<question>
+		<qText>Trend lines can be used to make inferences and draw conclusions about data. </qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>		
+	
+	<question>
+		<qText>Which best describes a trend line?</qText>
+		<answerButtons>			
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>A straight line through a graph that best represents the pattern of the data on the graph.</font>]]></aText>  
+			 	<correct>true</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>A straight line on a graph that goes through every data point on the graph.</font>]]></aText>  
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText><![CDATA[<font size='14'>A straight line on a graph that connects to some data points but also has various smaller lines projecting from the line to connect other data points.</font>]]></aText>  
+			 	<correct>false</correct>
+			</aBtn>			
+			<aBtn>
+				 <aText>A statement that describes the data trends on a graph.</aText> 
+			 	<correct>false</correct>
+			</aBtn>			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s17_FB.mp3" />
+	</question>	
+	
+</MultipleChoice>

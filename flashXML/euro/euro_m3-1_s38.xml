@@ -1,0 +1,281 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m3-1_s38.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>Statement by French King Louis XIV to his son, mid-1600s<br/><br />The interests of the Prince and those of the people are one. The tranquility of subjects depends only on their obedience: less harm results to the public if it bears rule with submission than if it finds fault with even bad government by Kings, whom God alone can judge. What they seem to be doing in opposition to law is more often based on reasons of State, which form the first of all laws, but are the least understood by all who do not govern.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p><font face='c-Italic' >From Politics drawn from the Very Words of Holy Scripture by Bishop Jacques-Benigne Bossuet, 1679:</font><br /><br />God, moreover, has put something divine into kings. “I have said: You are Gods, and all of you the sons of the most High.” It is God himself whom David makes speak in this way.<br/><br/>  . . . Their power coming from on high, as has been said, they must not believe that they are the owners of it, to use it as they please; rather must they use it with fear and restraint, as something which comes to them from God, and for which God will ask an accounting of them. 
+<font size='8'>From POLITICS DRAWN FROM THE VERY WORDS OF HOLY SCRIPTURE, translated and edited by Patrick Riley. Copyright © 1990 Cambridge University Press.</font></p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>From <font face='c-Italic'>A Defense of Liberty Against Tyrants</font> by political philosopher Philippe Mornay, 1579:<br /><br />We have showed before that it is God that does appoint kings, who chooses them, who gives the kingdom to them: now we say that the people establish kings, put the scepter into their hands, and who with their suffrages, approves the election. God would have it done in this manner, to the end that the kings should acknowledge, that after God they hold their power and sovereignty from the people, and that it might the rather induce them, to apply and address the utmost of their care and thoughts for the profit of the people, without being puffed with any vain imagination, that they were formed of any matter more excellent than other men.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>From the <font face='c-Italic'>Magna Carta</font> written in 1215 by the Barons of England<br /><br />12. No scutage not aid shall be imposed on our kingdom, unless by common counsel of our kingdom, except for ransoming our person, for making our eldest son a knight, and for once marrying our eldest daughter; and for these there shall not be levied more than a reasonable aid. In like manner it shall be done concerning aids from the city of London.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p><font face='c-Italic'>The Cahier of the parish of Vitry-sur-Seine</font> <br/>[The members of the third estate demand] The total suppression of all privileges whatsoever. Our parish . . . contains fifty bourgeois properties with the best land of the locality, whether houses, paddocks and land without paying any taxes. Moreover these privileged men profit from the misery of the inhabitants of the parish to buy up the land and houses which come on to the market by offering a price which no parishioner can give, given that he is burdened with paying annual taxes from which the privileged are exempt.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>Primary sources are documents created by someone from the past and provide a first-hand account of an event, a person, or a situation.</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+		<question>
+		<qText><![CDATA[<p>A textbook is an example of a primary source.</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+		<question>
+		<qText><![CDATA[<p>Primary sources may be biased based on characteristics of the author.</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>To analyze point of view, it is important to think about the author, but the audience doesn't matter.</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+
+	<question>
+		<qText><![CDATA[<p>Which of the following is the best way to describe bias in this statement?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>King Louis XIV is biased.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>King Louis XIV is biased because he is a king.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>King Louis XIV is biased because he is a bad monarch.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>King Louis XIV’s statement shows his bias toward the divine right of kings. As a king, he sees things from a monarch’s perspective, not the people’s. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>King Louis XIV’s statement is biased against people. He believes that the people are ignorant and he answers to no one.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+
+	<question>
+		<qText><![CDATA[<p>Which statement best matches Bossuet’s point of view?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Bossuet believes that kings are given power by God but that they should use it with fear and restraint.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet believes that kings and God are one and the same. Kings answer to no one.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet believes that Kings should do as they please, as they are the same as God.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet believes that kings receive their power from the people, but must always answer to God.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet believes that kings are divine, but receive and hold their power by consent of the people they govern.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[<p>Which of the following is the best grouping, based on the author’s point of view?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Bossuet, Mornay, Louis XIV</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Mornay, King James VI, Louis XIV</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet, King James VI, Louis XIV</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Mornay and James VI</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Louis XIV and James VI</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[<p>In what way could you group Bossuet and Mornay?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>They both agree that God appoints kings.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>They both agree that kings answer only to God.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>They both agree that kings should use their power for the betterment of the people.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A and C only</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A, B, and C</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[<p>Which of the following represents the point of view of the barons?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>They wanted to secure rights for peasants.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>They wanted to give the king more power.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>They wanted to have a say in how tax money was spent.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>They wanted to limit the taxes that could be issued by the king.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>They wanted to overthrow the king.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+
+	<question>
+		<qText><![CDATA[<p>Members of the third estate who contributed to this excerpt would have had a similar point of view as which person in this lesson?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Rupert Brooke</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Kaiser Wilhelm</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Otto von Bismarck</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>King James VI</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Charles Dickens</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+</MultipleChoice>

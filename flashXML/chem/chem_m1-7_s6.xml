@@ -1,0 +1,61 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-7_s6.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-7_s6.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+		<frac>true</frac>
+			<boxText><![CDATA[A]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[B]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[C]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[D]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[E]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[F]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="717.1" yCord="203.55" spotScale="75" spotNum="1"/>
+		<dSpot xCord="717.1" yCord="293.55" spotScale="75" spotNum="2"/>
+		<dSpot xCord="717.1" yCord="383.55" spotScale="75" spotNum="3"/>
+		<dSpot xCord="925.1" yCord="203.55" spotScale="75" spotNum="4"/>
+		<dSpot xCord="925.1" yCord="293.55" spotScale="75" spotNum="5"/>
+		<dSpot xCord="925.1" yCord="383.55" spotScale="75" spotNum="6"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

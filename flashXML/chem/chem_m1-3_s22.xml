@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText></hText>
+		<fraction>true</fraction>
+		<qText><![CDATA[ 10.0 minutes     ×     5.0 gallons     ×     385 days<br/><br/> <font face='chemNums'>________________</font>       <font face='chemNums'>_______________</font>      <font face='chemNums'>______________</font><br/><br/>          1 day                  1 minute               1 year   <br/><br/><br/><br/><br/>What units do you think you will use for your final <br/><br/>answer?]]></qText>
+		<correctText>gallons/year</correctText>
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-3_s22.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-3_s22.mp3</audio>
+	</slideInfo>	
+</FillIn>

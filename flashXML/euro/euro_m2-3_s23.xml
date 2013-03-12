@@ -1,0 +1,27 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Historical Question and Thesis Statement]]></hText>
+		<qText><![CDATA[Historical Question:  What was John Locke’s view of human nature, the origin and purpose of political authority, and the right of rebellion?]]></qText>
+		<correctText><![CDATA[Thesis Statement:  John Locke has a very favorable opinion of human nature, thinks people are worthy of good government which serves to protect the governed, and believes that the people have the right to replace a government if it violates the trust it has been given.]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/euro_m2-3_s23.mp3</audio>
+		<feedback>audio/euro_m2-3_s23_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

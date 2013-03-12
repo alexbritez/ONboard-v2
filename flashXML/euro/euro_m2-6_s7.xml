@@ -1,0 +1,51 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What is the historical context of the map?</title>
+		<info><![CDATA[<p></p>]]></info>
+		<image>images/euro_m2-6_s6.jpg</image>
+		<audio>audio/euro_m2-6_s7.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>646.9</xCord>
+			<yCord>439.3</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p>Republics were not ruled by a hereditary ruler such as those in a kingdom or duchy. Venice had an elected leader know as a doge [pronounced "dough-j"], while Florence was ruled by a group of wealthy families, including the Medici. A substantial portion of Italy was ruled directly by the Roman Catholic pope, and these were known as the Papal States.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>540.05</xCord>
+			<yCord>173.95</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p>The Duchy of Savoy, Mantua, Sienna and Sicily were all independent states within the geographic region of Italy, though they were politically dominated by the five major Italian states.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>698.85</xCord>
+			<yCord>89.35</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p><font size='14'>What is the significance of the date 1454? Historians often create maps to show the results of a treaty that has ended a period of conflict. This map shows the political situation after the Peace of Lodi in 1454, signed by the five major Italian city states. This treaty ushered in a relatively peaceful period of about 40 years during which a balance of power was maintained among these states. Due to a decrease in conflict, trade and commerce expanded which benefitted merchants, bankers, and the rulers of the Italian city states.</font></p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

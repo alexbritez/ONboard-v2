@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Political Cartoons</title>
+		<info><![CDATA[“Property Protected, a la Francoise” by Anonymous, Published in London, June 1, 1798]]></info>
+		<image>images/euro_m3-5_s26.jpg</image>
+		<audio>audio/euro_m3-5_s26.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Caricature</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s26_CARICATURE.mp3"/>
+			<xCord>707.5</xCord>
+			<yCord>138.7</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Caricature exaggerates features of a person or thing. The exaggerated features say something about the subject’s appearance, character, beliefs, actions, or significance.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Symbolism</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s26_SYMBOLISM.mp3"/>
+			<xCord>930.85</xCord>
+			<yCord>128.15</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>A symbol is an object that stands for something else. In political cartoons, a symbol is a recognizable object that represents something abstract or invisible, such as a dove representing world peace.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Irony</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s26_IRONY.mp3"/>
+			<xCord>434.8</xCord>
+			<yCord>195.8</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Irony is the use of words or actions that contradict what is really going on. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Metaphor</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s26_METAPHOR.mp3"/>
+			<xCord>899.9</xCord>
+			<yCord>379.15</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>A metaphor relates two completely different objects to each other.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Stereotype</Name>   
+			<audio enable="true" url="audio/euro_m3-5_s26_STEREOTYPE.mp3"/>
+			<xCord>566.35</xCord>
+			<yCord>320.4</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Stereotypes take a real or an imagined trait of one individual and make it true for the whole group to which the individual belongs. They are usually dangerous because they often lead to prejudice and can dehumanize individuals.</p>]]></popInfo>
+		</pButton>
+	
+	</popButtons>
+</PopUp>

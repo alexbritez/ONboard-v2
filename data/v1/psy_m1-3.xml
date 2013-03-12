@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Time Management">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m1-3_s1</video>
+      <credits>(cl)Jeff Cadge/Photographer's Choice/Getty Images, (cr)ColorBlind Images/Blend Images LLC, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+   
+   <scene id="2" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Estimating Time</header>
+         <text><![CDATA[
+		 	<p>&quot;<em>Anticipation effects</em> occur when a participant develops expectations about which condition should occur next in the sequence. The participant's response to that condition may then be influenced more by this expectation than by the actual experience of the condition itself. For example, consider a time-perception experiment in which the participant's task is to estimate the length of time that has passed between a signal presented on a computer screen indicating the start of an interval and another signal indicating the end of an interval. (Of course participants have to be prevented somehow from marking off time during the interval by counting or rhythmically tapping.) If the time intervals in such an experiment are 12, 24, and 36 seconds, then one possible . . . sequence of conditions could be 12-24-36-36-24-12. If this cycle were repeated several times, participants probably would recognize the pattern and expect a series of increasing and then decreasing intervals. Their time estimates might soon begin to reflect this pattern rather than their perception of each independent interval.&quot;</p>
+			<p>From RESEARCH METHODS IN PSYCHOLOGY by John Shaughnessy at al., 9th Edition, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		 ]]></text>
+      </content>
+      <audio>psy_m1-3_s2</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s3</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)ColorBlind Images/Blend Images LLC, Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s4</video>
+      <credits>(cl)Dagmar Schwelle/Alamy, (cr)Jeff Cadge/Photographer's Choice/Getty Images, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s5</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (cl)Flirt/Superstock, (cr)Michael Hall Photography Pty Ltd/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Studies have shown that students aged 8 to 18 spent how much time using media such as computers, cell phones, or mp3 players during an average weekend?</question>
+            <answers>
+               <answer>About 3 hours</answer>
+			   <answer>About 4 hours</answer>
+			   <answer><![CDATA[About 4 &frac12; hours]]></answer>
+			   <answer><![CDATA[About 5 &frac12; hours]]></answer>
+			   <answer correct="true"><![CDATA[About 7 &frac12; hours]]></answer>
+            </answers>
+            <feedbackAudio>psy_m1-3_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-3_s6</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s7</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Michael Hall Photography Pty Ltd/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s8</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)ColorBlind Images/Blend Images LLC, (2)Flirt/Superstock, (3)Michael Hall Photography Pty Ltd/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s9</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)ColorBlind Images/Blend Images LLC, (2)Nancy R. Cohen/Corbis, (3)Beau Lark/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s10</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Nancy R. Cohen/Corbis, (2)Beau Lark/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Time Management Trap: Multitasking</header>
+         <instruction>Doing more than one thing at a time is called multitasking.</instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-3_s11.jpg</image>
+         <hotspots>
+            <hotspot audio="psy_m1-3_s11_a" dynamic="true" x="31" y="52"><![CDATA[
+				<h1></h1>
+				<p>Today's generation is often referred to as Generation M, which stands for Media and for Multitasking.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-3_s11_b" dynamic="true" x="308" y="52"><![CDATA[
+				<h1></h1>
+				<p>Some from Generation M think they can handle multitasking.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-3_s11_c" dynamic="true" x="536" y="334"><![CDATA[
+				<h1></h1>
+				<p>Numerous research studies have discovered that multitasking is ineffective.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-3_s11_d" dynamic="true" x="346" y="344"><![CDATA[
+				<h1></h1>
+				<p>Chronic media multitaskers perform worse than occasional media multitaskers.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-3_s11_e" dynamic="true" x="347" y="201"><![CDATA[
+				<h1></h1>
+				<p>Take a look at your computer screen right now—how many programs are running?</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-3_s11</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Flirt/Superstock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s12</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Time Management Tip: Procrastination</header>
+         <instruction>Procrastination: to put off or postpone a task</instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-3_s13.jpg</image>
+         <hotspots>
+            <hotspot title="Why?" audio="psy_m1-3_s13_a" dynamic="true" x="28" y="25"><![CDATA[
+				<h1>Why?</h1>
+				<p>Because goals are too long-term, unrealistic, or unfocused</p>
+			]]></hotspot>
+			<hotspot title="Why?" audio="psy_m1-3_s13_b" dynamic="true" x="406" y="67"><![CDATA[
+				<h1>Why?</h1>
+				<p>Because they do not believe in their ability to accomplish tasks</p>
+			]]></hotspot>
+			<hotspot title="Why?" audio="psy_m1-3_s13_c" dynamic="true" x="381" y="207"><![CDATA[
+				<h1>Why?</h1>
+				<p>To motivate themselves</p>
+			]]></hotspot>
+			<hotspot title="Why?" audio="psy_m1-3_s13_d" dynamic="true" x="180" y="344"><![CDATA[
+				<h1>Why?</h1>
+				<p>To manage some &quot;down time&quot; in their hectic life</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-3_s13</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Dagmar Schwelle/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s14</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Beau Lark/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="7_Activity_Drag_Drop">
+      <matchingInstructions><![CDATA[<span style="color: #F7850C; font-size: 28px; font-weight: 100; font-family:'MyriadPro-LightCond','PT Sans',Helvetica,Arial,sans-serif;">Commitments and Opportunities</span>]]></matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="false" points="6">
+         <matches title="">
+            <match id="1">Take an AP course</match>
+			<match id="1">Be president of school club</match>
+			<match id="1">Have a girlfriend/boyfriend</match>
+			<match id="1">Participate in a varsity sport</match>
+			<match id="1">Join a school club</match>
+			<match id="1">Hold a part-time job</match>
+			<match id="1">Take a vacation with your family</match>
+			<match id="1">Head a local/school fundraiser</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="171" y="47" />
+			<drop correct="1" x="171" y="86" />
+			<drop correct="1" x="171" y="125" />
+			<drop correct="1" x="171" y="164" />
+			<drop correct="1" x="171" y="203" />
+			<drop correct="1" x="171" y="242" />
+			<drop correct="1" x="171" y="281" />
+			<drop correct="1" x="171" y="320" />
+			<drop correct="1" x="377" y="47" />
+			<drop correct="1" x="377" y="86" />
+			<drop correct="1" x="377" y="125" />
+			<drop correct="1" x="377" y="164" />
+			<drop correct="1" x="377" y="203" />
+			<drop correct="1" x="377" y="242" />
+			<drop correct="1" x="377" y="281" />
+			<drop correct="1" x="377" y="320" />
+         </drops>
+         <image>psy_m1-3_s15.jpg</image>
+      </matching>
+      <instructions></instructions>
+      <audio>psy_m1-3_s15</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s16</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Jeff Cadge/Photographer's Choice/Getty Images, (2)Ingram Publishing/SuperStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>How can you avoid the time management trap of being overwhelmed?</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-3_s17.jpg</image>
+         <hotspots>
+            <hotspot title="How?" audio="psy_m1-3_s17_a" dynamic="true" x="234" y="27"><![CDATA[
+				<h1>How?</h1>
+				<p>Assess your current schedule.</p>
+			]]></hotspot>
+			<hotspot title="How?" audio="psy_m1-3_s17_b" dynamic="true" x="234" y="147"><![CDATA[
+				<h1>How?</h1>
+				<p>Learn to say no graciously.</p>
+			]]></hotspot>
+			<hotspot title="How?" audio="psy_m1-3_s17_c" dynamic="true" x="49" y="257"><![CDATA[
+				<h1>How?</h1>
+				<p>It is important to make sure you have enough time devoted to what's important to you.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-3_s17</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Ingram Publishing/SuperStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s18</video>
+      <credits>(cl)ColorBlind Images/Blend Images LLC, (c)Dagmar Schwelle/Alamy, (cr)Ingram Publishing/SuperStock, (bkgd)Glow Images/Getty Images,(others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+   
+   <scene id="19" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-3_s19.jpg</image>
+         <hotspots>
+            <hotspot title="Are you prepared?" dynamic="true" x="85" y="43"><![CDATA[
+				<h1>Are you prepared?</h1>
+				<p>You're on your way to school to take a test and your car breaks down.</p>
+			]]></hotspot>
+			<hotspot title="Are you prepared?" dynamic="true" x="417" y="80"><![CDATA[
+				<h1>Are you prepared?</h1>
+				<p>You've nearly finished your final project for AP Psychology and your computer freezes up.</p>
+			]]></hotspot>
+			<hotspot title="Are you prepared?" dynamic="true" x="55" y="273"><![CDATA[
+				<h1>Are you prepared?</h1>
+				<p>Someone close to you becomes seriously ill.</p>
+			]]></hotspot>
+			<hotspot title="Are you prepared?" dynamic="true" x="408" y="309"><![CDATA[
+				<h1>Are you prepared?</h1>
+				<p>You break your right wrist playing basketball with some friends.</p>
+			]]></hotspot>
+			<hotspot title="Are you prepared?" dynamic="true" x="240" y="167"><![CDATA[
+				<h1>Are you prepared?</h1>
+				<p>You win the opportunity to represent your school at a national level, but you have to pay your own way.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-3_s19</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s20</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Image Source/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s21</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Nancy R. Cohen/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="22" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>You should take a break when you change subjects while studying.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+            <feedbackAudio>psy_m1-3_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-3_s22</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="23" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>There is no such thing as studying too much.</question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio>psy_m1-3_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="24" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Time Management Trap: Imbalance</header>
+         <instruction>Imbalance occurs when we spend too much time doing one thing.</instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-3_s24.jpg</image>
+         <hotspots>
+            <hotspot title="Balance" audio="psy_m1-3_s24_a" dynamic="true" x="64" y="50"><![CDATA[
+				<h1>Balance</h1>
+				<p>We are happier and healthier when we lead balanced lives.</p>
+			]]></hotspot>
+			<hotspot title="Balance" audio="psy_m1-3_s24_b" dynamic="true" x="417" y="157"><![CDATA[
+				<h1>Balance</h1>
+				<p>Balance work and social goals.</p>
+			]]></hotspot>
+			<hotspot title="Balance" audio="psy_m1-3_s24_c" dynamic="true" x="155" y="273"><![CDATA[
+				<h1>Balance</h1>
+				<p>Allow enough time to accomplish each goal.</p>
+			]]></hotspot>
+			<hotspot title="Balance" audio="psy_m1-3_s24_d" dynamic="true" x="375" y="324"><![CDATA[
+				<h1>Balance</h1>
+				<p>Good time-managers lead balanced lives.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-3_s24</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Scott Markewitz/Photographer's Choice RF/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s25</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s26</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Nancy R. Cohen/Corbis, (2)Beau Lark/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>psy_m1-3_s27</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Beau Lark/Corbis, (2)ColorBlind Images/Blend Images LLC, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In general, people are good at estimating elapsed time.</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Multitasking is an effective way of successfully completing several tasks in a short time.</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Our brains are wired to engage in multiple tasks at the same time.</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Students who engage in multitasking do not retain as much information as students that do not multitask.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Procrastination is great because it motivates students to study.</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Avoiding time management traps can lead to success in AP-level work.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which is the best way to avoid the time management trap of being overwhelmed?</question>
+            <answers>
+			   <answer correct="true">Learning to say "no" graciously</answer>
+               <answer>Continuing to take on new projects</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which is the best way to avoid the time management trap of being unprepared for the unexpected?</question>
+            <answers>
+			   <answer>Keep a strict, full schedule</answer>
+               <answer correct="true">Leave time for unscheduled events</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which is the best way to avoid the time management trap of pushing yourself too far?</question>
+            <answers>
+			   <answer correct="true">Study for no longer than 75 minutes before taking a break</answer>
+               <answer>Study each subject area in 3-hour sessions</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which is the best way to avoid the time management trap of imbalance?</question>
+            <answers>
+			   <answer correct="true">Create goals that emphasize work and play.</answer>
+               <answer>Tell your friends you can't spend time with them because you're taking an AP class.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-3_s28</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+</shell>

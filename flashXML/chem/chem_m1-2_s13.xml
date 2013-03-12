@@ -1,0 +1,32 @@
+<PopUp>
+	<slideInfo>
+		<title>Rounding Numbers</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-2_s13.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-2_s13.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>9.68</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>510.05</xCord>
+			<yCord>202</yCord>
+			<width>134</width>
+			<popTitle>3.96</popTitle>
+			<popInfo><![CDATA[The answer is 3.96, since the number preceding the 5 (6) is even, the number is left as is.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>9.68</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>510.05</xCord>
+			<yCord>301</yCord>
+			<width>85</width>
+			<popTitle>9.68</popTitle>
+			<popInfo><![CDATA[The answer is 9.68, since the number preceding the 5 (7) is odd, the number is increased by 1.]]></popInfo>
+		</pButton>	
+		
+	</popButtons>
+</PopUp>

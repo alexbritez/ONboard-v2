@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Module 5: The Mole and Molarity</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_s1-1_s17.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_s1-1_s17.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_s1-1_s17_1.mp3"/>
+			<xCord>464</xCord>
+			<yCord>187.15</yCord>
+			<width>85</width>
+
+			<popTitle>Learn:</popTitle>
+			<popInfo><![CDATA[<ul><li>about the mole</li><li>how to do conversions and calculations</li></ul>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_s1-1_s17_2.mp3"/>
+			<xCord>464</xCord>
+			<yCord>276.1</yCord>
+			<width>85</width>
+
+			<popTitle>Learn:</popTitle>
+			<popInfo><![CDATA[<ul><li>about empirical and molecular formulas</li><li>about percent composition</li></ul><li>how to solve problems using percent composition and the empirical and molecular formulas</li>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>3</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_s1-1_s17_3.mp3"/>
+			<xCord>464</xCord>
+			<yCord>365.1</yCord>
+			<width>85</width>
+
+			<popTitle>Learn:</popTitle>
+			<popInfo><![CDATA[<ul><li>what molarity is </li><li>how to calculate it</li></ul>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

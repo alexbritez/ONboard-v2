@@ -1,0 +1,37 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-3_s27.jpg</image>
+		<audio>audio/eng_m3-3_s27.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Thesis Statement]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Background about “Reason”]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[“Reason” in context]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Background about Asimov]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Broad statement about technology]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="596.7" yCord="197.7" spotScale="75" spotNum="1"/>
+		<dSpot xCord="596.7" yCord="257.85" spotScale="75" spotNum="2"/>
+		<dSpot xCord="596.7" yCord="318" spotScale="75" spotNum="3"/>
+		<dSpot xCord="596.7" yCord="378.15" spotScale="75" spotNum="4"/>
+		<dSpot xCord="596.7" yCord="438.3" spotScale="75" spotNum="5"/>
+	</dropSpots>
+</DragDrop>

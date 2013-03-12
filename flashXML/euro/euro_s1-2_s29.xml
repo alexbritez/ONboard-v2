@@ -1,0 +1,32 @@
+<PopUp>
+	<slideInfo>
+		<title>The High Middle Ages: Religious Revival</title>
+		<info></info>
+		<image>images/euro_s1-2_s29.jpg</image>
+		<audio>audio/euro_s1-2_s29.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>ST. FRANCIS</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>689.7</xCord>
+			<yCord>104.45</yCord>
+			<width>134</width>
+			<popTitle>ST. FRANCIS</popTitle>
+			<popInfo><![CDATA[An important contributor to this religious revival was St. Francis of Assisi.  His new monastic order encouraged Franciscan monks to get out amongst the sinners rather than pursue a secluded existence.  This influence yielded many favorable results for medieval society on the whole.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>POPE GREGORY VII</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>689.7</xCord>
+			<yCord>312.15</yCord>
+			<width>85</width>
+			<popTitle>POPE GREGORY VII</popTitle>
+			<popInfo><![CDATA[Pope Gregory VII was one of the first clergymen to be popularly elected by the College of Cardinals. He spread the idea that the clergy exists to serve the faithful people – God’s creation – and the pope serves the clergy. Future religious leaders followed his example.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

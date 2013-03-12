@@ -1,0 +1,76 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-2_s20.jpg</image>
+		<audio>audio/euro_m2-2_s20.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>The Thirty Years' War</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>The Seven Years’ War</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>The French Revolution</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Unification of Germany</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Adolf Hitler in power</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Luther’s 95 Theses</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>Defeat of Spanish Armada</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>The Franco-Prussian War</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>Vladimir Lenin in power</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>European Union established</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[The &quot;Glorious Revolution&quot;]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="574.8" yCord="194.05" spotScale="40" spotNum="1"/>
+		<dSpot xCord="574.8" yCord="229.05" spotScale="40" spotNum="1"/>
+		<dSpot xCord="574.8" yCord="264.05" spotScale="40" spotNum="1"/>
+
+		<dSpot xCord="574.8" yCord="354.05" spotScale="40" spotNum="2"/>
+		<dSpot xCord="574.8" yCord="389.05" spotScale="40" spotNum="2"/>
+		<dSpot xCord="574.8" yCord="424.05" spotScale="40" spotNum="2"/>
+		
+		<dSpot xCord="865.25" yCord="126" spotScale="40" spotNum="3"/>
+		<dSpot xCord="865.25" yCord="161" spotScale="40" spotNum="3"/>
+		<dSpot xCord="865.25" yCord="196" spotScale="40" spotNum="3"/>
+		
+		<dSpot xCord="870.25" yCord="267" spotScale="40" spotNum="4"/>
+		<dSpot xCord="870.25" yCord="302" spotScale="40" spotNum="4"/>
+		<dSpot xCord="870.25" yCord="337" spotScale="40" spotNum="4"/>
+		
+		<dSpot xCord="870.25" yCord="395.95" spotScale="40" spotNum="5"/>
+		<dSpot xCord="870.25" yCord="428.45" spotScale="40" spotNum="5"/>
+		<dSpot xCord="870.25" yCord="460.95" spotScale="40" spotNum="5"/>
+		
+	</dropSpots>
+</DragDrop>

@@ -1,0 +1,62 @@
+<PopUp>
+	<slideInfo>
+		<title>The High Middle Ages: Scholasticism </title>
+		<info></info>
+		<image>images/euro_s1-2_s27.jpg</image>
+		<audio>audio/euro_s1-2_s27.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>QUADRIVIUM</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>706.8</xCord>
+			<yCord>305.95</yCord>
+			<width>134</width>
+			<popTitle>QUADRIVIUM</popTitle>
+			<popInfo><![CDATA[Also known as the numerate arts, it included arithmetic, geometry, astronomy, and music.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>TRIVIUM</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>830.8</xCord>
+			<yCord>104.45</yCord>
+			<width>85</width>
+			<popTitle>TRIVIUM</popTitle>
+			<popInfo><![CDATA[Also referred to as the language arts, this consisted of rhetoric (speaking with eloquence), grammar (the mechanics of the Latin language), and dialectic (the logic of argument).]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>THEOLOGY</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>528.3</xCord>
+			<yCord>104.45</yCord>
+			<width>92</width>
+			<popTitle>THEOLOGY</popTitle>
+			<popInfo><![CDATA[The study of religious faith, it was regarded as the queen of all disciplines and all fields of inquiry.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>PETER ABELARD</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>641.8</xCord>
+			<yCord>392.15</yCord>
+			<width>52</width>
+			<popTitle>PETER ABELARD</popTitle>
+			<popInfo><![CDATA[One of the first great minds to emerge, he was recognized as professor by his fellow students.  He is now regarded as the Great Knight of the Dialectic.]]></popInfo>
+		</pButton>	
+		
+		<pButton> 
+			<Name>THOMAS AQUINAS</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>879.8</xCord>
+			<yCord>352.15</yCord>
+			<width>52</width>
+			<popTitle>THOMAS AQUINAS</popTitle>
+			<popInfo><![CDATA[Aquinas was initially called “the dumb ox” by professors at the University of Paris because he was so quiet. No ox, he authored one of the great masterpieces of all times, <font face='lc-Italic'>Summa Theologica</font>, which set out to prove the existence of God through the use of science.]]></popInfo>
+		</pButton>	
+		
+	</popButtons>
+</PopUp>

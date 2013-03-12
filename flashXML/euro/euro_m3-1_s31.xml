@@ -1,0 +1,13 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText>Analyzing Point of View</hText>
+		
+		<qText><![CDATA[What is King James’ point of view as expressed in <font size='18'><font face='c-Italic'>The True Lawe of Free Monarchies?</font></font> Is this source reliable? Explain why or why not. ]]></qText>
+		
+		<correctText><![CDATA[<p>King James’ point of view is that kings are given their power by God and all should obey them. He probably thinks this way because he is a king and has been brought up to believe that God has chosen him to rule from birth. He was influenced by his position (being born heir to a throne).<br/>The book may not be an entirely reliable source, since it does not necessarily represent the views of a majority of his subjects. Historians could use it to determine how monarchs justified their authority and felt about their position as ruler during this period.</p>]]></correctText>
+		
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/euro_m3-1_s31.mp3</audio>
+		<feedback>audio/euro_m3-1_s31_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Primary Sources">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m2-4_s1</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Bettmann/Corbis, (r)Courtesy of the Massachusetts Historical Society., (b)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="2" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction><![CDATA[In 1776, the United States declared its independence.<br/><br/>
+		 The letters of Patriot leader John Adams and his wife, Abigail, give insight into events of the American Revolution.]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s2.jpg</image>
+         <hotspots>
+            <hotspot title="Ethnicity and gender" dynamic="true" x="14" y="33"><![CDATA[
+				<h1>Ethnicity and gender</h1>
+				<p>White female</p>
+			]]></hotspot>
+			<hotspot title="Status" dynamic="true" x="14" y="157"><![CDATA[
+				<h1>Status</h1>
+				<p>Wife of John Adams, a fairly wealthy farmer and a Patriot leader</p>
+			]]></hotspot>
+			<hotspot title="Background" dynamic="true" x="14" y="277"><![CDATA[
+				<h1>Background</h1>
+            <p>Born to a respected minister's family in Massachusetts, a center of revolutionary thought. She was elite and well-informed.</p>
+			]]></hotspot>
+			<hotspot title="Occupation" dynamic="true" x="469" y="33"><![CDATA[
+				<h1>Occupation</h1>
+				<p>Took care of five children and the farm while Adams was away</p>
+			]]></hotspot>
+			<hotspot title="Age" dynamic="true" x="469" y="157"><![CDATA[
+				<h1>Age</h1>
+				<p>32 years old in 1776</p>
+			]]></hotspot>
+			<hotspot title="Knowledge and interest" dynamic="true" x="469" y="277"><![CDATA[
+				<h1>Knowledge and interest</h1>
+				<p>Loved to read and study literature, philosophy and politics</p>
+			]]></hotspot>
+			<hotspot title="Education" dynamic="true" x="248" y="347"><![CDATA[
+				<h1>Education</h1>
+				<p>Well-educated, but studied at home</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-4_s2</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Abigail Adams' Letter</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s3.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="446" y="12"><![CDATA[
+				<h1></h1>
+				<p>dated March 31, 1776, a few months before the Declaration of Independence was written</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="135" y="100"><![CDATA[
+				<h1></h1>
+				<p>written as private correspondence to her husband, John</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="446" y="198"><![CDATA[
+				<h1></h1>
+				<p>contains personal thoughts, including the personal and political opinions of Abigail</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="135" y="317"><![CDATA[
+				<h1></h1>
+				<p>reflects events as they are known to Abigail</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-4_s3</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Courtesy of the Massachusetts Historical Society., (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[<p>&quot;I long to hear that you have declared an independancy-and by the way in the new Code of Laws which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favourable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could. If perticuliar care and attention is not paid to the Laidies we are determined to foment a Rebelion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation.&quot;</p>]]></text>
+      </content>
+      <audio>USH_m2-4_s4</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Interpretations of Adams' Letter</header>
+         <instruction><![CDATA[
+		 	<ul>
+				<li>What is the main idea?</li>
+				<li>What is Adams trying to convey?</li>
+		 	</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s5.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="135" y="79"><![CDATA[
+				<h1></h1>
+				<p>I want the colonies to declare independence from Great Britain.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="446" y="125"><![CDATA[
+				<h1></h1>
+				<p>I want you to write laws for the new nation that respect and protect women.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="135" y="333"><![CDATA[
+				<h1></h1>
+				<p>Do not give all the power to men because they will not use it well.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="446" y="332"><![CDATA[
+				<h1></h1>
+				<p>Women deserve the right to participate in their government. She is also showing that she is familiar with the idea that government is a contract, and that the people have the right to rebel against an unjust government.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-4_s5</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What is the main idea of the excerpt from Abigail Adams' letter?</question>
+            <answers>
+               <answer>Great Britain is a tyrannical government.</answer>
+			   <answer>The colonies deserve independence.</answer>
+               <answer correct="true">The new nation must deal more fairly with women.</answer>
+			   <answer>Husbands and wives do not always get along.</answer>
+			   <answer>Women are an active part of the rebellion.</answer>
+            </answers>
+            <figure><header></header>
+         <text><![CDATA[<p>&quot;I long to hear that you have declared an independancy-and by the way in the new Code of Laws which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favourable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could. If perticuliar care and attention is not paid to the Laidies we are determined to foment a Rebelion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation.&quot;</p>]]></text></figure>
+            <feedbackAudio>USH_m2-4_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following statements can be inferred from Abigail Adams' letter?</question>
+            <answers>
+               <answer correct="true">Abigail Adams was familiar with political events and felt confident discussing them.</answer>
+			   <answer>Abigail Adams was subordinate to her husband and did not enjoy much freedom of expression.</answer>
+			   <answer>Women had no influence on events of the American Revolution.</answer>
+			   <answer>Women had equal rights with men in colonial America.</answer>
+			   <answer>Adams believed that all men were tyrants.</answer>
+            </answers>
+            <figure><header></header>
+         <text><![CDATA[<p>&quot;I long to hear that you have declared an independancy-and by the way in the new Code of Laws which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favourable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could. If perticuliar care and attention is not paid to the Laidies we are determined to foment a Rebelion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation.&quot;</p>]]></text></figure>
+            <feedbackAudio>USH_m2-4_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s8</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>[W]hend I left Randolf I went to Rockingham and Stad there five weaks and then I left there and went to Richmon virgina to be Sold and I Stade there three days and was bought by a man by the name of Groover and braught to Georgia and he kept me about Nine months and he being a trader Sold me to a man by the name of Rimes and he Sold me to a man by the name of Lester and he has owned me four years and Says that he will keep me til death Siperates us<br/>
+			...<br/>
+			I wish to [k]now what has Ever become of my Presus little girl. I left her in goldsborough with Mr. Walker and I have not herd from her Since ... I do wish to See her very mutch and Boss Says he wishes to [k]now whether he will Sell her or now and the least that can buy her and that he wishes a answer as Soon as he can get one ... </p>
+			<p>So I must come to a close by Escribing my Self you long loved and well wishing play mate as a Servant until death<br/>
+Vilet Lester<br/>
+of Georgia<br/>
+to Miss Patsey Padison<br/>
+of North Caroliner</p>
+			<p style="font-size:90%">Source: Transcription of Vilet Lester to Miss Patsey Patterson, August 29, 1857, in the Joseph Allred Papers, David M. Rubenstein Manuscript & Rare Book Library, Duke University.</p>
+		]]></text>
+      </content>
+      <audio>USH_m2-4_s9</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which part of the text tells you that Vilet Lester is a slave?</question>
+            <answers>
+               <answer>"[W]hend I left Randolf I went to Rockingham and Stad there five weaks"</answer>
+               <answer correct="true">"and he Sold me to a man by the name of Lester and he has owned me four years"</answer>
+			   <answer>"I wish to [k]now what has Ever become of my Presus little girl. I left her in goldsborough with Mr. Walker"</answer>
+			   <answer>"So I must come to a close by Escribing my Self you long loved and well wishing play mate"</answer>
+			   <answer>"I have not herd from her Since … I do wish to See her very mutch"</answer>
+            </answers>
+            <figure><header></header>
+         <text><![CDATA[
+		 	<p>[W]hend I left Randolf I went to Rockingham and Stad there five weaks and then I left there and went to Richmon virgina to be Sold and I Stade there three days and was bought by a man by the name of Groover and braught to Georgia and he kept me about Nine months and he being a trader Sold me to a man by the name of Rimes and he Sold me to a man by the name of Lester and he has owned me four years and Says that he will keep me til death Siperates us<br/>
+			...<br/>
+			I wish to [k]now what has Ever become of my Presus little girl. I left her in goldsborough with Mr. Walker and I have not herd from her Since ... I do wish to See her very mutch and Boss Says he wishes to [k]now whether he will Sell her or now and the least that can buy her and that he wishes a answer as Soon as he can get one ... </p>
+			<p>So I must come to a close by Escribing my Self you long loved and well wishing play mate as a Servant until death<br/>
+Vilet Lester<br/>
+of Georgia<br/>
+to Miss Patsey Padison<br/>
+of North Caroliner</p>
+			<p style="font-size:90%">Source: Transcription of Vilet Lester to Miss Patsey Patterson, August 29, 1857, in the Joseph Allred Papers, David M. Rubenstein Manuscript & Rare Book Library, Duke University.</p>
+		]]></text></figure>
+            <feedbackAudio>USH_m2-4_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What does the existence of this letter allow us to infer about enslaved persons?</question>
+            <answers>
+               <answer>Slaves generally stayed with one owner for a long time.</answer>
+			   <answer>Owners tried to keep slave families together.</answer>
+               <answer>Slaves in North Carolina were well educated.</answer>
+			   <answer correct="true">Some slaves learned to read and write.</answer>
+			   <answer>All slaves were sold multiple times.</answer>
+            </answers>
+            <figure><header></header>
+         <text><![CDATA[
+		 	<p>[W]hend I left Randolf I went to Rockingham and Stad there five weaks and then I left there and went to Richmon virgina to be Sold and I Stade there three days and was bought by a man by the name of Groover and braught to Georgia and he kept me about Nine months and he being a trader Sold me to a man by the name of Rimes and he Sold me to a man by the name of Lester and he has owned me four years and Says that he will keep me til death Siperates us<br/>
+			...<br/>
+			I wish to [k]now what has Ever become of my Presus little girl. I left her in goldsborough with Mr. Walker and I have not herd from her Since ... I do wish to See her very mutch and Boss Says he wishes to [k]now whether he will Sell her or now and the least that can buy her and that he wishes a answer as Soon as he can get one ... </p>
+			<p>So I must come to a close by Escribing my Self you long loved and well wishing play mate as a Servant until death<br/>
+Vilet Lester<br/>
+of Georgia<br/>
+to Miss Patsey Padison<br/>
+of North Caroliner</p>
+			<p style="font-size:90%">Source: Transcription of Vilet Lester to Miss Patsey Patterson, August 29, 1857, in the Joseph Allred Papers, David M. Rubenstein Manuscript & Rare Book Library, Duke University.</p>
+		]]></text></figure>
+            <feedbackAudio>USH_m2-4_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What is the main idea, or point, of Vilet's letter?</question>
+            <answers>
+               <answer>She had to tell her friend how many times she had been sold.</answer>
+               <answer correct="true">She wanted to be reunited with her daughter.</answer>
+			   <answer>She hoped to be returned to her former owners.</answer>
+			   <answer>She had to let her family know where she was living.</answer>
+			   <answer>She had lived in both Rockingham and Richmond.</answer>
+            </answers>
+            <figure><header></header>
+         <text><![CDATA[
+		 	<p>[W]hend I left Randolf I went to Rockingham and Stad there five weaks and then I left there and went to Richmon virgina to be Sold and I Stade there three days and was bought by a man by the name of Groover and braught to Georgia and he kept me about Nine months and he being a trader Sold me to a man by the name of Rimes and he Sold me to a man by the name of Lester and he has owned me four years and Says that he will keep me til death Siperates us<br/>
+			...<br/>
+			I wish to [k]now what has Ever become of my Presus little girl. I left her in goldsborough with Mr. Walker and I have not herd from her Since ... I do wish to See her very mutch and Boss Says he wishes to [k]now whether he will Sell her or now and the least that can buy her and that he wishes a answer as Soon as he can get one ... </p>
+			<p>So I must come to a close by Escribing my Self you long loved and well wishing play mate as a Servant until death<br/>
+Vilet Lester<br/>
+of Georgia<br/>
+to Miss Patsey Padison<br/>
+of North Caroliner</p>
+			<p style="font-size:90%">Source: Transcription of Vilet Lester to Miss Patsey Patterson, August 29, 1857, in the Joseph Allred Papers, David M. Rubenstein Manuscript & Rare Book Library, Duke University.</p>
+		]]></text></figure>
+            <feedbackAudio>USH_m2-4_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What does the letter show about Vilet's connection to Patsey?</question>
+            <answers>
+               <answer correct="true">Vilet believes that they had a close relationship and that she matters to Patsey.</answer>
+			   <answer>Vilet and Patsey were friends who did not want to be separated.</answer>
+			   <answer>Vilet was treated poorly by Patsey's family and counted on Patsey for protection.</answer>
+			   <answer>Vilet and Patsey had no relationship, but Vilet hopes to appeal to Patsey's good nature.</answer>
+			   <answer>Patsey was Vilet's former owner.</answer>
+            </answers>
+            <figure><header></header>
+         <text><![CDATA[
+		 	<p>[W]hend I left Randolf I went to Rockingham and Stad there five weaks and then I left there and went to Richmon virgina to be Sold and I Stade there three days and was bought by a man by the name of Groover and braught to Georgia and he kept me about Nine months and he being a trader Sold me to a man by the name of Rimes and he Sold me to a man by the name of Lester and he has owned me four years and Says that he will keep me til death Siperates us<br/>
+			...<br/>
+			I wish to [k]now what has Ever become of my Presus little girl. I left her in goldsborough with Mr. Walker and I have not herd from her Since ... I do wish to See her very mutch and Boss Says he wishes to [k]now whether he will Sell her or now and the least that can buy her and that he wishes a answer as Soon as he can get one ... </p>
+			<p>So I must come to a close by Escribing my Self you long loved and well wishing play mate as a Servant until death<br/>
+Vilet Lester<br/>
+of Georgia<br/>
+to Miss Patsey Padison<br/>
+of North Caroliner</p>
+			<p style="font-size:90%">Source: Transcription of Vilet Lester to Miss Patsey Patterson, August 29, 1857, in the Joseph Allred Papers, David M. Rubenstein Manuscript & Rare Book Library, Duke University.</p>
+		]]></text></figure>
+            <feedbackAudio>USH_m2-4_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction><![CDATA[
+		 	<p>Speeches are another type of primary source.</p>
+			<p>Although first spoken, many speeches are written down.</p>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s14.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="80" y="69"><![CDATA[
+				<h1></h1>
+				<p>President Abraham Lincoln</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="202" y="112"><![CDATA[
+				<h1></h1>
+				<p>had served as President and Commander in Chief of a nation at war for two years</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="525" y="117"><![CDATA[
+				<h1></h1>
+				<p>believed the Confederate states were in rebellion against the Union</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="462" y="8"><![CDATA[
+				<h1></h1>
+				<p>seen here delivering his famous Gettysburg Address</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-4_s14</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Archive Photos/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Handwritten draft of the Gettysburg Address</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s15.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-4_s15_A" dynamic="true" x="100" y="357"><![CDATA[
+				<h1></h1>
+				<p>Was delivered on November 19, 1863, at the dedication of the Soldiers' National Cemetery.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-4_s15_B" dynamic="true" x="547" y="91"><![CDATA[
+				<h1></h1>
+				<p>Was given to honor those who fought and died during the Battle of Gettysburg.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-4_s15_C" dynamic="true" x="416" y="15"><![CDATA[
+				<h1></h1>
+				<p>The battle was considered a turning point in the war.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-4_s15_D" dynamic="true" x="521" y="327"><![CDATA[
+				<h1></h1>
+				<p>This became one of the best known speeches in U.S. history.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Primary Sources: Speeches</header>
+         <instruction><![CDATA[
+		 	<ul>
+				<li>Speeches have a public audience.</li>
+				<li>They are given for a specific purpose with a specific point of view.</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s16.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="135" y="174"><![CDATA[
+				<h1></h1>
+				<p>Lincoln emphasizes the founding principles that gave birth to the nation. Fourscore and seven years is 87 years, going back to 1776, the founding of the nation.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="446" y="64"><![CDATA[
+				<h1></h1>
+				<p>Lincoln reminds people that the nation has been divided by war.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="135" y="339"><![CDATA[
+				<h1></h1>
+				<p>Lincoln explains that they have gathered to honor those who died on the battlefield.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="446" y="351"><![CDATA[
+				<h1></h1>
+				<p>Lincoln goes on to say that those gathered have another purpose—to finish the work of those who died and reunite the nation.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-4_s16</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s17</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s18</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s19</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Archive Photos/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s20</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s21</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Hulton Archive/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>President Roosevelt wanted to avoid dealing with the economic crisis so he gave an inspirational Inaugural Address that focused on national security.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text>This great Nation will endure as it has endured, will revive and will prosper. So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance. In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. I am convinced that you will again give that support to leadership in these critical days.</text>
+			</figure>
+            <feedbackAudio>USH_m2-4_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-4_s22</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>By giving this speech, President Roosevelt most likely intended to unveil his economic policies to solve the economic crisis and wanted to win support for his ideas.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text>This great Nation will endure as it has endured, will revive and will prosper. So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance. In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. I am convinced that you will again give that support to leadership in these critical days.</text>
+			</figure>
+            <feedbackAudio>USH_m2-4_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>President Roosevelt spoke of the effects of paralyzing fear because his economic policies depended on making people afraid of economic collapse.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text>This great Nation will endure as it has endured, will revive and will prosper. So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance. In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. I am convinced that you will again give that support to leadership in these critical days.</text>
+			</figure>
+            <feedbackAudio>USH_m2-4_s24_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s25</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)INTERFOTO/Alamy, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Primary Sources: Songs</header>
+         <instruction><![CDATA[
+            <p>Country Joe and the Fish released antiwar song "I-Feel-Like I'm Fixin-to-Die-Rag."</p>
+            <p>Released in 1965 but gained popularity after it was performed at Woodstock in 1969.</p>
+            <p>The lyrics are satirical.</p>
+            ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s26.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="83" y="184"><![CDATA[
+				<h1></h1>
+				<p>The United States needs the help of its young men to fight communism in Vietnam and to win the Cold War.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="293" y="184"><![CDATA[
+				<h1></h1>
+				<p>The United States has engaged in a new war in Vietnam, far away from U.S. interests.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="502" y="184"><![CDATA[
+				<h1></h1>
+				<p>War is a fun adventure, and young people should leave college and join the army.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-4_s26</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What can you infer from the lyrics in this first stanza?</question>
+            <answers>
+               <answer correct="true">The author thinks that the United States started a war it cannot win and needs soldiers.</answer>
+			   <answer>The author believes that studying is less important than serving in the military.</answer>
+			   <answer>The author wants to encourage more people to fight in the Vietnam War.</answer>
+			   <answer>The author has little interest in the Vietnam War and is trying to distract people.</answer>
+			   <answer>The author believes that it's the duty of American men to serve their country.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>Yeah, come on all of you, big strong men,<br/>
+					Uncle Sam needs your help again.</p>
+					<p>He's got himself in a terrible jam<br/>
+					Way down yonder in Vietnam</p>
+					<p>So put down your books and pick up a gun,<br/>
+					We're gonna have a whole lotta fun.</p>
+					<p style="font-size:90%;">CREDIT: Words and Music by Joe McDonald &copy; 1965 Alkatraz Corner Music, Renewed 1995</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m2-4_s27_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-4_s27</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Primary Sources: Songs</header>
+         <instruction>Country Joe and the Fish wrote this song to share their reasons for opposing the war.</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s28.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="125" y="194"><![CDATA[
+				<h1></h1>
+				<p>The lyrics imply that no one knows why the war is being fought. They suggest that there is no good reason to be fighting in Vietnam.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="433" y="194"><![CDATA[
+				<h1></h1>
+				<p>The lyrics emphasize that many people are dying as a result of the war.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-4_s28</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What is the main idea that Country Joe and the Fish want to convey?</question>
+            <answers>
+               <answer>The war is too important not to fight.</answer>
+			   <answer>Government leaders know best.</answer>
+               <answer correct="true">People are fighting and dying for no reason.</answer>
+			   <answer>Soldiers must trust that their deaths serve some purpose.</answer>
+			   <answer>Solders who serve their country will go to heaven.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p><strong>Chorus</strong></p>
+					<p>And it's one, two, three,<br/>
+					What are we fighting for?<br/>
+					Don't ask me, I don't give a damn,<br/>
+					Next stop is Vietnam;</p>
+					<p>And it's five, six, seven,<br/>
+					Open up the pearly gates,<br/>
+					Well there ain't no time to wonder why,<br/>
+					Whoopee! we're all gonna die.</p>
+					<p style="font-size:90%;">CREDIT: Words and Music by Joe McDonald &copy; 1965 Alkatraz Corner Music, Renewed 1995</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m2-4_s29_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-4_s29</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What can you infer from this verse about reasons for the Vietnam War?</question>
+            <answers>
+               <answer>The Viet Cong is a threat to the United States.</answer>
+			   <answer>Vietnam has dangerous bombs.</answer>
+			   <answer>The United States wants to start businesses in Vietnam.</answer>
+			   <answer>The government will bomb Wall Street if corporations do not support the war effort.</answer>
+               <answer correct="true">Corporations make money by supplying the war.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>Well, come on Wall Street, don't move slow,<br/>
+					Why man, this is war au-go-go.</p>
+					<p>There's plenty good money to be made<br/>
+					By supplying the Army with the tools of the trade,</p>
+					<p>Just hope and pray that if they drop the bomb,<br/>
+					They drop it on the Viet Cong.</p>
+					<p style="font-size:90%;">CREDIT: Words and Music by Joe McDonald &copy; 1965 Alkatraz Corner Music, Renewed 1995</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m2-4_s30_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-4_s30</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s31</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="2_Txt_Img_Animation">
+      <video>USH_m2-4_s32</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction><![CDATA[<p>Song by Country Joe and the Fish alleged that there was no reason to go to war.</p><p>Gulf of Tonkin Resolution stated that the United States did have cause for military action.</p>]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-4_s33.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="135" y="137"><![CDATA[
+				<h1></h1>
+				<p>The resolution states that North Vietnam has breached international peace and attacked U.S. naval vessels.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="446" y="117"><![CDATA[
+				<h1></h1>
+				<p>The resolution elaborates that North Vietnam has made war on its neighbors, again a breach of international peace.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="135" y="351"><![CDATA[
+				<h1></h1>
+				<p>The resolution explains that the United States' only interest in the region is the preservation of the right of people to determine their own government and to live in freedom.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="446" y="353"><![CDATA[
+				<h1></h1>
+				<p>The resolution summarizes that the United States will intervene to prevent further attacks on its forces and to prevent other breaches of the peace. The resolution passed with only two dissenting votes.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-4_s33</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="34" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which inference does this excerpt best support?</question>
+            <answers>
+               <answer correct="true">Congress saw Vietnam as part of a broader conflict known as the Cold War.</answer>
+			   <answer>Congress sought to protect U.S. economic interests in Southeast Asia.</answer>
+			   <answer>Congress considered world peace more important than national peace and security.</answer>
+			   <answer>Congress wanted to avoid war in Vietnam but could not abandon U. S. troops.</answer>
+			   <answer>Congress believes that it is the duty of the United States' military to police the world.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text>The United States regards as vital to its national interest and to world peace the maintenance of international peace and security in southeast Asia.</text>
+			</figure>
+            <feedbackAudio>USH_m2-4_s34_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-4_s34</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="35" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What inference can you make about the war in Vietnam?</question>
+            <answers>
+               <answer>Only young people opposed the war.</answer>
+               <answer correct="true">Both the pro-war and anti-war groups were passionate about United States' involvement in Vietnam.</answer>
+			   <answer>The government cared more about winning the Cold War than losing American lives.</answer>
+			   <answer>The viewpoint represented by Country Joe and the Fish was one of isolationists and defeatists.</answer>
+			   <answer>The Vietnam War served as a catalyst for the growth of Rock music.</answer>
+            </answers>
+            <feedbackAudio>USH_m2-4_s35_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-4_s35</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="36" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>How do government documents differ from letters and journal entries?</question>
+            <answers>
+               <answer>They do not convey emotion or opinion.</answer>
+               <answer correct="true">They are public, not private, in nature.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Why does the audience for both the Country Joe and the Fish song and the Gulf of Tonkin Resolution matter?</question>
+            <answers>
+               <answer correct="true">because both sources are trying to persuade the American people to think a certain way about the Vietnam War</answer>
+               <answer>because both sources want to inform the American people about the causes and the course of the Vietnam War</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The Gulf of Tonkin Resolution begins by listing reasons for the action that it authorizes. Based on this, what inference can be made about the U.S. government?</question>
+            <answers>
+               <answer correct="true">The government is accountable to the people for its actions.</answer>
+               <answer>The government has the authority to make laws without public input.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>How does reading the Gulf of Tonkin Resolution help you understand the "I-Feel-Like-I'm Fixin'-to-Die-Rag"?</question>
+            <answers>
+               <answer>You can understand the government's point of view.</answer>
+               <answer correct="true">You can better understand the views which Country Joe and the Fish wanted to challenge when they wrote this song in the first place.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Based on the speeches by Lincoln and Roosevelt, what can you infer about the presidency?</question>
+            <answers>
+               <answer>Presidents are masters of rhetoric</answer>
+               <answer correct="true">Presidents feel the need to remain hopeful</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>At their core, both Lincoln's Gettysburg Address and Roosevelt's Inauguration speech hoped to do which of the following?</question>
+            <answers>
+               <answer correct="true">Declare the resilience of the United States</answer>
+               <answer>Reassure the country during tough economic times</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Government documents are the most important type of primary source.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Letters may be more difficult to interpret than some other primary sources because they are handwritten and you may not know much about the author.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Even though Abigail Adams and Vilet Lester lived in different times and were of different ethnicities, their letters can still be used together to examine the lives of women in the United States.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The type of primary source has little impact on the way in which content is communicated.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-4_s36</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+</shell>

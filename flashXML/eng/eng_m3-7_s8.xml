@@ -1,0 +1,30 @@
+﻿<TextReading>
+	<slideInfo>
+		<hText>Question 1</hText>
+		<image></image>
+		<audio>audio/eng_m3-7_s8.mp3</audio>
+		<mainText><![CDATA[<p>(Suggested reading time—15 minutes)<br/>(Suggested writing time—40 minutes)<br/>(This question counts for one-third of the total essay section score.) 
+<br/>War seems to be an inevitable part of the human experience. Depending on the circumstances, war is considered ennobling, necessary, and just. However, it may also be seen as corrupt, irrational, or even evil. Must war be an unavoidable part of human civilization? Is the sacrifice of war worth it? Do the casualties outweigh the causes? 
+<br/>Read the following sources (including any introductory information) carefully. Then develop a position about what issues should be considered most important in making the decision to declare war.
+<br/>Make sure that your argument is central; use the sources to illustrate and support your reasoning. Avoid merely summarizing the sources. Indicate clearly which sources you are drawing from, whether through direct quotation, paraphrase, or summary. You may cite the sources as Source A, Source B, etc., or by using the descriptions in parentheses.
+Source A (Wilson)<br/>Source B (Henry)<br/>Source C (Kennedy)<br/>Source D (Bush)<br/>Source E (Reagan)<br/>Source F (Department of Veterans Affairs)<br/>Source G (Department of Defense)</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

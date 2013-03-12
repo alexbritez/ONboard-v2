@@ -1,0 +1,29 @@
+﻿<PopUp>
+	<slideInfo>
+		<title></title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-2_s18.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s18.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Olde Tyme</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s18_correct.mp3"/>
+			<xCord>412.35</xCord>
+			<yCord>184.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<font face='c-Bold'>The correct answer is:</font><br />C<font face='SubScript'>2</font>HNO<font face='SubScript'>3</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Olde Tyme</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s18_correct.mp3"/>
+			<xCord>-100</xCord>
+			<yCord>-100</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[C<font face='SubScript'>2</font>HNO<font face='SubScript'>3</font>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

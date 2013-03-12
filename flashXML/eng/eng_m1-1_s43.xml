@@ -1,0 +1,145 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m1-1_s43.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/eng_m1-1_s43.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which of the following is NOT an example of nonfiction?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Editorial cartoon</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Biography</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Poem</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Advertisement</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Autobiography</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>You should not consider contextual information before the first reading of a passage.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+
+	<question>
+		<qText>Identifying the positive and negative words in a passage should always be the final step in analysis.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+
+	<question>
+		<qText>What is the tension of a passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The two forces at work against each other in the shift</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A movement from the introduction to the body</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The two parts of every argument’s thesis statement</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A force at work in the audience’s understanding of tone</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A movement from the body to the conclusion of a piece</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+
+	<question>
+		<qText>What is the underlying meaning of the trophy on the magazine cover in “VIEW”?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Missing a soccer kick is unacceptable.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Athletes should be rewarded for their efforts.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Students should be encouraged to feel good about themselves.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Rewards should be given for excellence, not attempts at excellence.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Team rewards are more important than trophies that reward individual behavior.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

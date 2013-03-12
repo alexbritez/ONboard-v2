@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Interpretive and Advanced Skills">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m4-4_s1</video>
+      <credits>(l)Design Pics/Darren Greenwood, (cl)Archive Holdings Inc./Archive Photos/Getty Images, (cr)Ivy Close Images/Alamy, (r)Corbis, (bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s2</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s3</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)McGraw-Hill Companies, Inc. Rick Brady, photographer, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s4</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Fuse/Getty Images, (2)National Archives ﹠ Records Administration, (3)Library of Congress, Prints ﹠ Photographs Division, FSA/OWI Collection, [LC-DIG-fsa-8b29516], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Kansas-Nebraska Act</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-4_s5.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="189" y="99"><![CDATA[
+				<h1>1854: Kansas-Nebraska Act</h1>
+				<p>The Kansas-Nebraska Act granted the new territories of Kansas and Nebraska the right to use popular sovereignty to decide whether to be free or slave states. This reversed the Missouri Compromise.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="120" y="72"><![CDATA[
+				<h1>1854: Republican Party forms</h1>
+				<p>Politicians opposing the Kansas-Nebraska Act formed the Republican Party.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="288" y="20"><![CDATA[
+				<h1>1855: Border Ruffians influence Kansas election</h1>
+				<p>Pro-slavery activists known as "Border Ruffians" crossed into Kansas to vote in territorial elections. They helped elect a pro-slavery Kansas legislature.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="282" y="97"><![CDATA[
+				<h1>1856: Brooks attacks Sumner</h1>
+				<p> Shortly after Senator Charles Sumner spoke against the Kansas-Nebraska Act in the U.S. Senate, Representative Preston S. Brooks of South Carolina beat him severely with a cane.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="348" y="56"><![CDATA[
+				<h1>1857: Lecompton Constitution drafted</h1>
+				<p>The Kansas legislature drafted a pro-slavery constitution and sent it to voters for approval.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="406" y="34"><![CDATA[
+				<h1>1858: Lecompton Constitution voted down</h1>
+				<p>Kansas voters reject the Lecompton Constitution twice.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="447" y="61"><![CDATA[
+				<h1>1859: Wyandotte Constitution drafted</h1>
+				<p>The Kansas legislature drafted a constitution allowing Kansas to enter the United States as a free state.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="532" y="47"><![CDATA[
+				<h1>1861: Kansas enters the Union as a free state</h1>
+				<p>Kansas entered the Union as a free state on January 29, 1861.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="520" y="153"><![CDATA[
+				<h1>1861: The Civil War begins</h1>
+				<p>The attack on Fort Sumter in April of 1861 marked the first shots of the Civil War.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-4_s5</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s6</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s7</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>In the fall of 1859, John Brown, the antislavery zealot whose bloody actions in Kansas had inflamed the crisis there, staged an even more dramatic episode, this time in the South itself. With private encouragement and financial aid from some prominent eastern abolitionists, he made elaborate plans to seize a mountain fortress in Virginia from which, he believed, he could foment a slave insurrection in the South. On October 16, he and a group of eighteen followers attacked and seized control of a United States arsenal in Harpers Ferry, Virginia. But the slave uprising Brown hoped to inspire did not occur…. After ten of his men were killed, Brown surrendered. . . .</p>
+			<p>No other single event did more than the Harpers Ferry raid to convince white southerners that they could not live safely in the Union. John Brown's raid, many southerners believed (incorrectly) had the support of the Republican Party, and it suggested to them that the North was now committed to producing a slave insurrection.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-4_s8</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s9</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What was the main purpose of John Brown's raid?</question>
+            <answers>
+               <answer correct="true">John Brown wanted to encourage slaves in Virginia to rebel.</answer>
+			   <answer>John Brown wanted to show how slavery would be bad for Kansas.</answer>
+			   <answer>John Brown wanted to help the Republican Party gain support.</answer>
+            </answers>
+            <figure>
+				<text><![CDATA[
+					<p>In the fall of 1859, John Brown, the antislavery zealot whose bloody actions in Kansas had inflamed the crisis there, staged an even more dramatic episode, this time in the South itself. With private encouragement and financial aid from some prominent eastern abolitionists, he made elaborate plans to seize a mountain fortress in Virginia from which, he believed, he could foment a slave insurrection in the South. On October 16, he and a group of eighteen followers attacked and seized control of a United States arsenal in Harpers Ferry, Virginia. But the slave uprising Brown hoped to inspire did not occur…. After ten of his men were killed, Brown surrendered. . . .</p>
+					<p>No other single event did more than the Harpers Ferry raid to convince white southerners that they could not live safely in the Union. John Brown's raid, many southerners believed (incorrectly) had the support of the Republican Party, and it suggested to them that the North was now committed to producing a slave insurrection.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>USH_m4-4_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-4_s10</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>How effective was John Brown's raid in meeting his goal?</question>
+            <answers>
+               <answer>Very effective, because conflict broke out</answer>
+			   <answer>Somewhat effective, because he drew attention to Republicans</answer>
+               <answer correct="true">Not very effective, because no slaves rebelled</answer>
+            </answers>
+            <figure>
+				<text><![CDATA[
+					<p>In the fall of 1859, John Brown, the antislavery zealot whose bloody actions in Kansas had inflamed the crisis there, staged an even more dramatic episode, this time in the South itself. With private encouragement and financial aid from some prominent eastern abolitionists, he made elaborate plans to seize a mountain fortress in Virginia from which, he believed, he could foment a slave insurrection in the South. On October 16, he and a group of eighteen followers attacked and seized control of a United States arsenal in Harpers Ferry, Virginia. But the slave uprising Brown hoped to inspire did not occur…. After ten of his men were killed, Brown surrendered. . . .</p>
+					<p>No other single event did more than the Harpers Ferry raid to convince white southerners that they could not live safely in the Union. John Brown's raid, many southerners believed (incorrectly) had the support of the Republican Party, and it suggested to them that the North was now committed to producing a slave insurrection.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>USH_m4-4_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What was one significant consequence of John Brown's raid?</question>
+            <answers>
+               <answer>Slaves in Virginia rebelled.</answer>
+               <answer correct="true">Southerners became angry and afraid.</answer>
+			   <answer>The Republican Party gained support.</answer>
+            </answers>
+            <figure>
+				<text><![CDATA[
+					<p>In the fall of 1859, John Brown, the antislavery zealot whose bloody actions in Kansas had inflamed the crisis there, staged an even more dramatic episode, this time in the South itself. With private encouragement and financial aid from some prominent eastern abolitionists, he made elaborate plans to seize a mountain fortress in Virginia from which, he believed, he could foment a slave insurrection in the South. On October 16, he and a group of eighteen followers attacked and seized control of a United States arsenal in Harpers Ferry, Virginia. But the slave uprising Brown hoped to inspire did not occur…. After ten of his men were killed, Brown surrendered. . . .</p>
+					<p>No other single event did more than the Harpers Ferry raid to convince white southerners that they could not live safely in the Union. John Brown's raid, many southerners believed (incorrectly) had the support of the Republican Party, and it suggested to them that the North was now committed to producing a slave insurrection.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>USH_m4-4_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What was the most significant effect of John Brown's raid on the arsenal at Harpers Ferry?</question>
+            <answers>
+               <answer>John Brown's plan to begin a slave insurrection failed.</answer>
+			   <answer>Ten members of the raiding party died in the conflict.</answer>
+			   <answer>John Brown surrendered to military forces.</answer>
+               <answer correct="true">Southern states felt increasingly forced to leave the Union.</answer>
+			   <answer>Southern support for the Republican Party declined.</answer>
+            </answers>
+            <figure>
+				<text><![CDATA[
+					<p>In the fall of 1859, John Brown, the antislavery zealot whose bloody actions in Kansas had inflamed the crisis there, staged an even more dramatic episode, this time in the South itself. With private encouragement and financial aid from some prominent eastern abolitionists, he made elaborate plans to seize a mountain fortress in Virginia from which, he believed, he could foment a slave insurrection in the South. On October 16, he and a group of eighteen followers attacked and seized control of a United States arsenal in Harpers Ferry, Virginia. But the slave uprising Brown hoped to inspire did not occur…. After ten of his men were killed, Brown surrendered. . . .</p>
+					<p>No other single event did more than the Harpers Ferry raid to convince white southerners that they could not live safely in the Union. John Brown's raid, many southerners believed (incorrectly) had the support of the Republican Party, and it suggested to them that the North was now committed to producing a slave insurrection.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>USH_m4-4_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-4_s13</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s14</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-115350], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>1. The most lasting effect of the New Deal was<br/>
+			A. the court-packing plan suggested by Roosevelt<br/>
+			B. the creation of the Tennessee Valley Authority<br/>
+			C. the expansion of the powers of the federal government<br/>
+			D. the decline of food prices for farmers<br/>
+			E. the firing by federal troops on the Bonus Army camp</p>
+			<p><strong>Choice C is correct.</strong></p>
+			<p>2. What was Elizabeth Cady Stanton's most significant contribution to U.S. history?<br/>
+			A. Working in support of the U.S. temperance movement<br/>
+			B. Arguing against the passage of the Reconstruction Amendments<br/>
+			C. Helping form the National Woman Suffrage Association<br/>
+			D. Writing the 19th Amendment<br/>
+			E. Organizing the Seneca Falls Convention</p>
+			<p><strong>Choice E is correct.</strong></p>
+			<p>3. How did the decision in Marbury v. Madison most shape the early U.S. government?<br/>
+			A. By allowing Adams' judicial appointments to stand<br/>
+			B. By affirming the Constitutional authorities of the Supreme Court<br/>
+			C. By supporting the Judiciary Act of 1789<br/>
+			D. By widening the rift between Democratic-Republicans and Federalists<br/>
+			E. By giving more authority to Chief Justice John Marshall</p>
+			<p><strong>Choice B is correct.</strong></p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-4_s15</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>1. Evaluate the role of TWO of the following people in regard to the formation of U.S. foreign policy.<br/>
+			George Washington<br/>
+			Thomas Jefferson<br/>
+			James Monroe</p>
+			<p>2. &quot;The crisis of the Civil War was caused by tensions over states' rights, not over slavery.&quot;  Evaluate the validity of this statement.</p>
+			<p>3. Evaluate the impact of the Monroe Doctrine on U.S. foreign policy at the turn of the 20th century.</p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-4_s16</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice scored="false">
+         <multiple>
+            <question>Evaluating well relies on explaining the situation correctly.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio>USH_m4-4_s17_FB1</feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>It's impossible to evaluate factual information or documents such as laws.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio>USH_m4-4_s17_FB2</feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Historical events have only one correct evaluation.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio>USH_m4-4_s17_FB3</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-4_s17</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s18</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Design Pics/Kelly Redinger, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s19</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Design Pics/Kristy-Anne Glubish, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s20</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Commercial Eye/Iconica/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s21</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Image Source/Punchstock/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s22</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Design Pics/Don Hammond, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:120px" dropStyle="height: 108px">
+         <matches title="">
+            <match id="1">Nearly one-third of the albums sold in the first six months of 2011 were digital downloads.</match>
+			<match id="2">Free music downloads unfairly take money away from musicians, who receive no royalties when fans do not pay for their work.</match>
+			<match id="3">Downloading music for free helps listeners find new artists to enjoy and actually increases profits from live shows and merchandise sales.</match>
+			<match id="4">Nearly all teenagers enjoy listening to some kind of music.</match>
+			<match id="5">Eminem and Adele both released albums that sold more than 1 million digital copies in 2011.</match>
+			<match id="6">Fans should not pay for music downloads because songs are already made available for no charge on radio stations and streaming Web sites.</match>
+         </matches>
+         <drops title="Position Statements">2,3,6</drops>
+   		 <drops title="Informative Statements">1,4,5</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>USH_m4-4_s23</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[<p>Of the many incidents on the road leading up to the outbreak of the Civil War, the passage of the Kansas-Nebraska Act and the resulting turmoil of Bloody Kansas was the most significant turning point. Before the passage of the act, sectional tensions could still be eased, but after the act, war was inevitable. The potential expansion of slavery north of the long-established Missouri Compromise line angered Northerners and even inspired the creation of the Republican Party, which sought to prevent the spread of slavery. The crossing of pro-slavery non-residents into Kansas purely to elect a pro-slavery territorial legislature fueled tensions, showing that slavery supporters were willing to break the law to maintain the institution. Finally, the rising national tensions resulting from the act—so great that two Congressmen became involved in a violent conflict on the floor of the Senate—made war inevitable.</p>]]></text>
+      </content>
+      <audio>USH_m4-4_s24</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s25</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s26</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>USH_m4-4_s27</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">A: In 2010, the group Bon Jovi was the second-highest earning music act of the year, with some 90% of its revenues coming from touring.</match>
+			<match id="2">B: Nearly one-third of the albums sold in the first six months of 2011 were digital downloads.</match>
+			<match id="1">C: Total music royalty payments in Great Britain fell for the first time in history in 2010.</match>
+			<match id="1">D: Between 1999 and 2009 - when music downloading went mainstream - revenues from sales of music dropped by more than $8 billion.</match>
+			<match id="2">E: Nearly all teenagers enjoy listening to some kind of music.</match>
+			<match id="3">F: The Dave Matthews Band grossed some $70 million on tour in 2010, which was almost all of its overall income.</match>
+         </matches>
+         <drops title="">1,2</drops>
+         <drops title="">3,4</drops>
+         <drops title="">5,6</drops>
+         <coord correct="1" x="80" y="123" />
+         <coord correct="1" x="80" y="165" />
+         <coord correct="2" x="346" y="123" />
+         <coord correct="2" x="346" y="165" />
+         <coord correct="3" x="203" y="301" />
+         <coord correct="3" x="203" y="343" />
+         <image>USH_m4-4_s28.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>USH_m4-4_s28</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which thesis statement takes the strongest position in response to the following prompt? "The New Deal solved the problems of the Great Depression. Defend or refute this statement using your knowledge of the period."</question>
+            <answers>
+               <answer correct="true">The New Deal stabilized U.S. banks, provided jobs for the unemployed, and offered relief from the ills of the Great Depression.</answer>
+			   <answer>The New Deal began in 1933 with the inauguration of Franklin D. Roosevelt.</answer>
+			   <answer>Some historians believe that World War II finally ended the Great Depression for good.</answer>
+			   <answer>Unemployment climbed over 25% at the height of the Great Depression.</answer>
+			   <answer>Problems of the Great Depression included bank failures, high unemployment, and low farm prices.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-4_s29_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-4_s29</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which piece of evidence best supports the following claim? "The Mexican American War began mostly because of U.S. expansionism."</question>
+            <answers>
+               <answer>The United States won every major battle of the Mexican American War.</answer>
+			   <answer>At the time, many abolitionists believed that the war was fought to extend the territory where slavery was legal.</answer>
+			   <answer>The Treaty of Guadalupe-Hidalgo officially ended the war in February of 1848.</answer>
+               <answer correct="true">The U.S. annexation of Texas angered Mexico, as did its demands to purchase Mexican land.</answer>
+			   <answer>U.S. forces captured the Mexican capital at Mexico City in late 1847, essentially ending the conflict.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-4_s30_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which type of information would be most helpful in supporting this claim? "President Truman's decision to use the atomic bomb in World War II was justified."</question>
+            <answers>
+               <answer>A contemporary newspaper article criticizing the attack</answer>
+               <answer correct="true">The number of estimated U.S. lives saved by avoiding an invasion of Japan</answer>
+			   <answer>A summary of the scientific process behind the development of the bomb</answer>
+			   <answer>A quotation from a sailor who was injured in the attack at Pearl Harbor</answer>
+			   <answer>The dates of U.S. involvement in the war in the European and Pacific theaters</answer>
+            </answers>
+            <feedbackAudio>USH_m4-4_s31_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>To the British, their attitudes toward colonial taxation were most justified by<br/>
+			A. declining levels of American tobacco production<br/>
+			B. colonial demand for manufactured British goods<br/>
+			C. the high costs of the French and Indian War<br/>
+			D. continued colonial westward expansion despite laws otherwise<br/>
+			E. the ideas of the social contract and natural rights</p>
+			<p><strong>Choice C is correct.</strong></p>
+			<p>&quot;Immigration was the most influential factor driving industrialization in the late 1800s.&quot;<br/>
+			Which piece of information, if true, best supports this claim?<br/>
+			A. Industrialist Andrew Carnegie was an immigrant from Scotland.<br/>
+			B. Immigrants contributed greatly to the construction of the Transcontinental Railroad.<br/>
+			C. Most factories were located in New England or along the Great Lakes.<br/>
+			D. About 10% of all people living in the United States in 1880 were born in other countries.<br/>
+			E. The most industrialized areas also tended to have the highest proportions of immigrants.</p>
+			<p><strong>Choice E is correct.</strong></p>
+			<p>Which of these gives the best thesis statement in response to the following prompt?<br/>
+			&quot;Advances in the women's rights movement were delayed by its members' work to end slavery.&quot; Defend or refute this position using historical evidence.<br/>
+			A. Women made significant gains during the 1800s as members of the spiritual Unitarian movement centered in New England.<br/>
+			B. Abolition and women's rights were both important social movements of the mid-1800s.<br/>
+			C. Women's belief that slavery was a significant problem in the United States led them to neglect their own efforts to expand their rights.<br/>
+			D. Many activists supported both abolition and the women's rights movement.<br/>
+			E. Some prominent women's leaders opposed the extension of the vote to freed slaves unless women also won suffrage.</p>
+			<p><strong>Choice C is correct.</strong></p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-4_s32</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+     <activity type="image">
+         <image>USH_m4-4_s33.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="82" y="336"><![CDATA[
+				<p>Decide whether you are going to support or refute this statement. Declare your position in your thesis statement. Then, (if you decide to defend this position) use historical evidence such as the growing industrialism in the North and the continued reliance on cash crops in the South to justify your position.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="292" y="336"><![CDATA[
+				<p>Decide whether the Progressives succeeded in improving society or not. Declare your position in your thesis statement. Then, (if you decide that the Progressives were not successful) use historical evidence such as the backlash against labor reformers and Socialist leaders such as Eugene Debs to justify your position.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="500" y="336"><![CDATA[
+				<p>Decide whether Coolidge's pro-business attitude was helpful or harmful to the United States in the long run. Declare your position in your thesis statement. Then, (if you decide that Coolidge's attitude was helpful to the United States in the long run) use historical evidence such as the growth of a booming interdependent industrial economy during the 1920s—a system that survived the Great Depression and continued to thrive into the 1960s.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-4_s33</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="34" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Evaluating means about the same as assessing or judging.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Good evaluations consider both intended purposes and unintended consequences.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Your evaluation of a situation should always agree with that of your textbook or teacher.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Evaluating has two steps: explaining a situation and then assessing that situation for value or importance.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>You can evaluate only opinion statements, not factual historical events.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Good position statements have just one main idea.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>When taking a position, you must make a clear, direct statement of your opinion.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Giving lots of factual information without a position statement will still make your point clear.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Historical evidence used to justify your position should be clearly linked to your overall point.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The best justification essays will argue for both sides of a given question.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-4_s34</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

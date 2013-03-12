@@ -1,0 +1,60 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Point of View</title>
+		<info></info>
+		<image>images/euro_m3-4_s26.jpg</image>
+		<audio>audio/euro_m3-4_s26.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>COMMISSIONS</Name>   
+			<audio enable="true" url="audio/euro_m3-4_s26_COMMISSIONS.mp3"/>
+			<xCord>563.9</xCord>
+			<yCord>121.95</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Working on Commission]]></popTitle>
+			<popInfo><![CDATA[<p>Caravaggio was bound by contract to represent the point of view of his patrons. This painting was commissioned by Cardinal Matteo Contarelli for the Contarelli Chapel in the Church of San Luigi dei Francesi in Rome. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>DRAMA</Name>
+			<audio enable="true" url="audio/euro_m3-4_s26_DRAMA.mp3"/>
+			<xCord>817.65</xCord>
+			<yCord>120</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Drama and Intensity]]></popTitle>
+			<popInfo><![CDATA[<p>Caravaggio’s paintings conveyed Biblical miracles with intensity and drama, including an almost gory depiction of the beheading of John the Baptist. But he also painted scenes from life. Some of his more famous secular works include <font face='c-Italic'>The Cardsharps</font> and <font face='c-Italic'>The Musicians.</font> </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>NATURALISM</Name>
+			<audio enable="true" url="audio/euro_m3-4_s26_NATURALISM.mp3"/>
+			<xCord>612</xCord>
+			<yCord>267.45</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Naturalism]]></popTitle>
+			<popInfo><![CDATA[<p>Caravaggio was insistent upon an extreme naturalism, which can be seen in the details of dress, anatomy, facial expressions, even the food on the tables. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>MODELS</Name>
+			<audio enable="true" url="audio/euro_m3-4_s26_MODELS.mp3"/>
+			<xCord>664.65</xCord>
+			<yCord>355.15</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Use of Models]]></popTitle>
+			<popInfo><![CDATA[<p>He also insisted on using ordinary men and women as the models for his works. These “common” models were also used for his religious-themed paintings. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CONTROVERSY</Name>
+			<audio enable="true" url="audio/euro_m3-4_s26_CONTROVERSY.mp3"/>
+			<xCord>837.65</xCord>
+			<yCord>423.15</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Controversy]]></popTitle>
+			<popInfo><![CDATA[<p>Caravaggio’s insistence of natural, everyday-looking models made his work very controversial in his own time. His finished works were occasionally rejected. </p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

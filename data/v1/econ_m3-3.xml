@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Calculating GDP and Price Indexes">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m3-3_s1</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (l)Bloomberg/Getty Images, (r)Najlah Feanny/Corbis SABA, (b)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m3-3_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m3-3_s3.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="445" y="79">
+          <![CDATA[<p>Current dollars means that the output in any given year was measured using the prices that existed in those years.</p>]]>
+        </hotspot>
+		<hotspot dynamic="true" x="26" y="233">
+          <![CDATA[<p>Keep in mind that $2,000 billion is the same as $2 trillion.</p>]]>
+        </hotspot>
+		<hotspot dynamic="true" x="267" y="304">
+          <![CDATA[<p>This graph compares U.S. GDP from the year 1960 to 2010.</p>]]>
+        </hotspot>
+		<hotspot dynamic="true" x="396" y="157">
+          <![CDATA[<p>The graph shows that current U.S. GDP grew steadily in
+the 50-year span from 1960 to 2010.</p>]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m3-3_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>According to this graph, what was the U.S. GDP in 2010?</question>
+        <answers>
+          <answer>$12 billion</answer>
+    		  <answer>$13 trillion</answer>
+    		  <answer>$13.5 billion</answer>
+    		  <answer>$14 billion</answer>
+          <answer correct="true">$14.5 trillion</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m3-3_s4_view.jpg</figure>
+        <feedbackAudio>econ_m3-3_s4_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-3_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m3-3_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Ewing Galloway/Monsoon/Photolibrary/Corbis, (2)Andersen/Ross/Brand X Pictures/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m3-3_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m3-3_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m3-3_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m3-3_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>According to this graph, what was real GDP in 2010?</question>
+        <answers>
+          <answer>$12 billion</answer>
+          <answer correct="true">$13 trillion</answer>
+		  <answer>$13.5 billion</answer>
+		  <answer>$14 billion</answer>
+		  <answer>$14.5 trillion</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m3-3_s11_view.jpg</figure>
+        <feedbackAudio>econ_m3-3_s11_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is NOT used to calculate the CPI?</question>
+        <answers>
+          <answer>Price of a dozen eggs</answer>
+		  <answer>Cost of a movie theater ticket</answer>
+          <answer correct="true">Hours worked per week</answer>
+		  <answer>Base year</answer>
+		  <answer>Money spent on college tuition</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>In the base year, the price of a market basket was $4,000. Ten years later, the price of the same market basket was $4,800. What was the CPI?</question>
+        <answers>
+          <answer>100</answer>
+          <answer correct="true">120</answer>
+		  <answer>140</answer>
+		  <answer>180</answer>
+		  <answer>200</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these is included in the GDP?</question>
+        <answers>
+          <answer correct="true">Final goods produced in a nation</answer>
+    		  <answer>Used goods sold during one year</answer>
+    		  <answer>Final goods imported from another country</answer>
+    		  <answer>Intermediate goods and services</answer>
+    		  <answer>Structures produced over a one-month period</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these is NOT part of the expenditure approach to calculating GDP?</question>
+        <answers>
+          <answer>Foreign sector purchases of exports</answer>
+		  <answer>Consumer purchases</answer>
+		  <answer>Business purchases</answer>
+		  <answer>Government purchases</answer>
+          <answer correct="true">Consumer purchases of imports</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>How is the CPI calculated?</question>
+        <answers>
+          <answer correct="true">Price of this year's market basket divided by price of base year market basket X 100</answer>
+		  <answer>Price of base year market basket divided by price of this year's market basket X 100</answer>
+		  <answer>Price of base year market basket totaled for an average X 100</answer>
+		  <answer>Price of current market basket totaled for an average X 100</answer>
+		  <answer>Price of current market basket changed to a decimal and then divided by base year market basket</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-3_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

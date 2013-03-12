@@ -1,0 +1,62 @@
+<PopUp>
+	<slideInfo>
+		<title>Historical Context </title>
+		<info></info>
+		<image>images/euro_s1-2_s5.jpg</image>
+		<audio>audio/euro_s1-2_s5.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>THE EVENT</Name>
+			<audio enable="true" url="audio/euro_s1-2_s5_event.mp3"/>
+			<xCord>627.5</xCord>
+			<yCord>96.4</yCord>
+			<width>134</width>
+			<popTitle>THE EVENT</popTitle>
+			<popInfo><![CDATA[The murder of Thomas Becket, Archbishop of Canterbury.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>WHEN?</Name>
+			<audio enable="true" url="audio/euro_s1-2_s5_WHEN.mp3"/>
+			<xCord>768.35</xCord>
+			<yCord>96.4</yCord>
+			<width>85</width>
+			<popTitle>WHEN?</popTitle>
+			<popInfo><![CDATA[When did the event occur? Becket was murdered in 1170, nine years after being appointed Archbishop of Canterbury by his friend King Henry II.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>WHAT?</Name>
+			<audio enable="true" url="audio/euro_s1-2_s5_WHAT.mp3"/>
+			<xCord>582.6</xCord>
+			<yCord>398.4</yCord>
+			<width>92</width>
+			<popTitle>WHAT?</popTitle>
+			<popInfo><![CDATA[What was the situation or condition during the event? Henry and Becket soon fought over state control of the church and clergymen. As a result, the one-time friends became bitter enemies.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>WHERE?</Name>
+			<audio enable="true" url="audio/euro_s1-2_s5_WHERE.mp3"/>
+			<xCord>680.5</xCord>
+			<yCord>442.4</yCord>
+			<width>52</width>
+			<popTitle>WHERE?</popTitle>
+			<popInfo><![CDATA[Where did the event occur? Becket fled to France in 1164, but returned to Canterbury Cathedral in 1170. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>WHO?</Name>
+			<audio enable="true" url="audio/euro_s1-2_s5_who.mp3"/>
+			<xCord>816.35</xCord>
+			<yCord>442.4</yCord>
+			<width>87</width>
+			<popTitle>WHO?</popTitle>
+			<popInfo><![CDATA[Who was involved? Becket was murdered by four knights who were moved to action by King Henry II’s anger towards Becket. Pope Alexander III canonized Becket in 1173 and he became Saint Thomas á Becket. ]]></popInfo>
+		</pButton>
+	
+	</popButtons>
+</PopUp>

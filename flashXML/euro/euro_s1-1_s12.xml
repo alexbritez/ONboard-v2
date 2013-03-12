@@ -1,0 +1,77 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Political and Diplomatic Terminology</title>
+		<info></info>
+		<image>images/euro_s1-1_s12.jpg</image>
+		<audio>audio/euro_s1-1_s12.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Suffrage</Name>   
+			<audio enable="false" url=""/>
+			<xCord>485</xCord>
+			<yCord>125</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Suffrage</popTitle>
+			<popInfo><![CDATA[<p>Suffrage means the right to vote – for men or women. In Europe, the right to vote was limited by gender, ethnicity, rank, social class, religion, property ownership, and income level. Women over the age of 21 were granted the right to vote in the United Kingdom in 1928, in Spain in 1931, in France in 1944, and in newly democratic Germany in 1919.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name> Parliament</Name>
+			<audio enable="false" url=""/>
+			<xCord>642</xCord>
+			<yCord>125</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Parliament</popTitle>
+			<popInfo><![CDATA[<p>Parliament is the official name of the legislative body in the United Kingdom and France. When the German states were part of the Holy Roman Empire, the legislature was known as the Diet. In unified Germany, it was known as the Reichstag. Germany’s current legislative body is called the Bundestag. In Russia, the representative body is called the State Duma.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Minister</Name>
+			<audio enable="false" url=""/>
+			<xCord>800</xCord>
+			<yCord>125</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Minister</popTitle>
+			<popInfo><![CDATA[<p>A minister is a government official. In the United States, “secretaries” lead executive departments. In Europe, similar officials are called ministers, as in Foreign Minister. A Privy Council was just a group of nobles that advised a head of state. “Privy” means private or secret.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Ambassador</Name>
+			<audio enable="false" url=""/>
+			<xCord>500</xCord>
+			<yCord>435</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Ambassador</popTitle>
+			<popInfo><![CDATA[<p>An ambassador is an official representative of one country in another country. Today, the role of ambassador is often symbolic, but historically the ambassador was tasked with gathering information about or spreading information to foreign courts. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Law or Code</Name>
+			<audio enable="false" url=""/>
+			<xCord>850</xCord>
+			<yCord>435</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Law or Code</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>Laws applied to the entire kingdom and were thus distinct from local customs came to be called common law. Common law is most associated with England.<br/>The Napoleonic or Civil Code was made possible by the French Revolution. The new civil code liquidated the manorial system, established religious toleration, and reduced the power of the guilds. The nobility lost many of its privileges and careers were open to anyone with talent. The code was seen as a boost to individual freedom.</font></p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,102 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>“Must Know” Dates</title>
+		<info>1800 to 1920</info>
+		<image>images/euro_m2-2_s16.jpg</image>
+		<audio>audio/euro_m2-2_s16.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>1812</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.15</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1812</popTitle>
+			<popInfo>Napoleon invades Russia, beginning the reversal of his fortunes.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1815</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>509.15</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1815</popTitle>
+			<popInfo>Congress of Vienna is hosted by Austrian diplomat Prince von Metternich who seeks to restore the Old Regime (pre-French Revolution) in Europe.
+</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1848</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>637.05</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1848</popTitle>
+			<popInfo>Revolutions break out across Europe; Karl Marx and Friedrich Engels write the Communist Manifesto.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1861</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>694</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1861</popTitle>
+			<popInfo>Kingdom of Italy is created.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1871</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>735.95</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1871</popTitle>
+			<popInfo>Franco-Prussian War ends in a French defeat; German Chancellor Otto von Bismarck announces creation of the German Empire.
+</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1914</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>903.65</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1914</popTitle>
+			<popInfo>World War I breaks out.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1917</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>934</xCord>
+			<yCord>358.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1917</popTitle>
+			<popInfo>Vladimir I. Lenin comes to power in the second of two Russian Revolutions.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>1919</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>959.6</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1919</popTitle>
+			<popInfo>Treaty of Versailles ends World War I.</popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>

@@ -1,0 +1,103 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-3_s33.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-3_s33.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-3_s33.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-3_s33.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-3_s33.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-3_s33.jpg</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[This paragraph features a strong thesis statement that directly addresses the prompt.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The thesis statement is strong because the writer provides reasons why the statement is valid.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[What evidence does the writer use to explain why nationalism was the most important contributing factor?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[All countries engaged in nationalism]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The other issues that led to tensions were all related to nationalism]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The writer is confusing the situation prior to World War I with that of World War II.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The writer would receive a high score for this essay.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

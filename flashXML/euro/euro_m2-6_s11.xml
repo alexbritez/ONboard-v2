@@ -1,0 +1,46 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-6_s11.jpg</image>
+		<audio>audio/euro_m2-6_s11.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Italy’s successful alliances  were an important factor in its unification.</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>France hindered more than helped Italian unification. </boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Italian unification was achieved after a protracted and costly civil war.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Italian unification required a number of skillful diplomatic maneuvers. </boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>The power of the pope was a major obstacle to Italian unification.</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Garibaldi achieved everything he wanted when Italy unified. </boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.55" yCord="194.3" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.55" yCord="273.9" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.55" yCord="353.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.55" yCord="433.1" spotScale="75" spotNum="1"/>
+		
+		<dSpot xCord="877.55" yCord="194.3" spotScale="75" spotNum="2"/>
+		<dSpot xCord="877.55" yCord="273.9" spotScale="75" spotNum="2"/>
+		<dSpot xCord="877.55" yCord="353.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="877.55" yCord="433.1" spotScale="75" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>

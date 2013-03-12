@@ -1,0 +1,38 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s17.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>Which statement best explains the division of this area into several different colonies?</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>The area provided valuable farmland for the British, French and Italian empires.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>The area was important for the oil that all imperial powers needed in 1914. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>The Horn of Africa was a strategic waterway for ships traveling from the Mediterranean to Asia. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+	
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s18_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

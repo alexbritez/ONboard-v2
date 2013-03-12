@@ -1,0 +1,97 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m2-2_s9.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		
+		<qText><![CDATA[Which of these sentences is written accurately in academic voice?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The author forces a bland narration on the reader.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The main character doesn’t know he’s in hot water when his roommate returns.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Even though the story is predictable, it has three-dimensional characters that make it fresh.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[When Swift used satire to expose the faults of the political system, he went over the heads of his readers.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>
+	
+	<question>
+		
+		<qText><![CDATA[Choose the best option to replace this slang: <font face='lc-Italic'>She was jumping out of her skin before the concert.</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[She couldn’t contain her mind-blowing excitement for the show.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[She was holding her breath for the beginning of the show.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[She was excited to see her favorite band perform.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[She was flipping out for the start of the show.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>
+	<question>
+		
+		<qText><![CDATA[Identify the euphemism(s) in the sentence: <font face='lc-Italic'>This pre-owned car was recently repossessed because the previous owner is between jobs.</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Pre-owned]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Repossessed]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Between jobs]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A and C]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->

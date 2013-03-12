@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s15.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s14.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>In 1885 the vast interior of Africa was unknown and unexplored by Europeans.</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+	
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s15_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

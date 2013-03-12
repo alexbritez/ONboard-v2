@@ -1,0 +1,71 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-5_s9.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>The two men of science whose work bookends the Scientific Revolution studied</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>planetary motion and laws of gravitational pull</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>speeds of orbits and the philosophy of dualism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s12.mp3" />
+	</question>
+
+	
+	<question>
+		<qText>During the seventeenth century, science was still considered “magic” and not widely accepted.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s12.mp3" />
+	</question>
+
+	
+	<question>
+		<qText>The works and beliefs of Bacon and Descartes support the textbook author’s thesis that the Scientific Revolution affected other areas of thought.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s12.mp3" />
+	</question>
+
+</MultipleChoice>

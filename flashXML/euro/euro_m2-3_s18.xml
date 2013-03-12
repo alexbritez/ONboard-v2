@@ -1,0 +1,39 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>For the Essay on Hobbes</title>
+		<info></info>
+		<image>images/euro_m2-3_s18.jpg</image>
+		<audio>audio/euro_m2-3_s18.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>THESIS</Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>469.75</xCord>
+			<yCord>150</yCord>
+			<width>134</width>
+			<popTitle>THESIS</popTitle>
+			<popInfo><![CDATA[Thomas Hobbes had a very pessimistic opinion of human nature and doubted their ability to govern themselves. This belief caused him to conclude that people must be governed firmly by a rightfully selected, single authority figure in the form of an absolute monarch.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>FIRST PART</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>775</xCord>
+			<yCord>175</yCord>
+			<width>85</width>
+			<popTitle>FIRST PART</popTitle>
+			<popInfo><![CDATA[<font size='14'>This part of the essay will have to address the reasons he sees man in his original state of nature as ‘all against all.’ He witnessed the agonies of the English Civil War (1642-49) personally. He was repulsed by the execution of King Charles I (shown here walking to the scaffold) and wrote <font face='c-Italic'>Leviathan</font> within two years of witnessing that event. He felt that human passions disrupt social order and threaten civilized life. He saw the expansion of commerce and capitalism as important. In his view, passion, dissent and selfishness – not reason – govern human behavior.</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>SECOND PART</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>750</xCord>
+			<yCord>400</yCord>
+			<width>92</width>
+			<popTitle>SECOND PART</popTitle>
+			<popInfo><![CDATA[<font size='14'><font face='c-Italic' >Leviathan</font> is a rational political statement. Like Machiavelli’s <font face='c-Italic' >Prince</font> (in Italy), it breaks with medieval political theory. By that, we mean that it is a secular work and dismisses the notion that a monarch’s power is derived from God by divine right. Hobbes is convinced that absolutism is both logical and desirable because only with a strong ruling entity can perpetual strife be eliminated and security be provided. Without supreme power exercised by the sovereign, social order will collapse and anarchy, as found in the state of human nature, will return.</font>]]></popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>

@@ -1,0 +1,52 @@
+<PopUp>
+	<slideInfo>
+		<title>Social Classes – the Clergy</title>
+		<info></info>
+		<image>images/euro_s1-2_s15.jpg</image>
+		<audio>audio/euro_s1-2_s15.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>PURPOSE</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>471.25</xCord>
+			<yCord>103.35</yCord>
+			<width>134</width>
+			<popTitle>PURPOSE</popTitle>
+			<popInfo><![CDATA[The clergy dedicated itself to the highest concern: the preparation of all souls for eternal life.  The sacraments, considered necessary for salvation, could only be bestowed by ordained clerics. Their principle purpose was to pray.  Since members of this class practiced celibacy, its ranks were constantly refilled by younger sons as well as daughters of the nobility.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>HIERARCHY</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>471.25</xCord>
+			<yCord>274.3</yCord>
+			<width>85</width>
+			<popTitle>HIERARCHY</popTitle>
+			<popInfo><![CDATA[In ascending order, the clergy included hermits, deacons, friars, chaplains, vicars, rectors, priests, monseigneurs, abbots, bishops, archbishops, and cardinals. The Bishop of Rome, commonly called the pope, was and is at the top of the church hierarchy. The pope is considered by Catholics as the successor to St. Peter. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>LITERACY</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>924.2</xCord>
+			<yCord>103.35</yCord>
+			<width>92</width>
+			<popTitle>LITERACY</popTitle>
+			<popInfo><![CDATA[The clergy was the only literate class during the Early Middle Ages.  Latin, the language of the Church, was the only written language in the West.  Classical masterpieces were read, translated from Greek, copied by hand and thereby preserved in monastery libraries.  This made them safe for future use.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>POWER</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>924.2</xCord>
+			<yCord>274.3</yCord>
+			<width>52</width>
+			<popTitle>POWER</popTitle>
+			<popInfo><![CDATA[Popes attempted to assert themselves as leaders over secular rulers throughout this period. Secular means not related to religion, so here it means that the popes wanted to control political leaders such as kings or dukes. Medieval popes intended to rule not just at the head of the Church, but as leaders of Western Civilization.  With battle lines set, the papacy was to prevail throughout the Middle Ages.  The rejection of this supremacy by the sixteenth century is a main feature of modern Europe.]]></popInfo>
+		</pButton>	
+		
+	</popButtons>
+</PopUp>

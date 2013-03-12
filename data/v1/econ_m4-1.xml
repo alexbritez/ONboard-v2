@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Algebra Review">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m4-1_s1</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m4-1_s2</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M04_01_03A.mp4</url>
+    <image>econ_m4-1_s3.jpg</image>
+    <audio>econ_m4-1_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[In the expression 4<em>x</em> + 10, ____ is a variable and ____ is a constant.]]></question>
+        <answers>
+          <answer correct="true"><![CDATA[<em>x</em>, 10]]></answer>
+		  <answer><![CDATA[4, <em>x</em>]]></answer>
+		  <answer><![CDATA[10, <em>x</em>]]></answer>
+		  <answer>10, 40</answer>
+		  <answer>4, 10</answer>
+        </answers>
+        <feedbackAudio>econ_m4-1_s4_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-1_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, ?McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M04_01_04A.mp4</url>
+    <image>econ_m4-1_s5.jpg</image>
+    <audio>econ_m4-1_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>A relation can be expressed as a table, a graph, and a mapping. A "relation" is</question>
+        <answers>
+          <answer><![CDATA[a list of <em>x</em> variables.]]></answer>
+		  <answer><![CDATA[a list of <em>y</em> variables.]]></answer>
+		  <answer>four sets of variables.</answer>
+          <answer correct="true">a set of two variables.</answer>
+		  <answer>negative numbers.</answer>
+        </answers>
+        <feedbackAudio>econ_m4-1_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-1_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+		<image>econ_m4-1_s7.jpg</image>
+		<hotspots>
+			<hotspot dynamic="true" x="231" y="35">
+				<![CDATA[
+					<p>There are five coordinate sets plotted on this graph. They are {4, 1}, {20, 2}, {35, 3}, {50, 4}, and {60, 5}.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="140" y="295">
+				<![CDATA[
+					<p>The coordinate set for this point on the graph is {4, 1}. It stands for a quantity of 4 bushels at a price of $1 per bushel.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="223" y="241">
+				<![CDATA[
+					<p>The coordinate set for this point on the graph is {20, 2}. It stands for a quantity of 20 bushels at a price of $2 per bushel.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="302" y="188">
+				<![CDATA[
+					<p>The coordinate set for this point on the graph is {35, 3}. It stands for a quantity of 35 bushels at a price of $3 per bushel.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="383" y="135">
+				<![CDATA[
+					<p>The coordinate set for this point on the graph is {50, 4}. It stands for a quantity of 50 bushels at a price of $4 per bushel.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="445" y="73">
+				<![CDATA[
+					<p>The coordinate set for this point on the graph is {60, 5}. It stands for a quantity of 60 bushels at a price of $5 per bushel.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="231" y="147">
+				<![CDATA[
+					<p>The line on the graph connects the five points plotted.</p>
+				]]>
+			</hotspot>
+		</hotspots>
+    </activity>
+    <audio>econ_m4-1_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m4-1_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m4-1_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m4-1_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m4-1_s11</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What other item might be represented by a graph like this?</question>
+        <answers>
+          <answer>Pizza</answer>
+		  <answer>Automobiles</answer>
+		  <answer>Clothing</answer>
+          <answer correct="true">Organ transplants</answer>
+		  <answer>Cell phones</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m4-1_s12_view.jpg</figure>
+        <feedbackAudio>econ_m4-1_s12_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-1_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>econ_m4-1_s13</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>An unknown value in an equation or expression is represented by a variable, usually symbolized by a letter.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The slope of a line is a measure of its steepness.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A demand curve has a positive slope.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple hasFigure="true">
+        <question>Click VIEW to see the graph. The steep slope of this line demonstrates elastic demand for a product.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m4-1_s14_view.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple hasFigure="true">
+        <question>Click VIEW to see the graph. This graph of slope is a special case that says at any price above the green line, demand drops to zero.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m4-1_s12_view.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-1_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

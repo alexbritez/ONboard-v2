@@ -1,0 +1,51 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-5_s17.jpg</image>
+		<audio>audio/euro_m2-5_s17.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>90</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	
+	<dragItems>
+	
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Religious people could not be scientists in the 17th century.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+	
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Kings only supported scientific discoveries with economic benefits.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+	
+		<dItem>
+			<boxText><![CDATA[<font size='18'>The impact of the Scientific Revolution was far-reaching.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+	
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Some people feared that scientific thought would cause people to question their faith.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+	
+		<dItem>
+			<boxText><![CDATA[<font size='18'>Enlightened thought had its beginnings in the Scientific Revolution.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+	
+	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="576.9" yCord="179.2" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.9" yCord="252.5" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.9" yCord="325.8" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.9" yCord="399.1" spotScale="80" spotNum="1"/>
+		
+		<dSpot xCord="864.1" yCord="179.2" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.1" yCord="252.5" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.1" yCord="325.8" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.1" yCord="399.1" spotScale="80" spotNum="2"/>		
+	</dropSpots>
+</DragDrop>
+

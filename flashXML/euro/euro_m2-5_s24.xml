@@ -1,0 +1,29 @@
+﻿<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p align="center"><font face='lc-Bold'>Life and Death Under European Rule, 1550–1700</font></p>]]></hText>
+		<image></image>
+		<audio>audio/euro_m2-5_s24.mp3</audio>
+		<mainText><![CDATA[The goal of the newly established European colonial empires was to enrich the home countries. To meet this aim, the colonists exploited natural resources and Amerindian peoples to their fullest. The Spanish crown divided up the lands, placing “viceroys” in charge of each section. These royal representatives were responsible for delivering to the crown the profits taken from the new lands. The crown claimed one-fifth of all gold and silver mined in the New World, and the treasure ships departed the coasts of the Americas heavily laden.
+To get the human labor he needed to search and mine for precious metals, Christopher Columbus proposed enslaving the native peoples. Queen Isabella rejected the plan, for she considered the New World people her subjects. Instead, the Spanish developed a new structure, call the encomienda system, to provide the conquerors with labor. Under this system, the crown would grant an <font face='lc-Italic'>encomienda</font>, which gave conquistadors and their successors the right to the labor of a certain number of Amerindians. Theoretically, in exchange for labor, the Spanish owed the natives protection and introduction to the Christian faith. 
+The encomiendas lasted only through the sixteenth century, but this system was replaced by other forms of labor servitude, like the <font face='lc-Italic'>repartimiento</font>, which required adult males to devote a certain number of days of labor annually to Spanish economic enterprises, such as plantations (called haciendas) or mines. Sometimes these contracts stipulated a lifetime of labor (though the subject peoples remained personally free); other times, the Amerindians had to work for the Spanish for a fixed number of years. Life under these contracts proved extremely harsh—hard labor and shortage of food—and many laborers died while working for their new overseers. 
+<br/><font size='8'>From THE WEST IN THE WORLD, 4th Edition, by Dennis Sherman and Joyce Salisbury, copyright © 2011 The McGraw-Hill Companies, Inc.</font>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Resources">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-1_s1</video>
+    <credits>(l)Joe Sohm/Digital Vision/Getty Images, (cl)Bloomberg/Getty Images, (cr)JG Photography/Alamy, (r)Leonard Mc Lane/Digital Vision/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-1_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Joe Sohm/Digital Vision/Getty Images, (2)Bloomberg/Getty Images, (3)JG Photography/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-1_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Physician</match>
+		<match id="2">Surveyor</match>
+		<match id="3">Calculator</match>
+		<match id="4">Raspberries</match>
+		<match id="5">Cattle</match>
+		<match id="6">Auto mechanic</match>
+		<match id="7">Quartz</match>
+		<match id="8">Bulldozer</match>
+		<match id="9">Wheelbarrow</match>
+		<match id="10">Laptop</match>
+		<match id="11">Salt</match>
+		<match id="12">AP Economics Teacher</match>
+      </matches>
+      <drops title="Natural Resources">5,11,4,7</drops>
+	  <drops title="Human Resources">1,2,6,12</drops>
+	  <drops title="Capital Resources">3,8,9,10</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-1_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m5-1_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Joe Sohm/Digital Vision/Getty Images, (2)Bloomberg/Getty Images, (3)JG Photography/Alamy, (4)Ingram Publishing, (5)Monty Rakusen/Cultura/Getty Images, (6)Ingram Publishing, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m5-1_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (l)Leonard McLane/Digital Vision/Getty Images, (r)JUPITERIMAGES/Comstock Images/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-1_s7.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="200" y="105">
+          <![CDATA[
+		  	<h1>Coffee</h1>
+			<p>The coffee beans grow as coffee cherries on trees. Fresh water is required to grow and process coffee. Workers cultivate the trees and harvest the cherries. The cherries are processed into coffee beans, milled, roasted, and exported—all requiring specific equipment and human effort.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="292" y="199">
+          <![CDATA[
+		  	<h1>Paper Cup</h1>
+			<p>The cup is made of paper. Producing it required trees, lumberjacks, logging machines, a mill, and many other resources.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="305" y="101">
+          <![CDATA[
+		  	<h1>Plastic Lid</h1>
+			<p>This lid is made of plastic, which required petroleum, a press, a press operator, and the entrepreneur who came up with the idea and designed the lid.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="392" y="291">
+          <![CDATA[
+		  	<h1>Cream</h1>
+			<p>This cup of coffee has cream, which requires a dairy cow, a dairy farmer, and milk processing resources.</p>
+		  ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-1_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Tim Hawley/FoodPix/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m5-1_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Stockbyte/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-1_s9.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="367" y="136">
+          <![CDATA[
+		  	<h1>Quarter</h1>
+			<p>Quarters are made of copper and nickel (land). Presses within a factory known as a mint (capital) produce the coins. A press operator (labor) and other workers create and transfer the coins to Federal Reserve banks. Entrepreneurs designed the coins and machinery.</p>
+		  ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-1_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Stockbyte/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Lumber</match>
+		<match id="2">Grain harvester</match>
+		<match id="3">Food scientist</match>
+		<match id="4">Screenwriter</match>
+		<match id="5">Projector</match>
+		<match id="6">Rain and sunshine</match>
+		<match id="7">Lathe</match>
+		<match id="8">Petroleum-based DVD</match>
+		<match id="9">Inventor of improved sander</match>
+		<match id="10">Actors</match>
+		<match id="11">Farmer</match>
+		<match id="12">Driver of flatbed truck</match>
+      </matches>
+      <drops title="Baseball bat">1,7,9,12</drops>
+	  <drops title="Movie">10,4,5,8</drops>
+	  <drops title="Super Puffy Popcorn">2,11,6,3</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+    <audio>econ_m5-1_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>What is a general name for productive resources?</question>
+        <answers>
+          <answer>Goods</answer>
+		  <answer>Services</answer>
+		  <answer>Capital</answer>
+          <answer correct="true">Inputs</answer>
+		  <answer>Outputs</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>How are capital resources different from other types of resources?</question>
+        <answers>
+          <answer correct="true">They are a result of production.</answer>
+		  <answer>They are the investments used to fund factories.</answer>
+		  <answer>They do not produce anything.</answer>
+		  <answer>They have inputs.</answer>
+		  <answer>They require entrepreneurship.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these is considered a natural resource?</question>
+        <answers>
+          <answer>Fertilizer</answer>
+		  <answer>Irrigation system</answer>
+          <answer correct="true">Saltwater</answer>
+		  <answer>Fishing rod</answer>
+		  <answer>Windmill</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which factor of production is considered the driving force in an economy?</question>
+        <answers>
+          <answer>Capital</answer>
+          <answer correct="true">Entrepreneurs</answer>
+		  <answer>Natural resources</answer>
+		  <answer>Labor</answer>
+		  <answer>Financial capital</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of these is an example of a capital resource?</question>
+        <answers>
+          <answer>Investment</answer>
+          <answer correct="true">Hammer</answer>
+		  <answer>Coins</answer>
+		  <answer>Silk</answer>
+		  <answer>Barn</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-1_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

@@ -1,0 +1,198 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m1-5_s26.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>Living in constant conflict and fear the development of a civil society with industry or culture would impossible. The life of man would be ‘solitary, poor, nasty, brutish and short.'</Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Italian Humanism is best defined as]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>importance of religion in the everyday lives of humans</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>looking back to Ancient Greece and Rome as the ideal in a curriculum of classics</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[“It is best to be both feared and loved; however, if one cannot be both it is better to be feared than loved.”<br/><br/>This quote was written by:]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Machiavelli</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Castiglione</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Also referred to as Christian Humanism, this emphasized classical and Christian sources.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Italian Humanism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Northern Humanism</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Along with Francis Bacon, this important individual from the Scientific Revolution articulated a version of the scientific method.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>René Descartes</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Copernicus</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[This scientist improved the telescope and made observations that upset the Catholic Church.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Isaac Newton</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Galileo Galilei</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Known as the Great Synthesizer, this individual developed the law of universal gravitation.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Johannes Kepler</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Isaac Newton</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[This quote was most likely written by]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>John Locke</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Thomas Hobbes</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Historiography is ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the methodology of historical research</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the study of history</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Romantic Art was]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>based on rational principals of the Enlightenment Period that preceded it</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>a rejection of rationality in favor of emotion and nature</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Monet was an important]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Impressionist painter</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Baroque artist</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

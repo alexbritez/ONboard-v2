@@ -1,0 +1,79 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Scientific Revolution</title>
+		<info></info>
+		<image>images/euro_m2-5_s8.jpg</image>
+		<audio>audio/euro_m2-5_s8.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>GALILEO</Name>   
+			<audio enable="false" url="audio/euro_m2-5_s8.mp3"/>
+			<xCord>592.6</xCord>
+			<yCord>95.4</yCord>
+			<width>134</width>
+			<popTitle>GALILEO</popTitle>
+			<popInfo>Galileo Galilei continued the work of investigating planetary motion (initiated by Copernicus). Living in Italy, close to the Church, he was warned, tried and charged by the Roman Inquisition for his refusal to renounce the Copernican theory that the planets revolved around the sun and Earth was NOT at the center of the universe</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>KEPLER</Name>   
+			<audio enable="false" url="audio/euro_m2-5_s8.mp3"/>
+			<xCord>592.6</xCord>
+			<yCord>167.4</yCord>
+			<width>134</width>
+			<popTitle>KEPLER</popTitle>
+			<popInfo>Johannes Kepler was a German mathematician who solved the puzzle presented by the varying speeds of orbiting objects. His findings became known as the Laws of Planetary Motion.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>BACON</Name>   
+			<audio enable="false" url="audio/euro_m2-5_s8.mp3"/>
+			<xCord>730.45</xCord>
+			<yCord>95.4</yCord>
+			<width>134</width>
+			<popTitle>BACON</popTitle>
+			<popInfo>Francis Bacon was an English thinker who insisted upon empiricism and the inductive method as the best way of acquiring knowledge.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>DESCARTES</Name>   
+			<audio enable="false" url="audio/euro_m2-5_s8.mp3"/>
+			<xCord>769.85</xCord>
+			<yCord>137.9</yCord>
+			<width>134</width>
+			<popTitle>DESCARTES</popTitle>
+			<popInfo>René Descartes was a French thinker who arrived at a philosophy of dualism which argued that creation is broken down into mind and matter.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>NEWTON</Name>   
+			<audio enable="false" url="audio/euro_m2-5_s8.mp3"/>
+			<xCord>809.25</xCord>
+			<yCord>180.4</yCord>
+			<width>134</width>
+			<popTitle>NEWTON</popTitle>
+			<popInfo><![CDATA[Isaac Newton represented the culmination of the Scientific Revolution with his publication of <font face='c-Italic'>Principia Mathematica</font>. He established the principle of the universal law of gravitation. Since his work came so late, his contributions to the Scientific Revolution overlap the Enlightenment.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

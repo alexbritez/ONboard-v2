@@ -1,0 +1,51 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Meaning of Elements Within a Visual</title>
+		<info></info>
+		<image>images/eng_m1-1_s38.jpg</image>
+		<audio>audio/eng_m1-1_s38.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Woman’s smile</Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_pros_vs_cons.mp3"/>
+			<xCord>735.75</xCord>
+			<yCord>86.35</yCord>
+			<width>134</width>
+			<popTitle>Woman’s smile</popTitle>
+			<popInfo><![CDATA[The woman’s smile adds a positive tone to the visual. The smile asks the reader to trust the visual and its message. The woman appears to have our best interests in mind.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Plate of Food</Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_before_after.mp3"/>
+			<xCord>803.75</xCord>
+			<yCord>330.35</yCord>
+			<width>85</width>
+			<popTitle>Plate of Food</popTitle>
+			<popInfo><![CDATA[The plate of food is the focal point of the visual as it forms the connection with the audience as the woman offers it to us. The food, artfully placed on a clean, white plate, appears to be a typical breakfast of the 1950s or 1960s. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Apron</Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_pros_vs_cons.mp3"/>
+			<xCord>643.75</xCord>
+			<yCord>370.35</yCord>
+			<width>92</width>
+			<popTitle>Apron</popTitle>
+			<popInfo><![CDATA[The apron connotes cleanliness and orderliness. The apron also provides definition for the woman’s role in the visual—either as the cook or the server. Imagine how much different your reaction to the overall image would be if the apron was dirty.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Waitress Uniform </Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_right_wrong.mp3"/>
+			<xCord>775.75</xCord>
+			<yCord>178.35</yCord>
+			<width>52</width>
+			<popTitle>Waitress Uniform </popTitle>
+			<popInfo><![CDATA[The waitress uniform looks like it belongs in the 1950s or 1960s. Perhaps this element of the visual is meant to make us compare modern eating habits to habits from years past. The nostalgia brings to mind a simpler time with hearty—albeit unhealthy—<br/>eating habits.]]></popInfo>
+		</pButton>		
+				
+	</popButtons>
+</PopUp>

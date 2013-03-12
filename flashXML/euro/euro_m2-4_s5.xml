@@ -1,0 +1,74 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Making Inferences</title>
+		<info><![CDATA[<p>Speech by Queen Elizabeth I of England to the English troops at Tilbury awaiting the Spanish Armada, 1558.</p>]]></info>
+		<image>images/euro_m2-4_s5.jpg</image>
+		<audio>audio/euro_m2-4_s5.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Inference</Name>
+			<audio enable="true" url="audio/launchAudio.mp3"/>
+			<xCord>400.3</xCord>
+			<yCord>111.95</yCord>
+			<width>134</width>
+			<popTitle>Inference: </popTitle>
+			<popInfo><![CDATA[Elizabeth does not view herself as a tyrant, but thinks the King of Spain, who ordered the invasion, is one.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Inference</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>555.3</xCord>
+			<yCord>111.95</yCord>
+			<width>134</width>
+			<popTitle>Inference: </popTitle>
+			<popInfo><![CDATA[Elizabeth is pointing out how well she has behaved as queen. Also, she wants to promote the idea that her subjects are loyal and have good will toward her. Here, she is also asking for their protection.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Inference</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>978.3</xCord>
+			<yCord>189.95</yCord>
+			<width>134</width>
+			<popTitle>Inference: </popTitle>
+			<popInfo><![CDATA[Elizabeth is explaining that she’s not here to watch the battle for fun, but plans to fight alongside her troops. While she probably means to fight symbolically, it was still common for kings to lead troops into battle at this time. Since Elizabeth was a woman, she wanted to underscore her ability to lead troops in the same way as a king.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Inference</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>978.3</xCord>
+			<yCord>246.95</yCord>
+			<width>134</width>
+			<popTitle>Inference: </popTitle>
+			<popInfo><![CDATA[When Elizabeth says “my God”, she means the Protestant God. This was important because one of the biggest causes of the conflict between Catholic Spain and Protestant England at this time was religion. Elizabeth is saying that she will lay down her life, if necessary, as a Protestant martyr. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Inference</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>400.3</xCord>
+			<yCord>274.95</yCord>
+			<width>134</width>
+			<popTitle>Inference: </popTitle>
+			<popInfo><![CDATA[At this time, English monarchs claimed to rule several “kingdoms”—including France. Elizabeth’s full title was: By the Grace of God, Queen of England, France and Ireland, Defender of the Faith. The title “Defender of the Faith” was added by Elizabeth’s father King Henry VIII during England’s Protestant reformation. Today, Queen Elizabeth II still carries that title. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Inference</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>400.3</xCord>
+			<yCord>334.95</yCord>
+			<width>134</width>
+			<popTitle>Inference: </popTitle>
+			<popInfo><![CDATA[Elizabeth is bowing to the prevailing thought of the time: that women were physically weaker and more feeble than men. She may be reinforcing her need for the troops’ protection (as a knight might protect a maiden) or just setting up her next line in the speech.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Inference</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>978.3</xCord>
+			<yCord>334.95</yCord>
+			<width>134</width>
+			<popTitle>Inference: </popTitle>
+			<popInfo><![CDATA[Here, Elizabeth is warning anyone who may think that she IS weak or does not have authority of her country to think otherwise. She says “stomach” to show that she’s got the guts to stand up to an invasion. ]]></popInfo>
+		</pButton>  
+	</popButtons>
+</PopUp>

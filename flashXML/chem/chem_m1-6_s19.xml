@@ -1,0 +1,11 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Estimation with Gases]]></hText>
+		<qText>Convert 15 in Hg to torr.</qText>
+		<fraction>answer</fraction>
+		<correctText><![CDATA[<p><font face='lc-Bold'>Answer:</font><br/><br/>375 to 400 would be a reasonable answer depending on which<br/><br/>of the following conversion equations you used.<br/><br/>                           750 torr<br/>15 in Hg × <font face='SuperScript'>___________________</font>  =<br/>                           30 in Hg<br/><br/>or<br/><br/>                           800 torr<br/>15 in Hg × <font face='SuperScript'>___________________</font>  =<br/>                           30 in Hg</p>]]></correctText>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-6_s17.swf" />
+		<audio></audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

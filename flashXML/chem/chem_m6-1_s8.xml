@@ -1,0 +1,35 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-1_s8.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[C<font face='SubScript' size='30'>8</font>H<font face='SubScript' size='30'>18</font> + O<font face='SubScript' size='30'>2</font> <font face='CambriaMath' size='30'>→</font> 8CO<font face='SubScript' size='30'>2</font> + 9H<font face='SubScript' size='30'>2</font>O<br/><br/>How many oxygen atoms are represented on the product side of the equation?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>25</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>17</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>16</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>9</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-1_s8_FB.mp3" />
+	</question>
+</MultipleChoice>

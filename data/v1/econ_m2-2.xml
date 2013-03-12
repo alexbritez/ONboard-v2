@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Labeling">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m2-2_s1</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m2-2_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m2-2_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m2-2_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these is a characteristic of an economics graph?</question>
+        <answers>
+          <answer>The graph has 4 quadrants.</answer>
+		  <answer>Lines must have arrows.</answer>
+		  <answer>Axes are always labeled Y and X.</answer>
+          <answer correct="true">All lines must be labeled.</answer>
+		  <answer>Graph titles are optional.</answer>
+        </answers>
+        <feedbackAudio>econ_m2-2_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-2_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m2-2_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following would NOT be put on the vertical axis on an economics graph?</question>
+        <answers>
+          <answer>Price</answer>
+          <answer correct="true">Quantity</answer>
+		  <answer>Price level</answer>
+		  <answer>Nominal interest rate</answer>
+		  <answer>Real interest rate</answer>
+        </answers>
+        <feedbackAudio>econ_m2-2_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-2_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Price</match>
+		<match id="2">Quantity</match>
+		<match id="3">Demand</match>
+		<match id="4">Market for Corn</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="-7" y="58"></drop>
+		<drop correct="2" x="342" y="362"></drop>
+		<drop correct="3" x="491" y="287"></drop>
+		<drop correct="4" x="247" y="7"></drop>
+      </drops>
+      <image>econ_m2-2_s8.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m2-2_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>A common math graph has two lines with arrows at each end, indicating that they extend to infinity.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A line on an economics graph usually crosses into two or more quadrants.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>On economics graphs, price is always labeled on &lt;br /&gt;the vertical axis.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>On economics graphs, the horizontal and vertical axes begin at the origin.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Economics graphs never have numbers on the axes.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-2_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

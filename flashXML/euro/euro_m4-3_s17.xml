@@ -1,0 +1,42 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m4-3_s17.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		
+		<qText><![CDATA[Which European empire had the least number of colonies in Africa?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Spanish</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[German]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Portuguese ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Italian]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Belgian ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-3_s17_FB.mp3" />
+	</question>
+
+
+</MultipleChoice>

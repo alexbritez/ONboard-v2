@@ -1,0 +1,38 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s27.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m3-1_s27.jpg</image>
+		</Source>
+	</slideInfo>
+
+
+		<question>
+		<qText><![CDATA[Which of the following choices represents the correct electron configuration for germanium<br/>(<font face='c-Italic'>Z</font> = 32)?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript'>2</font>2<font face='c-Italic'>s</font><font face='SuperScript'>2</font>2<font face='c-Italic'>p</font><font face='SuperScript'>6</font>3<font face='c-Italic'>s</font><font face='SuperScript' >2</font>3<font face='c-Italic'>p</font><font face='SuperScript'>6</font>3<font face='c-Italic'>d</font><font face='SuperScript'>10</font>4<font face='c-Italic'>p</font><font face='SuperScript' >4</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript'>2</font>2s<font face='SuperScript'>2</font>2<font face='c-Italic'>p</font><font face='SuperScript'>6</font>3<font face='c-Italic'>s</font><font face='SuperScript'>2</font>3<font face='c-Italic'>p</font><font face='SuperScript'>6</font>3<font face='c-Italic'>d</font><font face='SuperScript'>10</font>4<font face='c-Italic'>s</font><font face='SuperScript'>2</font>4<font face='c-Italic'>p</font><font face='SuperScript'>4</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript'>2</font>2<font face='c-Italic'>s</font><font face='SuperScript'>2</font>2<font face='c-Italic'>p</font><font face='SuperScript'>6</font>3<font face='c-Italic'>s</font><font face='SuperScript'>2</font>3<font face='c-Italic'>p</font><font face='SuperScript'>6</font>4<font face='c-Italic'>s</font><font face='SuperScript'>2</font>4<font face='c-Italic'>p</font><font face='SuperScript'>2</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript'>2</font>2<font face='c-Italic'>s</font><font face='SuperScript'>2</font>2<font face='c-Italic'>p</font><font face='SuperScript'>6</font>3<font face='c-Italic'>s</font><font face='SuperScript'>2</font>3<font face='c-Italic'>p</font><font face='SuperScript'>6</font>3<font face='c-Italic'>d</font><font face='SuperScript'>10</font>4<font face='c-Italic'>s</font><font face='SuperScript'>2</font>4<font face='c-Italic'>p</font><font face='SuperScript'>2</font></p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s27.mp_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

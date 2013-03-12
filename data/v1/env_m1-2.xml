@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Percentages">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m1-2_s1</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s3</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="6_Activity_Interactivity">
+      <content>
+         <header>Finding Percent</header>
+         <instruction><![CDATA[&nbsp;&nbsp;part&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%<br/><sup>________</sup>&nbsp;&nbsp;=&nbsp;&nbsp;<sup>____</sup><br/>&nbsp;whole&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M01_02_01P.mp4</url>
+      <image>env_m1-2_s4.jpg</image>
+      <audio>env_m1-2_s4</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s5</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="11_Activity_Drag_List">
+      <matchingInstructions><![CDATA[<h1 style="text-align:left">Finding the Percent</h1><p>Match the items on the left to the correct areas on the right.</p>]]></matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchContainerStyle="margin-right:1.5em">
+         <matches title="">
+            <match id="1">43</match>
+   			<match id="2">50</match>
+         </matches>
+         <drops title="Part">1</drops>
+		 <drops title="Whole">2</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>env_m1-2_s6</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s7</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s9</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s10</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>There are 500 cats in your town. 100 cats are white. What is the percent of cats that are white?</question>
+            <answers>
+               <answer>25%</answer>
+			   <answer>15%</answer>
+               <answer>35%</answer>
+			   <answer>50%</answer>
+			   <answer correct="true">20%</answer>
+            </answers>
+			<figure></figure>
+            <feedbackAudio>env_m1-2_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-2_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="6_Activity_Interactivity">
+      <content>
+         <header>Finding the Part</header>
+         <instruction><![CDATA[&nbsp;&nbsp;part&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%<br/><sup>________</sup>&nbsp;&nbsp;=&nbsp;&nbsp;<sup>____</sup><br/>&nbsp;whole&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M01_02_02P.mp4</url>
+      <image>env_m1-2_s6.jpg</image>
+      <audio>env_m1-2_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s13</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s14</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s15</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s16</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following correctly shows cross multiplication for this equation?</question>
+            <answers>
+               <answer><![CDATA[4.00<em>n</em> = 6250]]></answer>
+			   <answer correct="true"><![CDATA[100<em>n</em> = 250]]></answer>
+               <answer><![CDATA[100<em>n</em> = 2500]]></answer>
+			   <answer><![CDATA[62.5<em>n</em> = 400]]></answer>
+			   <answer><![CDATA[100<em>n</em> = 66.5]]></answer>
+            </answers>
+			<figure><text><![CDATA[<p style="line-height:0.5">&nbsp;&nbsp;&nbsp;&nbsp;<em>n</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;62.5<br/><sup>_____</sup>&nbsp;&nbsp;=&nbsp;&nbsp;<sup>____</sup><br/>&nbsp;4.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100</p>]]></text></figure>
+            <feedbackAudio>env_m1-2_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-2_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s18</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>60% of 250 is what number?</question>
+            <answers>
+               <answer correct="true">150</answer>
+			   <answer>250</answer>
+               <answer>100</answer>
+			   <answer>50</answer>
+			   <answer>60</answer>
+            </answers>
+			<figure></figure>
+            <feedbackAudio>env_m1-2_s19_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-2_s19</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M01_02_03P.mp4</url>
+      <image>env_m1-2_s20.jpg</image>
+      <audio>env_m1-2_s20</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s21</video>
+      <credits> (cl)William Gottlieb/Corbis, (cr)Michael Ventura/Alamy, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s22</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s23</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)William Gottlieb/Corbis, (2)Michael Ventura/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s24</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s25</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s26</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s27</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following represents the complete equation correctly?</question>
+            <answers>
+               <answer><![CDATA[[(3100-4000)/3100] &times; 100 = percent change]]></answer>
+			   <answer><![CDATA[[(4000+3100)/3100] &times; 100 = percent change]]></answer>
+               <answer><![CDATA[[(3100-4000)/4000] &times; 100 = percent change]]></answer>
+			   <answer><![CDATA[[(4000-3100)/4000] &times; 100 = percent change]]></answer>
+			   <answer correct="true"><![CDATA[[(4000-3100)/3100] &times; 100 = percent change]]></answer>
+            </answers>
+			<figure></figure>
+            <feedbackAudio>env_m1-2_s29_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-2_s28</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s29</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[Solve the equation. Which of these choices is the correct answer?]]></question>
+            <answers>
+               <answer correct="true">29%</answer>
+			   <answer>19%</answer>
+               <answer>129%</answer>
+			   <answer>90%</answer>
+			   <answer>3.4%</answer>
+            </answers>
+			<figure><text><![CDATA[<p style="line-height:0.5">&nbsp;&nbsp;900<br/><sup>______</sup> &times; 100 = percent change<br/>&nbsp;3100</p>]]></text></figure>
+            <feedbackAudio>env_m1-2_s31_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-2_s30</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s31</video>
+      <credits>(cl)Photodisc/Punchstock, (cr)Dean Muz/Design Pics, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s32</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Photodisc/Punchstock, Dean Muz/Design Pics, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="33" type="2_Txt_Img_Animation">
+      <video>env_m1-2_s33</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="34" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m1-2_s34.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="88" y="52"><![CDATA[
+				<h1></h1>
+				<p>Argon (Ar)  9,340 ppm<br/><br/>
+				Carbon dioxide (CO<sub>2</sub>)  390 ppm<br/><br/>
+				Oxygen (O<sub>2</sub>)  209,460 ppm<br/><br/>
+				Nitrogen (N<sub>2</sub>) 780,840 ppm</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="441" y="169"><![CDATA[
+				<table style="font-size: 80%; line-height: 1.2;">
+				<tr><td>Neon (Ne)  18.18 ppm<sub>&nbsp;</sub></td><td>Carbon monoxide (CO)  0.1 ppm</td></tr>
+				<tr><td>Helium (He)  5.24 ppm<sub>&nbsp;</sub></td><td>Xenon (X)  0.09 ppm</td></tr>
+				<tr><td>Methane (CH<sub>4</sub>)  1.79 ppm</td><td>Ozone (O<sub>3</sub>)  0.0 to 0.07 ppm</td></tr>
+				<tr><td>Krypton (Kr)  1.14 ppm</td><td>Nitrogen dioxide (NO<sub>2</sub>)  0.02 ppm</td></tr>
+				<tr><td>Hydrogen (H<sub>2</sub>)  0.55 ppm</td><td>Iodine (I<sub>2</sub>)  0.01 ppm</td></tr>
+				<tr><td style="padding-right:20px;">Nitrous oxide (N<sub>2</sub>O)  0.3 ppm</td><td>Ammonia (NH<sub>3</sub>) trace</td></tr>
+				</table>
+			]]></hotspot>
+			<!--<hotspot dynamic="true" x="268" y="108"><![CDATA[
+				<h1></h1>
+				<p>Neon (Ne)  18.18 ppm<br/>
+				Helium (He)  5.24 ppm<br/>
+				Methane (CH<sub>4</sub>)  1.79 ppm<br/>
+				Krypton (Kr)  1.14 ppm<br/>
+				Hydrogen (H<sub>2</sub>)  0.55 ppm<br/>
+				Nitrous oxide (N<sub>2</sub>O)  0.3 ppm</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="441" y="169"><![CDATA[
+				<h1></h1>
+				<p>Carbon monoxide (CO)  0.1 ppm<br/>
+				Xenon (X)  0.09 ppm<br/>
+				Ozone (O<sub>3</sub>)  0.0 to 0.07 ppm<br/>
+				Nitrogen dioxide (NO<sub>2</sub>)  0.02 ppm<br/>
+				Iodine (I<sub>2</sub>)  0.01 ppm<br/>
+				Ammonia (NH<sub>3</sub>)  trace</p>
+			]]></hotspot>-->
+         </hotspots>
+      </activity>
+      <audio>env_m1-2_s35</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Photodisc/Punchstock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="35" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m1-2_s35.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="37" y="355"><![CDATA[
+				<h1>Dissolved Oxygen in Water at 20&deg;C</h1>
+				<table>
+					<tr>
+						<td style="font-weight:bold;text-decoration:underline; width:90px;">ppm</td>
+						<td style="font-weight:bold;text-decoration:underline;">Water quality</td>
+					</tr>
+					<tr>
+						<td>8.1 - 9.0</td>
+						<td>Good</td>
+					</tr>
+					<tr>
+						<td>6.7 – 8.0</td>
+						<td>Slightly polluted</td>
+					</tr>
+					<tr>
+						<td>4.6 – 6.7</td>
+						<td>Moderately polluted</td>
+					</tr>
+					<tr>
+						<td>4.0 – 4.5</td>
+						<td>Heavily polluted</td>
+					</tr>
+					<tr>
+						<td>0 – 3.9</td>
+						<td>Gravely polluted</td>
+					</tr>
+				</table>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m1-2_s36</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Dean Muz/Design Pics, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="36" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[The word <em>percent</em> means &quot;per hundred&quot; in Latin.]]></question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question><![CDATA[This is the proportion used to find a percent.]]></question>
+            <answers>
+			   <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[<p style="line-height:0.5">&nbsp;whole&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%<br/><sup>________</sup>&nbsp;&nbsp;=&nbsp;&nbsp;<sup>____</sup><br/>&nbsp;&nbsp;&nbsp;part&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100</p>]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Carbon dioxide gas makes up about 0.04% of Earth's atmosphere. How many parts per million, or molecules of carbon dioxide gas, exist in Earth's atmosphere?</question>
+            <answers>
+			   <answer>3</answer>
+			   <answer>39</answer>
+			   <answer correct="true">390</answer>
+			   <answer>3900</answer>
+			   <answer>39,000</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[In 1972, the world's consumption of oil was about <br/>20 gigabarrels per year. In 2003, oil consumption climbed to <br/>30 gigabarrels per year. What percent change does this represent?]]></question>
+            <answers>
+               <answer correct="true">50% increase</answer>
+			   <answer>100% increase</answer>
+			   <answer>200% increase</answer>
+			   <answer>100% decrease</answer>
+			   <answer>50% decrease</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[The upper safety limit for atmospheric carbon dioxide is <br/>350 ppm. For every 100,000 molecules in the atmosphere, how many molecules represent the upper safety limit for carbon dioxide?]]></question>
+            <answers>
+				<answer>3500 molecules</answer>
+				<answer>350 molecules</answer>
+				<answer correct="true">35 molecules</answer>
+				<answer>3.5 molecules</answer>
+				<answer>0.35 molecules</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m1-2_s37</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

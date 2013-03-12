@@ -1,0 +1,40 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-5_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		
+//1
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+//1	  
+	<question>  
+		<qText><![CDATA[Restating the thesis can be done in any of these ways <font face='c-Bold'>EXCEPT</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>changing the syntax.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>changing the diction.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>changing the main point.</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>changing the phrasing.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

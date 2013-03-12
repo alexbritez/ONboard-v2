@@ -1,0 +1,27 @@
+<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-3_s19.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-3_s19.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>82</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Silver</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Potassium</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Zinc</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="526" yCord="187" spotScale="75" spotNum="1"/>
+		<dSpot xCord="526" yCord="301" spotScale="75" spotNum="2"/>
+		<dSpot xCord="526" yCord="416" spotScale="75" spotNum="3"/>
+	</dropSpots>
+</DragDrop>

@@ -1,0 +1,111 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-1_s17.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text><![CDATA[<p>                                          <font face='lc-Bold'>Humanism: The Birth of "Literature"</font><br />
+But while a special dignity was attached to writing in Latin, known throughout Europe, most of the humanists wrote in Italian also. Or rather, they used the mode of speech current in Florence. This had also been the language of Dante in the  <font face="c-italic">Divine Comedy</font>. To this vast poem, the humanists now added many writings in Florentine or Tuscan prose. The result was that Florentine became the standard form of modern Italian. It was the first time that a European vernacular—that is, the common spoken tongue as opposed to Latin—became thus standardized amid the variety of its dialects and adapted in structure and vocabulary to the more complex requirements of written language. French and English soon followed, and most of the other European languages somewhat later.<br /><br /><font size='8'>From A HISTORY OF THE MODERN WORLD, 10th edition, by R.R. Palmer et al., copyright © 2007 The McGraw-Hill Companies, Inc.</font></p>]]>			
+			</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>                                          <font face='lc-Bold'>Humanism: The Birth of "Literature"</font><br />
+But while a special dignity was attached to writing in Latin, known throughout Europe, most of the humanists wrote in Italian also. Or rather, they used the mode of speech current in Florence. This had also been the language of Dante in the  <font face="c-italic">Divine Comedy</font>. To this vast poem, the humanists now added many writings in Florentine or Tuscan prose. The result was that Florentine became the standard form of modern Italian. It was the first time that a European vernacular—that is, the common spoken tongue as opposed to Latin—became thus standardized amid the variety of its dialects and adapted in structure and vocabulary to the more complex requirements of written language. French and English soon followed, and most of the other European languages somewhat later.<br /><br /><font size='8'>From A HISTORY OF THE MODERN WORLD, 10th edition, by R.R. Palmer et al., copyright © 2007 The McGraw-Hill Companies, Inc.</font></p>]]>			
+			</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>                                          <font face='lc-Bold'>Humanism: The Birth of "Literature"</font><br />
+But while a special dignity was attached to writing in Latin, known throughout Europe, most of the humanists wrote in Italian also. Or rather, they used the mode of speech current in Florence. This had also been the language of Dante in the  <font face="c-italic">Divine Comedy</font>. To this vast poem, the humanists now added many writings in Florentine or Tuscan prose. The result was that Florentine became the standard form of modern Italian. It was the first time that a European vernacular—that is, the common spoken tongue as opposed to Latin—became thus standardized amid the variety of its dialects and adapted in structure and vocabulary to the more complex requirements of written language. French and English soon followed, and most of the other European languages somewhat later.<br /><br /><font size='8'>From A HISTORY OF THE MODERN WORLD, 10th edition, by R.R. Palmer et al., copyright © 2007 The McGraw-Hill Companies, Inc.</font></p>]]>			
+			</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>What is the topic of this passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>humanism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the vernacular</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Dante</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font face="c-italic">The Divine Comedy</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Renaissance</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+		<question>
+		<qText>What is the main idea of this passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Dante's <font face="c-italic">Divine Comedy</font> was the most influential work of the Renaissance.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Most people spoke Latin in Italy until the Renaissance.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Florentine became the standard form of modern Italian because it was embraced by humanist writers during the Renaissance.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Most humanists wrote in Latin because it was considered the most dignified language.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Italian was standardized before English or French.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+		<question>
+		<qText>Which of the following details supports the main idea?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Latin was considered a language of dignity.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Most humanists also wrote in Italian.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Vernacular means the common spoken language by the people.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Dante wrote <font face="c-italic">The Divine Comedy</font> in Florentine.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Standardization is more important in written language than in spoken language.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Rock Cycle">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m5-1_s1</video>
+      <credits>(l)Thinkstock Images/Jupiterimages, (r)Steve Estvanik/Corbis, (bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m5-1_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Steve Estvanik/Corbis, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Types of Rocks</header>
+         <instruction><![CDATA[
+		 <li>Igneous</li>
+		 <li>Sedimentary</li>
+		 <li>Metamorphic</li>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m5-1_s3.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="" x="84" y="337"><![CDATA[
+				<h1>Igneous rock</h1>
+				<p></p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="295" y="337"><![CDATA[
+				<h1>Sedimentary rock</h1>
+				<p></p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="500" y="337"><![CDATA[
+				<h1>Metamorphic rock</h1>
+				<p></p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m5-1_s3</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)Doug Sherman/Geofile, (c)Steven P. Lynch, (r)Stephen Reynolds, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m5-1_s4</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)Doug Sherman/Geofile, (r)S. Alden/PhotoLink/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Most Common Igneous Rocks</header>
+         <instruction><![CDATA[
+		 <ul>
+		 	<li>Granite</li>
+			<li>Basalt</li>
+		 </ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m5-1_s5.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="" x="138" y="285"><![CDATA[
+				<h1>Granite</h1>
+				<p>Granite contains grains that are large enough to see even without a magnifying lens. Granite has many uses. Some kitchen countertops, paving stones, and monuments are made of granite. Walls built for rock-climbers can also be made of granite.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="449" y="285"><![CDATA[
+				<h1>Basalt</h1>
+				<p>Basalt is a fine-grained rock that is used in construction. Basalt is also used as lava rocks for grills and ovens. The ancient Romans used basalt to build the seats in their stadiums such as the Colosseum.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m5-1_s5</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)Doug Sherman/Geofile, (r)National Geographic RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m5-1_s6</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Shubroto Chattopadhyay/Corbis, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Metamorphic Rock</header>
+         <instruction><![CDATA[
+		 <li>Formed when rock is exposed to intense heat and pressure.</li><br/><br/><br/><br/><br/>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m5-1_s7.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="" x="204" y="179"><![CDATA[
+				<h1>Metamorphic Rock</h1>
+				<p>The term <em>metamorphic rock</em> comes from the Greeks words <em>meta</em>, which means &quot;changed&quot; and <em>morphos</em>, which means &quot;shape.&quot;</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="295" y="179"><![CDATA[
+				<h1>Slate</h1>
+				<p>This is slate. Slate is an example of a metamorphic rock. Slate is used as tiles for both floors and roofs.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="386" y="179"><![CDATA[
+				<h1>Marble</h1>
+				<p>Another familiar metamorphic rock is marble, which is used in sculptures, buildings, and monuments such as the George Washington monument in Washington, D.C.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m5-1_s7</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Doug Sherman/Geofile, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="6_Activity_Interactivity">
+      <content>
+         <header>Rock Identification Lab</header>
+         <instruction><![CDATA[
+		 	<p style="font-size:120%; color:#92C839">Types of Rocks</p>
+			<ul>
+				<li>Igneous</li>
+				<li>Sedimentary</li>
+				<li>Metamorphic</li>
+			</ul>
+		 ]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+      <image>env_m5-1_s8.jpg</image>
+      <audio>env_m5-1_s8</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)Doug Sherman/Geofile, (c)Steven P. Lynch, (r)Stephen Reynolds, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>The Rock Cycle</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m5-1_s9.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="" x="277" y="56"><![CDATA[
+				<h1>Sedimentary Rocks</h1>
+				<p>Under heat and pressure, sedimentary rock turns into metamorphic rock.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="191" y="279"><![CDATA[
+				<h1>Igneous Rocks</h1>
+				<p>Under heat and pressure, igneous rock turns into metamorphic rock. However, weathering and erosion help to transform igneous rock into sedimentary rock.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="370" y="279"><![CDATA[
+				<h1>Metamorphic Rocks</h1>
+				<p>Weathering and erosion help to transform metamorphic rock into sedimentary rock.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="281" y="180"><![CDATA[
+				<h1>Magma</h1>
+				<p>When sedimentary and metamorphic rocks melt, they form magma. When magma cools, it forms igneous rock.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m5-1_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m5-1_s10</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)Doug Sherman/Geofile, (c)Steven P. Lynch, (r)Stephen Reynolds, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Metamorphic rocks</match>
+			<match id="2">Sedimentary rocks</match>
+			<match id="3">Igneous rocks</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="231" y="63"/>
+			<drop correct="3" x="135" y="275"/>
+			<drop correct="1" x="326" y="275"/>
+         </drops>
+         <image>env_m5-1_s11.jpg</image>
+		 <feedbackAudio>env_m5-1_s11_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m5-1_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+	  	<multiple>
+            <question>Which of the following is the most common type of rock found on Earth?</question>
+            <answers>
+				<answer>Sediment</answer>
+				<answer>Magma</answer>
+				<answer>Metamorphic rock</answer>
+				<answer correct="true">Sedimentary rock</answer>
+				<answer>Igneous rock</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Both sedimentary rock and metamorphic rock can change into magma as part of the rock cycle. What is needed for this to occur?</question>
+            <answers>
+				<answer>Weathering</answer>
+				<answer>Erosion</answer>
+				<answer>Deposition</answer>
+				<answer correct="true">Melting</answer>
+				<answer>Cooling</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Both sedimentary rock and igneous rock can change into metamorphic rock as part of the rock cycle. What is needed for this to occur?</question>
+            <answers>
+				<answer>Weathering and erosion</answer>
+				<answer>Erosion and heat</answer>
+				<answer correct="true">Heat and pressure</answer>
+				<answer>Melting</answer>
+				<answer>Cooling</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Rocks are classified into three groups, igneous, sedimentary, and metamorphic.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Igneous rock is broken into two types, intrusive and extrusive igneous rock.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The most distinguishable feature of igneous rock is its layers.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>When igneous rock is put under heat and pressure it transforms into sedimentary rock.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Both sedimentary and metamorphic rock transform into igneous rock when they are melted and then cool.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Slate and magma are both examples of metamorphic rock.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Granite is a type of igneous rock.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m5-1_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

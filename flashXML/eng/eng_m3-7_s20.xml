@@ -1,0 +1,28 @@
+﻿<TextReading>
+	<slideInfo>
+		<hText>Source B</hText>
+		<image></image>
+		<audio>audio/eng_m3-7_s20.mp3</audio>
+		<mainText><![CDATA[<p>
+—From Mary Wollstonecraft's <font face='lc-Italic'>Vindication of the Rights of Women,</font> 1792. Wollstonecraft was a British philosopher and activist. She believed women were not inferior to men, but only lacking in education.</br>		
+“To render mankind more virtuous, and happier of course, both sexes must act from the same principle; but how can that be expected when only one is allowed to see the reasonableness of it? To render also the social compact truly equitable, and in order to spread those enlightening principles, which alone can meliorate the fate of man, women must be allowed to found their virtue on knowledge, which is scarcely possible unless they be educated by the same pursuits as men. For they are now made so inferiour by ignorance and low desires, as not to deserve to be ranked with them; or, by the serpentine wrigglings of cunning they mount the tree of knowledge and only acquire sufficient to lead men astray.”</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

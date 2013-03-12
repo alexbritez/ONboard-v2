@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing SKills">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m3-1_s1</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)Peter Willi/The Bridgeman Art Library, (c)Scala/Art Resource, NY, (r)Dennis Cox/Alamy, (b)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>WHIS_m3-1_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)Steve Estvanik/Corbis, (c)Library of Congress Prints and Photographs Division [LC-USZC4-595], (r)Historicus, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Peter Willi/The Bridgeman Art Library, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s4</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Image Asset Management Ltd./SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s5</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Image Asset Management Ltd./SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Image Asset Management Ltd./SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s7</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Image Asset Management Ltd./SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s8</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Image Asset Management Ltd./SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s9</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Image Asset Management Ltd./SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s10</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Stockbyte/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s11</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Scala/Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s12</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Scala/Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s13</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Scala/Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s14</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Scala/Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s15</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Scala/Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s16</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Scala/Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s17</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Scala/Art Resource, NY, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s18</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Dennis Cox/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="4">A. Personal Reaction</match>
+   			<match id="5">B. Subject Matter</match>
+   			<match id="2">C. Visual Elements</match>
+   			<match id="3">D. Expressive Content</match>
+   			<match id="1">E. Judgment</match>
+   			<match id="6">F. Purpose</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="6" y="14" />
+			<drop correct="2" x="6" y="64" />
+			<drop correct="3" x="6" y="148" />
+			<drop correct="4" x="6" y="207" />
+			<drop correct="5" x="6" y="275" />
+			<drop correct="6" x="6" y="343" />
+         </drops>
+         <image>WHIS_m3-1_s19.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-1_s19</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Dennis Cox/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s20</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Steve Estvanik/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s21</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Steve Estvanik/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s22</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Steve Estvanik/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s23</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Steve Estvanik/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s24</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Steve Estvanik/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s25</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Steve Estvanik/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s26</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-USZC4-595], (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s27</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)MPI/Archive Photos/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s28</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-USZC4-1129], (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s29</video>
+      <credits>(tr-c)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Find the six clues on the painting.</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m3-1_s30.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="198" y="45"><![CDATA[
+				<p>The white uniforms show that the European soldiers are civilized and heroic.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="530" y="230"><![CDATA[
+				<p>This brave European soldier is wounded but trying to reload.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="400" y="25"><![CDATA[
+				<p>The brave European general rallies his troops.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="187" y="284"><![CDATA[
+				<p>The uncivilized Africans wear no regimental uniforms.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="13" y="208"><![CDATA[
+				<p>The Africans are disorganized and fight with traditional weapons, such as spears and shields.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="320" y="135"><![CDATA[
+				<p>The Europeans fight with precision weapons, such as rifles and cannons.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m3-1_s30</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Mary Evans Picture Library/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Find the six clues on the painting.</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m3-1_s31.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="328" y="305"><![CDATA[
+				<p>The Africans advance bravely upon the Europeans.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="121" y="150"><![CDATA[
+				<p>The Africans use modern cannons and machine guns as weapons.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="24" y="73"><![CDATA[
+				<p>The African emperor rallies his troops to victory.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="32" y="185"><![CDATA[
+				<p>Religious leaders pray for the African soldiers.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="255" y="27"><![CDATA[
+				<p>Saint George, a Christian saint, spiritually protects the African troops.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="510" y="24"><![CDATA[
+				<p>The European commander turns his horse away to retreat from battle.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m3-1_s31</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Archives Charmet/The Bridgeman Art Library, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s32</video>
+      <credits>(tr)Tetra Images/Getty Images, (t)Mary Evans Picture Library/Alamy, (b)Archives Charmet/The Bridgeman Art Library, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="33" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>How do you suppose most Europeans viewed the Italian soldiers in the first painting?</question>
+            <answers>
+				<answer correct="true">as fallen heroes</answer>
+				<answer>as power-hungry invaders</answer>
+				<answer>as weak and disorganized</answer>
+				<answer>as cowards</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-1_s33_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-1_s33_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-1_s33</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Mary Evans Picture Library/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="34" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>How do you suppose Ethiopians viewed the Italian soldiers in the second painting?</question>
+            <answers>
+				<answer>as a disorganized mob</answer>
+				<answer correct="true">as imperialist invaders</answer>
+				<answer>as savages</answer>
+				<answer>as heroic fighters</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-1_s34_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-1_s34_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-1_s34</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Archives Charmet/The Bridgeman Art Library, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="35" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s35</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Historicus, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="36" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">A. Personal Reaction</match>
+			<match id="4">B. Subject Matter</match>
+			<match id="6">C. Visual Elements</match>
+			<match id="2">D. Expressive Content</match>
+			<match id="5">E. Judgment</match>
+			<match id="3">F. Purpose</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="17" y="239" />
+			<drop correct="2" x="17" y="295" />
+			<drop correct="3" x="17" y="351" />
+			<drop correct="4" x="311" y="239" />
+			<drop correct="5" x="311" y="295" />
+			<drop correct="6" x="311" y="351" />
+         </drops>
+         <image>WHIS_m3-1_s36.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-1_s36</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Historicus, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="37" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-1_s37</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Peter Willi/The Bridgeman Art Library, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="38" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Even without knowing the historical context of the painting, how do you know it is propaganda?</question>
+            <answers>
+				<answer>It shows the hardships of war.</answer>
+				<answer correct="true">It appeals to a viewer's sense of patriotism.</answer>
+				<answer>It makes Napoleon appear uncertain and tentative.</answer>
+				<answer>It uses vibrant colors.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-1_s38_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-1_s38_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-1_s38</audio>
+      <credits>(tr)Tetra Images/Getty Images, (inset)Peter Willi/The Bridgeman Art Library, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="39" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>How is movement suggested in this painting?</question>
+            <answers>
+				<answer>by the color and texture of the rocky trail</answer>
+				<answer>by the contrast of light and dark found in shadows</answer>
+				<answer correct="true">by Napoleon's cloak and the horse's tail and mane</answer>
+				<answer>by Napoleon's facial expression</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-1_s39_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-1_s38_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-1_s39</audio>
+      <credits>(tr)Tetra Images/Getty Images, (inset)Peter Willi/The Bridgeman Art Library, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="40" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Visuals are a form of communication.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>"Subject matter" includes what you think or feel after looking at a visual.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Historical paintings often reflect the artist's point of view.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>"Historical context" means studying a visual in regard to what was happening at the time the visual was created.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Successful visuals are only those that you like.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>"Visual elements" include shapes, lines, textures, colors, and symbols.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The Taj Mahal is located in China.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Hindu art utilizes only geometric shapes and calligraphy.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Visuals with a persuasive purpose are propaganda.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Symmetry in art refers to its texture.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-1_s40</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

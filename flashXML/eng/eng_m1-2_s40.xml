@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Write a sentence that uses a personification.]]></hText>
+		<qText></qText>
+		<correctText><![CDATA[<font face='c-Bold'>ANSWER</font><br />A sentence is correct if it gives human traits or characteristics to nonhuman or nonliving things.<br /><br /><font face='c-Bold'>SAMPLES OF PERSONIFICATION</font><br />The sun played hide and seek in the clouds.<br />The fleece jacket hugged her arms.<br />From the day they first met, their hearts told them they belonged together.]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m1-2_s40.jpg" />
+		<audio>audio/eng_m1-2_s40.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

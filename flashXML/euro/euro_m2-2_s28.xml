@@ -1,0 +1,78 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Tools for Mastering Chronology</title>
+		<info></info>
+		<image>images/euro_m2-2_s28.jpg</image>
+		<audio>audio/euro_m2-2_s28.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>LISTENING</Name>   
+			<audio enable="true" url="audio/euro_m2-2_s28_listening.mp3"/>
+			<xCord>439.25</xCord>
+			<yCord>93.7</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>LISTENING</popTitle>
+			<popInfo>Listening-only or reading-only do not produce needed results.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>WRITING</Name>   
+			<audio enable="true" url="audio/euro_m2-2_s28_writing.mp3"/>
+			<xCord>738.15</xCord>
+			<yCord>124.7</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>WRITING</popTitle>
+			<popInfo>Activate memory by writing down what you’ve learned.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>COLLECTING</Name>   
+			<audio enable="true" url="audio/euro_m2-2_s28_collecting.mp3"/>
+			<xCord>440.25</xCord>
+			<yCord>449.7</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>COLLECTING</popTitle>
+			<popInfo>Things assigned importance are “collected” into long-term memory.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>REVIEWING</Name>   
+			<audio enable="true" url="audio/euro_m2-2_s28_reviewing.mp3"/>
+			<xCord>698.55</xCord>
+			<yCord>449.7</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>REVIEWING</popTitle>
+			<popInfo>Reviewing makes valued knowledge more readily accessible.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>TEACHING</Name>   
+			<audio enable="true" url="audio/euro_m2-2_s28_teaching.mp3"/>
+			<xCord>956.85</xCord>
+			<yCord>449.7</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>TEACHING</popTitle>
+			<popInfo>Telling, tutoring, teaching, or saying serves as a memory enhancer.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>CLICK SAVE</Name>   
+			<audio enable="true" url="audio/euro_m2-2_s28_save.mp3"/>
+			<xCord>956.85</xCord>
+			<yCord>93.7</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>CLICK SAVE</popTitle>
+			<popInfo>Reviewing is how you “click the save” button in your brain.</popInfo>
+		</pButton>
+	
+	</popButtons>
+</PopUp>

@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Who is the intended audience for this passage?]]></hText>
+		<qText>From a business point of view, telecommuting is good but presents new challenges. Now more than ever, businesses must consider the issue of security. With the advent of the Internet, wireless communications, and telecommuting, the security of information is a top priority. People working from home are more vulnerable to virus attacks than are workers at a central location behind company firewall hardware and software. Communications across the Internet are more susceptible to interception than communications on a secure local area network in an office building.</qText>
+		<correctText><![CDATA[<font face='c-Bold'>ANSWER: Employers</font><br />Although the passage is written in a way that a general audience could understand, it is unlikely that just anyone would be interested in this information. The passage discusses the risks of telecommuting from a business point of view. The primary audience would be employers who are considering whether to allow their employees to telecommute.]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/eng_m1-2_s17.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

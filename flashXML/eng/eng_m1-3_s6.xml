@@ -1,0 +1,51 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-3_s6.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+//1	
+
+	<question>
+		<qText>Many schools earn money from vending machine sales.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>ARGUMENT</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>NOT AN ARGUMENT</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>Nutrition decisions should be left up to the student and not dictated by the school.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>ARGUMENT</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>NOT AN ARGUMENT</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

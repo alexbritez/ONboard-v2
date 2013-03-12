@@ -1,0 +1,51 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What does the map show?</title>
+		<info><![CDATA[<p></p>]]></info>
+		<image>images/euro_m2-6_s6.jpg</image>
+		<audio>audio/euro_m2-6_s6.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>646.9</xCord>
+			<yCord>439.3</yCord>
+			<popTitle>The Legend</popTitle>
+			<popInfo><![CDATA[<p>You can see that Italy was dominated by five independent states. One was a kingdom; another, ruled by a duke, known as a duchy; and two were republics. The Papal States were ruled by the pope.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>562</xCord>
+			<yCord>173.95</yCord>
+			<popTitle>Savoy</popTitle>
+			<popInfo><![CDATA[<p>There were other political divisions within the Italian peninsula such as the Duchy of Savoy, Mantua, Sienna and Sicily.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>698.85</xCord>
+			<yCord>89.35</yCord>
+			<popTitle>The Title</popTitle>
+			<popInfo><![CDATA[<p>The AP European History course begins about 1450 with the Italian Renaissance, and this map reflects the political divisions among what were known as the Italian City States at that time.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

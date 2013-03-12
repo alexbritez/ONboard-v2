@@ -1,0 +1,229 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m2-4_s25.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-4_s25_A.jpg</image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>Advice to Planters in New Netherland, 1650<br />Of the necessary Cattle<br /> <br />     The cattle necessary in a Colonie or private Bouwery in New Netherland, are good mares and sound stallions.<p>Yoke oxen for the plough, inasmuch as in new lands full of roots, oxen go forward steadily under the plough, and horses stand still, or with a start break the harness in pieces.</p><p>     Milch cows of kindly disposition and good bulls, sheep, sows, etc. Fowls are well adapted to Bouweries.</p><p>     These cattle are abundant in New Netherland and especially in New England and to be had at a reasonable price, except sheep which the English do not sell and are rare in New Netherland.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>Advice to Planters in New Netherland, 1650<br />Of the necessary Cattle<br /> <br />     The cattle necessary in a Colonie or private Bouwery in New Netherland, are good mares and sound stallions.<p>Yoke oxen for the plough, inasmuch as in new lands full of roots, oxen go forward steadily under the plough, and horses stand still, or with a start break the harness in pieces.</p><p>     Milch cows of kindly disposition and good bulls, sheep, sows, etc. Fowls are well adapted to Bouweries.</p><p>     These cattle are abundant in New Netherland and especially in New England and to be had at a reasonable price, except sheep which the English do not sell and are rare in New Netherland.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-4_s25_B.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-4_s25_B.jpg</image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>World War I: Trench Warfare<br /><br />     After the first month, it became clear that new military technology and mass transport had changed the manner in which war would be conducted, with terrifying results. The Eastern Front experienced the traditional warfare of mobile armies and shifting battlefields, but the great armies on the Western Front soon found themselves bogged down in siege conditions. Transport by trains allowed for a nearly endless supply of soldiers and material to a front in which new machine guns, mass shelling by artillery, and fields of barbed wire made advance practically impossible. Both sides dug trenches stretching thousands of miles across France, dotted with concrete huts called pillboxes and lined with communication cables. From these trenches, the Allied armies repeatedly mounted offensives, only to be stopped when German reinforcements arrived. <br /><br /><font size='10'>From THE WESTERN EXPERIENCE, 10th edition, by Mortimer Chambers et al., copyright © 2010 The McGraw-Hill companies, Inc.</font></p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+
+	</slideInfo>
+	
+	<question>
+		<qText>We only make inferences when reading and studying in school. </qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText>Understanding what we read means we must “read between the lines.” </qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+
+
+	<question>
+		<qText>The main idea or goal in a paragraph is always clearly stated by the author. </qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+
+
+	<question>
+		<qText>Making inferences requires that you use prior knowledge, logic, and common sense. </qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+	
+
+	<question>
+		<qText>From this image, you can infer that shipping and trade were important to the growth of the colony of New Netherlands.  </qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+
+
+	<question>
+		<qText>Which of the following is a logical inference based on the information in the passage?</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>Planters who planned to move to New Netherland had to bring livestock with them.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Much of the land would have to be cleared of roots and other vegetation before planting could commence.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+	
+
+	<question>
+		<qText>Which of the following is a logical inference based on the information in the passage?</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>It was impossible to purchase sheep in New Netherland.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Settlers in New Netherland and New England traded with each other.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+
+
+	<question>
+		<qText>Which of the following is a logical inference based on the information on the maps?</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>There was a growing sense of nationalism in the Balkans in the late nineteenth century.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bulgaria was the enemy of Serbia and Austria-Hungary since 1878.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+
+
+	<question>
+		<qText>Which of the following is a logical inference based on the information on the maps?</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>National borders in the Balkans were firmly established by 1900. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The Ottoman Empire was in decline at the end of the nineteenth century.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+	
+
+	<question>
+		<qText>Which of the following is a logical inference based on the information in the passage?</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>In World War I, the battlefield technology was much more advanced than the battlefield tactics employed by the great armies.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>In World War I, both sides realized that one big frontal assault would be all it took to break the stalemate on the Western Front.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-4_s25_FB.mp3" />
+	</question>
+</MultipleChoice>

@@ -1,0 +1,61 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m2-3_s29.jpg</image>
+		<audio>audio/eng_m2-3_s29.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>80</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Educational]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Executive]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Sports]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Social]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Judicial]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Legislative]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Cultural]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Personal]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Unsung]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>			
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="521.75" yCord="225.2" spotScale="100" spotNum="1"/>
+		<dSpot xCord="521.75" yCord="305.45" spotScale="100" spotNum="1"/>
+		<dSpot xCord="521.75" yCord="387.2" spotScale="100" spotNum="1"/>
+
+		<dSpot xCord="722.55" yCord="225.2" spotScale="100" spotNum="2"/>
+		<dSpot xCord="722.55" yCord="305.45" spotScale="100" spotNum="2"/>
+		<dSpot xCord="722.55" yCord="387.2" spotScale="100" spotNum="2"/>
+
+
+		<dSpot xCord="923.35" yCord="225.2" spotScale="100" spotNum="3"/>
+		<dSpot xCord="923.35" yCord="305.45" spotScale="100" spotNum="3"/>
+		<dSpot xCord="923.35" yCord="387.2" spotScale="100" spotNum="3"/>
+		
+	</dropSpots>
+</DragDrop>

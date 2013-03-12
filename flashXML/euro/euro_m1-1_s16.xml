@@ -1,0 +1,73 @@
+<PopUp>
+	<slideInfo>
+		<title>Geographic Features of Europe: Mountain Ranges</title>
+		<info></info>
+		<image>images/euro_m1-1_s16.jpg</image>
+		<audio>audio/euro_m1-1_s16.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Pyrenees</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>554.65</xCord>
+			<yCord>341.15</yCord>
+			<width>134</width>
+			<popTitle>Pyrenees</popTitle>
+			<popInfo><![CDATA[The Pyrenees mountains form a political as well as a geographical boundary between Spain and France. The mountains also isolate the Iberian Peninsula from the rest of Europe.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Alps</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>665.5</xCord>
+			<yCord>401.1</yCord>
+			<width>85</width>
+			<popTitle>Alps</popTitle>
+			<popInfo><![CDATA[The Alps are an important chain of mountains which isolates Switzerland from northern Europe. In the past, they have served as a boundary between cultures and languages. Its mountain passes have also been important in military history. <br /><br />Rousseau, an 18th century philosopher you will learn about in AP European History, once called the Alps, “The triumph of nature over the horrors of civilization.”
+]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Urals</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>866.2</xCord>
+			<yCord>105.3</yCord>
+			<width>92</width>
+			<popTitle>Urals</popTitle>
+			<popInfo><![CDATA[The Urals are considered a natural boundary between Europe and Asia. They run roughly north and south through western Russia.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Carpathian Mts.</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>773.35</xCord>
+			<yCord>317.15</yCord>
+			<width>52</width>
+			<popTitle>Carpathian Mts.</popTitle>
+			<popInfo><![CDATA[The source of several important rivers, such as the Vistula, the Carpathian Mountains form a natural border between Poland and Slovakia. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Kjolen Mts.</Name>
+			<audio enable="true" url="audio/launchAudio.mp3"/>
+			<xCord>670.5</xCord>
+			<yCord>134.3</yCord>
+			<width>87</width>
+			<popTitle>Kjolen Mts.</popTitle>
+			<popInfo><![CDATA[The Kjolen Mountains dominate Norway and western Sweden. The apex of these mountains is nearly 7,000 feet high.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Balkan Mts.</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>836.25</xCord>
+			<yCord>408.1</yCord>
+			<width>74</width>
+			<popTitle>Balkan Mts.</popTitle>
+			<popInfo><![CDATA[Serbia and Bulgaria are just two countries that contain ranges of the Balkan Mountains. Perhaps the most well-known range runs through Greece and contains Mount Olympus. ]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

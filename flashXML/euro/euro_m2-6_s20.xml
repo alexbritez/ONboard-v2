@@ -1,0 +1,43 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[<p></p>]]></title>
+		<info><![CDATA[<p>A.  Where has the spread of news to Venice speeded up the most?<br/>B.  Where was the time it took for news to travel least affected over time?</p>]]></info>
+		<image>images/euro_m2-6_s20.jpg</image>
+		<audio>audio/euro_m2-6_s20.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>415</xCord>
+			<yCord>365</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[This is the correct area for question A. In 1500, news took over 6 weeks to get to Venice from Lisbon, but 200 years later, the time was cut by more than half, to 3 weeks. From Antwerp, the time it took news to travel was cut from 3 weeks to 2 weeks.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>875</xCord>
+			<yCord>377</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[This is the correct area for question B. In 1700 it still took between 5 and 6 weeks for news to reach Venice from Constantinople, 1 week to reach Venice from Zara, just over 3 weeks for news to get to Venice from London, and just under 2 weeks from Lyon.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

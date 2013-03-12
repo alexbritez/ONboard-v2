@@ -1,0 +1,84 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Neoclassicism</title>
+		<info></info>
+		<image>images/euro_m3-4_s37.jpg</image>
+		<audio>audio/euro_m3-4_s37.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>744.75</xCord>
+			<yCord>284.2</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Scientist]]></popTitle>
+			<popInfo><![CDATA[<p>Lavoisier was an eminent scientist, one of the first great chemists of modern times. He experimented with gunpowder, oxygen, and the chemical composition of water. Lavoisier also wrote a treatise on chemistry.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>672.8</xCord>
+			<yCord>238.35</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Collaboration]]></popTitle>
+			<popInfo><![CDATA[<p>Lavoisier’s wife Marie-Anne illustrated her husband’s book, and was herself an educated woman, equally enthusiastic about chemistry.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>810</xCord>
+			<yCord>326</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Reason and Rationality]]></popTitle>
+			<popInfo><![CDATA[<p>The scientific laboratory instruments on the table include a distillation flask and test tubes. The Scientific Revolution influenced the Age of Enlightenment and Neoclassical paintings reflected an interest in the reason and rationality of a scientific world-view</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>564</xCord>
+			<yCord>285</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Artist]]></popTitle>
+			<popInfo><![CDATA[<p>A portfolio on a stand reminds the viewer of Madame Lavoisier’s interest in art. She is believed to have studied art with David.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>E</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>700.95</xCord>
+			<yCord>112.35</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Classical Architecture]]></popTitle>
+			<popInfo><![CDATA[<p>The room features classical architectural elements like these flattened Greek columns known as pilasters. This is another reference to the classical world admired by Neoclassical artists. </p>]]></popInfo>
+		</pButton>
+		
+		
+		<pButton> 
+			<Name>F</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>778</xCord>
+			<yCord>391</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Realism]]></popTitle>
+			<popInfo><![CDATA[<p>The people and the scientific instruments are painted with exact detail in the polished, realistic style favored by Renaissance artists of the 16th century. The Neoclassical art movement admired the ideals, colors and realism of Italian Renaissance art.   </p>]]></popInfo>
+		</pButton>
+		
+		
+		<pButton> 
+			<Name>G</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>600</xCord>
+			<yCord>230</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Subtle Lighting]]></popTitle>
+			<popInfo><![CDATA[<p>Notice the subtle beam of light highlighting the figures of man and wife. Like the Baroque painters of the 17th century, Neoclassical painters exploited light effects, but with more subtlety and less drama. </p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

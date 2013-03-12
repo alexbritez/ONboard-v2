@@ -1,0 +1,52 @@
+<PopUp>
+	<slideInfo>
+		<title>Foundations: Spread of Christianity</title>
+		<info></info>
+		<image>images/euro_s1-2_s8.jpg</image>
+		<audio>audio/euro_s1-2_s8.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>
+			<audio enable="false" url="audio/euro_s1-2_s5_event.mp3"/>
+			<xCord>609.5</xCord>
+			<yCord>96.4</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[St. Martin of Tours introduced Christianity to the Gauls in future France. Likewise, St. Patrick ministered to the Celtic peoples of present-day Ireland.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/euro_s1-2_s5_event.mp3"/>
+			<xCord>788.35</xCord>
+			<yCord>96.4</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[St. Benedict provided a new sense of order and purpose for much of the clergy in the monastic system.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/euro_s1-2_s5_event.mp3"/>
+			<xCord>609.5</xCord>
+			<yCord>442.4</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[St. Augustine, the “cerebral” saint, brought Christian teaching into harmony with Greek philosophy through his many writings.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/euro_s1-2_s5_event.mp3"/>
+			<xCord>788.35</xCord>
+			<yCord>442.4</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Following the collapse of the Roman Empire in the West during the fourth century, the enforcement of laws vanished.  The Catholic Church, with its newly created structure of dioceses, provided stability.  Church teaching, called Catechism, provided rules for living as well as a sense of morality for early Europeans.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

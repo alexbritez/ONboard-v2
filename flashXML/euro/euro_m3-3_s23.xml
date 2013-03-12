@@ -1,0 +1,65 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Reading Historical Literature: John Locke</title>
+		<info><![CDATA[]]></info>
+		<image>images/euro_m3-3_s23.jpg</image>
+		<audio>audio/euro_m3-3_s23.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>BACKGROUND</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>532.85</xCord>
+			<yCord>150.7</yCord>
+			<width>134</width>
+			<popTitle>Background</popTitle>
+			<popInfo><![CDATA[<p>John Locke was born to Puritan parents in England in 1632. His father fought on the Parliamentarian side during the English Civil War and had an important influence on Locke's developing political beliefs.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>EDUCATION</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>532.85</xCord>
+			<yCord>200.7</yCord>
+			<width>134</width>
+			<popTitle>Education</popTitle>
+			<popInfo><![CDATA[<p>Son of a lawyer, Locke attended the prestigious Westminster School in London and Oxford University.  He earned a bachelors and a master’s degree and in 1674, he earned a medical doctors degree. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CAREER</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>532.85</xCord>
+			<yCord>250.7</yCord>
+			<width>134</width>
+			<popTitle>Career</popTitle>
+			<popInfo><![CDATA[<p>Locke worked as a personal physician for Lord Shaftesbury, a reformer who championed the cause of improving the lives of orphans and child laborers. He followed many of the ideas of Shaftesbury, the founder of the Whig party, a liberal English party that favored constitutional rather than absolute monarchy. Locke also worked as secretary to several Privy Council committees. Near the end of his life, he was a prolific writer.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ETHNICITY</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>877.45</xCord>
+			<yCord>300.7</yCord>
+			<width>134</width>
+			<popTitle>Ethnicity</popTitle>
+			<popInfo><![CDATA[<p>John Locke was English.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>POLITICAL</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>877.45</xCord>
+			<yCord>350.7</yCord>
+			<width>134</width>
+			<popTitle>Political Ideas</popTitle>
+			<popInfo><![CDATA[<p>Locke believed in the natural goodness of mankind and asserted that all men are born free, equal, and independent. He believed strongly that all people are born with the natural rights of "life, liberty, and property." Locke also believed in a government formed by a social contract and based on the will of the people. He also advocated the right to revolution and the need for toleration.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>WORKS</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>877.45</xCord>
+			<yCord>400.7</yCord>
+			<width>134</width>
+			<popTitle>Major Works</popTitle>
+			<popInfo><![CDATA[<p>1689: "A Letter Concerning Toleration"<br/><br/>1689: "Two Treatises of Government"<br/><br/>1690: "An Essay Concerning Human Understanding"<br/><br/>Other minor works</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

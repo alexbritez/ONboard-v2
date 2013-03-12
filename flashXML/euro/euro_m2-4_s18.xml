@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-4_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-4_s17.swf</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which of the following inferences could the map be used to support?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Protestantism was not solidly established in any area. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Protestantism was so established that it sponsored major universities that supported and promoted Protestant beliefs. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Spain and Italy were purely Roman Catholic countries.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>There were no Roman Catholics in England during this period.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Everyone in Denmark followed the Lutheran faith.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-4_s18_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

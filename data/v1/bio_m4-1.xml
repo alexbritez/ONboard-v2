@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Organizing and Presenting Data">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m4-1_s1</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Scientific Data Table</header>
+         <instruction><![CDATA[
+		 <ul>
+		 	<li>Title</li>
+			<li>Independent variable</li>
+			<li>Dependent variable</li>
+		 </ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m4-1_s6.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m4-1_s6_title" dynamic="true" x="161" y="16"><![CDATA[
+				<h1><strong>Title:</strong><br/>
+				The Effect of Light on Sunflower Growth</h1>
+				<p></p>
+			]]></hotspot>
+			<hotspot audio="bio_m4-1_s6_leftColumn" dynamic="true" x="137" y="188"><![CDATA[
+				<h1><strong>independent variable:</strong><br/>
+				Amount of Light (hrs/day)</h1>
+				<p></p>
+			]]></hotspot>
+			<hotspot audio="bio_m4-1_s6_rightColumn" dynamic="true" x="430" y="183"><![CDATA[
+				<h1><strong>dependent variable:</strong><br/>
+				Height (cm)</h1>
+				<p></p>
+			]]></hotspot>
+			<hotspot audio="bio_m4-1_s6_columnHeader" dynamic="true" x="289" y="105"><![CDATA[
+				<h1><strong>column headings:</strong><br/>
+				Amount of Light (hrs/day) and Height (cm)</h1>
+				<p></p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m4-1_s6</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these choices would be the best title for this table?</question>
+            <answers>
+               <answer>Graph 1</answer>
+			   <answer>Age and Foot Length</answer>
+			   <answer>A Person's Age and Foot Length</answer>
+               <answer correct="true">The Effect of a Person's Age on Foot Length</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m4-1_s8_view.jpg</figure>
+            <feedbackAudio>bio_m4-1_s8_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-1_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[<p>Which is the best description of the independent variable and the dependent variable for this experiment?</p>
+				<p>Fertilizer - grams per liter (g/L)</p>
+				<p>Height - centimeters (cm)</p>
+			]]></question>
+            <answers>
+			   <answer correct="true">Independent—the amount of fertilizer (g/L)&lt;br&gt; Dependent—the height of the bean plants (cm)</answer>
+			   <answer>Independent—the amount of fertilizer&lt;br&gt; Dependent—the height of the bean plants</answer>
+			   <answer>Independent—the height of the bean plants&lt;br&gt; Dependent—the amount of fertilizer</answer>
+            </answers>
+            <feedbackAudio>bio_m4-1_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-1_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Height (cm)</match>
+			<match id="1">The Effect of Fertilizer on Bean Plant Height</match>
+			<match id="2">Fertilizer (g/L)</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="245" y="21" />
+			<drop correct="2" x="178" y="120" />
+			<drop correct="3" x="324" y="120" />
+         </drops>
+         <image>bio_m4-1_s12.jpg</image>
+         <feedbackAudio>bio_m4-1_s12_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m4-1_s12</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s13</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice scored="false">
+         <multiple hasFigure="true">
+            <question>In which column will you enter the information about your independent variable?</question>
+            <answers>
+               <answer correct="true">Left column</answer>
+               <answer>Right column</answer>
+            </answers>
+            <figure>bio_m4-1_s14_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What information will you enter in the box directly under the Fertilizer column head?</question>
+            <answers>
+               <answer correct="true">0</answer>
+               <answer>0 g/L</answer>
+            </answers>
+            <figure>bio_m4-1_s14_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-1_s14</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>bio_m4-1_s15</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="height: 30px; width: 75px">
+            <match id="2">16</match>
+			<match id="3">27</match>
+			<match id="1">2</match>
+         </matches>
+         <drops title="" children-styles="height: 30px; width: 75px; overflow: hidden">
+            <drop correct="1" x="218" y="248" />
+			<drop correct="2" x="333" y="248" />
+			<drop correct="3" x="454" y="248" />
+         </drops>
+         <image>bio_m4-1_s16.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m4-1_s16</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="height: 30px; width: 135px">
+            <match id="2">Independent variable</match>
+			<match id="3">Dependent variable</match>
+			<match id="1">Title</match>
+			<match id="4">Measurement you control</match>
+			<match id="5">Measurement you cannot control</match>
+         </matches>
+         <drops title="" children-styles="height: 30px; width: 135px; overflow: hidden">
+            <drop correct="1" x="18" y="48" />
+			<drop correct="2" x="18" y="137" />
+			<drop correct="3" x="459" y="137" />
+			<drop correct="4" x="18" y="270" />
+			<drop correct="5" x="459" y="270" />
+         </drops>
+         <image>bio_m4-1_s17.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m4-1_s17</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following best describes a scientific data table?</question>
+            <answers>
+               <answer correct="true">Designed to record experimental results</answer>
+               <answer>Designed to organize facts</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>True or False: The title of a table should not express the relationship between the two variables.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following best describes the independent variable?</question>
+            <answers>
+               <answer correct="true">The factor that you control or change in the experiment.</answer>
+               <answer>The factor that you measure or record in the experiment.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following best describes the dependent variable?</question>
+            <answers>
+               <answer>The factor that you control or change in the experiment.</answer>
+               <answer correct="true">The factor that you measure or record in the experiment.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>If a variable was being measured in grams per liter, how would you note that amount on a data table?</question>
+            <answers>
+               <answer>G/liter</answer>
+               <answer correct="true">g/L</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-1_s18</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

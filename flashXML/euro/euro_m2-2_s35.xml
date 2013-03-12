@@ -1,0 +1,209 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m2-2_s35.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Historians have divided European history into these three general time periods: classical period, medieval period, and modern period.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which of these events occurred during the early modern period in European history?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Magellan’s voyage of discovery</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Industrialization</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+
+	<question>
+		<qText>Which of these events occurred during the modern period in European history?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the Scientific Revolution</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Russian Revolution</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+	
+	<question>
+		<qText>A timeline with events that ALL relate to one another is a</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>referential timeline</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>causal timeline</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>	
+
+	<question>
+		<qText>The Treaty of Versailles was signed in 1919. In what century did this take place?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the nineteenth century</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the twentieth century</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+
+	<question>
+		<qText>Johann Gutenberg perfected movable type in the fifteenth century. In which year did he print the Gutenberg Bible?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>1455</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>1555</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+
+	<question>
+		<qText>In 1598, French King Henry the fourth issued an edict allowing religious freedom. Which is the correct way to write his name?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>King Henry IV</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>King Henry IIII</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>	
+
+	<question>
+		<qText>Which of the following is the best way to remember information?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>listen or read only</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>listen and write</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+
+	<question>
+		<qText>Which of the following happened first?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Napoleon’s “Grand Army” invaded Russia</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Napoleon invaded the Iberian Peninsula</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+
+	<question>
+		<qText>Every historical topic you study is a product of</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>causes that must be understood</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>historical questioning</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+</MultipleChoice>

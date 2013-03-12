@@ -1,0 +1,26 @@
+<LaunchOut>
+	<slideInfo>
+		<image>images/euro_s1-1_s14.jpg</image>
+		<audio>audio/euro_s1-1_s14.mp3</audio>
+		<titleText>Battle Maps</titleText>
+		<bodyText><![CDATA[<p></p>]]></bodyText>
+		<btnLink>http://media.ccr.mcgraw-hill.com/AP_OnBoard/EURO_M02_06_10A.swf</btnLink>
+	</slideInfo>
+</LaunchOut>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

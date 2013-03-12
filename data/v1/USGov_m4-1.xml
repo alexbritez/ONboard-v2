@@ -1,0 +1,327 @@
+<shell title="Analyzing Questions">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m4-1_s1</video>
+    <credits>(cl)PhotoAlto Photography/Veer, (cr)Photodisc/PunchStock, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m4-1_s2</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m4-1_s3</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m4-1_s4</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[Which of the following could be a definition for the term <em>federalism?</em>]]></question>
+        <answers>
+          <answer>Separation of powers</answer>
+          <answer correct="true">Division of powers</answer>
+          <answer>Delegated powers</answer>
+          <answer>Implied powers</answer>
+          <answer>Inherent powers</answer>
+        </answers>
+        <feedbackAudio>USGov_m4-1_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m4-1_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>USGov_m4-1_s6</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>The recent increase in the amount of mandatory federal spending is due largely to the increase in which of the following?</question>
+        <answers>
+          <answer>Number of federal agencies</answer>
+          <answer>Number of congressional districts</answer>
+          <answer correct="true">Entitlement spending</answer>
+          <answer>Defense spending</answer>
+          <answer>Inflation rates</answer>
+        </answers>
+        <feedbackAudio>USGov_m4-1_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m4-1_s7</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>USGov_m4-1_s8</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>All of the following are considered to be limitations on the national government EXCEPT</question>
+        <answers>
+          <answer>Separation of Powers</answer>
+          <answer>Checks and Balances</answer>
+          <answer>Federalism</answer>
+          <answer>Bill of Rights</answer>
+          <answer correct="true">Supremacy Clause</answer>
+        </answers>
+        <feedbackAudio>USGov_m4-1_s9_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m4-1_s9</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>USGov_m4-1_s10</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[<p>Which of the following are considered to be cabinet-level positions?</p>
+	<p>
+	I. Secretary of State<br/>
+	II. Speaker of the House<br/>
+	III. White House chief of staff<br/>
+	IV. Chairman of the Federal Reserve<br/>
+	V. Attorney General
+	</p>]]>
+</question>
+        <answers>
+          <answer>I, II, and III only</answer>
+          <answer>II, III, and IV only</answer>
+          <answer>III, IV, and V only</answer>
+          <answer correct="true">I and V only</answer>
+          <answer>IV and V only</answer>
+        </answers>
+        <feedbackAudio>USGov_m4-1_s11_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m4-1_s11</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>USGov_m4-1_s12</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click 'View' if you need a reference to answer the question.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which of these statements is supported by the graph?</question>
+        <answers>
+          <answer>President Eisenhower's approval rating remained steady through his two terms in office.</answer>
+          <answer>The war in Vietnam had no effect on President Johnson's approval rating.</answer>
+          <answer>President Nixon was the most popular and least popular president during the time span shown.</answer>
+          <answer correct="true">Almost every president experienced a drop in approval after being elected.</answer>
+          <answer>President Kennedy was not in office long enough to experience a drop in approval.</answer>
+        </answers>
+		<figure verticalAlign="center">USGov_m4-1_s13_view.jpg</figure>
+		<feedbackAudio>USGov_m4-1_s13_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+		<header>Exam Strategies</header>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-1_s14.jpg</image>
+      <hotspots>
+        <hotspot audio="USGov_m4-1_s14A" title="Strategy 1: Pace Yourself" dynamic="true" x="79" y="5">
+          <![CDATA[
+            <h1>Strategy 1: Pace Yourself</h1>
+            <p>The AP Exam has 60 multiple-choice questions. You have 45 minutes to answer all of them. Answer the simpler classic questions first. You should be able to answer three or four classic questions in the amount of time it takes to answer the other kinds of questions. Get the easy ones out of the way, and then go back to tackle the others.</p>
+          ]]>
+        </hotspot>
+        <hotspot audio="USGov_m4-1_s14B" title="Strategy 2: Don't Doubt Yourself" dynamic="true" x="49" y="54">
+          <![CDATA[
+            <h1>Strategy 2: Don't Doubt Yourself</h1>
+            <p>If you think you know an answer, go with it. Don't talk yourself into believing that there must be a more complicated answer. If you're spending too much time on a question, circle it and come back to it later. You might find a "hint" in another question that may help you select the correct answer.</p>
+          ]]>
+        </hotspot>
+        <hotspot audio="USGov_m4-1_s14C" title="Strategy 3: Cross Out Wrong Answers" dynamic="true" x="18" y="103">
+          <![CDATA[
+            <h1>Strategy 3: Cross Out Wrong Answers</h1>
+            <p>Draw a line through the answer choices that you are sure are wrong to eliminate them from your line of vision. This will help to narrow the five choices down to two or three.</p>
+          ]]>
+        </hotspot>
+		<hotspot audio="USGov_m4-1_s14D" title="Strategy 4: Write in the Test Booklet" dynamic="true" x="18" y="303">
+          <![CDATA[
+            <h1>Strategy 4: Write in the Test Booklet</h1>
+            <p>Nothing in the test booklet will be scored. Make notes, circle terms, write definitions, or draw graphics to help you as you read the test questions.</p>
+          ]]>
+        </hotspot>
+		<hotspot audio="USGov_m4-1_s14E" title="Strategy 5: Make Educated Guesses" dynamic="true" x="45" y="352">
+          <![CDATA[
+            <h1>Strategy 5: Make Educated Guesses</h1>
+            <p>Your total score on the multiple-choice section is based on the number of questions answered correctly. Points are not deducted for incorrect answers, so you might as well make an educated guess with the hope of choosing correctly.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-1_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Ingram Publishing, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-1_s15.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="200" y="26">
+          <![CDATA[
+            <h1</h1>
+            <p>Before the AP Exam, quiz yourself about government vocabulary terms, their meanings, and their significance. Be sure that you know not only the definition of the term but also how that term relates to other terms and concepts. Use clues in the term to help you figure out its meaning.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="412" y="234">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is D.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-1_s15</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Ingram Publishing, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-1_s16.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="222" y="26">
+          <![CDATA[
+            <h1></h1>
+            <p>After carefully reading the question, read each of the five choices. Turn the choices into a True/False quiz by writing the word "true" next to the ones you are sure are correct and "false" next to the one you believe to be false. The false answer is the correct answer to the question.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="483" y="261">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is E.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-1_s16</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-1_s17.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="257" y="16">
+          <![CDATA[
+            <h1></h1>
+            <p>Read the Roman numeral choices and find one that answers the question. Then underline only the answers that contain that Roman numeral. Go back and read the choices again to find another correct statement. Look to see which of the answers contain both of the choices you feel are correct. Continue this elimination process until only one answer contains all of the correct choices.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="187" y="348">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is D.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-1_s17</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-1_s18.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="256" y="8">
+          <![CDATA[
+            <h1></h1>
+            <p>Look at the graph or table first and decide what its focus is. What is being compared or analyzed? Place your hand over the question and read each of the five choices carefully. Many times you will be able to eliminate some answer choices simply by understanding the focus of the graph or table. Look at the answer choices one by one and apply them to the data. Eliminate answers as you go.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="555" y="274">
+          <![CDATA[
+            <h1></h1>
+            <p>The correct answer is E.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-1_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+	  <multiple>
+        <question>"What was the primary reason for the Constitutional Convention?" is a classic question.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>You are penalized for wrong answers when you take the AP Exam.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>You have a total of 45 minute to complete 60 multiple-choice questions.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>You should keep the test booklet clean of any scribbling while you take the AP Exam.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The EXCEPT-type question is looking for an incorrect answer.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m4-1_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

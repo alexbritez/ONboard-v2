@@ -1,0 +1,76 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Political Portraits</title>
+		<info></info>
+		<image>images/euro_m3-4_s20.jpg</image>
+		<audio>audio/euro_m3-4_s20.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>563.9</xCord>
+			<yCord>101.95</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The blue background brilliantly sets off the colors of the Doge’s robes and hat and may also represent the blue of the sea that surrounded Venice and upon which her wealth depended. In addition, the blue color was derived from powdered lapis lazuli, a semi-precious stone and was the most expensive pigment artists used. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>635.85</xCord>
+			<yCord>166.05</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The Doge’s face is painted with almost photographic exactness. His eyes gaze with confidence and dignity at a point over the viewer’s shoulder, perhaps into the future.  His expression is calm and assured. His mouth shows a slight hint of a smile. As three-quarters and front-facing portraiture became popular in the Renaissance, artists increasingly tried to paint ‘psychological portraits’ that gave the viewer an idea of the character and personality of the sitter. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>810.5</xCord>
+			<yCord>310.25</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p><font size='13'>The Doge's cape is woven in gold and silver thread and features an abstract pomegranate design. It is associated with the classical myth of Persephone who was kidnapped by Hades and taken to the underworld. At her return every spring and summer, Persephone’s mother Demeter (Ceres) regenerates the earth. The pomegranate was also a Christian symbol of the Resurrection both for its blood red color and its Classical meaning of renewal and rebirth. Because it is made of many seeds encased by a tough skin, it symbolized the unity of many under one authority – either a spiritual or secular monarch. This was reinforced by a ring of spikes around the top that resembles a crown. </font></p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>840.5</xCord>
+			<yCord>358.4</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Note that the Doge fills the frame of the painting and there is nothing in the background to distract from his presence. This enhances the image of the Doge’s power and authority. The artist has accomplished this by giving him very broad shoulders that touch the edges of the frame.  </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>E</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>650.8</xCord>
+			<yCord>452.8</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>You should also see that the artist has signed this painting. Bellini’s signature in Latin appears on what looks like a piece of paper on the ledge the Doge stands behind.</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,113 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>“Must Know” Dates</title>
+		<info>1920 to 2010</info>
+		<image>images/euro_m2-2_s18.jpg</image>
+		<audio>audio/euro_m2-2_s18.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>1929</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>473.15</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1929</popTitle>
+			<popInfo>Stock market crash leads to Great Depression that affects both the United States and Europe.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1933</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>508.15</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1933</popTitle>
+			<popInfo>Hitler comes to power in Germany.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1939</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>544.05</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1939</popTitle>
+			<popInfo>World War II begins in Europe.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1945</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>581</xCord>
+			<yCord>353.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1945</popTitle>
+			<popInfo>World War II ends.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1948</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>600</xCord>
+			<yCord>301.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1948</popTitle>
+			<popInfo>Berlin Blockade and Airlift; Cold War stand-off intensifies.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1957</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>639.95</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1957</popTitle>
+			<popInfo>Soviets launch Sputnik initiating Space Race; Treaty of Rome creates European Economic Community (EEC).</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1961</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>676.95</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1961</popTitle>
+			<popInfo>Berlin Wall built around West Berlin.</popInfo>
+		</pButton>
+
+
+		<pButton> 
+			<Name>1989</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>811.65</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1989</popTitle>
+			<popInfo>The fall of the Berlin Wall and the Revolutions of 1989 end Soviet domination of Eastern Europe; Iron Curtain falls.</popInfo>
+		</pButton>
+
+
+		<pButton> 
+			<Name>1991</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>850.6</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1991</popTitle>
+			<popInfo>Soviet Union dissolves; Treaty of Maastricht creates the European Union.</popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

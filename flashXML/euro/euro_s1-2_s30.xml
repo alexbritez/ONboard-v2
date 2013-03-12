@@ -1,0 +1,51 @@
+<PopUp>
+	<slideInfo>
+		<title>The High Middle Ages: Political Emergence and the Creation of Nation-states</title>
+		<info></info>
+		<image>images/euro_s1-2_s30.jpg</image>
+		<audio>audio/euro_s1-2_s30.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>ENGLAND</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>568.85</xCord>
+			<yCord>136.45</yCord>
+			<width>134</width>
+			<popTitle>ENGLAND</popTitle>
+			<popInfo><![CDATA[Alfred “the Great” becomes first King of England in the tenth century after defeating invasions by Danes and Jutes.  This strong leadership and complete power of the king will be challenged first by the nobility and later by the gentry with the emergence of parliament.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>FRANCE</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>568.85</xCord>
+			<yCord>244.15</yCord>
+			<width>85</width>
+			<popTitle>FRANCE</popTitle>
+			<popInfo><![CDATA[Hugh Capet, the Duke of Paris, is reluctantly selected by the French nobility to become king in the tenth century.  He was chosen because he seemed weak and non-threatening.  His unbroken line of succession – the Capetian dynasty – will, however, acquire ever more power as the nobility declines (culminated in the absolute monarchy of the Sun King, Louis XIV).]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>HOLY ROMAN EMPIRE</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>763.6</xCord>
+			<yCord>286.15</yCord>
+			<width>85</width>
+			<popTitle>HOLY ROMAN EMPIRE</popTitle>
+			<popInfo><![CDATA[Otto “the Great” repulses the Magyar invasions in the tenth century and is elected Kaiser by the Seven Great Electors.  Here, the nobility is able to remain powerful at the expense of the monarch and central authority.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>SPAIN</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>512.95</xCord>
+			<yCord>374.15</yCord>
+			<width>85</width>
+			<popTitle>SPAIN</popTitle>
+			<popInfo><![CDATA[The late-comer to nationhood, in the fifteenth century, it provides the example of modern theocracy – the intertwining of Church and government. ]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

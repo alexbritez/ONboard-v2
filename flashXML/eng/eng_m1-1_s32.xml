@@ -1,0 +1,51 @@
+<PopUp>
+	<slideInfo>
+		<title>Literary Devices</title>
+		<info></info>
+		<image>images/eng_m1-1_s32.jpg</image>
+		<audio>audio/eng_m1-1_s32.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Alliteration</Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_pros_vs_cons.mp3"/>
+			<xCord>742.75</xCord>
+			<yCord>120.45</yCord>
+			<width>321.8</width>
+			<popTitle>Alliteration</popTitle>
+			<popInfo><![CDATA[The “b” sound is repeated for emphasis.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Repeated Symbol</Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_before_after.mp3"/>
+			<xCord>868.25</xCord>
+			<yCord>210.45</yCord>
+			<width>451.7</width>
+			<popTitle>Repeated Symbol</popTitle>
+			<popInfo><![CDATA[Lincoln uses religious imagery throughout the speech.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Connotative Words</Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_pros_vs_cons.mp3"/>
+			<xCord>845.25</xCord>
+			<yCord>306.45</yCord>
+			<width>429.7</width>
+			<popTitle>Connotative Words</popTitle>
+			<popInfo><![CDATA[The word “woe” has a strong, emotional effect.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Parallelism</Name>
+			<audio enable="false" url="audio/eng_m1-1_s26_right_wrong.mp3"/>
+			<xCord>883.25</xCord>
+			<yCord>414.5</yCord>
+			<width>455.5</width>
+			<popTitle>Parallelism</popTitle>
+			<popInfo><![CDATA[The phrase “drawn with” is repeated here to compare the deaths of slaves to those of soldiers in order to draw a correlation between the war and slavery.]]></popInfo>
+		</pButton>		
+				
+	</popButtons>
+</PopUp>

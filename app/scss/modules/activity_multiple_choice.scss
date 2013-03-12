@@ -1,0 +1,422 @@
+div.activity_multiple_choice {
+  position: relative;
+  color: white;
+  width: 1024px;
+  height: 610px;
+
+  div#content {
+    position: absolute;
+    top: 100px;
+    left: 55px;
+    width: 475px;
+    height: 360px;
+    h1 {
+      // color: red;
+      font-size: 28px;
+      margin-bottom: 1em;
+    }
+  }
+
+  div#answers {
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    width: 425px;
+    height: 345px;
+    a.answer {
+      position: relative;
+      display: block;
+      width: 400px;
+      height: 66px;
+      line-height: 66px;
+      font-size: 14px;
+      color: white;
+      text-decoration: none;
+      background: transparent url(../ui/End_Multiple_Choice/MC_button_rest.png) 0 0 no-repeat;
+      span.answer-letter {
+        margin-right: 0.5em;
+        display: block;
+        float: left;
+        width: 64px;
+        height: 66px;
+        font-size: 24px;
+        text-align: center;
+      }
+      span.answer-text {
+        position: absolute;
+        top: 50%;
+        left: 18%;
+        display: block;
+        line-height: 18px;
+      }
+      &.incorrect {
+        opacity: 0.5;
+      }
+      span.correct {
+        position: absolute;
+        top: 12px;
+        right: -50px;
+        display: block;
+        width: 35px;
+        height: 35px;
+      }
+      span.incorrect {
+        position: absolute;
+        top: 12px;
+        right: -48px;
+        display: block;
+        width: 32px;
+        height: 32px;
+        background: transparent url(../ui/End_Multiple_Choice/incorrect_x.png) 0 0 no-repeat;
+      }
+    }
+    &.text {
+      background: white;
+      color: black;
+      font-size: 20px;
+      p {
+        float: left;
+        width: 420px;
+        padding-top: 20px;
+        padding-left: 20px;
+        margin: 0;
+      }
+      img {
+        position: absolute;
+        top: 0;
+        right: 0;
+      }
+      a.hotspot {
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+        &:hover {
+          color: red;
+        }
+      }
+    }
+  }
+
+  div#hotspot-popup {
+    position: absolute;
+    display: none;
+    width: 365px;
+    height: 143px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 30px;
+    background: transparent url(../ui/End_Multiple_Choice/pop_up_window.png) 0 0 no-repeat;
+    a#hotspot-close {
+      position: absolute;
+      top: 0;
+      right: 0;
+      display: block;
+      width: 40px;
+      height: 40px;
+    }
+    h1 {
+      color: red;
+      margin-bottom: 1em;
+    }
+    p {
+      font-size: 14px;
+    }
+  }
+
+  a.hotspot-dynamic {
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: transparent url(../ui/End_Multiple_Choice/pop_up_no_HL.png) 0 0 no-repeat;
+    &:hover {
+      background: transparent url(../ui/End_Multiple_Choice/pop_HL.png) 0 0 no-repeat;
+    }
+  }
+
+  a#multiple-continue {
+    position: absolute;
+    bottom: 61px;
+    left: 440px;
+    display: block;
+    width: 149px;
+    height: 88px;
+    background: transparent url(../ui/End_Multiple_Choice/continue_button_rest.png) 0 0 no-repeat;
+  }
+
+  a#multiple-view {
+    position: absolute;
+    bottom: 0;
+    display: block;
+    width: 111px;
+    height: 47px;
+    background: transparent url(../ui/End_Multiple_Choice/view_button_rest.png) 0 0 no-repeat;
+  }
+
+  h1#results {
+    // color: red;
+    line-height: 537px;
+    font-size: 32px;
+    text-align: center;
+  }
+
+  div#figure {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 1024px;
+    height: 537px;
+    background: rgba(0, 0, 0, 0.75);
+    a#figure-close {
+      position: absolute;
+      bottom: 15px;
+      left: 445px;
+      display: block;
+      width: 111px;
+      height: 47px;
+      background: transparent url(../ui/End_Multiple_Choice/close_button_rest.png) 0 0 no-repeat;
+    }
+  }
+
+}
+
+// Subject-specific
+
+html#USGov {
+  div.activity_multiple_choice {
+    background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#image a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    div#figure h1 {
+      color: #000;
+      margin-top: 0.1em;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#USH {
+  div.activity_multiple_choice {
+    background: transparent url(../ui/End_Multiple_Choice/USH-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FFBA00;
+    }
+    div#image a.hotspot:hover {
+      color: #FFBA00;
+    }
+    h1 {
+      color: #FFBA00;
+    }
+    div#figure h1 {
+      color: #000;
+      margin-top: 0.1em;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USH-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USH-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/End_Multiple_Choice/USH-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USH-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/End_Multiple_Choice/USH-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#WHIS {
+  div.activity_multiple_choice {
+    background: transparent url(../ui/End_Multiple_Choice/WHIS-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #AC8EFF;
+    }
+    div#image a.hotspot:hover {
+      color: #AC8EFF;
+    }
+    h1 {
+      color: #AC8EFF;
+    }
+    div#figure h1 {
+      color: #000;
+      margin-top: 0.1em;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/End_Multiple_Choice/WHIS-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/End_Multiple_Choice/WHIS-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/End_Multiple_Choice/WHIS-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/End_Multiple_Choice/WHIS-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/End_Multiple_Choice/WHIS-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#econ {
+  div.activity_multiple_choice {
+    background: transparent url(../ui/End_Multiple_Choice/econ-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #00A5E6;
+    }
+    div#image a.hotspot:hover {
+      color: #00A5E6;
+    }
+    h1 {
+      color: #00A5E6;
+    }
+    div#figure h1 {
+      color: #000;
+      margin-top: 0.1em;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/End_Multiple_Choice/econ-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/End_Multiple_Choice/econ-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/End_Multiple_Choice/econ-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/End_Multiple_Choice/econ-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/End_Multiple_Choice/econ-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#bio {
+  div.activity_multiple_choice {
+    background: transparent url(../ui/End_Multiple_Choice/bio-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #22e2e2;
+    }
+    div#image a.hotspot:hover {
+      color: #22e2e2;
+    }
+    h1 {
+      color: #22e2e2;
+    }
+    div#figure h1 {
+      color: #000;
+      margin-top: 0.1em;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/End_Multiple_Choice/bio-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/End_Multiple_Choice/bio-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/End_Multiple_Choice/bio-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/End_Multiple_Choice/bio-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/End_Multiple_Choice/bio-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#psy {
+  div.activity_multiple_choice {
+    background: transparent url(../ui/End_Multiple_Choice/psy-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #f7850c;
+    }
+    div#image a.hotspot:hover {
+      color: #f7850c;
+    }
+    h1 {
+      color: #f7850c;
+    }
+    div#figure h1 {
+      color: #000;
+      margin-top: 0.1em;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/End_Multiple_Choice/psy-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/End_Multiple_Choice/psy-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/End_Multiple_Choice/psy-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/End_Multiple_Choice/psy-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/End_Multiple_Choice/psy-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+html#env {
+  div.activity_multiple_choice {
+    background: transparent url(../ui/End_Multiple_Choice/env-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #92c839;
+    }
+    div#image a.hotspot:hover {
+      color: #92c839;
+    }
+    h1 {
+      color: #92c839;
+    }
+    div#figure h1 {
+      color: #000;
+      margin-top: 0.1em;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/End_Multiple_Choice/env-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/End_Multiple_Choice/env-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/End_Multiple_Choice/env-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/End_Multiple_Choice/env-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/End_Multiple_Choice/env-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}

@@ -1,0 +1,116 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-3_s9.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText>Which of the following is evidence that a chemical reaction occurs between sodium metal and chlorine gas?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Precipitate forms</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Gas is produced</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Color changes</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Metal dissolves</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Which of the following is evidence that a chemical reaction occurs between hydrogen and oxygen gases?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Precipitate forms</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Gas is produced</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Color changes</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Heat is released</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Which of the following reactions would best be classified as a synthesis reaction?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[SrO  +  SO<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  SrSO<font face='SubScript'>3</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>2</font>SO<font face='SubScript'>4</font>  +  Ca(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font> CaSO<font face='SubScript'>4</font>  +  2HNO<font face='SubScript'>3</font> ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[PCl<font face='SubScript'>3</font>  +  3H<font face='SubScript'>2</font>O  <font face='CambriaMath'>→</font>  H<font face='SubScript'>3</font>PO<font face='SubScript'>3</font>  +  3HCl ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[ZnCO<font face='SubScript'>3</font>  <font face='CambriaMath'>→</font>  ZnO  +  CO<font face='SubScript'>2</font> ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Which of the following synthesis reactions is also a redox reaction?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[2Li  +  H<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  2LiH ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[SrO  +  SO<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  SrSO<font face='SubScript'>3</font> ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[P<font face='SubScript'>2</font>O<font face='SubScript'>5</font>  +  3H<font face='SubScript'>2</font>O  <font face='CambriaMath'>→</font>  2H<font face='SubScript'>3</font>PO<font face='SubScript'>4</font> ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[BH<font face='SubScript'>3</font>  +  PCl<font face='SubScript'>3</font>  <font face='CambriaMath'>→</font>  H<font face='SubScript'>3</font>BPCl<font face='SubScript'>3</font> ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

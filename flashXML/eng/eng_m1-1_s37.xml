@@ -1,0 +1,34 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-1_s37.jpg</image>
+		<audio>audio/eng_m1-1_s37.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Woman’s smile</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Plate of food</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Apron</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Waitress uniform</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="520.55" yCord="175.8" spotScale="100" spotNum="1"/>
+		<dSpot xCord="520.55" yCord="256.05" spotScale="100" spotNum="2"/>
+		<dSpot xCord="520.55" yCord="342.8" spotScale="100" spotNum="3"/>
+		<dSpot xCord="520.55" yCord="420.6" spotScale="100" spotNum="4"/>
+	</dropSpots>
+	
+</DragDrop>

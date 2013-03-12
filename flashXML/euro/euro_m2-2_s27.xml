@@ -1,0 +1,46 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Tools for Mastering Chronology</title>
+		<info></info>
+		<image>images/euro_m2-2_s27.jpg</image>
+		<audio>audio/euro_m2-2_s27.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>WHAT?</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>533.15</xCord>
+			<yCord>144.2</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>WHAT?</popTitle>
+			<popInfo>What is memory? Memory is the processes by which you store, encode, and recall information. Your memory is a collection of things that you have learned and know.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>WHY?</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>730.85</xCord>
+			<yCord>93.7</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>WHY?</popTitle>
+			<popInfo>Why is memory important? It’s important because knowledge has tremendous value. Knowledgeable people, in all professions, are sought after and paid well. 
+</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>HOW?</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>815.8</xCord>
+			<yCord>279.2</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>HOW?</popTitle>
+			<popInfo>How does memory work? The human brain has an incredible ability to process and store information. But only a small amount of acquired information is retained for future use. Everything in short-term memory is erased on a daily basis. As you sleep, the sub-conscious function of the brain selectively places important pieces of information into long-term memory. Most of what was in the short-term memory from the preceding day is classified as unimportant and forgotten.</popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

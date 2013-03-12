@@ -1,0 +1,55 @@
+<PopUp>
+	<slideInfo>
+		<title>Bias and Point of View</title>
+		<info>Bias is a tendency to hold certain beliefs or to lean toward a particular point of view.</info>
+		<image>images/euro_m3-1_s13.jpg</image>
+		<audio>audio/euro_m3-1_s13.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>1</Name>
+			<audio enable="true" url="audio/euro_m3-1_s13_1.mp3"/>
+			<xCord>553</xCord>
+			<yCord>117.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[People can have a bias in favor of something or in opposition to something. Like <font face='c-Italic' size='14'>pro or con</font>, or <font face='c-Italic' size='14'>for or against</font>.]]></popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="audio/euro_m3-1_s13_2.mp3"/>
+			<xCord>826.65</xCord>
+			<yCord>117.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[All people have biases.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>3</Name>
+			<audio enable="true" url="audio/euro_m3-1_s13_3.mp3"/>
+			<xCord>689.85</xCord>
+			<yCord>183.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Bias is not a bad thing. It is a tendency to act or believe in a certain way.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>4</Name>
+			<audio enable="true" url="audio/euro_m3-1_s13_4.mp3"/>
+			<xCord>689.85</xCord>
+			<yCord>366.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Bias isn't wrong; it just represents a person’s point of view.]]></popInfo>
+		</pButton>
+
+
+	
+	</popButtons>
+</PopUp>

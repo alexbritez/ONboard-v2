@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Laws of Thermodynamics">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m4-6_s1</video>
+      <credits>(l)Aaron Roeth Photography, (cl)Goodshoot/Jupiterimages, (cr)Don Farrall/Digital Vision/Getty Images, (r)Aaron Mason/First Light/Getty Images, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Aaron Mason/First Light/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Dominic Cram/Flickr RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Forms of Energy</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m4-6_s4.jpg</image>
+         <hotspots>
+            <hotspot title="Chemical Energy" dynamic="true" audio="env_m4-6_s4_chemical" x="104" y="337"><![CDATA[
+				<h1>Chemical Energy</h1>
+				<p>Chemical energy is stored in the bonds of molecules, such as this carbon dioxide molecule. When the atoms are joined to form a molecule, work is done to bond the atoms together. The amount of chemical energy in a substance depends on the types and arrangement of atoms in the molecule.</p>
+			]]></hotspot>
+			<hotspot title="Nuclear Energy" dynamic="true" audio="env_m4-6_s4_nuclear" x="414" y="337"><![CDATA[
+				<h1>Nuclear Energy</h1>
+				<p>Nuclear energy is associated with the nucleus of an atom. A large amount of energy holds the particles in the nucleus together. This energy can be released when an atom's nucleus breaks apart or when the nuclei of two atoms join together.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m4-6_s4</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)Livio Sinibaldi/Digital Vision/Getty Images, (2)Stephen Alvarez/National Geographic/Getty images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s6</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)G.E. Ulrich/HVO/USGS, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="4">solar energy</match>
+			<match id="2">wind energy</match>
+			<match id="1">chemical energy</match>
+			<match id="7">tidal energy</match>
+			<match id="5">nuclear energy</match>
+			<match id="3">thermal energy</match>
+			<match id="6">geothermal energy</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">1. Energy is stored in the bonds of molecules.</drop>
+			<drop correct="2">2. Energy of air in motion.</drop>
+			<drop correct="3">3. Total amount of energy from the movement of the atoms and molecules that make up matter.</drop>
+			<drop correct="4">4. Energy transferred from sun in form of electromagnetic waves.</drop>
+			<drop correct="5">5. Energy is associated with the nucleus of an atom.</drop>
+			<drop correct="6">6. Thermal energy stored in the Earth.</drop>
+			<drop correct="7">7. Energy of back and forth movements of ocean water.</drop>
+         </drops>
+         <image>env_m4-6_s7.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m4-6_s7</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Aaron Mason/First Light/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s9</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s10</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)Aaron Roeth Photography, (2)Goodshoot/Jupiterimages, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>If two snowballs of the same size and shape are placed at the top of the hill, the snowball that has more mass will have less potential energy?</question>
+            <answers>
+			   <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio>env_m4-6_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s12</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Don Farrall/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="11_Activity_Drag_List">
+      <matchingInstructions><![CDATA[<p>Match the items on the left to the correct areas on the right.</p>]]></matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Chair sliding across the floor</match>
+			<match id="2">Nut sitting in a bowl on a table</match>
+			<match id="3">Bird perched in a tree</match>
+			<match id="4">Man standing on a ladder</match>
+			<match id="5">Bowling ball rolling down alley</match>
+			<match id="6">Car speeding along a flat road</match>
+         </matches>
+         <drops title="Potential Energy">2,3,4</drops>
+		 <drops title="Kinetic Energy">1,5,6</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>env_m4-6_s13</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Conservation of Energy</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m4-6_s14.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="env_m4-6_s14_button1" x="87" y="345"><![CDATA[
+				<h1></h1>
+				<p>At the bottom of the hill, the hikers had no gravitational potential energy. All the energy they used to move up the hill came from the energy stored in the molecules of their bodies.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m4-6_s14_button2" x="414" y="221"><![CDATA[
+				<h1></h1>
+				<p>As they moved up the hill, the hikers' gravitational potential energy increased, because the hikers are farther from the surface.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m4-6_s14_button3" x="303" y="99"><![CDATA[
+				<h1></h1>
+				<p>At the top of the hill, the hikers now have gravitational potential energy, but no kinetic energy.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m4-6_s14_button4" x="209" y="243"><![CDATA[
+				<h1></h1>
+				<p>The hikers will convert gravitational potential energy into kinetic energy by moving back down the hill.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m4-6_s14</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s15</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s16</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s17</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>env_m4-6_s18</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (b)Bilderbuch/Design Pics, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="19" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Chemical energy is a form of potential energy.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>According to the second law of thermodynamics, closed systems tend to maintain the same order or to become more disordered.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is an example of potential energy?</question>
+            <answers>
+				<answer>Spinning wind mill</answer>
+				<answer>Waterfall</answer>
+				<answer>Electrical current</answer>
+				<answer correct="true">Bowl of soup</answer>
+				<answer>Ball rolling</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>How can a rolling ball with less mass than a second ball have more kinetic energy?</question>
+            <answers>
+				<answer>The first ball could be rolling in a curved path.</answer>
+				<answer>The first ball could be smoother.</answer>
+				<answer correct="true">The first ball could be rolling faster.</answer>
+				<answer>The first ball could be larger.</answer>
+				<answer>Both balls must have the same kinetic energy because their masses are the same.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>According to the laws of thermodynamics, why are energy conversions never 100% efficient?</question>
+            <answers>
+				<answer correct="true">Energy is always lost in the form of heat.</answer>
+				<answer>Energy is gained from other systems.</answer>
+				<answer>Energy changes to potential energy.</answer>
+				<answer>Energy changes to kinetic energy.</answer>
+				<answer>Energy is destroyed.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-6_s19</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Statistical Significance">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m4-3_s1</video>
+      <credits>(l to r)Lewis J. Merrim/Photo Researchers, Inc., (2)Liquidlibrary/Dynamic Graphics Group/PunchStock, (3)Richard T. Nowitz/Photo Researchers, Inc., (4)Blair Seitz/Photo Researchers, Inc., (5)Manchan/Digital Vision/Getty Images, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s2</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Image Source/Alamy, (2)McGraw-Hill Companies Inc., Ken Cavanagh, Photographer, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s3</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images, (others)McGraw-Hill Companies Inc., Ken Cavanagh, Photographer.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+		<content>
+			<header><![CDATA[Chance vs. Statistical Significance]]></header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m4-3_s4.jpg</image>
+			<hotspots>
+				<hotspot audio="" dynamic="true" x="132" y="4">
+					<![CDATA[
+					<h1></h1>
+					<p>The results of four flips are too small a quantity to be significant.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="" dynamic="true" x="446" y="4">
+					<![CDATA[
+					<h1></h1>
+					<p>You will see that when we increase the number of flips, or trials, the results are more likely to be statistically significant.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m4-3_s4</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (l)McGraw-Hill Companies Inc., Ken Cavanagh, Photographer, (r)Image Source/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s5</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)Stefan Klein/Getty Images, (r)BonkersAboutScience/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s6</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)F1online digitale Bildagentur GmbH/Alamy, (r)BonkersAboutScience/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s7</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s8</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s9</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s10</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)Stefan Klein/Getty Images, (r)BonkersAboutScience/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">A. 25 out of 30 students improved their test scores after a good night's sleep.</match>
+      			<match id="2">B. An acne cream tested in 20 high schools showed similar results.</match>
+      			<match id="3">C. A study with 30 participants was repeated six times with similar results.</match>
+      			<match id="4">D. A large experimental group of overweight adults lost an average of three pounds in a month using a weight-loss drug while the control group lost no weight.</match>
+         </matches>
+         <drops title="Unlikely to have &lt;br&gt;statistical significance">1,4</drops>
+         <drops title="More likely to have &lt;br&gt;statistical significance">2,3</drops>
+         <image>psy_m4-3_s11.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m4-3_s11</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s12</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>There are four engineers working at APP Corp – two male and two female. Does this fact indicate that Jones's study is statistically significant?</question>
+            <answers>
+				<answer>Yes</answer>
+				<answer correct="true">No</answer>
+            </answers>
+            <figure><text>Professor Jones studied the pay rates for engineers at APP Corp. He found that male engineers earn more than female engineers and wondered if this was discrimination by APP Corp.</text></figure>
+            <feedbackAudio>psy_m4-3_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-3_s13</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Does this fact indicate that Jones's study is statistically significant?</question>
+            <answers>
+				<answer correct="true">Yes</answer>
+				<answer>No</answer>
+            </answers>
+            <figure><text><![CDATA[<p>Professor Jones studied the pay rates for engineers at APP Corp. He found that male engineers earn more than female engineers and wondered if this was discrimination by APP Corp.</p><p>Jones repeated the study at five other companies that are larger than APP Corp, and he found the same discrepancy.</p>]]></text></figure>
+            <feedbackAudio>psy_m4-3_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s15</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s16</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l to r)Lewis J. Merrim/Photo Researchers, Inc., (2)Liquidlibrary/Dynamic Graphics Group/PunchStock, (3)Richard T. Nowitz/Photo Researchers, Inc., (4)Blair Seitz/Photo Researchers, Inc., (5)Manchan/Digital Vision/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="9_Activity_Image_Rollclick">
+		<content>
+			<header><![CDATA[Statistically Significant?]]></header>
+			<instruction><![CDATA[<ul style="color:#F7850C">
+			<li><span style="color:#ffffff">Test 500 16-year-old males on video game play</span></li>
+			<li><span style="color:#ffffff">Will boys who complete level 1 in less than 30 minutes also complete level 2 in less than 30 minutes?</span></li>
+			</ul>]]></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m4-3_s18.jpg</image>
+			<hotspots>
+				<hotspot audio="" dynamic="true" x="44" y="28">
+					<![CDATA[
+					<h1></h1>
+					<p>We have a large sample – 500 boys.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="" dynamic="true" x="548" y="85">
+					<![CDATA[
+					<h1></h1>
+					<p>We repeat our research a number of times with different groups of boys.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="" dynamic="true" x="26" y="263">
+					<![CDATA[
+					<h1></h1>
+					<p>We find large differences between boys who complete Level 1 in 30 minutes or less and the boys who don't. The successful boys go on to complete Level 2 in 30 minutes or less, while the other boys take more than an hour to complete Level 2.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="" dynamic="true" x="373" y="304">
+					<![CDATA[
+					<h1></h1>
+					<p>We calculate our confidence level in our research at .95.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m4-3_s17</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (c)Comstock/PunchStock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="18" type="2_Txt_Img_Animation">
+      <video>psy_m4-3_s18</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="19" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">large</match>
+			<match id="3">important</match>
+			<match id="4">chance</match>
+			<match id="1">consistent</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="352" y="75" />
+			<drop correct="2" x="273" y="141" />
+			<drop correct="3" x="175" y="207" />
+			<drop correct="4" x="362" y="273" />
+         </drops>
+         <image>psy_m4-3_s20.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m4-3_s20</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+	<scene id="20" type="End_Multiple_Choice">
+		<instruction>Click on the correct answer.</instruction>
+		<multiple_choice>
+			<multiple>
+				<question>If the sample group is large enough, there is no need to repeat a study again.</question>
+				<answers>
+					<answer>True</answer>
+					<answer correct="true">False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Psychologists with a confidence level of .95 believe that their research is accurate.</question>
+				<answers>
+					<answer correct="true">True</answer>
+					<answer>False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Results of seemingly minor importance can be statistically significant.</question>
+				<answers>
+					<answer correct="true">True</answer>
+					<answer>False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Psychologists consider a study statistically significant if there is no more than one chance in ten that the results are due to chance.</question>
+				<answers>
+					<answer>True</answer>
+					<answer correct="true">False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>A research study should last for at least a month to be statistically significant.</question>
+				<answers>
+					<answer>True</answer>
+					<answer correct="true">False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+
+		</multiple_choice>
+		<audio>psy_m4-3_s21</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+</shell>

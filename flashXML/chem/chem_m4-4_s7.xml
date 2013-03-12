@@ -1,0 +1,42 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m4-4_s7.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-4_s7.mp3</audio>
+		<boxSize>small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[1<font face='chemNums' size='30'>d</font>]]></boxText>
+			<rightSpot>4</rightSpot>			
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[2<font face='chemNums' size='30'>d</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[4<font face='chemNums' size='30'>d</font>]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[1<font face='chemNums' size='30'>c</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[2<font face='chemNums' size='30'>c</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[3<font face='chemNums' size='30'>c</font>]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="650" yCord="163.4" spotScale="75" spotNum="1"/>
+		<dSpot xCord="650" yCord="215.1" spotScale="75" spotNum="2"/>
+		<dSpot xCord="650" yCord="266.8" spotScale="75" spotNum="3"/>
+		<dSpot xCord="650" yCord="318.5" spotScale="75" spotNum="4"/>
+		<dSpot xCord="650" yCord="370.2" spotScale="75" spotNum="5"/>
+		<dSpot xCord="650" yCord="422.1" spotScale="75" spotNum="6"/>
+	</dropSpots>
+</DragDrop>

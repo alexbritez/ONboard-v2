@@ -1,0 +1,42 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		
+		<qText><![CDATA[Which of the following reasons does Lefebvre identify as being MOST important in the coming of the French Revolution?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The tyrannical rule of the king</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The rise in economic power of the bourgeoisie]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Corruption within the French government</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The decline in the prestige of the clergy]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The decline in the prestige of the nobility]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-3_s34_FB.mp3" />
+	</question>
+
+
+</MultipleChoice>

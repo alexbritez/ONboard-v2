@@ -1,0 +1,52 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Political Rehabilitation Through Portraiture</title>
+		<info></info>
+		<image>images/euro_m3-4_s35.jpg</image>
+		<audio>audio/euro_m3-4_s35.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>QUEEN</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>555.9</xCord>
+			<yCord>193.35</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[New View of the Queen]]></popTitle>
+			<popInfo><![CDATA[<p>Marie Antoinette is wearing beautiful and expensive clothes, but not royal regalia. She looks more like a wealthy French woman than a queen. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>SETTING</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>830.75</xCord>
+			<yCord>130.35</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Setting]]></popTitle>
+			<popInfo><![CDATA[<p>The setting is an interior room instead of a formal stateroom, and Marie is surrounded by her children. She holds her infant son tenderly and her eldest daughter leans into her affectionately. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>IMAGE</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>585.85</xCord>
+			<yCord>395.05</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Image Rehabilitation]]></popTitle>
+			<popInfo><![CDATA[<p>The image of Marie shown here is that of the ‘good mother.’ The portrait was painted in1787, two years before the French Revolution, when she was already deeply unpopular with the French people. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>MOTHER</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>810.7</xCord>
+			<yCord>215.2</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Queen as Mother]]></popTitle>
+			<popInfo><![CDATA[<p>The Dauphin, her eldest son and heir to the French throne, has a mournful expression and points to an empty cradle. Marie and Louis’s one-year-old daughter Sophie had recently died.</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

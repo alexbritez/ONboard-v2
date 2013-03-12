@@ -1,0 +1,67 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What is the historical context of the information?</title>
+		<info><![CDATA[<p></p>]]></info>
+		<image>images/euro_m2-6_s10.jpg</image>
+		<audio>audio/euro_m2-6_s10.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>708.85</xCord>
+			<yCord>460.30</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p>Nationalism had increased during the Napoleonic period of the early 19th century, and Italian nationalists began calling for a unification of Italian speaking states. Austria, which controlled much of northeastern Italy, opposed unification, as did the pope. The remainder of Italian states could not agree on whether an independent Italy ought to be a republic or monarchy. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>556</xCord>
+			<yCord>114.35</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p> In the years 1859-1860, most of Italy unified through a series of agreements among nationalist leaders and wars fought against Austria and Sicily. The skillful diplomatic leader of Sardinia-Piedmont, Camille Cavour, promised the French ruler, Napoleon III, the regions of Nice and Savoy in exchange for French support in Sardinia’s war against Austria for the regions of Lombardy and Venetia in 1859. When the French withdrew their support, only Lombardy was annexed to Italy.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>638.90</xCord>
+			<yCord>285.30</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p><font size='14'>In 1860, France, a protector of the Papal States, allowed Sardinian troops to cross the Papal territories and confront the revolutionary nationalist leader Giuseppe Garibaldi, as long as they left the area around Rome for the pope. Most of the Papal territories were then conquered by the Sardinian-Piedmontese army. Garibaldi, who had conquered all of southern Italy,favored a republican government. He wanted to take Rome, but the Sardinians stopped him. Garibaldi agreed to unite his conquered territories under the Sardinian King, Victor Emmanuel II.</font></p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>700.85</xCord>
+			<yCord>170.35</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p>Venetia was added in 1866 when Italy allied with Prussia in its successful war against Austria.  The remaining areas of the Papal States were annexed in 1870 when France, embroiled in a war with Prussia, could no longer support the pope’s claims to these lands.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>741.80</xCord>
+			<yCord>114.35</yCord>
+			<popTitle><![CDATA[<p></p>]]></popTitle>
+			<popInfo><![CDATA[<p>The final annexations, again from Austria, occurred after the First World War between 1919 and 1924. Italy, who had joined the victorious Allies, was awarded areas along the Adriatic and the Tyrol from Austria, who had fought on the losing side.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

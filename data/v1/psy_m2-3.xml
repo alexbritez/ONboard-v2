@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Synthesizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m2-3_s1</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Image Source/Getty Images, Purestock/SuperStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s2</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Lori Adamski Peek/Stone/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s3</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Image Source/Punchstock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s4</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s5</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What can you infer about the author’s point of view?</question>
+            <answers>
+               <answer>The author enjoyed her wedding day and did not feel pressure to make it perfect.</answer>
+			   <answer correct="true">The author felt a lot of pressure to make her wedding day perfect.</answer>
+            </answers>
+            <figure>
+			<header></header>
+            <text>
+            <![CDATA[
+            <p>
+While it’s popular to blame the bride for causing stress to anyone associated with her wedding, it is often the bride herself who feels the most pressure.
+	        </p>
+		    <p>No matter how old the bride is when she gets married, she has preconceived ideas and expectations about her big day. For many women, this is the only time that they will be the center of attention on such a large stage. Everyone will be staring at her, examining and judging her choice of dress, veil, hairstyle, bouquet, music, and attendants.
+		    </p>
+
+			<p>Brides expect to look “radiant” and “the most beautiful” they’ve ever been. They also expect their wedding day to be the happiest day of their lives.
+			</p>
+			]]>
+			</text>
+           </figure>
+            <feedbackAudio>psy_m2-3_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-3_s6</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What point do you think the author is trying to make?</question>
+            <answers>
+               <answer>That brides worry too much and cause stress to those associated with their weddings.</answer>
+			   <answer correct="true">That weddings are very stressful for the bride.</answer>
+            </answers>
+            <figure>
+			<header></header>
+            <text>
+            <![CDATA[
+            <p>
+While it’s popular to blame the bride for causing stress to anyone associated with her wedding, it is often the bride herself who feels the most pressure.
+	        </p>
+		    <p>No matter how old the bride is when she gets married, she has preconceived ideas and expectations about her big day. For many women, this is the only time that they will be the center of attention on such a large stage. Everyone will be staring at her, examining and judging her choice of dress, veil, hairstyle, bouquet, music, and attendants.
+		    </p>
+
+			<p>Brides expect to look “radiant” and “the most beautiful” they’ve ever been. They also expect their wedding day to be the happiest day of their lives.
+			</p>
+			]]>
+			</text>
+           </figure>
+            <feedbackAudio>psy_m2-3_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-3_s7</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+    <content>
+        <header></header>
+		<instruction></instruction>
+	</content>
+    <activity type="image">
+        <image>psy_m2-3_s8.jpg</image>
+        <hotspots>
+		    <hotspot audio="psy_m2-3_s8_A" dynamic="true" x="22" y="31">
+				<![CDATA[
+                <h1></h1>
+				<p>This is the introduction. It defines stress and gives the main idea of the article.</p>
+				]]>
+            </hotspot>
+
+		    <hotspot audio="psy_m2-3_s8_B" dynamic="true" x="22" y="175">
+                <![CDATA[
+                <h1></h1>
+                <p>This paragraph describes a stressful event, and how the body reacts to stress.</p>
+                ]]>
+            </hotspot>
+        </hotspots>
+    </activity>
+    <audio>psy_m2-3_s8</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+</scene>
+
+
+<scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+        <header></header>
+		<instruction></instruction>
+    </content>
+    <activity type="image">
+        <image>psy_m2-3_s9.jpg</image>
+        <hotspots>
+		    <hotspot audio="psy_m2-3_s9_A" dynamic="true" x="23" y="87">
+                <h1></h1>
+				<p>This paragraph provides examples that support the main idea.</p>
+            </hotspot>
+        </hotspots>
+    </activity>
+    <audio>psy_m2-3_s9</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+</scene>
+
+
+<scene id="10" type="9_Activity_Image_Rollclick">
+    <content>
+        <header></header>
+		<instruction></instruction>
+    </content>
+    <activity type="image">
+        <image>psy_m2-3_s10.jpg</image>
+        <hotspots>
+		    <hotspot audio="psy_m2-3_s10_A" dynamic="true" x="22" y="90">
+                <h1></h1>
+				<p>This paragraph provides examples that support the main idea.</p>
+            </hotspot>
+        </hotspots>
+    </activity>
+    <audio>psy_m2-3_s10</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+</scene>
+
+
+  <scene id="11" type="9_Activity_Image_Rollclick">
+    <content>
+        <header></header>
+		<instruction></instruction>
+    </content>
+    <activity type="image">
+        <image>psy_m2-3_s11.jpg</image>
+        <hotspots>
+		    <hotspot audio="psy_m2-3_s11_A" dynamic="true" x="22" y="31">
+                <h1></h1>
+				<p>This paragraph provides examples that support the main idea.</p>
+            </hotspot>
+			<hotspot audio="psy_m2-3_s11_B" dynamic="true" x="22" y="188">
+                <h1></h1>
+				<p>This paragraph provides examples that support the main idea.</p>
+            </hotspot>
+        </hotspots>
+    </activity>
+    <audio>psy_m2-3_s11</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+</scene>
+
+
+<scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s12</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)McGraw-Hill Companies, Inc., Gary He, photographer, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+   <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The author of this selection would agree that the physical realities of our body work in concert to produce our behavior, thoughts, and feelings.
+			</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m2-3_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-3_s13</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s14</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+
+   <scene id="15" type="3_txt_img_reading">
+          <content>
+        <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Is Your Stressful Life Hurting Your Health? by Christina Frank</span>]]></header>
+        <text>
+            <![CDATA[
+            <p>
+          Your &quot;harmless&quot; habits working long hours, gobbling meals, losing sleep—could be making you sick. Chances are, you could probably name a few bad habits you’d like to break. But did you know that some of your daily indiscretions might be adding up to physical health problems, not to mention causing you psychological stress?  If you repeatedly engage in any of the following high-stress behaviors, let us clue you in to their not-so-healthy effects before you reach the breaking point:
+		  </p>
+
+		  <p>You don’t snooze, you lose. &quot;Sleep lets the body’s various systems repair themselves,&quot; says Robert Bulgarelli, D.O., an osteopathic cardiologist in Pennsylvania. When you skimp on slumber, your body is depleted of what it needs to function smoothly. You’re less alert, thus more prone to accidents, and irritable, which leads to lower tolerance for daily stress. Immune function decreases, making you more prone to colds and illness; even fertility can be impaired.
+		  </p>
+
+		  <p>Most people who eat on the run tend to grab fat and calorie-laden fast foods. Eating rapidly also leads to overeating, since your body doesn’t have time to register that it’s full. In the long term, rushing meals may lead to weight gain and obesity, which, in turn, may be associated with heart and vascular disease, says Melissa Stoppler, M. D., a stress-management consultant at About.com. In the immediate sense, eating too fast can cause choking, since you don’t take time to chew food thoroughly, and gas, from gulping air along with food. If you eat without chewing sufficiently, your digestive and hormonal systems aren’t prepared for the food and the body doesn’t absorb nutrients as well.
+		  </p>
+
+		  <p>It’s great to be helpful to family and co-workers, but when you accommodate all requests, something has to give, and that something is your body. &quot;When you overload yourself with responsibilities, the stress response kicks in,&quot; Kaufmann explains. &quot;Your heart rate and blood pressure rise and adrenaline is activated.&quot; Designed to provide a temporary boost during times of danger, the stress response is not meant to be activated regularly. It can lead to a host of maladies, including tension headaches, irritability, fatigue, digestion problems and heart arrhythmias. You also deplete your energy reserves, which leads to physical and mental exhaustion.
+		  </p>
+
+		  <p>&copy; July 2001, Weider Publications, LLC. Reprinted with Permission.
+            </p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-3_s15</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+
+   <scene id="16" type="1_Module_Intro">
+      <video>psy_m2-3_s16</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)Image Source/Punchstock/Getty Images, (cl Andersen Ross/BrandX Pictures/Getty Images, (cr)McGraw-Hill Companies, Inc., Gary He, photographer, (r)Hill Street Studios/Matthew Palmer/Blend Images LLC, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+    <scene id="17" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s17</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Lawrence Manning/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+
+   <scene id="18" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Select the statement that best synthesizes the information you’ve read about stress.</question>
+            <answers>
+               <answer>The effects of stress are exhibited in many ways, from insomnia to overeating.</answer>
+
+			   <answer>Our lifestyle choices and our responses to stressors are damaging to our health.</answer>
+
+			 <answer correct="true">You can’t prevent your biological response to stress, but you can reduce the damage prolonged exposure to stress can cause.</answer>
+
+			<answer>Stress describes the condition that results from ongoing and unpleasant physical, emotional, or environmental forces. </answer>
+
+			<answer>The stress response is not meant to be activated regularly.</answer>
+			</answers>
+            <figure></figure>
+            <feedbackAudio>psy_m2-3_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-3_s18</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+
+   <scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>All stressful events should be avoided to prevent damage to your mental and physical health. </question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+		    </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m2-3_s19_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+   <scene id="20" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height: 62px" dropStyle="height:50px">
+        <matches title="">
+            <match id="1">The way people respond to stress can put them at risk.</match>
+            <match id="3">People can prevent physical reactions to stress by living a healthy lifestyle.</match>
+            <match id="4">Stress will cause you to gain weight and have high blood pressure.</match>
+            <match id="2">Positive life changes can also cause stress.</match>
+        </matches>
+        <drops title="Logical Inference">1,2</drops>
+        <drops title="Faulty Conclusion">3,4</drops>
+        <image>psy_m2-3_s20.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+    <audio>psy_m2-3_s20</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+</scene>
+
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m2-3_s21</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)amanaimagesRF/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+
+   <scene id="22" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A synthesis is similar to a summary of a reading.</question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>Synthesizing is a logical process where you tie the inferences and summaries from separate sources together to gain a full understanding of a concept.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>You should avoid making inferences until you’ve read more than one article about a topic.</question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+			</answers>
+			   <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>When you synthesize various materials on one topic, you can make your own inferences or draw your own conclusions.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple>
+            <question>AP students aren’t capable of drawing conclusions about psychology.</question>
+            <answers>
+                <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+      </multiple_choice>
+      <audio>psy_m2-3_s22</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+</shell>

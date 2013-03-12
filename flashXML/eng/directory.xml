@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XML att1="val1">
+	<Course title="English">	
+	
+		<Section title="Introduction">
+	
+			<SubSection title="Introduction to ONboard AP English Language and Composition">
+				<Page data="assets/eng_s1-1_s1.swf" title="" photo="(tr)C Squared Studios/Getty Images; (cl)Ingram Publishing; (c)©Nova Development; (cr)Uppercut RF/Getty Images; (r)©Yellow Dog Productions/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s2.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Digital Vision/Getty Images; (2)Stockbyte/Getty Images; (3)©Andersen Ross/Blend Images LLC; (4)Alan Pappe/Getty Images; (5)©Hill Street Studios/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s4.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s6.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_s1-1_s7.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)fotog/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s9.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_s1-1_s11.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_s1-1_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s13.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s14.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Martin Barraud/OJO Images/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s15.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)©Colin Anderson/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s16.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_s1-1_s17.xml" photo="(tr)C Squared Studios/Getty Images; (c)Photodisc Collection/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s18.swf" title="" photo="(tr)C Squared Studios/Getty Images; (l)©John Lund/Drew Kelly/Blend Images LLC; (c)Andersen Ross/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_s1-1_s19.xml" photo="(tr)C Squared Studios/Getty Images; (c)A. Minde/PhotoAlto; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_s1-1_s20.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s21.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_s1-1_s22.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s23.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_s1-1_s24.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_s1-1_s25.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_s1-1_s26.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s27.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s28.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_s1-1_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1 2)©Hill Street Studios/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_s1-1_s30.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+			
+		</Section>
+	
+		<Section title="Reading Skills">
+	
+			<SubSection title="Text and Visuals">
+				<Page data="assets/eng_m1-1_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)CDC/Cade Martin; (2)Uppercut RF/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s3.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-1_s4.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd c)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-1_s6.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd c)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s7.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)CDC/Cade Martin; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-1_s10.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s11.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-1_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-1_s13.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s14.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s15.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s16.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-1_s17.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-1_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s19.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			    <Page data="assets/eng_m1-1_s20.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s21.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s22.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-1_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s24.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s25.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-1_s26.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s27.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-1_s28.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			    <Page data="assets/eng_m1-1_s30.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-1_s31.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-1_s32.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s33.swf" title="" photo=""/>
+				<Page data="assets/eng_m1-1_s34.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Formula Z/S/Time &amp; Life Pictures/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s35.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Formula Z/S/Time &amp; Life Pictures/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s36.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Formula Z/S/Time &amp; Life Pictures/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-1_s37.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-1_s38.xml" photo="(tr)C Squared Studios/Getty Images; (c)Formula Z/S/Time &amp; Life Pictures/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s39.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Formula Z/S/Time &amp; Life Pictures/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			    <Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-1_s40.xml" photo="(tr)C Squared Studios/Getty Images; (inset)Formula Z/S/Time &amp; Life Pictures/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-1_s41.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-1_s42.xml" photo="(tr)C Squared Studios/Getty Images; (l)Library of Congress, Prints and Photographs Division [LC-DIG-ppmsca-02941]; (r)From Business 2.0, October 1, 2005 © 2005 Time Inc. Used under license. Business 2.0 and Time Inc. are not affiliated with, and do not endorse products or services of, Licensee.; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-1_s43.xml" photo="(tr)C Squared Studios/Getty Images; (inset)McGraw-Hill Companies, Inc. Mark Dierker, photographer; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+	
+			<SubSection title="Author’s Purpose, Audience, and Tone">
+				<Page data="assets/eng_m1-2_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s3.swf" title="" photo=""/>
+				<Page data="assets/eng_m1-2_s4.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s5.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-2_s6.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+                <Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-2_s7.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-2_s8.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-2_s9.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Barbara Singer/Archive Photos/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>			
+				<Page data="assets/eng_m1-2_s11.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Ingram Publishing; (2)BananaStock/JupiterImages; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m1-2_s12.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m1-2_s13.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-2_s14.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+                <Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-2_s15.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-2_s16.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-2_s17.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s18.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m1-2_s19.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m1-2_s20.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s21.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s22.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>			
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-2_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-2_s24.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s25.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+                <Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-2_s26.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-2_s27.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s28.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+                <Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-2_s29.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-2_s30.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s31.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m1-2_s32.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m1-2_s33.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-2_s34.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s35.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-2_s36.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s37.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-2_s38.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-2_s39.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-2_s40.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-2_s41.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-2_s42.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+	
+			<SubSection title="Rhetorical Analysis">
+				<Page data="assets/eng_m1-3_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ryan McVay/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)©Tim Pannell/Corbis; (2)Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-3_s4.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-3_s5.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-3_s6.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s7.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)©Dimitris Tavlikos/Alamy; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Tomi/PhotoLink/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s11.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Kick Images/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-3_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-3_s13.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-3_s14.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-3_s15.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-3_s16.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-3_s17.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-3_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s19.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-3_s20.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-3_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s22.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m1-3_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-3_s24.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-3_s25.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-3_s26.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s27.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m1-3_s28.xml" photo="(tr)C Squared Studios/Getty Images; (l)Design Pics/Don Hammond; (c)©Pixtal/age Fotostock; (r)Photographer's Choice 
+				RF/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)JGI/Blend Images LLC; (2)©RTimages/Alamy; (3)Arthur S. 
+				Aubry/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s30.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Bertrand Demee/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s31.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s32.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Comstock Images/JupiterImages; (2)Ingram Publishing/SuperStock; 
+				(3)Brand X Pictures/Jupiterimages; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-3_s33.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s34.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m1-3_s35.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s36.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Yury Kuzmin/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s37.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s38.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m1-3_s39.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m1-3_s40.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m1-3_s41.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+	
+		</Section>
+
+		<Section title="General Writing Skills">
+	
+			<SubSection title="Writing Clearly">
+				<Page data="assets/eng_m2-1_s1.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Martin Barraud/OJO Images/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)©Photodisc/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s4.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)S. Olsson/PhotoAlto; (2)©Hill Street Studios/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-1_s6.xml" photo="(tr)C Squared Studios/Getty Images; (c)©Fancy Collection/SuperStock; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-1_s7.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m2-1_s8.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1 2)Ingram Publishing; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s11.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s12.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Jupiterimages/Getty Images; (2)Corbis Super RF/Alamy; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s13.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s14.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s15.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Image Source/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-1_s16.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s17.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-1_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s19.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-1_s20.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-1_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>					
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s22.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s24.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s25.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s26.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s27.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-1_s28.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-1_s29.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s30.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-1_s31.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-1_s32.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-1_s33.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>		
+			</SubSection>
+	
+			<SubSection title="Using Words Effectively">
+				<Page data="assets/eng_m2-2_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-2_s2.swf" title="" photo=""/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-2_s3.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-2_s4.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-2_s6.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m2-2_s7.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-2_s8.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-2_s9.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-2_s11.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-2_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s13.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Comstock Images/Punchstock; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>					
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-2_s14.xml" photo="(tr)C Squared Studios/Getty Images; (c)Comstock Images/Punchstock; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s15.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-2_s16.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s17.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-2_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s19.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)©Glow Images/SuperStock; (2)Photodisc/Punchstock; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-2_s20.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-2_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s22.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-2_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m2-2_s24.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-2_s25.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s26.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-2_s27.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-2_s28.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-2_s29.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+	
+			<SubSection title="Types of Writing">
+				<Page data="assets/eng_m2-3_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Steve Mason/Getty Images; (2)©moodboard/Corbis; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s4.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Getty Images; (2)Tetra Images/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s5.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s6.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-3_s7.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)©Imagezoo/PunchStock; (2)Glow Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)©Digital Vision/Getty Images; (2)Ingram Publishing/SuperStock; 
+				(3)©Digital Vision; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s10.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m2-3_s11.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-3_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-3_s13.xml" photo="(tr)C Squared Studios/Getty Images; (c)©PhotoAlto/SuperStock; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s14.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s15.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m2-3_s16.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s17.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)McGraw-Hill Companies, Inc.; (2)Fuse/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m2-3_s18.xml" photo="(tr)C Squared Studios/Getty Images; (c)TRBfoto/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m2-3_s19.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m2-3_s20.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s21.swf" title="" photo="(tr)C Squared Studios/Getty Images; (l r)©Pixtal/age Fotostock; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s22.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m2-3_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s24.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)©Brand X Pictures/PunchStock; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s25.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m2-3_s26.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m2-3_s27.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s28.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Jill Braaten; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m2-3_s29.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m2-3_s30.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-3_s31.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s32.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)
+				Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m2-3_s33.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)©Image100/Corbis; (2)S. Olsson/PhotoAlto; (bkgd)
+				Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m2-3_s34.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)©Jose Luis Pelaez Inc/Blend Images LLC; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m2-3_s35.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>		
+			</SubSection>
+	
+		</Section>
+		
+		<Section title="Writing Essays">
+	
+			<SubSection title="Pre-Writing: Invention/Discovery">
+				<Page data="assets/eng_m3-1_s1.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Colin Anderson/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Colin Anderson/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s4.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s6.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-1_s7.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s11.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s12.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s13.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s14.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-1_s15.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-1_s16.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-1_s17.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-1_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-1_s19.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s20.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-1_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s22.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-1_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s24.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-1_s25.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s26.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-1_s27.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s28.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s30.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-1_s31.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-1_s32.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s33.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s34.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-1_s35.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s36.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Colin Anderson/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-1_s37.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-1_s38.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Colin Anderson/Blend Images LLC; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-1_s39.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+	
+			<SubSection title="Developing a Thesis">
+				<Page data="assets/eng_m3-2_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (c)©Stockbroker xtra/age fotostock; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s3.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-2_s4.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-2_s5.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-2_s6.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-2_s7.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-2_s9.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s11.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-2_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-2_s13.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s14.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)imagewerks/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-2_s15.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s16.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s17.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s18.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s19.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-2_s20.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Chad Baker/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-2_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+	
+			<SubSection title="Writing Introductory Paragraphs ">
+				<Page data="assets/eng_m3-3_s1.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)DEA/G. DAGLI ORTI/De Agostini/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images"/>
+				<Page data="assets/eng_m3-3_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-3_s3.xml" photo="(tr)C Squared Studios/Getty Images; (c)Photodisc Collection/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-3_s4.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Purestock/SuperStock; (2)SelectStock/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s6.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Getty Images; (2)Thinkstock/Jupiterimages; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s7.swf" title="" photo="(tr)C Squared Studios/Getty Images; (l)Hill Street Studios/Getty Images; (r)Glow Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-3_s8.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-3_s10.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-3_s11.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s12.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s13.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-3_s14.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s15.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)MaRoDee Photography/Alamy; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s16.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s17.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s18.swf" title="" photo=""/>
+				<Page data="assets/eng_m3-3_s19.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s20.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s21.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-3_s22.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s23.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-3_s24.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s25.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s26.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-3_s27.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-3_s28.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-3_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Nick Koudis/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-3_s30.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>				
+			</SubSection>
+	
+			<SubSection title="Writing Body Paragraphs ">
+				<Page data="assets/eng_m3-4_s1.swf" title="" photo=""/>
+				<Page data="assets/eng_m3-4_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Matelly/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s3.swf" title="" photo=""/>
+				<Page data="assets/launch.swf" title="" displaybar="false" info="xml/eng_m3-4_s4.xml" photo="(tr)C Squared Studios/Getty Images; (c)Colin Anderson/Blend Images LLC; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s6.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-4_s7.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-4_s8.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Colin Anderson/Blend Images LLC; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s11.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-4_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s13.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-4_s14.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-4_s15.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s16.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-4_s17.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-4_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s19.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s20.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-4_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-4_s22.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s23.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-4_s24.xml" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s25.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s26.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s27.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-4_s28.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-4_s29.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-4_s30.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+			</SubSection>
+	
+			<SubSection title="Writing Conclusion Paragraphs ">
+				<Page data="assets/eng_m3-5_s1.swf" title="" photo=""/>
+				<Page data="assets/eng_m3-5_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Ingram Publishing; (2)Imagezoo/Getty Images; (3)Design 
+				Pics/Kristy-Anne Glubish; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s4.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-5_s5.xml" photo="(tr)C Squared Studios/Getty Images; (c)A. Minde/PhotoAlto; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s6.swf" title="" photo=""/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-5_s7.xml" photo="(tr)C Squared Studios/Getty Images; (c)Frederick Bass/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-5_s8.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-5_s9.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-5_s10.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s11.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-5_s12.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s13.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-5_s14.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s15.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)©Stockbyte/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s16.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-5_s17.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-5_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-5_s19.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s20.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)imagewerks/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s21.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s22.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s23.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s24.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s25.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Stockbyte/Punchstock; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s26.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Stockbyte/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-5_s27.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-5_s28.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-5_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)©Brand X Pictures/PunchStock; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-5_s30.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>			
+			</SubSection>
+	
+			<SubSection title="Writing Arguments">
+				<Page data="assets/eng_m3-6_s1.swf" title="" photo=""/>
+				<Page data="assets/eng_m3-6_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1 2)Ingram Publishing (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s4.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-6_s5.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s6.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Brand X Pictures/Punchstock; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s7.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Les and Dave Jacobs/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-6_s9.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s11.swf" title="" photo=""/>
+				<Page data="assets/eng_m3-6_s12.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s13.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s14.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Garry Black/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-6_s15.xml" photo="(tr)C Squared Studios/Getty Images; (c)©image100/Corbis; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-6_s16.xml" photo="(tr)C Squared Studios/Getty Images; (c)Jerry Marks Productions/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-6_s17.xml" photo="(tr)C Squared Studios/Getty Images; (c)S. Olsson/PhotoAlto; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-6_s18.xml" photo="(tr)C Squared Studios/Getty Images; (c)Phillip Jarrell/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-6_s19.xml" photo="(tr)C Squared Studios/Getty Images; (c)Erica Simone Leeds; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s20.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-6_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s22.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Ingram Publishing; (2)©Nova Development; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s23.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s24.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Bertrand Demee/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s25.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s26.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Pixtal/age fotostock; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s27.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Jupiterimages/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s28.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)BLOOMimage/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Colin Anderson/Blend Images LLC; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s30.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Brand X Pictures; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-6_s31.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s32.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ingram Publishing; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s33.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-6_s34.xml" photo="(tr)C Squared Studios/Getty Images; (c)Stockbyte/Punchstock Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s35.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s36.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s37.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-6_s38.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-6_s39.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-6_s40.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-6_s41.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-6_s42.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-6_s43.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-6_s44.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-6_s45.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+			</SubSection>
+	
+			<SubSection title="Synthesizing">
+				<Page data="assets/eng_m3-7_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant 
+				Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s2.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Ingram Publishing; (2)Ryan McVay/Getty Images; 
+				(3)©Image100/Corbis; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s4.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s5.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Ken Welsh/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s6.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Frederick Bass/Getty Images; (bkgd)Grant Faint/Photographer's 
+				Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s7.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-7_s8.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m3-7_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s10.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-7_s11.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s12.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-7_s13.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-7_s14.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-7_s15.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s16.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Comstock/Getty Images; (2)Martin Barraud/OJO Images/Getty Images; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s17.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-7_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s19.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-7_s20.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-7_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-7_s22.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-7_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s24.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)MIKE PETERS EDTCTN (NEW) © KING FEATURES SYNDICATE; 
+				(bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s25.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-7_s26.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m3-7_s27.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-7_s28.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s30.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s31.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s32.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s33.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-7_s34.swf" title="" photo="(tr)C Squared Studios/Getty Images; (1)Pixtal/AGE Fotostock; (2)©Colin Anderson/Blend Images LLC; (3)©REB Images/Blend Images LLC;(4)David Muir/Digital Vision/Getty Images; (5)Gary S Chapman/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-7_s35.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+			</SubSection>
+	
+			<SubSection title="Revising">
+				<Page data="assets/eng_m3-8_s1.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s2.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s3.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-8_s4.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-8_s5.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m3-8_s6.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s7.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s8.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Glow Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s9.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-8_s10.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-8_s11.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s12.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Comstock/Jupiterimages; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-8_s13.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s14.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Radius Images/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s15.swf" title="" photo="(tr 1)C Squared Studios/Getty Images; (2)Stephanie Carter/Getty Images; (3)Stephen Waldron; (4)Photodisc/Punchstock; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/text_reading.swf" title="" displaybar="false" info="xml/eng_m3-8_s16.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/eng_m3-8_s17.swf" title="" photo="(tr bc)C Squared Studios/Getty Images; (br)Don Farrall/Digital Vision/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-8_s18.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-8_s19.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-8_s20.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-8_s21.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-8_s22.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/dragdrop.swf" title="" displaybar="false" info="xml/eng_m3-8_s23.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s24.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)DLILLC/Corbis. All Rights Reserved.; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s25.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s26.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Glow Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/popup.swf" title="" displaybar="false" info="xml/eng_m3-8_s27.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/fill_blank.swf" title="" displaybar="false" info="xml/eng_m3-8_s28.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s29.swf" title="" photo="(tr)C Squared Studios/Getty Images; (l)©Blend Images/SuperStock; (c r)Hill Street Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s30.swf" title="" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/eng_m3-8_s31.swf" title="" photo="(tr)C Squared Studios/Getty Images; (c)Polka Dot Images/Jupiterimages; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>
+				<Page data="assets/mc.swf" title="" displaybar="false" info="xml/eng_m3-8_s32.xml" photo="(tr)C Squared Studios/Getty Images; (bkgd)Grant Faint/Photographer's Choice/Getty Images."/>	
+			</SubSection>
+		</Section>
+		
+				
+		<Section title="VariableSets">
+				<GlossaryVar title="Glossary" GlossarySource="0"/>
+				<ForumVar title="Forum" OpenForum = "false"/>
+				<TrackingVar title="Tracking" TrackingOn="false"/>
+				<TrackingURL title="RequestURL" RequestURL="http://www.mbusadigitalmedia.com/courses/flashconsumables/index.aspx"/>
+				<TrackingURL title="SendURL" SendURL="http://www.mbusadigitalmedia.com/courses/flashconsumables/index.aspx"/>
+				<ForceLinear title="Linear" MainModules="false" SubModules="false" SubModules2="false" Pages="false"/>
+				<ClickThrough title="ClickThrough" MainModules="true" SubModules="true" SubModules2="true"/>
+		</Section>
+
+	</Course>
+</XML>

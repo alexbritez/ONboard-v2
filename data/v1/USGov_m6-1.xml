@@ -1,0 +1,489 @@
+<shell>
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m6-1_s1</video>
+    <credits>(cl-cr)Glow Images/Alamy, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others) Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s2</video>
+    <credits>(tr) Comstock/Getty Images, (c)PoodlesRock/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s3</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s4</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s5</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s6</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="9_Activity_Image_Rollclick">
+    <content><instruction>Six Framers are identified. Find them.</instruction></content>
+    <activity type="image">
+      <image>USGov_m6-1_s7.jpg</image>
+      <hotspots>
+		<hotspot dynamic="true" hidden="true" x="159" y="196">
+          <![CDATA[
+            <p>Roger Sherman</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" hidden="true" x="220" y="213">
+          <![CDATA[
+            <p>Alexander Hamilton</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" hidden="true" x="258" y="210">
+          <![CDATA[
+            <p>Benjamin Franklin</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" hidden="true" x="313" y="195">
+          <![CDATA[
+            <p>James Madison</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" hidden="true" x="456" y="104">
+          <![CDATA[
+            <p>George Washington</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" hidden="true" x="539" y="172">
+          <![CDATA[
+            <p>James Wilson</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m6-1_s7</audio>
+    <credits>(tr) Comstock/Getty Images, (c)PoodlesRock/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s8</video>
+    <credits>(tr) Comstock/Getty Images, (c)National Archives and Records Administration, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+		  	&quot;But the great security against a gradual concentration of the several powers in the same department consists in giving to those who administer each department <strong><a href="#" data-id="0" class="hotspot">the necessary constitutional means and personal motives to resist encroachments of the others</a></strong>. The provision for defense must in this, as in all other cases, be made commensurate to the danger of attack. <strong><a href="#" data-id="1" class="hotspot">Ambition must be made to counteract ambition</a></strong>. . . . It may be a reflection on human nature that such devices should be necessary to control the abuses of government. But what is government itself but the greatest of all reflections on human nature? <strong><a href="#" data-id="2" class="hotspot">If men were angels, no government would be necessary.</a></strong> If angels were to govern men, neither external nor internal controls on government would be necessary.&quot;
+          </p>
+          <p style="width:600px; text-align:right;">
+            —From <em>The Federalist</em>, No. 51
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <p>The Constitution must provide a means for one branch of government to resist seizures of power by the other branches.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Humans by nature want power, and the Constitution must protect one branch of government by giving it sufficient power to counteract the other branches' powers.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Humans will always be motivated by power and, therefore, must have written rules to govern their actions.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m6-1_s9</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+			<p style="font-weight:bold;width:600px;">Article I: The Legislative Branch</p>
+			<ul style="font-size:85%">
+				<li style="font-size:90%"><strong>Section 1:</strong> Creates a <strong style="background-color:#FFFF99"><a href="#" data-id="0" class="hotspot">bicameral</a></strong> legislature called Congress, with a House of Representatives and a Senate.</li>
+				<li style="font-size:90%"><strong>Section 2:</strong> States the terms of office for members of the House of Representatives, how to fill vacant spots, and names the officers of the House. Also gives the House the power of <strong style="background-color:#FFFF99"><a href="#" data-id="1" class="hotspot">impeachment</a></strong>.</li>
+				<li style="font-size:90%"><strong>Section 3:</strong> States the terms of office for members of the Senate, the <strong style="background-color:#FFFF99"><a href="#" data-id="2" class="hotspot">vice president's role in the Senate</a></strong>, and names the officers. Also gives the Senate the role of holding impeachment trials and states the punishment for impeachment.</li>
+				<li style="font-size:90%"><strong>Section 4:</strong> Establishes rules for congressional elections.</li>
+				<li style="font-size:90%"><strong>Section 5:</strong> Establishes rules for sessions of Congress.</li>
+				<li style="font-size:90%"><strong>Section 6:</strong> Authorizes payment for members of Congress and creates rules for payment.</li>
+				<li style="font-size:90%"><strong>Section 7:</strong> Establishes how legislation will be created and passed.</li>
+				<li style="font-size:90%"><strong>Section 8:</strong> <strong style="background-color:#FFFF99"><a href="#" data-id="3" class="hotspot">Enumerates</a></strong> the powers of Congress.</li>
+				<li style="font-size:90%"><strong>Section 9:</strong> Describes the powers denied to Congress.</li>
+				<li style="font-size:90%"><strong>Section 10:</strong> Describes the powers denied to the states.</li>
+			</ul>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+		  	<h1>bicameral</h1>
+            <p>two-house</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+		  	<h1>impeachment</h1>
+            <p>bringing of charges against a public official</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+		  	<h1>vice president's role in the Senate</h1>
+            <p>The vice president is the president of the Senate but has no vote unless a tiebreaking vote is needed.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+		  	<h1>Enumerates</h1>
+            <p>specifically lists or describes</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m6-1_s10</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">A. How long do Representatives serve?</match>
+        <match id="6">B. How much do Senators make?</match>
+        <match id="3">C. Who is the head of the Senate?</match>
+        <match id="8">D. Who establishes post offices?</match>
+        <match id="7">E. How do bills become laws?</match>
+		<match id="5"><![CDATA[F. How many members must be at a<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;session?]]></match>
+		<match id="10">G. Can states pass import taxes?</match>
+		<match id="1">H. What are the two parts of Congress?</match>
+		<match id="4">I. When are elections held?</match>
+		<match id="9">J. Can Congress tax interstate trade?</match>
+      </matches>
+      <drops title="Article I: The Legislative Branch" children-styles="margin-bottom: 0.1em;">
+        <drop x="0" y="30" correct="1"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 1:</strong> Creates a bicameral legislature called Congress, with a House of Representatives and a Senate.</p>]]></drop>
+        <drop x="0" y="65" correct="2"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 2:</strong> States the terms of office for members of the House of Representatives, how to fill vacant spots, and names the officers of the House. Also gives the House the power of impeachment.</p>]]></drop>
+        <drop x="0" y="113" correct="3"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 3:</strong> States the terms of office for members of the Senate, the vice president's role in the Senate, and names the officers. Also gives the Senate the role of holding impeachment trials and states the punishment for impeachment.</p>]]></drop>
+        <drop x="0" y="161" correct="4"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 4:</strong> Establishes rules for congressional elections.</p>]]></drop>
+        <drop x="0" y="196" correct="5"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 5:</strong> Establishes rules for sessions of Congress.</p>]]></drop>
+    		<drop x="0" y="231" correct="6"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 6:</strong> Authorizes payment for members of Congress and creates rules for payment.</p>]]></drop>
+    		<drop x="0" y="266" correct="7"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 7:</strong> Establishes how legislation will be created and passed.</p>]]></drop>
+    		<drop x="0" y="301" correct="8"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 8:</strong> Enumerates the powers of Congress.</p>]]></drop>
+    		<drop x="0" y="336" correct="9"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 9:</strong> Describes the powers denied to Congress.</p>]]></drop>
+    		<drop x="0" y="371" correct="10"><![CDATA[<p style="font-size:90%;text-align:left;padding-left:5.5em"><strong>Section 10:</strong> Describes the powers denied to the states.</p>]]></drop>
+      </drops>
+      <image>USGov_m6-1_s11.jpg</image>
+    </matching>
+	<!--<matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">A. How long do Representatives serve?</match>
+        <match id="6">B. How much do Senators make?</match>
+        <match id="3">C. Who is the head of the Senate?</match>
+        <match id="8">D. Who establishes post offices?</match>
+        <match id="7">E. How do bills become laws?</match>
+		<match id="5">F. How many members must be at a session?</match>
+		<match id="10">G. Can states pass import taxes?</match>
+		<match id="1">H. What are the two parts of Congress?</match>
+		<match id="4">I. When are elections held?</match>
+		<match id="9">J. Can Congress tax interstate trade?</match>
+      </matches>
+      <drops title="Article I: The Legislative Branch" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="1" y="1"/>
+        <drop correct="2" x="1" y="1"/>
+        <drop correct="3" x="1" y="1"/>
+        <drop correct="4" x="1" y="1"/>
+        <drop correct="5" x="1" y="1"/>
+		<drop correct="6" x="1" y="1"/>
+		<drop correct="7" x="1" y="1"/>
+		<drop correct="8" x="1" y="1"/>
+		<drop correct="9" x="1" y="1"/>
+		<drop correct="10" x="1" y="1"/>
+      </drops>
+	  <image>USGov_m6-1_s11.jpg</image>
+    </matching>-->
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m6-1_s11</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="3_txt_img_reading">
+    <content>
+      <header italic="false">Legislative Authority</header>
+      <text>
+        <![CDATA[
+		<p>
+			&quot;In republican government, the legislative authority necessarily predominates. The remedy for this inconveniency is to divide the legislature into different branches; and to render them, by different modes of election and different principles of action, as little connected with each other as the nature of their common functions and their common dependence on the society will admit. It may even be necessary to guard against dangerous encroachments by still further precautions.&quot;
+		</p>
+		<p style="text-align:right;">
+			—From <em>The Federalist</em>, No. 51
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m6-1_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>For what is Madison arguing in the excerpt?</question>
+        <answers>
+          <answer>The executive branch should be the strongest branch of government.</answer>
+		  <answer>The judicial branch should be the strongest branch of government.</answer>
+          <answer correct="true">The legislative branch of government must be divided into two houses to help prevent legislative domination of government.</answer>
+		  <answer>A bicameral legislative branch of government will be dangerously powerful.</answer>
+		  <answer>The legislative branch should be the weakest branch of government.</answer>
+        </answers>
+		<figure>
+			<header italic="false">Legislative Authority</header>
+			  <text>
+				<![CDATA[
+				<p>
+					&quot;In republican government, the legislative authority necessarily predominates. The remedy for this inconveniency is to divide the legislature into different branches; and to render them, by different modes of election and different principles of action, as little connected with each other as the nature of their common functions and their common dependence on the society will admit. It may even be necessary to guard against dangerous encroachments by still further precautions.&quot;
+				</p>
+				<p style="text-align:right;">
+					—From <em>The Federalist</em>, No. 51
+				</p>
+				]]>
+			  </text>
+		</figure>
+		<feedbackAudio>USGov_m6-1_s13_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s14</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>How does Article II help resolve problems with foreign relations?</question>
+        <answers>
+          <answer>by giving the president the ability to make a State of the Union address</answer>
+		  <answer>by requiring an Oath of Office</answer>
+          <answer correct="true">by establishing the powers of commander in chief and the authority to make treaties</answer>
+		  <answer>by allowing the president to call an emergency session of Congress</answer>
+		  <answer>by giving Congress the power of impeachment</answer>
+        </answers>
+		<feedbackAudio>USGov_m6-1_s15_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="3_txt_img_reading">
+    <content>
+      <header italic="false">Executive Strength</header>
+      <text>
+        <![CDATA[
+		<p>
+			&quot;Energy in the Executive is a leading character in the definition of good government. It is essential to the protection of the community against foreign attacks; it is not less essential to the steady administration of the laws; to the protection of property against those irregular and high-handed combinations which sometimes interrupt the ordinary course of justice; to the security of liberty against the enterprises and assaults of ambition, of faction, and of anarchy.&quot;
+		</p>
+		<p style="text-align:right;">
+			—From <em>The Federalist</em>, No. 70
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m6-1_s16</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Which of the following does Hamilton believe to be one of the roles of the executive?</question>
+        <answers>
+          <answer>to be ambitious</answer>
+		  <answer>to fight in the military</answer>
+          <answer>to make laws</answer>
+		  <answer correct="true">to protect the community against foreign attack</answer>
+		  <answer>to be part of a faction</answer>
+        </answers>
+		<figure>
+			<header italic="false">Executive Strength</header>
+			  <text>
+				<![CDATA[
+				<p>
+					&quot;Energy in the Executive is a leading character in the definition of good government. It is essential to the protection of the community against foreign attacks; it is not less essential to the steady administration of the laws; to the protection of property against those irregular and high-handed combinations which sometimes interrupt the ordinary course of justice; to the security of liberty against the enterprises and assaults of ambition, of faction, and of anarchy.&quot;
+				</p>
+				<p style="text-align:right;">
+					—From <em>The Federalist</em>, No. 70
+				</p>
+				]]>
+			  </text>
+		</figure>
+		<feedbackAudio>USGov_m6-1_s17_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>USGov_m6-1_s18</video>
+    <credits>(tr) Comstock/Getty Images, (c)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="3_txt_img_reading">
+    <content>
+      <header italic="false">Power of the Judiciary</header>
+      <text>
+        <![CDATA[
+		<p>
+			&quot;The judiciary . . . has no influence over either the sword or the purse; no direction either of the strength or of the wealth of the society, and can take no active resolution whatever. It may truly be said to have neither FORCE nor WILL, but merely judgment; and must ultimately depend upon the aid of the executive arm even for the efficacy of its judgments.</p>
+<p>This simple view of the matter suggests several important consequences. It proves incontestably that the judiciary is beyond comparison the weakest of the three departments of power.&quot;
+		</p>
+		<p style="text-align:right;">
+			—From <em>The Federalist</em>, No. 78
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m6-1_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>When Hamilton refers to "the purse," which branch of government is he talking about?</question>
+        <answers>
+          <answer>judicial</answer>
+		  <answer correct="true">legislative</answer>
+          <answer>executive</answer>
+		  <answer>Supreme Court</answer>
+		  <answer>bureaucracy</answer>
+        </answers>
+		<figure>
+			<header italic="false">Power of the Judiciary</header>
+			  <text>
+				<![CDATA[
+				<p>
+					&quot;The judiciary . . . has no influence over either the sword or the purse; no direction either of the strength or of the wealth of the society, and can take no active resolution whatever. It may truly be said to have neither FORCE nor WILL, but merely judgment; and must ultimately depend upon the aid of the executive arm even for the efficacy of its judgments.</p>
+		<p>This simple view of the matter suggests several important consequences. It proves incontestably that the judiciary is beyond comparison the weakest of the three departments of power.&quot;
+				</p>
+				<p style="text-align:right;">
+					—From <em>The Federalist</em>, No. 78
+				</p>
+				]]>
+			  </text>
+		</figure>
+		<feedbackAudio>USGov_m6-1_s20</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Which branch of government acts as the enforcer of federal court decisions?</question>
+        <answers>
+          <answer>judicial</answer>
+		  <answer>legislative</answer>
+          <answer correct="true">executive</answer>
+		  <answer>Supreme Court</answer>
+		  <answer>bureaucracy</answer>
+        </answers>
+		<figure>
+			<header italic="false">Power of the Judiciary</header>
+			  <text>
+				<![CDATA[
+				<p>
+					&quot;The judiciary . . . has no influence over either the sword or the purse; no direction either of the strength or of the wealth of the society, and can take no active resolution whatever. It may truly be said to have neither FORCE nor WILL, but merely judgment; and must ultimately depend upon the aid of the executive arm even for the efficacy of its judgments.</p>
+		<p>This simple view of the matter suggests several important consequences. It proves incontestably that the judiciary is beyond comparison the weakest of the three departments of power.&quot;
+				</p>
+				<p style="text-align:right;">
+					—From <em>The Federalist</em>, No. 78
+				</p>
+				]]>
+			  </text>
+		</figure>
+		<feedbackAudio>USGov_m6-1_s21_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+	  <multiple>
+        <question>Article 1, Section 1 creates a bicameral legislature.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The U.S. president holds treaty-making powers.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The U.S. vice president takes on the role of president of the House of Representatives if a tie-breaking vote is needed.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Article II established the Supreme Court.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Treason is one of the few crimes described in the Constitution.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-1_s22</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

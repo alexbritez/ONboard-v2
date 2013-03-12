@@ -1,0 +1,30 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Fix this sentence:</p>]]></hText>
+		<fraction></fraction>
+		<qText><![CDATA[<p>I think the most interesting sport to watch is baseball players.</p>]]></qText>
+		<correctText><![CDATA[<p><font face='lc-Bold'>Answer:</font>
+The sentence begins by claiming that it will define which sport is the most interesting sport to watch. However, “baseball players” are not a sport. They are <font face='lc-Bold'>participants</font> in a sport. To make the sentence logical, we simply have to remove the word “players.” 
+This new sentence is completely logical: I think the most interesting sport to watch is baseball. 
+</p>]]></correctText>
+		<haveSource enable="false" word="View" image="images/chem_m1-6_s17.jpg" />
+		<audio>audio/eng_m2-1_s17.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

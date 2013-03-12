@@ -1,0 +1,11 @@
+<FillIn>
+	<slideInfo>
+		<hText>Write a sentence that uses the rhetorical device of personification.</hText>
+		<qText></qText>
+		<correctText><![CDATA[<font face="c-bold" >ANSWER</font><br/>Any sentence that gives inanimate objects human characteristics is acceptable.<br/><font face="c-bold">SAMPLES OF PERSONIFICATION</font><br/>The alarm clock, fearing it had been overlooked, shuttled to the end of the nightstand and bleated like a lost sheep.<br/>Fear's icy fingers tapped at my shoulder, but courage crawled unexpectedly into my pocket.</font>
+]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/eng_m3-1_s23.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

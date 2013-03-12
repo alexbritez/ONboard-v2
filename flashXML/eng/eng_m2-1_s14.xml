@@ -1,0 +1,29 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Rewrite with a new sentence opener.</p>]]></hText>
+		<fraction>answer</fraction>
+		<qText><![CDATA[<p>We will enjoy shopping at the new mall. My friends and I will have a great time.</p>]]></qText>
+		<correctText><![CDATA[<p><font face='c-Bold'>Sample answer:</font> 
+
+Shopping at the new mall, my friends and I will have a great time.</p>]]></correctText>
+		<haveSource enable="false" word="View" image="images/chem_m1-6_s17.jpg" />
+		<audio>audio/eng_m2-1_s14.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

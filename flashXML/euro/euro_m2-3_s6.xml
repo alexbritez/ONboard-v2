@@ -1,0 +1,39 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Writing a Thesis Statement</title>
+		<info><![CDATA[What was Thomas Hobbes’s view of human nature and what conclusions did he draw from it about the best form of government?]]></info>
+		<image>images/euro_m2-3_s6.jpg</image>
+		<audio>audio/euro_m2-3_s6.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Step 1: Dissect the prompt  </Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>583.6</xCord>
+			<yCord>133.95</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[By the seventeenth century, following the death of Queen Elizabeth I, the argument over how much power should be in the hands of central authority escalated to new heights.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Step 2: Organize your thoughts</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>817.1</xCord>
+			<yCord>133.95</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[The start of King James I’s reign in 1603 marked the beginning of the conflict between the power of Parliament and the absolute authority of the King. Parliament and the supporters of the monarchy fought a bloody civil war in the 1640s to determine which type of government should rule England. The Parliamentary forces won and King Charles I was executed in 1649. England then became a republic, ruled by Parliament and later Lord Protector Oliver Cromwell.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Step 3: Form your thesis statement</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>700.35</xCord>
+			<yCord>281</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Thomas Hobbes (1588-1679), an English philosopher weighed in on this disagreement. He wrote his political book <font face='c-Italic'>Leviathan or The Matter, Forme and Power of a Common Wealth Ecclesiasticall and Civil</font>, commonly called <font face='c-Italic'>Leviathan</font>, in 1651.]]></popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>

@@ -1,0 +1,12 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p></p>]]></hText>
+		<qText><![CDATA[<p>Write your own narrative sentences about what makes someone a hero.</p>]]></qText>
+		
+		<correctText><![CDATA[<p><font face='c-Bold'>Check your narrative mode:</font><br/>Have you used strong personal examples?<br/>Do you have a thesis statement?<br/>Is your purpose focused around a single idea?<br/>Does your reader understand the significance of your story?</p>]]></correctText>
+
+		<haveSource enable="false"/>
+		<audio>audio/eng_m2-3_s7.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

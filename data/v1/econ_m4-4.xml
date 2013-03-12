@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Arithmetic vs. Geometric Progressions">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m4-4_s1</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s2</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s3</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s4</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M04_04_01A.mp4</url>
+    <image>econ_m4-4_s5.jpg</image>
+    <audio>econ_m4-4_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="4">-25, -31, -37</match>
+    		<match id="3"><![CDATA[4, <sup>13</sup>&frasl;<sub>4</sub>, <sup>5</sup>&frasl;<sub>2</sub>]]></match>
+    		<match id="2">70, 62, 54</match>
+    		<match id="5">11, 14, 17</match>
+    		<match id="1">81, 98, 115</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="62" y="72"></drop>
+        <drop correct="2" x="62" y="119"></drop>
+        <drop correct="3" x="62" y="166"></drop>
+        <drop correct="4" x="62" y="213"></drop>
+        <drop correct="5" x="62" y="260"></drop>
+      </drops>
+      <image>econ_m4-4_s6.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m4-4_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is the 24th term of the arithmetic sequence 3, –2, –7, –12, ...?</question>
+        <answers>
+          <answer>-62</answer>
+		  <answer>-92</answer>
+          <answer correct="true">-112</answer>
+		  <answer>-115</answer>
+		  <answer>-162</answer>
+        </answers>
+        <feedbackAudio>econ_m4-4_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-4_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s9</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s10</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s11</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s12</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>econ_m4-4_s13</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="3">3.5, 1.75, 0.875</match>
+		<match id="4">20.25, -15.1875, 11.390625</match>
+		<match id="1"><![CDATA[40&frac12;, -121&frac12;, 364&frac12;]]></match>
+		<match id="2">29,282; 322,102; 3,543,122</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="104" y="52"></drop>
+		<drop correct="2" x="104" y="133"></drop>
+		<drop correct="3" x="104" y="214"></drop>
+		<drop correct="4" x="104" y="295"></drop>
+      </drops>
+      <image>econ_m4-4_s14.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m4-4_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>The 15th term of a geometric sequence is 32,768. Which choice shows the possible first term and the possible common ratio?</question>
+        <answers>
+          <answer correct="true">2, 2</answer>
+		  <answer>4, 3</answer>
+		  <answer>8, 4</answer>
+		  <answer>15, 4</answer>
+		  <answer>8, –4</answer>
+        </answers>
+        <feedbackAudio>econ_m4-4_s15_FB</feedbackAudio>
+      </multiple>`
+    </multiple_choice>
+    <audio>econ_m4-4_s15</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="1_Module_Intro">
+    <video>econ_m4-4_s16</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M04_04_04A.mp4</url>
+    <image>econ_m4-4_s17.jpg</image>
+    <audio>econ_m4-4_s17</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Time Value of Money</header>
+      <instruction>
+        <![CDATA[
+          <h1>Click to Explore</h1>
+          <p>Click on the 'hot spots' to view additional information.</p>
+        ]]>
+      </instruction>
+    </content>
+    <activity type="text">
+      <text><![CDATA[
+	  <p>Because of compound interest, money today is worth more in the future because today's money can earn interest in an account or investment.</p>
+	  <p>The time value of money is the idea that a specific amount of money is more valuable to a person the sooner it is obtained. It also determines a way in which a given amount of money today can be thought of as being equivalent to a larger amount of money in the future.</p>
+	  <p>We can use this formula to determine the future value of a present amount of money.</p>
+	  <p style="font-size: 150%;"><a href="#" data-id="0" class="hotspot"><em>FV</em></a> = <a href="#" data-id="1" class="hotspot"><em>PV</em></a> ( 1 + <a href="#" data-id="2" class="hotspot"><em>i</em></a> )<sup><a href="#" data-id="3" class="hotspot"><em>t</em></a></sup></p>
+	  ]]></text>
+      <hotspots>
+        <hotspot>
+			<![CDATA[
+		  		<h1>FV = Future Value</h1>
+				<p>Future value is the amount to which some current amount of money will grow as interest compounds over time.</p>
+			]]>
+        </hotspot>
+		<hotspot>
+			<![CDATA[
+		  		<h1>PV = Present Value or Principal</h1>
+				<p>Present value is today's value of some amount of money to be received in the future.</p>
+			]]>
+        </hotspot>
+		<hotspot>
+			<![CDATA[
+		  		<h1>i = Interest</h1>
+				<p>Interest is the price paid for the use of money. It is stated as an annualized percentage.</p>
+			]]>
+        </hotspot>
+		<hotspot>
+			<![CDATA[
+		  		<h1>t = Time</h1>
+				<p>The number of years an investment is held greatly impacts the future value of the money.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m4-4_s18</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="1_Module_Intro">
+    <video>econ_m4-4_s19</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Suppose Carol's uncle has left her $2000 in his will. The money is being put into a bank account earning 5% interest compounded annually. Her uncle restricted her from accessing the account until she turns 21, two years from now. How much money will be in the account when she can withdraw the funds?</question>
+        <answers>
+          <answer>$2010</answer>
+		  <answer>$2100</answer>
+		  <answer>$2200</answer>
+          <answer correct="true">$2205</answer>
+		  <answer>$2222</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m4-4_s20_view.jpg</figure>
+        <feedbackAudio>econ_m4-4_s20_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-4_s20</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[What are the next three terms of the arithmetic sequence 1, &frac12;, 0, &ndash;&frac12;, ...?]]></question>
+        <answers>
+          <answer correct="true"><![CDATA[&ndash;1, &ndash;1&frac12;, &ndash;2]]></answer>
+		  <answer><![CDATA[0, &frac12;, 1]]></answer>
+		  <answer><![CDATA[&ndash;<sup>3</sup>&frasl;<sub>4</sub>, &ndash;<sup>7</sup>&frasl;<sub>8</sub>, &ndash;1]]></answer>
+		  <answer><![CDATA[&ndash;1, &ndash;2, &ndash;3]]></answer>
+		  <answer><![CDATA[&ndash;1, &ndash;1&frac12;, &ndash;2&frac12;]]></answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following is the 16th term of the arithmetic sequence 4, 8, 12, 16, ...?</question>
+        <answers>
+          <answer>56</answer>
+		  <answer>60</answer>
+          <answer correct="true">64</answer>
+		  <answer>68</answer>
+		  <answer>72</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>What are the next three terms of the geometric sequence 25, 12.5, 6.25, 3.125, ...?</question>
+        <answers>
+          <answer>1.5, 1, 0.5</answer>
+		  <answer>0, –3.125, –6.25</answer>
+		  <answer>1.5, 0, –1.5</answer>
+		  <answer>0, 3.125, 6.25</answer>
+          <answer correct="true">1.5625, 0.78125, 0.390625</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Find the 10th term of the geometric sequence whose first term is 3 and common ratio is –2.</question>
+        <answers>
+          <answer>512</answer>
+		  <answer>–512</answer>
+		  <answer>1024</answer>
+		  <answer>–1024</answer>
+          <answer correct="true">–1536</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Gary put $3000 in a bank account earning 4% interest compounded annually. His goal is to buy a car in three years. If he leaves the money alone, how much money will he have in three years?</question>
+        <answers>
+          <answer>$3300</answer>
+          <answer correct="true">$3375</answer>
+		  <answer>$3425</answer>
+		  <answer>$3450</answer>
+		  <answer>$3500</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m4-4_s21</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

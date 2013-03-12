@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Data to Evidence</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m2-3_s13.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s13.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s13_a.mp3"/>
+			<xCord>463</xCord>
+			<yCord>120.45</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[The precipitate is evidence that a chemical reaction occurred.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s13_b.mp3"/>
+			<xCord>463</xCord>
+			<yCord>198.45</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Bubbling indicates the formation of a gas. If the bubbling is not during a phase transition, it’s evidence of a chemical reaction. When the bubbling stops, the reaction is complete.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>3</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s13_c.mp3"/>
+			<xCord>463</xCord>
+			<yCord>294.45</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[The magnesium sulfate was heated to a constant mass, indicating that all of the hydrated water was removed.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>4</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s13_d.mp3"/>
+			<xCord>463</xCord>
+			<yCord>386.45</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Adding heat causes an increase in the kinetic energy of the gas molecules.  The gas molecules hit the sides of the container more frequently and with a greater force, increasing the pressure.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

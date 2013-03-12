@@ -1,0 +1,45 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[How does King James feel about laws?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[They are doubtsome and rigorous.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The monarch can interpret laws in any way he sees fit. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The monarch should do away with laws.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[The monarch can make new laws, but cannot assign penalties.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[The monarch can take the life of a subject even if there is no clear law regarding the offense.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-2_s12_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

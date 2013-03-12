@@ -1,0 +1,92 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Informative or Argument Assertion?</title>
+		<info></info>
+		<image>images/eng_m3-6_s5.jpg</image>
+		<audio>audio/eng_m3-6_s5.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>101.7</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is NOT a valid assertion for an argument essay, but would be appropriate for an informative essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>149.85</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is a valid assertion for an argument essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="true" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>185.35</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is a valid assertion for an argument essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>222.85</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is NOT a valid assertion for an argument essay, but would be appropriate for an informative essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="true" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>262.05</yCord>
+			<width>87</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is a valid assertion for an argument essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>311.2</yCord>
+			<width>74</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is NOT a valid assertion for an argument essay, but would be appropriate for an informative essay.]]></popInfo>
+		</pButton> 
+				<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>370.9</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is a valid assertion for an argument essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="true" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>418.8</yCord>
+			<width>87</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is a valid assertion for an argument essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>428</xCord>
+			<yCord>456.3</yCord>
+			<width>74</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This is NOT a valid assertion for an argument essay, but would be appropriate for an informative essay.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

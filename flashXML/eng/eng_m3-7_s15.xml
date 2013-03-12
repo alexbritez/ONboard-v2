@@ -1,0 +1,27 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Rewrite the Task</p>]]></hText>
+		<qText><![CDATA[<p>Read the following sources carefully. In a well-organized essay, take a position on the relevance of the women’s rights struggle to the overall cultural prosperity of the United States.</p>]]></qText>
+		<correctText><![CDATA[<p><font face='c-Bold'>Sample Answer:</font>
+In an argument, answer this question: How does the treatment of women in our country affect the prosperity of the United States?</p>]]></correctText>
+		<haveSource enable="false" word="View" image="images/chem_m1-6_s17.jpg" />
+		<audio>audio/eng_m3-7_s15.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Gathering and Organizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m1-1_s1</video>
+      <credits>See above</credits>
+   </scene>
+
+   <scene id="2" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>A Typical High School U.S. History Book</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m1-1_s2.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m1-1_s2_A" dynamic="true" x="159" y="5"><![CDATA[
+				<p>Notice the size and amount of text on this page.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s2_B" dynamic="true" x="159" y="79"><![CDATA[
+				<p>Vocabulary words are often highlighted and in boldface type. </p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s2_C" dynamic="true" x="159" y="231"><![CDATA[
+				<p>Notice the frequent use of headings and subheadings.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s2_D" dynamic="true" x="463" y="146"><![CDATA[
+				<p>The high school book uses two short paragraphs to explain the Homestead Strike of 1892.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m1-1_s2</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>A Typical AP-level U.S. History Book</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m1-1_s3.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m1-1_s3_A" dynamic="true" x="159" y="5"><![CDATA[
+				<p>Notice the size, amount, and level of sophistication of the text on this page.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s3_B" dynamic="true" x="221" y="88"><![CDATA[
+				<p>The AP-level book places subheadings alongside narrative content.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s3_C" dynamic="true" x="117" y="204"><![CDATA[
+				<p>College-level textbooks used in AP classes don't always emphasize vocabulary words and may not feature a glossary.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s3_D" dynamic="true" x="267" y="298"><![CDATA[
+				<p>This book provides more detailed information about the Homestead Strike. AP and college students need this additional information to score high on the AP exam or to succeed in college classes.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m1-1_s3</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s4</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Georges Lepape/Vogue, The Conde Nast Publications, Inc., (2)Library of Congress Prints and Photographs Division [LC-USZC4-4593], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s5</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s6</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-USZC4-2109], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s7</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s8</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (tcr)Archive Holdings Inc./Archive Photos/Getty Images, (bcr)Appleping/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s9</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s10</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Krista Dornbush, Fountain Valley, CA, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s11</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m1-1_s12.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m1-1_s12_Body" dynamic="true" x="432" y="271"><![CDATA[
+            <h1>Text</h1>
+				<p>Provides all the specific facts you need to understand the author's argument.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s12_Subheading" dynamic="true" x="16" y="116"><![CDATA[
+            <h1>Subheading</h1>
+				<p>Gives important details the author will explore to help you better understand the topic.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s12_CallOuts" dynamic="true" x="295" y="210"><![CDATA[
+            <h1>Call Outs</h1>
+				<p>Help you hone in on particular details and ideas.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s12_The_New_Economy" dynamic="true" x="16" y="42"><![CDATA[
+            <h1>Main Heading</h1>
+				<p>Tells you the primary topic of text that follows.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m1-1_s12</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/US_M02_01_09P.jpeg</url>
+      <image>USH_m1-1_s13.jpg</image>
+      <audio>USH_m1-1_s13</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which sentence best summarizes the main historical dilemma described in the chapter introduction?</question>
+            <answers>
+               <answer>Many people at the time referred to the 1920s as the "New Era."</answer>
+			   <answer>People today remember the 1920s as a frivolous time, but it was actually a time of modernization.</answer>
+               <answer correct="true">The changes of the 1920s created numerous political, economic, and cultural divisions among Americans.</answer>
+			   <answer>The middle class grew greatly during the 1920s even as a new consumer culture emerged.</answer>
+			   <answer>Industrialization and urbanization first emerged during the 1920s.</answer>
+            </answers>
+            <feedbackAudio>USH_m1-1_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-1_s14</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s15</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s16</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Metropolitan Museum of Art/Art Resource, NY, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s17</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Georges Lepape/Vogue, The Conde Nast Publications, Inc., (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s18</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m1-1_s19.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m1-1_s19_AdvocatesOfCentralization" dynamic="true" x="9" y="283"><![CDATA[
+				<p>Who were the advocates of centralization?</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s19_SupportersOfAStrong" dynamic="true" x="286" y="143"><![CDATA[
+				<p>This callout shows you where to find a clue to answer the question.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m1-1_s19_right-handColumn" dynamic="true" x="582" y="88"><![CDATA[
+				<p>Text provides details to answer the question.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m1-1_s19</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">A. What was the role of radio?</match>
+			<match id="2">B. How did technology and the economy grow?</match>
+			<match id="3">C. What was the new economy?</match>
+			<match id="4">D. What were the sources of the boom?</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="3" x="-12" y="52" />
+			<drop correct="2" x="-12" y="137" />
+			<drop correct="4" x="395" y="97" />
+			<drop correct="1" x="395" y="239" />
+         </drops>
+         <image>USH_m1-1_s20.jpg</image>
+      </matching>
+      <instructions>Match the items on the left to the correct areas on the right.</instructions>
+      <audio>USH_m1-1_s20</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/US_M02_01_11P.jpeg</url>
+      <image>USH_m1-1_s20.jpg</image>
+      <audio>USH_m1-1_s21</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s22</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>USH_m1-1_s23</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="1_Module_Intro">
+      <video>USH_m1-1_s24</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="25" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>High school textbooks and AP textbooks are pretty much the same.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Special features in AP textbooks are mostly text, not usually image-based.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>You can apply the same reading style to your textbook that you use to read blogs or magazines.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Within each textbook section, individual paragraphs provide important details that support the main point of the section.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Turning text features into questions gives you a good method to structure your notes.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What would be the best question to ask about this heading: "Sand Creek Massacre"?</question>
+            <answers>
+               <answer>Who died at the Sand Creek Massacre?</answer>
+               <answer correct="true">What happened at the Sand Creek Massacre?</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What would be the best question to ask about this heading: "The New South"?</question>
+            <answers>
+               <answer>What was new about the South?</answer>
+               <answer correct="true">What was considered "the new South"?</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What would be the best question to ask about this heading: "The Black Codes"?</question>
+            <answers>
+               <answer>What were the Black Codes?</answer>
+               <answer correct="true">Who was affected by the Black Codes?</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What would be the best question to ask about this heading: "Shifting Nature of the Workforce"?</question>
+            <answers>
+               <answer correct="true">What caused the workforce to shift?</answer>
+               <answer>What about the workforce shifted?</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What would be the best question to ask about this map?</question>
+            <answers>
+               <answer>How did the railroad network grow?</answer>
+               <answer correct="true">What issues effected the growth of the railroad between 1850 and 1860?</answer>
+            </answers>
+            <figure>USH_m1-1_s25_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-1_s25</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

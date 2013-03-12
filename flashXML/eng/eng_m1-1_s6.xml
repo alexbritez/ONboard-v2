@@ -1,0 +1,50 @@
+<PopUp>
+	<slideInfo>
+		<title>What will you learn when studying nonfiction?</title>
+		<info></info>
+		<image>images/eng_m1-1_s6.jpg</image>
+		<audio>audio/eng_m1-1_s6.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Engage</Name>
+			<audio enable="true" url="audio/eng_m1-1_s6_ENGAGE.mp3"/>
+			<xCord>533.6</xCord>
+			<yCord>169.7</yCord>
+			<width>134</width>
+			<popTitle>Engage</popTitle>
+			<popInfo><![CDATA[You will learn to engage the world around you.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Validate</Name>
+			<audio enable="true" url="audio/eng_m1-1_s6_VALIDATE.mp3"/>
+			<xCord>858.25</xCord>
+			<yCord>169.7</yCord>
+			<width>85</width>
+			<popTitle>Validate</popTitle>
+			<popInfo><![CDATA[You will learn to discern between valid and invalid arguments.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Respond</Name>
+			<audio enable="true" url="audio/eng_m1-1_s6_RESPOND.mp3"/>
+			<xCord>530.65</xCord>
+			<yCord>386.2</yCord>
+			<width>92</width>
+			<popTitle>Respond</popTitle>
+			<popInfo><![CDATA[You will learn to move beyond a <font face='lc-Bold' size='14'>visceral</font> (immediate and emotional) response toward a reasoned, thoughtful consideration and retort (reply).]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Communicate</Name>
+			<audio enable="true" url="audio/eng_m1-1_s6_COMMUNICATE.mp3"/>
+			<xCord>858.25</xCord>
+			<yCord>386.2</yCord>
+			<width>52</width>
+			<popTitle>Communicate</popTitle>
+			<popInfo><![CDATA[You will learn to communicate your response with clarity and impact.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

@@ -1,0 +1,70 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s20.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+			<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+			<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+	<question>
+		<qText><![CDATA[In the Bohr Model of Hydrogen only certain energy levels are allowed for the electron.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> ]]>
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				<aText>False</aText> ]]> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s11.mp3" />
+	</question>
+	
+	
+		<question>
+		<qText><![CDATA[In the Bohr Model, electrons cannot gain or lose energy to move from one energy level to another. ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> ]]>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				<aText>False</aText> ]]> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	
+		<question>
+		<qText><![CDATA[Each line in the spectra represents the wavelength of a photon emitted by hydrogen atoms.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> ]]>
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				<aText>False</aText> ]]> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+</MultipleChoice>

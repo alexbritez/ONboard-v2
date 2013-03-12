@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Basic Biochemistry">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m5-5_s1</video>
+      <credits>(1)Jose Luis Pelaez Inc/Blend Images/Getty Images, (bkgd)Image Source/Getty Images, (other)Fotosearch/Getty Images</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">organic</match>
+			<match id="1">macromolecule</match>
+			<match id="5">monomer</match>
+			<match id="4">polymer</match>
+			<match id="2">dehydration synthesis</match>
+			<match id="6">hydrolysis</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">1. Very large organic molecules composed of smaller molecules</drop>
+			<drop correct="2"><![CDATA[2. Process of linking together smaller polymer subunits to form<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;larger compounds by reducing and releasing a water molecule]]></drop>
+			<drop correct="3">3. Made by living organisms</drop>
+			<drop correct="4">4. Large, complex chain of similar subunits</drop>
+			<drop correct="5">5. Single, simple units</drop>
+			<drop correct="6">6. Process of breaking large molecules into smaller molecule</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m5-5_s5</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Jose Luis Pelaez Inc/Blend Images/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Carbohydrates: Monosacchirides</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-5_s8.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-5_s8_glucose" dynamic="true" x="131" y="337"><![CDATA[
+				<h1>Glucose</h1>
+				<p>Glucose is the primary molecule that most organisms use for energy. During cellular respiration, the chemical energy stored in the bonds of a glucose molecule is converted to chemical energy that is stored in the bonds of ATP molecules.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-5_s8_fructose" dynamic="true" x="426" y="337"><![CDATA[
+				<h1>Fructose</h1>
+				<p>Like glucose, fructose consists of six carbon atoms, twelve hydrogen atoms, and six oxygen atoms. However, these atoms are arranged slightly differently in these two monosaccharides. As a result, the body cannot process these monosaccharides in the same way.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-5_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" dropStyle="width: 75px; overflow: hidden" matchStyle="width:88px">
+         <matches title="" children-styles="width: 75px">
+            <match id="3">fructose</match>
+            <match id="2">glucose</match>
+            <match id="1">water</match>
+         </matches>
+         <coord correct="1" x="113" y="130" />
+         <coord correct="2" x="252" y="130" />
+         <coord correct="2" x="387" y="130" />
+         <drops title="">1</drops>
+         <drops title="">2,3</drops>
+         <image>bio_m5-5_s10.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m5-5_s10</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s11</video>
+      <credits>(tr)Fotosearch/Getty Images, (c) Image Source/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Carbohydrates: Polysaccharides</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-5_s12.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-5_s12_cellulose" dynamic="true" x="68" y="123"><![CDATA[
+				<h1>Cellulose</h1>
+				<p>Cellulose is found in plants where it plays an important structural role by forming the cell wall. Wood is largely cellulose, while paper and cotton are almost pure cellulose. Cellulose cannot be hydrolyzed by the human digestive system.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-5_s12_chitin" dynamic="true" x="402" y="89"><![CDATA[
+				<h1>Chitin</h1>
+				<p>Chitin is found in the external skeletons of insects and crustaceans. It is also found in the cell walls of fungi. When cross-linked by proteins, it forms a tough material.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-5_s12</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c) Martin Ruegner/Masterfile, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s13</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s14</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s15</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s16</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s17</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Lipids: Fats</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-5_s18.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-5_s18_oil" dynamic="true" x="454" y="270"><![CDATA[
+				<h1>Unsaturated</h1>
+				<p>The presence of a double bond between two carbon atoms in a fat makes the molecule an unsaturated fat. The more double bonds that are present, the more unsaturated the fat.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-5_s18_butter" dynamic="true" x="152" y="270"><![CDATA[
+				<h1>Saturated</h1>
+				<p>If only single bonds are present between the carbon atoms, then the fat is saturated.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-5_s18</audio>
+      <credits>(tr)Fotosearch/Getty Images, (l)Comstock/Jupiter Images, (r)D. Hurst/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s19</video>
+      <credits>(tr)Fotosearch/Getty Images, (c) Ellen Rooney/Garden Picture Library/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s20</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s21</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s22</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s23</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s24</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>bio_m5-5_s25</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Water is not considered a biological macromolecule &lt;br&gt;because it</question>
+            <answers>
+               <answer>is not a major component of cells.</answer>
+               <answer correct="true">is a small molecule.</answer>
+   			   <answer>plays no role in biological systems.</answer>
+   			   <answer>is a monomer that makes up macromolecules.</answer>
+   			   <answer>can exist as a solid, liquid, or gas.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A polymer forms as a result of</question>
+            <answers>
+               <answer>hydrolysis.</answer>
+   			   <answer>the breaking of covalent bonds.</answer>
+   			   <answer>a larger molecule changing into smaller molecules.</answer>
+   			   <answer>the addition of a water molecule.</answer>
+               <answer correct="true">dehydration synthesis.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which statement about carbohydrates is correct?</question>
+            <answers>
+               <answer correct="true">Glucose is a monomer.</answer>
+			   <answer>Glucose is a disaccharide.</answer>
+			   <answer>Sucrose is a monosaccharide.</answer>
+			   <answer>Cellulose is made from amino acid monomers.</answer>
+			   <answer>Cellulose is a main source of energy for animals.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following occurs when two amino acids join to start forming a protein?</question>
+            <answers>
+               <answer>Hydrolysis takes place.</answer>
+			   <answer>Two monomers are produced.</answer>
+			   <answer>The secondary structure of the protein also forms.</answer>
+               <answer correct="true">A peptide bond forms.</answer>
+			   <answer>An enzyme is produced.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following terms applies to a lipid but not to a nucleic acid?</question>
+            <answers>
+               <answer>Biological macromolecule</answer>
+			   <answer>Nucleotide monomers</answer>
+               <answer correct="true">Saturated or unsaturated</answer>
+			   <answer>Carrier of genetic information</answer>
+			   <answer>Speeds up chemical reactions</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Carbohydrate molecules contain carbon, hydrogen, and oxygen in a 2:1:1 ratio.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Protein molecules are made up of chains of polysaccharides.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The shape of a protein determines the function of the protein.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Organisms use lipids for short-term energy storage.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Lipids consist of two different types of monomers.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-5_s26</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

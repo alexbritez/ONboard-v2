@@ -1,0 +1,62 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-2_s12.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-2_s12.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-2_s12.jpg</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<font size='25'>A balloon is filled with air at sea level and released. It has a volume of 15 liters and a pressure of 1.00 atm. Ignoring any change in temperature, what will the volume of the balloon be when it reaches an altitude where its pressure is only 0.75 atm?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>10 L</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>15 L</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>18 L</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>20 L</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-2_s10_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size=''>A gas occupies a volume of 600 mL at a pressure of 2.0 atm. What will the new pressure be if the gas was compressed to 300 mL at constant temperature?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>1.0 atm</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>2.0 atm</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>3.0 atm</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>4.0 atm</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-2_s10_FB.mp3" />
+	</question>
+</MultipleChoice>

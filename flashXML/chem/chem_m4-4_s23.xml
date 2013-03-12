@@ -1,0 +1,238 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-4_s23.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[The correct name for BaO<font face='SubScript' size='24'>2</font> is]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[barium dioxide]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[barium oxide]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[barium peroxide]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[monobarium dioxide]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The correct formula for iron(II) perchlorate is]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[FeClO<font face='SubScript'>4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[FeClO]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Fe(ClO<font face='SubScript'>4</font>)<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Fe(ClO<font face='SubScript'>3</font>)<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The correct name for C<font face='SubScript' size='24'>3</font>H<font face='SubScript' size='24'>8</font> is]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[methane ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[propane]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[carbon hydride]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[tricarbon octahydride]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Which is the correct formula for chromic acid?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>2</font>Cr]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>2</font>CrO<font face='SubScript'>4</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[HCrO<font face='SubScript'>3</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[HCrO<font face='SubScript'>4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[All of the following combinations of names and formulas are correct <font face='lc-Italic' >except</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[SO<font face='chemNums' size='22'>p</font><font face='chemNums' size='22'>c</font>/sulfite ion ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[SO<font face='SubScript'>3</font>/sulfur oxide ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[HCl/hydrochloric acid]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NaCN/sodium cyanide]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[C<font face='SubScript' size='24'>5</font>H<font face='SubScript' size='24'>12</font> is named hexane.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The nine carbon alkane has the formula C<font face='SubScript' size='24'>9</font>H<font face='SubScript' size='24'>20</font>.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[NCl<font face='SubScript' size='24'>3</font> is mononitrogen trichloride.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Phosphoric acid has the formula H<font face='SubScript' size='24'>3</font>PO<font face='SubScript' size='24'>4</font>.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The formula of aluminum hydroxide is Al(OH)<font face='SubScript' size='24'>3</font>.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

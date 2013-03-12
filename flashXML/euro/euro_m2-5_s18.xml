@@ -1,0 +1,113 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-5_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>European voyages of discovery were motivated by several reasons. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>The Spanish and the Portuguese were among the first nations to establish overseas colonies. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	<question>
+		<qText>The Age of Discovery was universally seen as a positive development. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+
+	<question>
+		<qText>Overland trade routes grew during this period while overseas trade routes diminished. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+
+	<question>
+		<qText>Contact with Europeans had a devastating effect on native peoples in the Americas. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-5_s26.mp3" />
+	</question>
+
+	
+
+</MultipleChoice>

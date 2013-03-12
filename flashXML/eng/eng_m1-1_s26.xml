@@ -1,0 +1,61 @@
+<PopUp>
+	<slideInfo>
+		<title>Identifying Forces That Form the Tension</title>
+		<info></info>
+		<image>images/eng_m1-1_s26.jpg</image>
+		<audio>audio/eng_m1-1_s26.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Pros vs. Cons</Name>
+			<audio enable="true" url="audio/eng_m1-1_s26_pros_vs_cons.mp3"/>
+			<xCord>497.4</xCord>
+			<yCord>201.35</yCord>
+			<width>114.1</width>
+			<popTitle>Pros vs. Cons</popTitle>
+			<popInfo><![CDATA[This answer is incorrect.  Lincoln discusses the “cons” of the Civil War, but not the “pros.” ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Before vs. After</Name>
+			<audio enable="true" url="audio/eng_m1-1_s26_before_after.mp3"/>
+			<xCord>497.4</xCord>
+			<yCord>261.35</yCord>
+			<width>138.1</width>
+			<popTitle>Before vs. After</popTitle>
+			<popInfo><![CDATA[This answer is correct. Lincoln describes the beginning of the conflict as well as its current state before moving to a discussion of the aftermath of the war in the final paragraph.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Compare vs. Contrast</Name>
+			<audio enable="true" url="audio/eng_m1-1_s26_compare_contrast.mp3"/>
+			<xCord>497.4</xCord>
+			<yCord>321.35</yCord>
+			<width>189.9</width>
+			<popTitle>Compare vs. Contrast</popTitle>
+			<popInfo><![CDATA[This answer is incorrect. The tension is not caused by the forces of comparison and contrast.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Right vs. Wrong</Name>
+			<audio enable="true" url="audio/eng_m1-1_s26_right_wrong.mp3"/>
+			<xCord>497.4</xCord>
+			<yCord>380.35</yCord>
+			<width>138.1</width>
+			<popTitle>Right vs. Wrong</popTitle>
+			<popInfo><![CDATA[This answer is incorrect. Lincoln deliberately avoids discussing any absolute “rightness” of the Civil War.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Problem vs. Solution</Name>
+			<audio enable="true" url="audio/eng_m1-1_s26_problem_solution.mp3"/>
+			<xCord>497.4</xCord>
+			<yCord>439.35</yCord>
+			<width>181.8</width>
+			<popTitle>Problem vs. Solution</popTitle>
+			<popInfo><![CDATA[This answer is correct. Lincoln refers to “binding” the wounds and “caring” for the victims in the final paragraph, both of which can be seen as solutions to the problem that is the Civil War.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

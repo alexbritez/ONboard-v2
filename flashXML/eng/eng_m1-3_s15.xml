@@ -1,0 +1,81 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-3_s15.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>		
+	</slideInfo>
+
+	<question>
+		<qText><![CDATA[<p><font size='24'>“Yesterday, the Japanese government also launched an attack against Malaya.<br/>Last night, Japanese forces attacked Hong Kong.<br/>Last night, Japanese forces attacked Guam.<br/>Last night, Japanese forces attacked the Philippine Islands.<br/>Last night, the Japanese attacked Wake Island.<br/>And this morning, the Japanese attacked Midway Island."</font></p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>ETHOS</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>PATHOS</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>LOGOS</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>“I regret to tell you that very many American lives have been lost.”</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>ETHOS</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>PATHOS</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>LOGOS</aText> 
+			 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+
+	<question>
+		<qText>“As commander in chief of the Army and Navy, I have directed that all measures be taken for our defense. But always will our whole nation remember the character of the onslaught against us.”
+</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>ETHOS</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>PATHOS</aText> 
+			  <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>LOGOS</aText> 
+			  <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+</MultipleChoice>

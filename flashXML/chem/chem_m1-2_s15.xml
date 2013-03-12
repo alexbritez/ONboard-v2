@@ -1,0 +1,11 @@
+<FillIn>
+	<slideInfo>
+		<fraction>true</fraction>
+		<hText>Significant Figures</hText>
+		<qText><![CDATA[<p>Division:<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>    485.0<br /><font face='SuperScript' size='25'>________</font>  = 14.89356<br /> 32.5644</p>]]></qText>
+		<correctText><![CDATA[<size='18'>14.89</font>]]></correctText>
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-2_s15.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-2_s15_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

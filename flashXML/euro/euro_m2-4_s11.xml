@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-4_s11.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>According to the reading, you can infer all of the following about France EXCEPT:</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>that there was religious conflict.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>that generally the country was very stable.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>that the French were wary of Germany. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>that the French military was in need of positive press and a higher sense of morale.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>that there were strongly different opinions about how the government should be run.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-4_s11_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

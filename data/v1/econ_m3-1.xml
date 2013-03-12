@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Percentages and Changes in Percent">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m3-1_s1</video>
+    <credits>(cl-cr)Digital Vision/Getty Images,(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m3-1_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="6_Activity_Interactivity">
+    <content>
+      <header>Converting Percentages</header>
+      <instruction>
+        <![CDATA[
+          <p>
+            Percentage
+            <br />
+            25%
+          </p>
+          <p>
+            Fraction
+            <br />
+            25% = 25/100 = 1/4
+          </p>
+          <p>
+            Decimal
+            <br />
+            25% = 0.25
+          </p>
+        ]]>
+      </instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_01_02P.mp4</url>
+    <image>econ_m3-1_s3.jpg</image>
+    <audio>econ_m3-1_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="6_Activity_Interactivity">
+    <content>
+      <header>Convert a percentage</header>
+      <instruction>
+        <![CDATA[
+          <p>Convert a percentage that contains a fraction into a decimal</p>
+          <p>7 1/5% &rarr; decimal</p>
+        ]]>
+      </instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_01_03P.mp4</url>
+    <image>econ_m3-1_s4.jpg</image>
+    <audio>econ_m3-1_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>How would 47% be written as a decimal?</question>
+        <answers>
+          <answer correct="true">0.47</answer>
+		  <answer>4.7</answer>
+		  <answer>47</answer>
+		  <answer>0.047</answer>
+		  <answer>0.47%</answer>
+        </answers>
+        <feedbackAudio>econ_m3-1_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-1_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>What is 0.245 as a percent?</question>
+        <answers>
+          <answer>245%</answer>
+		  <answer>25%</answer>
+		  <answer>2.45%</answer>
+          <answer correct="true">24.5%</answer>
+		  <answer>0.00245%</answer>
+        </answers>
+        <feedbackAudio>econ_m3-1_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-1_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>What does 4/5 equal in percent?</question>
+        <answers>
+          <answer>45%</answer>
+		  <answer>20%</answer>
+          <answer correct="true">80%</answer>
+		  <answer>0.80</answer>
+		  <answer>0.45</answer>
+        </answers>
+        <feedbackAudio>econ_m3-1_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-1_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m3-1_s8.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="16" y="219">
+			<![CDATA[
+				<h1>Unemployment Rate</h1>
+				<p>The percentage of the labor force that is unemployed</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="311" y="123">
+			<![CDATA[
+				<h1>Unemployed</h1>
+				<p>The number of people who are not working, but who are actively looking for work</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="481" y="233">
+			<![CDATA[
+				<h1>Labor Force</h1>
+				<p>The total number of people who are willing and able to work; it is a sum of both employed and unemployed workers</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="559" y="141">
+			<![CDATA[
+				<h1>X 100</h1>
+				<p>Multiplying by 100 converts the answer from a decimal to a percent</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m3-1_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m3-1_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="6_Activity_Interactivity">
+    <content>
+      <header>Find the part</header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_01_04P.mp4</url>
+    <image>econ_m3-1_s10.jpg</image>
+    <audio>econ_m3-1_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="6_Activity_Interactivity">
+    <content>
+      <header>Find the percent</header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_01_05P.mp4</url>
+    <image>econ_m3-1_s11.jpg</image>
+    <audio>econ_m3-1_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="6_Activity_Interactivity">
+    <content>
+      <header>Find the whole</header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_01_06P.mp4</url>
+    <image>econ_m3-1_s12.jpg</image>
+    <audio>econ_m3-1_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>econ_m3-1_s13</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Jack Star/PhotoLink/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="6_Activity_Interactivity">
+    <content>
+      <header>Percent Increase and Percent Decrease</header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_01_08P.mp4</url>
+    <image>econ_m3-1_s14.jpg</image>
+    <audio>econ_m3-1_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://ezto-media.mhecloud.mcgraw-hill.com.s3.amazonaws.com/Media/Connect_Production/career/onboard/econ/ECON_M03_01_09P.mp4</url>
+    <image>econ_m3-1_s15A.jpg</image>
+    <audio>econ_m3-1_s15</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>You've earned a raise at work! Your weekly pay was previously $750/week. You will now be making $900/week. By what percent did your income increase?</question>
+        <answers>
+          <answer>150%</answer>
+		  <answer>80%</answer>
+		  <answer>16%</answer>
+          <answer correct="true">20%</answer>
+		  <answer>10%</answer>
+        </answers>
+        <feedbackAudio>econ_m3-1_s16_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-1_s16</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>econ_m3-1_s17</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>How would 18% be written as a decimal?</question>
+        <answers>
+          <answer correct="true">0.18</answer>
+		  <answer>1.8</answer>
+		  <answer>18</answer>
+		  <answer>0.018</answer>
+		  <answer>180.0</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>What is 0.329 as a percent?</question>
+        <answers>
+          <answer>329%</answer>
+		  <answer>32%</answer>
+		  <answer>3.29%</answer>
+          <answer correct="true">32.9%</answer>
+		  <answer>0.00329%</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Your annual salary increased from $40,000 to $45,000. By what percent did your income increase?</question>
+        <answers>
+          <answer>5%</answer>
+		  <answer>10%</answer>
+          <answer correct="true">12.5%</answer>
+		  <answer>40%</answer>
+		  <answer>45.5%</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The inflation rate rose 2%. By how much did the prices of goods and services increase per dollar?</question>
+        <answers>
+          <answer>$2.00</answer>
+		  <answer>$0.20</answer>
+          <answer correct="true">$0.02</answer>
+		  <answer>$20.00</answer>
+		  <answer>$200.00</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>If you get 4/5 of these questions correct, what percentage would that be?</question>
+        <answers>
+          <answer>20%</answer>
+		  <answer>40%</answer>
+		  <answer>45%</answer>
+		  <answer>60%</answer>
+          <answer correct="true">80%</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-1_s18</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

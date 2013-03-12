@@ -1,0 +1,12 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Mastering Chronology</p>]]></hText>
+		<qText><![CDATA[<p>1799–1801: Second Coalition<br />1805–1807: Third Coalition<br />1807: Continental System<br />1808–1814: Peninsular War<br />1812: Invasion of Russia<br />1814: Napoleon abdicates<br />1815: Final defeat at Waterloo<br />		
+		]]></qText>
+		<correctText><![CDATA[<font size='14'>For my <font face='c-Bold'>second</font> trip, I spent a <font face='c-Bold'>third</font> of my time on the <font face='c-Bold'>continent</font>, visiting the <font face='c-Bold'>peninsula</font> and <font face='c-Bold'>Russia</font> before <font face='c-Bold'>abdicating</font> at <font face='c-Bold'>Waterloo</font>.</font> 
+</p>]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/euro_m2-2_s32.mp3</audio>
+		<feedback>audio/euro_m2-2_s32_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

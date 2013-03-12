@@ -1,0 +1,15 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p></p>]]></hText>
+		<qText><![CDATA[<p>Explain the process of sending a text message.</p>]]></qText>
+		
+		<correctText><![CDATA[<p><font face='c-Bold'>Check your process analysis:</font>
+Have you written in a step-by-step style, using signal words such as <font face='lc-Italic'>first, second, then, next,</font> and <font face='lc-Italic'>finally?</font><br />Have you used vivid language and explicit directions?<br />
+                             
+                            </p>]]></correctText>
+
+		<haveSource enable="false"/>
+		<audio>audio/eng_m2-3_s19.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

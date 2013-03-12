@@ -1,0 +1,333 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m1-2_s42.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>It was a beautiful fall day, the air cool and crisp. As I left my house to start my morning run, a reflection caught my eye. As I looked in that direction, I couldn't believe it. He was finally home.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>It has only been within the last few years that bully studies have been done in the United States and many of these studies have concentrated on children and young adolescents. Since 2000, my colleagues and I have conducted several studies on bullying. For this article, I used data from students in grades 8-12 to gain an understanding of bullying among older adolescents.</p>
+<p>Participants in the study included 1,893 students in grades 8-12. Ethnic breakdown of participating students was 11% African American, 22% Hispanic, and 77% Anglo. Fifty-one percent were boys and 49% girls. Twenty-two percent of the participants were in the 8th grade, 53% were in the 9th grade, 14% were in the 10th grade, 8% were in the 11th grade, and 3% were in the 12th grade.</p>]]>
+</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which type of writing would be aimed at the general public?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Company newsletter</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Magazine</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Letter to the editor</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Letter to a teacher</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Brochure for stereo purchaser</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which of the following would be a fitting tone for a passage meant to inform?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Urgent</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Exaggerated</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Neutral</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sarcastic</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Solemn</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which of the following would be a fitting tone for a passage meant to persuade?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Silly</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sarcastic</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Passionate</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Neutral</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Informal</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>What is the tone in this passage: “Come on down and join us for the marriage of Sarah and Ryan! Festivities start around 12 p.m. Get ready for an awesome time!”</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Irreverent</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Informal</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Impassioned</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Insistent</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Formal</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>What type of figurative language gives human attributes to a nonhuman subject?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Tone</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Simile</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Metaphor</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Personification</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Hyperbole</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>Which figure of speech is used here: “The little girl is cute as a button.”</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Denotation</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Metaphor</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Personification</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Hyperbole</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Simile</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>Which of these sentences uses a sarcastic tone to persuade an audience?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>This item has the following benefits.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Thank you for purchasing this item. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>It is with deepest regret that we send you this item.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Gee, you might want to add this incredible item to your collection.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>I’m sorry to mention that your item is out of stock.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>Which word in this sentence is a clue to the author's tone: “Wow! He actually managed to make the jump.”</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>managed</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>jump</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>wow</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>actually</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>make</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>Read the passage in VIEW. What is the author’s primary purpose in writing this passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>To entertain</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To inform</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To persuade</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To instruct</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To compare</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+
+		
+	<question>
+		<qText>Read the passage in VIEW. How can you tell that the author’s primary purpose is to inform the reader about bullying?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The author uses emotional language.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The author gives statistical data.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The author presents only one side of a topic.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The author gives explicit directions.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The author discusses personal experiences.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+
+	
+</MultipleChoice>

@@ -1,0 +1,120 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m1-4_s12.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+//1
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//2
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//3
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//4
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//5
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+	</slideInfo>
+	
+//1
+	<question>
+		<qText>Which of the following would likely NOT be covered in a chapter on social history?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>battle plans</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>leisure activities of aristocrats</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>Why might women have gained more access to education during the Reformation?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>because Protestant reformers believed that all people should be able to read the Bible</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>because both Luther and Calvin supported equality for women</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//3
+	<question>
+		<qText>Which of the following statements is true? </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Women made no contribution to the Scientific Revolution.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A few women were able to contribute to the Scientific Revolution. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+		
+//4
+	<question>
+		<qText>Female monarchs would have been able to keep all authority and power even if they were married. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+	</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//5
+	<question>
+		<qText>Separate spheres affected both men and women.</qText>
+		<answerButtons>
+				<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+</MultipleChoice>

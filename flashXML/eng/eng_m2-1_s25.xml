@@ -1,0 +1,29 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Correct the run-on by making one idea more important than the other idea.</p>]]></hText>
+		<fraction></fraction>
+		<qText><![CDATA[<p>The team won’t let waiting for new flags stop them from performing they have a lot of school spirit.</p>]]></qText>
+		<correctText><![CDATA[<p><font face='c-Bold'>Correct version:</font>
+The team won’t let waiting for new flags stop them from performing because they have a lot of school spirit.
+</p>]]></correctText>
+		<haveSource enable="false" word="View" image="" />
+		<audio>audio/eng_m2-1_s25.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

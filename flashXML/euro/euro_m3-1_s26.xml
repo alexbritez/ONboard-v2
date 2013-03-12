@@ -1,0 +1,95 @@
+<PopUp>
+	<slideInfo>
+		<title>Historical Context</title>
+		<info></info>
+		<image>images/euro_m3-1_s26.jpg</image>
+		<audio>audio/euro_m3-1_s26.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Author</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_author.mp3"/>
+			<xCord>946.3</xCord>
+			<yCord>144.15</yCord>
+			<width>134</width>
+			<popTitle>Author</popTitle>
+			<popInfo>The author of the book is King James VI of Scotland.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Date</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_date.mp3"/>
+			<xCord>946.3</xCord>
+			<yCord>414</yCord>
+			<width>134</width>
+			<popTitle>Date</popTitle>
+			<popInfo>The book was published in 1598.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Background</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_bg.mp3"/>
+			<xCord>453.7</xCord>
+			<yCord>234.1</yCord>
+			<width>134</width>
+			<popTitle>Background</popTitle>
+			<popInfo>King James VI was king of Scotland in 1598.  Since Queen Elizabeth I, a cousin of James, died without an heir, James also became King James I of England in 1603. </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Place</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_place.mp3"/>
+			<xCord>453.7</xCord>
+			<yCord>414</yCord>
+			<width>134</width>
+			<popTitle>Place</popTitle>
+			<popInfo>The book was printed in Edinburgh (the capital of Scotland).</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Publisher</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_publisher.mp3"/>
+			<xCord>453.7</xCord>
+			<yCord>324.05</yCord>
+			<width>134</width>
+			<popTitle>Publisher</popTitle>
+			<popInfo>The book was published by the king's printer, a printer who would have only printed documents approved by the king or his advisors. </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Type</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_type.mp3"/>
+			<xCord>453.7</xCord>
+			<yCord>144.15</yCord>
+			<width>134</width>
+			<popTitle>Type</popTitle>
+			<popInfo>Since this is a title page, you can see that the document is a book.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Subject</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_subject.mp3"/>
+			<xCord>946.3</xCord>
+			<yCord>234.1</yCord>
+			<width>134</width>
+			<popTitle>Subject</popTitle>
+			<popInfo>The subject of the book is the relationship between a king and the people that he rules.  </popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Audience</Name>
+			<audio enable="true" url="audio/euro_m3-1_s26_audience.mp3"/>
+			<xCord>946.3</xCord>
+			<yCord>324.05</yCord>
+			<width>134</width>
+			<popTitle>Audience</popTitle>
+			<popInfo>The book was written for an educated audience.</popInfo>
+		</pButton>
+
+
+	
+	</popButtons>
+</PopUp>

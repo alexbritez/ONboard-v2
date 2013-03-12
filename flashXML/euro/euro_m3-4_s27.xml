@@ -1,0 +1,58 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-4_s27.jpg</image>
+		<audio>audio/euro_m3-4_s27.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback>audio/euro_m3-4_s27_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Conservative]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Obedient]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Talented]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Passionate]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Mischievous]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Violent]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Aristocratic]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Not religious]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.45" yCord="187.35" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.45" yCord="236.9" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.45" yCord="286.45" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.45" yCord="336" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.45" yCord="385.55" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.45" yCord="435.15" spotScale="75" spotNum="1"/>
+		
+		<dSpot xCord="874.45" yCord="187.35" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.45" yCord="236.9" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.45" yCord="286.45" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.45" yCord="336" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.45" yCord="385.55" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.45" yCord="435.15" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

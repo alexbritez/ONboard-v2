@@ -1,0 +1,59 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-2_s24.jpg</image>
+		<audio>audio/eng_m1-2_s24.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Unemotional]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Objective]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Disapproving]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Intolerant]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Reserved]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Formal]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Sincere]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Pessimistic]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Impartial]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="537.4" yCord="226.85" spotScale="75" spotNum="1"/>
+		<dSpot xCord="537.4" yCord="305.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="537.4" yCord="384.15" spotScale="75" spotNum="1"/>
+		
+		<dSpot xCord="720.6" yCord="226.85" spotScale="75" spotNum="2"/>
+		<dSpot xCord="720.6" yCord="305.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="720.6" yCord="384.15" spotScale="75" spotNum="2"/>
+		
+		<dSpot xCord="904.4" yCord="226.85" spotScale="75" spotNum="3"/>
+		<dSpot xCord="904.4" yCord="305.5" spotScale="75" spotNum="3"/>
+		<dSpot xCord="904.4" yCord="384.15" spotScale="75" spotNum="3"/>
+	</dropSpots>
+</DragDrop>

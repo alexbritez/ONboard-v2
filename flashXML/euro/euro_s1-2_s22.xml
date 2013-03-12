@@ -1,0 +1,72 @@
+<PopUp>
+	<slideInfo>
+		<title>Carolingian Renaissance</title>
+		<info></info>
+		<image>images/euro_s1-2_s22.jpg</image>
+		<audio>audio/euro_s1-2_s22.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>CHARLEMAGNE</Name>
+			<audio enable="true" url="audio/euro_s1-2_s22_CHARLEMAGNE.mp3"/>
+			<xCord>464.25</xCord>
+			<yCord>103.35</yCord>
+			<width>134</width>
+			<popTitle>CHARLEMAGNE</popTitle>
+			<popInfo><![CDATA[As a capable leader, successful warrior, and devout Christian, Charlemagne’s goal was to expand his realm for the sake of converting souls to the Christian faith.  ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CORONATION</Name>
+			<audio enable="true" url="audio/euro_s1-2_s22_CORONATION.mp3"/>
+			<xCord>464.25</xCord>
+			<yCord>274.3</yCord>
+			<width>85</width>
+			<popTitle>CORONATION</popTitle>
+			<popInfo><![CDATA[On Christmas Day in the year 800, Charlemagne was crowned Kaiser by the Pope in Rome. This implied for future European monarchs that secular authority was received from, and therefore inferior to, the Church’s authority.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>EMPIRE</Name>
+			<audio enable="true" url="audio/euro_s1-2_s22_EMPIRE.mp3"/>
+			<xCord>464.25</xCord>
+			<yCord>444.3</yCord>
+			<width>92</width>
+			<popTitle>EMPIRE</popTitle>
+			<popInfo><![CDATA[Charlemagne would continue to expand his realm until 814. He gained the loyalty of the Saxons and the Lombards. He established the first Christian settlement in Muslim-held Spain.  ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>FATHER OF EUROPE</Name>
+			<audio enable="true" url="audio/euro_s1-2_s22_FATHER.mp3"/>
+			<xCord>934.2</xCord>
+			<yCord>103.35</yCord>
+			<width>52</width>
+			<popTitle>FATHER OF EUROPE</popTitle>
+			<popInfo><![CDATA[Charlemagne was descended from Germanic warrior-leaders and carried a sword into battle.  He was a deeply devout Christian ruler who was portrayed holding an orb when seated on his throne. He also wore a crown. Many medievalists regard him as “Father of the First Europe.”]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>LITERACY</Name>
+			<audio enable="true" url="audio/euro_s1-2_s22_LITERACY.mp3"/>
+			<xCord>934.2</xCord>
+			<yCord>274.3</yCord>
+			<width>87</width>
+			<popTitle>LITERACY</popTitle>
+			<popInfo><![CDATA[Charlemagne was very intelligent and interested in learning. As an adult, he hired a tutor to learn how to read and write. He felt that written communication was very valuable. He improved written Latin by introducing upper and lower case letters and the concept of adding spaces between words.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>LEGACY</Name>
+			<audio enable="true" url="audio/euro_s1-2_s22_LEGACY.mp3"/>
+			<xCord>934.2</xCord>
+			<yCord>444.3</yCord>
+			<width>87</width>
+			<popTitle>LEGACY</popTitle>
+			<popInfo><![CDATA[Unfortunately, Charlemagne’s imperial creation did not survive long after his death.  After 840, three of his grandsons fought for control of the empire. The Treaty of Verdun split Charlemagne’s realm in 843. ]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

@@ -1,0 +1,41 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-1_s19.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/eng_m3-1_s19.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which rhetorical mode did the author of the passage use?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Narration</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Definition</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Description</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Exemplification</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Analysis</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m3-1_s19_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

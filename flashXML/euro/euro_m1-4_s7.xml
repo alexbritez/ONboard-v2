@@ -1,0 +1,80 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>The Wives of Monarchs</title>
+		<info></info>
+		<image>images/euro_m1-4_s7.jpg</image>
+		<audio>audio/euro_m1-4_s7.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>ALLIANCES</Name>   
+			<audio enable="true" url="audio/euro_m1-4_s7_alliances.mp3"/>
+			<xCord>457.2</xCord>
+			<yCord>103.35</yCord>
+			<width>134</width>
+			<popTitle>Alliances</popTitle>
+			<popInfo><![CDATA[<p>To build or enhance alliances between countries, royal daughters were often married to sovereigns or heirs of foreign countries. These women were known by the region or country they were from: Katherine of Aragon (a region in Spain), Anne of Austria, or Catherine of Anhalt-Zerbst in present-day Germany.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>FOREIGNER</Name>
+			<audio enable="true" url="audio/euro_m1-4_s7_foreigner.mp3"/>
+			<xCord>457.2</xCord>
+			<yCord>179.35</yCord>
+			<width>85</width>
+			<popTitle>Foreigner</popTitle>
+			<popInfo><![CDATA[<p>Some “foreign” queens were welcomed and admired in their new homelands. For others, it was a struggle to adapt. At times of economic or political hardship, foreign queens were sometimes blamed for what was wrong with the country.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>FRENCH REVOLUTION</Name>
+			<audio enable="true" url="audio/euro_m1-4_s7_french.mp3"/>
+			<xCord>529.15</xCord>
+			<yCord>365.3</yCord>
+			<width>85</width>
+			<popTitle>French Revolution</popTitle>
+			<popInfo><![CDATA[<p>Marie Antoinette, the Austrian wife of French King Louis XVI, was considered by some as disloyal to the French people because of her foreign birth. Others claimed that her spending habits added to the nation’s financial distress. </p>]]></popInfo>
+		</pButton>
+			
+		<pButton> 
+			<Name>RUSSIAN REVOLUTION</Name>
+			<audio enable="true" url="audio/euro_m1-4_s7_russian.mp3"/>
+			<xCord>723.9</xCord>
+			<yCord>114.35</yCord>
+			<width>85</width>
+			<popTitle>Russian Revolution</popTitle>
+			<popInfo><![CDATA[<p>The German-born wife of Russian Tsar Nicholas II fared little better. Empress Alexandra was a naturally shy woman. In the years leading up to the Russian Revolution, she was disliked by the Russian aristocracy for her extreme piety and for what they saw as standoffishness. Others distrusted the fact that Alexandra became very close to mystic Grigori Rasputin, who she believed could heal her only son, the hemophilic Alexi. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>YEKATERINBURG</Name>
+			<audio enable="true" url="audio/euro_m1-4_s7_yekaterinburg.mp3"/>
+			<xCord>937.65</xCord>
+			<yCord>451.3</yCord>
+			<width>85</width>
+			<popTitle>Yekaterinburg</popTitle>
+			<popInfo><![CDATA[<p>After being under house arrest for a little over a year, the family was moved to Yekaterinburg by the Bolsheviks who were now in charge of Russia. In July 1918, fearful that conservatives would restore the monarchy, the Bolsheviks shot and executed Nicholas, Alexandra, and their five children. </p>]]></popInfo>
+		</pButton>
+		
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

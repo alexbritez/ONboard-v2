@@ -1,0 +1,42 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-3_s4.jpg</image>
+		<audio>audio/eng_m3-3_s4.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Analysis]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Argumentation]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Cause and Effect]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Definition]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Description]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Narration]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="510.1" yCord="157.7" spotScale="75" spotNum="1"/>
+		<dSpot xCord="510.1" yCord="213.8" spotScale="75" spotNum="2"/>
+		<dSpot xCord="510.1" yCord="269.9" spotScale="75" spotNum="3"/>
+		<dSpot xCord="510.1" yCord="326" spotScale="75" spotNum="4"/>
+		<dSpot xCord="510.1" yCord="382.1" spotScale="75" spotNum="5"/>
+		<dSpot xCord="510.1" yCord="438.3" spotScale="75" spotNum="6"/>
+	</dropSpots>
+</DragDrop>

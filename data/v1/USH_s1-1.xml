@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to AP United States History">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_s1-1_s1</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-01657], (cl)Gilbert Stuart/The Bridgeman Art Library/Getty Images, (c)INTERFOTO/Alamy, (tcr)Archive Holdings Inc./Archive Photos/Getty Images, (bcr)Appleping/Getty Images, (b)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>USH_s1-1_s2</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Archive Photos/Getty Images, (c)Hulton Archive/Getty Images, (r)Library of Congress, Prints ﹠ Photographs Division, FSA/OWI Collection, [LC-USW3-054017-C], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="1_Module_Intro">
+      <video>USH_s1-1_s3</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (tl)Archive Holdings Inc./Archive Photos/Getty Images, (bl)Appleping/Getty Images, (cl)Archive Photos/Getty Images, (c)Bettmann/Corbis, (cr)Courtesy of the Massachusetts Historical Society., (r)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_s1-1_s4</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_s1-1_s5</video>
+      <credits>(bkgd) Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_s1-1_s6</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Buyenlarge/Archive Photos/Getty Images, (2)Library of Congress Prints and Photographs Division [LC-DIG-cwpbh-03225], (3)Library of Congress, Prints ﹠ Photographs Division, FSA/OWI Collection, [LC-DIG-fsa-8b29516], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="1_Module_Intro">
+      <video>USH_s1-1_s7</video>
+      <credits>(tl)Archive Holdings Inc./Archive Photos/Getty Images, (bl)Appleping/Getty Images, (cr)INTERFOTO/Alamy, (bkgd) Comstock/PunchStock. (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="8" type="1_Module_Intro">
+      <video>USH_s1-1_s8</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (cl)Kristy-Anne Glubish/Design Pics, (c)Jacob A Riis/Hulton Archive/Getty Images, (cr)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="1_Module_Intro">
+      <video>USH_s1-1_s9</video>
+      <credits>(l to r) Bettmann/Corbis, (2)National Archives and Records Administration, (3)The Herb Block Foundation, (4)Universal Images Group/Getty Images, (5)Courtesy of the Massachusetts Historical Society., (6)Bettmann/Corbis, (bkgd) Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Handwritten draft of the Gettysburg Address</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_s1-1_s10.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="101" y="355">
+				<![CDATA[
+				<p>Was delivered on November 19, 1863, at the dedications of the Soldiers' National Cemetery.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="474" y="88">
+				<![CDATA[
+				<p>Was given to honor those who fought and died during the Battle of Gettysburg.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="373" y="17">
+				<![CDATA[
+				<p>The battle was considered a turning point in the war.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="447" y="327">
+				<![CDATA[
+				<p>This became one of the best known speeches in U.S. history.</p>
+				]]>
+			</hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_s1-1_s10</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>USH_s1-1_s11</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+	<scene id="12" type="11_Activity_Drag_List">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="1">a letter from Dolly Madison</match>
+				<match id="2">a blog</match>
+				<match id="3">President Obama's 2009 inaugural speech</match>
+				<match id="4">your textbook</match>
+				<match id="5">an encyclopedia article on witchcraft accusations</match>
+				<match id="6">a student's essay on the 1860 presidential election</match>
+				<match id="7">a campaign commercial for Ronald Reagan</match>
+			</matches>
+			<drops title="Primary source">1,2,3,7</drops>
+			<drops title="Secondary source">4,5,6</drops>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+		<audio>USH_s1-1_s12</audio>
+		<credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock.</credits>
+	</scene>
+
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>USH_s1-1_s13</video>
+      <credits>(bkgd) Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[In which <em>OnBoard for AP United States History</em> module would you expect to analyze this?]]></question>
+            <answers>
+               <answer>Introduction</answer>
+			   <answer>Gathering and Organizing Data</answer>
+			   <answer>Analyzing Primary Sources</answer>
+               <answer correct="true">Analyzing Secondary Sources</answer>
+			   <answer>Interpretive and Advanced Skills</answer>
+            </answers>
+            <figure>USH_s1-1_s14_view.jpg</figure>
+            <feedbackAudio>USH_s1-1_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_s1-1_s14</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>USH_s1-1_s15</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="End_Multiple_Choice">
+      <instruction>_instruction</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[There are 5 learning modules in <em>OnBoard for AP United States History</em>.]]></question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>In AP U.S. History, you'll need to know how to gather and organize information from texts and from images.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The ability to analyze primary sources is NOT a critical skill in AP U.S. History.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>You may receive college credit if you perform well on the AP Exam.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Change over Time is considered a high-level interpretive skill.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_s1-1_s16</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+</shell>

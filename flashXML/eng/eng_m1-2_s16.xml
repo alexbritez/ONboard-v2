@@ -1,0 +1,39 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-2_s16.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text><![CDATA[<p>Although Gutenberg developed his printing press with a limited use in mind—printing Bibles—the cultural effects of mass printing have been profound. Handwritten or hand-copied materials were expensive to produce, and the cost of an education, in time and money, had made reading an expensive luxury. However, with the spread of printing, written communication was available to a much larger portion of the population, and the need for literacy among the lower and middle classes grew. The ability to read became less of a luxury and more of a necessity; eventually literacy spread, as did education. Soldiers at the front needed to be able to read the emperor's orders. Butchers needed to understand the king's shopping list. So the demand for literacy expanded, and more (and more types of) people learned to read.</p>
+			<p>Tradespeople, soldiers, clergy, bakers, and musicians all now had business at the printer shop. They talked. They learned of things, both in conversation and by reading printed material. As more people learned to read, new ideas germinated and spread and cross-pollination of ideas occurred.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Who is the intended audience of this passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>High school students</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Politicians</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Teachers</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Elementary school children</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m1-2_s16_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

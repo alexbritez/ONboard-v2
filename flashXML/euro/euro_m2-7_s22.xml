@@ -1,0 +1,70 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What is the historical context of the data?</title>
+		<info></info>
+		<image>images/euro_m2-7_s22.jpg</image>
+		<audio>audio/euro_m2-7_s22.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>1938</Name>   
+			<audio enable="true" url="audio/euro_m2-7_s22_1938.mp3"/>
+			<xCord>812.4</xCord>
+			<yCord>109.7</yCord>
+			<width>134</width>
+			<popTitle>1938</popTitle>
+			<popInfo>1938 is the year before World War II began and almost 10 years into the Great Depression.  </popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1953</Name>   
+			<audio enable="true" url="audio/euro_m2-7_s22_1953.mp3"/>
+			<xCord>812.4</xCord>
+			<yCord>168.65</yCord>
+			<width>134</width>
+			<popTitle>1953</popTitle>
+			<popInfo>By 1953, 8 years after World War II ended, most European countries had recovered economically to some extent. The Cold War had begun, and the Soviet dictator Joseph Stalin died. </popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1963</Name>   
+			<audio enable="true" url="audio/euro_m2-7_s22_1963.mp3"/>
+			<xCord>812.4</xCord>
+			<yCord>227.6</yCord>
+			<width>134</width>
+			<popTitle>1963</popTitle>
+			<popInfo>1963 was the height of the Cold War. The USSR spent heavily on defense and the space race and economically exploited its satellite states such as Poland and East Germany. 
+In Western Europe, full recovery from World War II and an expansion of consumer goods was in full swing. 
+</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1980</Name>   
+			<audio enable="true" url="audio/euro_m2-7_s22_1980.mp3"/>
+			<xCord>812.4</xCord>
+			<yCord>286.55</yCord>
+			<width>134</width>
+			<popTitle>1980</popTitle>
+			<popInfo>1980 was the dawn of the information age. New technologies were being developed. Europe was emerging from a severe recession in the 1970s. The Cold War was on going, with continued build- up of nuclear weapons in the USSR.</popInfo>
+		</pButton>
+
+			</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

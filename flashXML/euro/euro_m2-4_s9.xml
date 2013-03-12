@@ -1,0 +1,33 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-4_s9.jpg</image>
+		<audio>audio/euro_m2-4_s9.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>100</boxScale>
+		<feedback>audio/euro_m2-4_s9_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<p><font size="20">From 1657 to 1945, Prussia was constantly at war.</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<p><font size="19">When Germany became a unified country, it was still dominated by the Prussian military tradition.</font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p><font size="20">In Prussia, supporting the military sometimes took precedent over government departments.</font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p><font size="20">Hitler was Prussian.</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.2" yCord="176.9" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.2" yCord="255.55" spotScale="75" spotNum="1"/>
+		<dSpot xCord="871.35" yCord="176.9" spotScale="75" spotNum="2"/>
+		<dSpot xCord="871.35" yCord="255.55" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

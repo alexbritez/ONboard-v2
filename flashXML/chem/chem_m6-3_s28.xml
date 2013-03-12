@@ -1,0 +1,287 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-3_s28.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-3_s28_view_q5.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-3_s28_view_q9.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText>Which of the following is best described as a single displacement reaction?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[AgNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>)  +  KOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font>  <br/>KNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>) +  AgOH (<font face="c-Italic">s</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[P<font face='SubScript'>4</font> (<font face="c-Italic">s</font>)   +  5O<font face='SubScript'>2</font> (<font face="c-Italic">g</font>) <font face='CambriaMath'>→</font>  2P<font face='SubScript'>2</font>O<font face='SubScript'>5</font> (<font face="c-Italic">s</font>)]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='SubScript'>4</font>Cl (<font face="c-Italic">aq</font>)  +  LiOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font><br/>  LiCl (<font face="c-Italic">aq</font>) +  H<font face='SubScript'>2</font>O (<font face="c-Italic">l</font>) +  NH<font face='SubScript'>3</font> (<font face="c-Italic">g</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2Cu (<font face="c-Italic">s</font>) +  PtCl<font face='SubScript'>4</font> (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font>  <br/>2CuCl<font face='SubScript'>2</font> (<font face="c-Italic">aq</font>) +  Pt (<font face="c-Italic">s</font>)  ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of the following combines a double displacement reaction with a decomposition reaction?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[AgNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>)  +  KOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> <br/> KNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>) +  AgOH (<font face="c-Italic">s</font>)  ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[P<font face='SubScript'>4</font> (<font face="c-Italic">s</font>)   +  5O<font face='SubScript'>2</font> (<font face="c-Italic">g</font>) <font face='CambriaMath'>→</font>  2P<font face='SubScript'>2</font>O<font face='SubScript'>5</font> (<font face="c-Italic">s</font>)  ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='SubScript'>4</font>Cl (<font face="c-Italic">aq</font>)  +  LiOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font><br/>  LiCl (<font face="c-Italic">aq</font>) +  H<font face='SubScript'>2</font>O (<font face="c-Italic">l</font>)  +  NH<font face='SubScript'>3</font> (<font face="c-Italic">g</font>) ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2Cu (<font face="c-Italic">s</font>) +  PtCl<font face='SubScript'>4</font> (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font>  <br/>2CuCl<font face='SubScript'>2</font> (<font face="c-Italic">aq</font>) +  Pt (<font face="c-Italic">s</font>)  ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of the following is a reaction that can be classified as both a synthesis and a combustion reaction?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[AgNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>)  +  KOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font>  <br/>KNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>) +  AgOH (<font face="c-Italic">s</font>)]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[P<font face='SubScript'>4</font> (<font face="c-Italic">s</font>)   +  5O<font face='SubScript'>2</font> (<font face="c-Italic">g</font>) <font face='CambriaMath'>→</font>  2P<font face='SubScript'>2</font>O<font face='SubScript'>5</font> (<font face="c-Italic">s</font>)]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='SubScript'>4</font>Cl (<font face="c-Italic">aq</font>)  +  LiOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font><br/>  LiCl (<font face="c-Italic">aq</font>) +  H<font face='SubScript'>2</font>O (<font face="c-Italic">l</font>)  +  NH<font face='SubScript'>3</font> (<font face="c-Italic">g</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2Cu (<font face="c-Italic">s</font>) +  PtCl<font face='SubScript'>4</font> (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font>  <br/>2CuCl<font face='SubScript'>2</font> (<font face="c-Italic">aq</font>) +  Pt (<font face="c-Italic">s</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of the following is a double displacement reaction that has the formation of a precipitate as its driving force?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[AgNO3 (<font face="c-Italic">aq</font>)  +  KOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font>  <br/>KNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>) +  AgOH (<font face="c-Italic">s</font>)]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[P<font face='SubScript'>4</font> (<font face="c-Italic">s</font>)   +  5O<font face='SubScript'>2</font> (<font face="c-Italic">g</font>) <font face='CambriaMath'>→</font>  2P<font face='SubScript'>2</font>O<font face='SubScript'>5</font> (<font face="c-Italic">s</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='SubScript'>4</font>Cl (<font face="c-Italic">aq</font>)  +  LiOH (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font><br/>  LiCl (<font face="c-Italic">aq</font>) +  H<font face='SubScript'>2</font>O (<font face="c-Italic">l</font>)  +  NH<font face='SubScript'>3</font> (<font face="c-Italic">g</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2Cu (<font face="c-Italic">s</font>) +  PtCl<font face='SubScript'>4</font> (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font>  <br/>2CuCl<font face='SubScript'>2</font> (<font face="c-Italic">aq</font>) +  Pt (<font face="c-Italic">s</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of these reactions is also classified as a redox reaction? Click VIEW to see the reactions.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>B only</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>C only</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A and C</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>B and D</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of the following best represents the net ionic equation for the reaction of magnesium metal with nitric acid?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Mg (<font face="c-Italic">s</font>) +  2HNO<font face='SubScript'>3</font> (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> <br/>H<font face='SubScript'>2</font> (<font face="c-Italic">g</font>)  +  Mg(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face="c-Italic">aq</font>)]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Mg (<font face="c-Italic">s</font>) + 2H<font face='SuperScript'>+</font>  (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> H<font face='SubScript'>2</font> (<font face="c-Italic">g</font>) + Mg<font face='SuperScript'>2+</font>  (<font face="c-Italic">aq</font>) ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Mg (<font face="c-Italic">s</font>) + 2H<font face='SuperScript'>+</font>  (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> MgH<font face='SubScript'>2</font> (<font face="c-Italic">s</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Mg (<font face="c-Italic">s</font>) +  2NO<font face='chemNums''SubScript'>3</font><font face=='chemNums''SuperScript'>−</font>  (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> Mg(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font>(<font face="c-Italic">aq</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of the following describes a key way in which decomposition and synthesis differ?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Synthesis reactions are always redox reactions.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Synthesis reactions are typically endothermic and require energy.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Decomposition typically requires the input of energy to occur.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Decomposition reactions never produce pure elements.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of the following is a key difference between single displacement and double displacement reactions?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Only single displacement reactions have two reactants.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Only single displacement reactions are also classified as redox reactions.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Only double displacement reactions form solids.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Only double displacement reactions can involve acid as a reactant.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText>Which of these is the correct order for the activity of the metals involved, from most active to least active? Click VIEW to see the reactions. </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Ba , Mg,  Cd, Sn</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Mn, Ba, Cd, Sn</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sn, Cd, Mg, Mn</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Mg, Sn, Cd, Ba</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[Which of the following reactions best represent the balanced reaction for the complete combustion of the pentane, C<font face='SubScript'>5</font>H<font face='SubScript'>12</font>?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[C<font face='SubScript'>5</font>H<font face='SubScript'>12</font>  +  5O<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  5CO<font face='SubScript'>2</font>  +  6H<font face='SubScript'>2</font>O]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[C<font face='SubScript'>5</font>H<font face='SubScript'>12</font>  +  11O<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  5CO  +  6H<font face='SubScript'>2</font>O]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[C<font face='SubScript'>5</font>H<font face='SubScript'>12</font>  +  8O<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  5CO<font face='SubScript'>2</font>  +  6H<font face='SubScript'>2</font>O]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2C<font face='SubScript'>5</font>H<font face='SubScript'>12</font>  +  17O<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  10CO  +  12H<font face='SubScript'>2</font>O]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

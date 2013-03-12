@@ -1,0 +1,56 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Protestant Reformation</title>
+		<info></info>
+		<image>images/euro_m1-2_s12.jpg</image>
+		<audio>audio/euro_m1-2_s12.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>LUTHER</Name>   
+			<audio enable="true" url="audio/euro_m1-2_s12_LUTHER.mp3"/>
+			<xCord>517.9</xCord>
+			<yCord>197.7</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Martin Luther (1483–1546) was a university professor and a Catholic priest who gained a new understanding about Christian doctrine and salvation.  ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>SALVATION</Name>   
+			<audio enable="true" url="audio/euro_m1-2_s12_SALVATION.mp3"/>
+			<xCord>517.9</xCord>
+			<yCord>247</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Luther’s new understanding is often summarized as “Faith alone, grace alone, scripture alone.” ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>INDULGENCES</Name>   
+			<audio enable="true" url="audio/euro_m1-2_s12_INDULGENCES.mp3"/>
+			<xCord>517.9</xCord>
+			<yCord>296.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[In 1517, Pope Leo X issued a special indulgence for the building of St. Peter’s in Rome. The head salesman was a friar named Johann Tetzel. Tetzel had a catchy slogan, “When the coin in the coffer rings, the soul from purgatory springs” and people travelled from miles around to buy his indulgences.  ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>95 THESES</Name>   
+			<audio enable="true" url="audio/euro_m1-2_s12_95_THESES.mp3"/>
+			<xCord>517.9</xCord>
+			<yCord>345.6</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Incensed by these and other abuses he saw in the Catholic Church, Luther wrote up a list of his concerns, called the 95 Theses, and nailed them to the door of the local church. The pope demanded that Luther recant, or take back, what he wrote. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>EXCOMMUNICATION</Name>   
+			<audio enable="true" url="audio/euro_m1-2_s12_EXCOMMUNICATION.mp3"/>
+			<xCord>517.9</xCord>
+			<yCord>395.05</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[When Luther refused to recant, he was excommunicated. The new, Protestant religion of Lutheranism was born.  ]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

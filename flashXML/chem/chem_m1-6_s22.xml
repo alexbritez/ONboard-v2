@@ -1,0 +1,29 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Estimation: Acid-Base Equilibrium</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-6_s22.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s22.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s22_b.mp3"/>
+			<xCord>444</xCord>
+			<yCord>164</yCord>
+			<width>218.35</width>
+			<popTitle>Answer:</popTitle>
+			<popInfo><![CDATA[The answer is a little more than 4 × 10<font face='SuperScript' size='18'>–11</font>. <br />The answer using the unrounded numbers is <br/>4.35 × 10<font face='SuperScript' size='18'>–11</font>.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s22_c.mp3"/>
+			<xCord>444</xCord>
+			<yCord>260</yCord>
+			<width>85</width>
+			<popTitle>Answer:</popTitle>
+			<popInfo><![CDATA[The answer is 1.6 × 10<font face='SuperScript' size='18'>–6</font>.<br />The unrounded answer is 1.66 × 10<font face='SuperScript' size='18'>–6</font>.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

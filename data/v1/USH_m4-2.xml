@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Interpretive and Advanced Skills">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m4-2_s1</video>
+      <credits>(c)Library of Congress Prints and Photographs Division [LC-USZC4-1129], (bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s2</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Tom Grill/Corbis, (2)Janis Christie/Photodisc/Getty Images, (3)The Library of Congress, Prints &amp; Photographs Division [LC-US262-116768], (bkgd)Comstock/PunchStock.</credits>
+   </scene>
+
+   <scene id="3" type="1_Module_Intro">
+      <video>USH_m4-2_s3</video>
+      <credits><![CDATA[<span style="font-size:7px">(cl)The Library of Congress, Prints ﹠ Photographs Division [LC-DIG-ppmsca-11398], (c)Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-115350], (cr)The Library of Congress, Prints ﹠ Photographs Division [LC-DIG-pga-00352], (r)Stockbyte/Getty Images,  (bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</span>]]></credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s4</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Janis Christie/Photodisc/Getty Images, (r)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-116768], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s5</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)BananaStock/PictureQuest, (2)Photodisc Collection/Getty Images, (3)Jack Hollingsworth/Blend Images/Corbis, (4)Image Source/Getty Images, (5)BananaStock/JupiterImages/Getty Images, (6)Ryan McVay/Photodisc/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s6</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)The Library of Congress, Prints ﹠ Photographs Division [LC-USZC4-1129], (2)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Hawaii</header>
+         <text><![CDATA[
+		 	<p>The islands of Hawaii in the mid-Pacific had been an important way station for American ships in the China trade since the early nineteenth century. By the 1880s, officers of the expanding American navy were looking covetously at Pearl Harbor on the island of Oahu as a possible permanent base for United States ships. Pressure for an increased American presence in Hawaii was emerging from another source as well: the growing number of Americans who had settled on the islands and who had gradually come to dominate their economic and political life.</p>
+			<p>In doing so, the Americans had been wrestling authority away from the leaders of an ancient civilization.</p>
+			<p>. . . By 1887, the United States negotiated a treaty with Hawaii that permitted it to open a naval base at Pearl Harbor. By then, growing sugar for export to America had become the basis for the Hawaiian economy—as a result of an 1875 agreement allowing Hawaiian sugar to enter the United States duty-free. The American-dominated sugar plantation system not only displaced native Hawaiians from their lands but also sought to build a workforce with Asian immigrants, whom the Americans considered more reliable and more docile than the natives. Indeed, finding adequate labor and keeping it under control were the principal concerns of many planters. Some planters deliberately sought to create a mixed-race workforce (Chinese, Japanese, native Hawaiian, Filipinos, Portuguese, and others) as a way to keep the workers divided and unlikely to challenge them.</p>
+			<p>Native Hawaiians did not accept their subordination without protest. In 1891, they elevated a powerful nationalist to the throne: Queen Liliuokalani, who set out to challenge the growing American control of the islands. But she remained in power only two years. In 1890, the United States had eliminated the privileged position of Hawaiian sugar in international trade. The result was devastating to the economy of the islands, and American planters concluded that the only way for them to recover was to become part of the United States (and hence exempt from its tariffs). In 1893, they staged a revolution and called on the United States for protection. After the American minister ordered marines from a warship in Honolulu harbor to go ashore to aid the rebels, the queen yielded her authority. </p>
+			<p>A provisional government, dominated by Americans (who constituted less than 5 percent of the population of the islands), immediately sent a delegation to Washington to negotiate a treaty of annexation. But debate continued until 1898, when the Republicans returned to power and approved the agreement.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-2_s7</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s8</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What was the effect of American political control in Hawaii?</question>
+            <answers>
+               <answer>The native Hawaiian population became marginalized and lost land and political power.</answer>
+			   <answer>Hawaii became a United States territory.</answer>
+			   <answer>Pearl Harbor became a U.S. Naval base.</answer>
+			   <answer>Queen Liliuokalani yielded her authority.</answer>
+               <answer correct="true">All of the above.</answer>
+            </answers>
+            <figure>
+				<header italic="false">Hawaii</header>
+				<text><![CDATA[
+					<p>The islands of Hawaii in the mid-Pacific had been an important way station for American ships in the China trade since the early nineteenth century. By the 1880s, officers of the expanding American navy were looking covetously at Pearl Harbor on the island of Oahu as a possible permanent base for United States ships. Pressure for an increased American presence in Hawaii was emerging from another source as well: the growing number of Americans who had settled on the islands and who had gradually come to dominate their economic and political life.</p>
+					<p>In doing so, the Americans had been wrestling authority away from the leaders of an ancient civilization.</p>
+					<p>. . . By 1887, the United States negotiated a treaty with Hawaii that permitted it to open a naval base at Pearl Harbor. By then, growing sugar for export to America had become the basis for the Hawaiian economy—as a result of an 1875 agreement allowing Hawaiian sugar to enter the United States duty-free. The American-dominated sugar plantation system not only displaced native Hawaiians from their lands but also sought to build a workforce with Asian immigrants, whom the Americans considered more reliable and more docile than the natives. Indeed, finding adequate labor and keeping it under control were the principal concerns of many planters. Some planters deliberately sought to create a mixed-race workforce (Chinese, Japanese, native Hawaiian, Filipinos, Portuguese, and others) as a way to keep the workers divided and unlikely to challenge them.</p>
+					<p>Native Hawaiians did not accept their subordination without protest. In 1891, they elevated a powerful nationalist to the throne: Queen Liliuokalani, who set out to challenge the growing American control of the islands. But she remained in power only two years. In 1890, the United States had eliminated the privileged position of Hawaiian sugar in international trade. The result was devastating to the economy of the islands, and American planters concluded that the only way for them to recover was to become part of the United States (and hence exempt from its tariffs). In 1893, they staged a revolution and called on the United States for protection. After the American minister ordered marines from a warship in Honolulu harbor to go ashore to aid the rebels, the queen yielded her authority. </p>
+					<p>A provisional government, dominated by Americans (who constituted less than 5 percent of the population of the islands), immediately sent a delegation to Washington to negotiate a treaty of annexation. But debate continued until 1898, when the Republicans returned to power and approved the agreement.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m4-2_s9_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-2_s9</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What caused the Americans in Hawaii to push for the islands to become a U.S. territory?</question>
+            <answers>
+               <answer>The fact that American sugar planters in Hawaii lost their privileged position in international trade</answer>
+			   <answer>The fact that the U.S. Navy wanted a base in Pearl Harbor</answer>
+			   <answer>They feared the policies of Queen Liliuokalani.</answer>
+               <answer correct="true">Both A and C</answer>
+			   <answer>A, B, and C</answer>
+            </answers>
+            <figure>
+				<header italic="false">Hawaii</header>
+				<text><![CDATA[
+					<p>The islands of Hawaii in the mid-Pacific had been an important way station for American ships in the China trade since the early nineteenth century. By the 1880s, officers of the expanding American navy were looking covetously at Pearl Harbor on the island of Oahu as a possible permanent base for United States ships. Pressure for an increased American presence in Hawaii was emerging from another source as well: the growing number of Americans who had settled on the islands and who had gradually come to dominate their economic and political life.</p>
+					<p>In doing so, the Americans had been wrestling authority away from the leaders of an ancient civilization.</p>
+					<p>. . . By 1887, the United States negotiated a treaty with Hawaii that permitted it to open a naval base at Pearl Harbor. By then, growing sugar for export to America had become the basis for the Hawaiian economy—as a result of an 1875 agreement allowing Hawaiian sugar to enter the United States duty-free. The American-dominated sugar plantation system not only displaced native Hawaiians from their lands but also sought to build a workforce with Asian immigrants, whom the Americans considered more reliable and more docile than the natives. Indeed, finding adequate labor and keeping it under control were the principal concerns of many planters. Some planters deliberately sought to create a mixed-race workforce (Chinese, Japanese, native Hawaiian, Filipinos, Portuguese, and others) as a way to keep the workers divided and unlikely to challenge them.</p>
+					<p>Native Hawaiians did not accept their subordination without protest. In 1891, they elevated a powerful nationalist to the throne: Queen Liliuokalani, who set out to challenge the growing American control of the islands. But she remained in power only two years. In 1890, the United States had eliminated the privileged position of Hawaiian sugar in international trade. The result was devastating to the economy of the islands, and American planters concluded that the only way for them to recover was to become part of the United States (and hence exempt from its tariffs). In 1893, they staged a revolution and called on the United States for protection. After the American minister ordered marines from a warship in Honolulu harbor to go ashore to aid the rebels, the queen yielded her authority. </p>
+					<p>A provisional government, dominated by Americans (who constituted less than 5 percent of the population of the islands), immediately sent a delegation to Washington to negotiate a treaty of annexation. But debate continued until 1898, when the Republicans returned to power and approved the agreement.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m4-2_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What effect did the growing sugar industry have on Hawaii?</question>
+            <answers>
+               <answer>Immigration from Asian and other Pacific islands increased.</answer>
+			   <answer>Native Hawaiians lost control of their lands.</answer>
+			   <answer>Americans on the islands increased their economic and political power.</answer>
+			   <answer>Both A and B</answer>
+               <answer correct="true">A, B, and C</answer>
+            </answers>
+            <figure>
+				<header italic="false">Hawaii</header>
+				<text><![CDATA[
+					<p>The islands of Hawaii in the mid-Pacific had been an important way station for American ships in the China trade since the early nineteenth century. By the 1880s, officers of the expanding American navy were looking covetously at Pearl Harbor on the island of Oahu as a possible permanent base for United States ships. Pressure for an increased American presence in Hawaii was emerging from another source as well: the growing number of Americans who had settled on the islands and who had gradually come to dominate their economic and political life.</p>
+					<p>In doing so, the Americans had been wrestling authority away from the leaders of an ancient civilization.</p>
+					<p>. . . By 1887, the United States negotiated a treaty with Hawaii that permitted it to open a naval base at Pearl Harbor. By then, growing sugar for export to America had become the basis for the Hawaiian economy—as a result of an 1875 agreement allowing Hawaiian sugar to enter the United States duty-free. The American-dominated sugar plantation system not only displaced native Hawaiians from their lands but also sought to build a workforce with Asian immigrants, whom the Americans considered more reliable and more docile than the natives. Indeed, finding adequate labor and keeping it under control were the principal concerns of many planters. Some planters deliberately sought to create a mixed-race workforce (Chinese, Japanese, native Hawaiian, Filipinos, Portuguese, and others) as a way to keep the workers divided and unlikely to challenge them.</p>
+					<p>Native Hawaiians did not accept their subordination without protest. In 1891, they elevated a powerful nationalist to the throne: Queen Liliuokalani, who set out to challenge the growing American control of the islands. But she remained in power only two years. In 1890, the United States had eliminated the privileged position of Hawaiian sugar in international trade. The result was devastating to the economy of the islands, and American planters concluded that the only way for them to recover was to become part of the United States (and hence exempt from its tariffs). In 1893, they staged a revolution and called on the United States for protection. After the American minister ordered marines from a warship in Honolulu harbor to go ashore to aid the rebels, the queen yielded her authority. </p>
+					<p>A provisional government, dominated by Americans (who constituted less than 5 percent of the population of the islands), immediately sent a delegation to Washington to negotiate a treaty of annexation. But debate continued until 1898, when the Republicans returned to power and approved the agreement.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m4-2_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s12</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Events in the early 1900s caused the United States to</question>
+            <answers>
+               <answer>annex almost all of the islands in the Caribbean and several Latin American countries</answer>
+               <answer correct="true">intervene militarily and financially in several Caribbean and Latin American countries</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-2_s13-view.jpg</figure>
+            <feedbackAudio>USH_m4-2_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-2_s13</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What do you think caused Roosevelt to take this position?</question>
+            <answers>
+               <answer>Roosevelt wanted the United States to include all of Latin and South America.</answer>
+               <answer correct="true">Roosevelt believed that the United States would be better off if their neighbors remained free of European control and, to an extent, dependent upon the United States. </answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-2_s13-view.jpg</figure>
+            <feedbackAudio>USH_m4-2_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-2_s14</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Cause and Effect</header>
+         <instruction>Why did the United States become involved in World War I?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-2_s15.jpg</image>
+         <hotspots>
+			<hotspot audio="USH_m4-2_s15_A" title="IMPERIAL AMBITION" dynamic="true" x="15" y="22"><![CDATA[
+				<h1>IMPERIAL AMBITION</h1>
+				<p>One of the causes of tension leading up to World War I was an increased sense of military and economic competition among imperial nations, most notably Britain and Germany.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s15_B" title="NATIONALISM" dynamic="true" x="15" y="74"><![CDATA[
+				<h1>NATIONALISM</h1>
+				<p>Nationalism and self-determination were on the rise in those ethnic groups who lived within a large empire, such as the Ottoman Empire and the Austro-Hungarian Empire. Serbia, Romania, and Bulgaria became independent countries.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s15_C" title="AUSTRIA-HUNGARY" dynamic="true" x="15" y="125"><![CDATA[
+				<h1>AUSTRIA-HUNGARY</h1>
+				<p>Austria-Hungary was a multi-ethnic, multi-national conglomerate with native Germans, Hungarians, and Slavic peoples, such as Poles, Czechs, and Slovaks. These groups also wanted self-determination, but Austria-Hungary was just as eager to hold on to its imperial claims.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s15_D" title="TREATIES" dynamic="true" x="15" y="176"><![CDATA[
+				<h1>TREATIES</h1>
+				<p>In the midst of this unrest, several European countries formed mutual-protection treaties. Germany and Austria-Hungary had such a treaty, and so did Britain, France, and Belgium, and Russia and Serbia.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s15_E" title="ASSASSINATION" dynamic="true" x="15" y="228"><![CDATA[
+				<h1>ASSASSINATION</h1>
+				<p>On June 28, 1914, a Serbian nationalist assassinated the heir to the Austro-Hungarian throne, Archduke Franz Ferdinand, and his wife while they were visiting Sarajevo.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s15_F" title="ULTIMATUM" dynamic="true" x="15" y="279"><![CDATA[
+				<h1>ULTIMATUM</h1>
+				<p>Furious, Austria-Hungary sent a list of extremely punitive demands to Serbia. Among the demands was one that infringed upon the sovereignty of Serbia, which the country refused to grant.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s15_G" title="WAR" dynamic="true" x="15" y="331"><![CDATA[
+				<h1>WAR</h1>
+				<p>Austria-Hungary declared war on Serbia on July 28, 1914. Russia moved to join Serbia militarily. This move caused Germany to throw its support behind Austria-Hungary. Now Germany decided to attack France before moving on to Russia. The German high-command approved a plan that involved advancing through Belgium. This attack on Belgian neutrality prompted Britain to enter the war.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-2_s15</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s16</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Steve Allen/Brand X/Corbis, (2)The Library of Congress, Prints ﹠ Photographs Division [LC-DIG-det-4a31330], (3)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s17</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Causes</header>
+         <text><![CDATA[
+		 	<h1>Economic Ties to Britain</h1>
+			<p>Economic realities also made it impossible for the United States to deal with the belligerents on equal terms. The British had imposed a naval blockade on Germany to prevent munitions and supplies from reaching the enemy. As a neutral, the United States had the right, in theory, to trade with both Britain and Germany; but for Americans to trade with Germany, they would have to defy the British blockade. A truly neutral response to the blockade would have been to stop trading with Britain as well. But while the United States could survive an interruption of its relatively modest trade with the Central Powers, it could not easily weather an embargo on its much more extensive trade with the Allies, particularly when war orders from Britain and France soared after 1914, helping to produce one of the greatest economic booms in the nation's history. So America tacitly ignored the blockade of Germany and continued trading with Britain. By 1915, the United States had gradually transformed itself from a neutral power into the arsenal of the Allies.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-2_s18</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s19</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s20</video>
+      <credits><![CDATA[<span style="font-size:7px">(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1,3)The Library of Congress, Prints ﹠ Photographs Division [LC-DIG-ppmsca-18528], (2)Library of Congress Prints and Photographs Division [LC-USZC4-1129], (bkgd)Comstock/PunchStock, (text)From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright 2012 The McGraw-Hill Companies, Inc</span>]]></credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s21</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Causes</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-2_s22.jpg</image>
+         <hotspots>
+			<hotspot audio="USH_m4-2_s22_A" title="Wilson" dynamic="true" x="466" y="22"><![CDATA[
+				<h1>Wilson</h1>
+				<p>Many historians believe that Wilson was looking for a justification to enter the war, even though most Americans were opposed.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s22_B" title="Cause" dynamic="true" x="466" y="99"><![CDATA[
+				<h1>Cause</h1>
+				<p>Wilson advanced the idea of using the war to create a new world order, based on the successful progressive reforms in the United States. He advanced this idea in a speech in January 1917.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s22_C" title="Action" dynamic="true" x="466" y="176"><![CDATA[
+				<h1>Action</h1>
+				<p>In January 1917, the Germans launched a series of assaults on the Allied positions in France and kicked off a campaign of unrestricted submarine warfare—which included American ships.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s22_D" title="Telegram" dynamic="true" x="466" y="258"><![CDATA[
+				<h1>Telegram</h1>
+				<p>On February 25, 1917, the British intercepted a telegram between the German foreign minister Arthur Zimmerman and the government of Mexico. The telegram proposed that if the United States went to war against Germany, that Mexico should form an alliance with Germany, and together they would reclaim states in the American Southwest for Mexico.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-2_s22_E" title="Effect" dynamic="true" x="466" y="331"><![CDATA[
+				<h1>Effect</h1>
+				<p>The contents of the telegram were widely published and inflamed public opinion against Germany. Many Americans felt the time had come to enter the war. Congress declared war on Germany on April 6, 1917.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-2_s22</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)National Archive ﹠ Records Administration, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s23</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Design Pics/Kelly Redinger, (2)Corbis, (3)National Archive ﹠ Records Administration, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s24</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What effect did propaganda such as this have on the American people?</question>
+            <answers>
+               <answer>Americans began to fear, distrust, and lash out at other Americans with German heritage.</answer>
+			   <answer>Americans supported joining the war against Germany.</answer>
+			   <answer>German-language courses in schools were eliminated, and German music and books were banned.</answer>
+			   <answer>Both A and C</answer>
+               <answer correct="true">A, B, and C</answer>
+            </answers>
+            <figure>USH_m4-2_s25_view.jpg</figure>
+            <feedbackAudio>USH_m4-2_s25_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-2_s25</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s26</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Adolph Treidler/The Bridgeman Art Library/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+  <scene id="27" type="11_Activity_Drag_List">
+       <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height: 100px" dropStyle="height: 88px">
+         <matches title="">
+            <match id="1">Women found jobs in factories during the war.</match>
+			<match id="2">Women replaced striking workers in munitions factories.</match>
+			<match id="3">Women were empowered through war work and by the passage of the 19th Amendment soon after the war.</match>
+			<match id="4">While some women worked in factories, the best use of female labor during the war was in the armed forces.</match>
+			<match id="5">Most women lost their factory jobs to men after the war was over.</match>
+         </matches>
+         <drops title="Logical Inference">1,3,5</drops>
+		 <drops title="Faulty Conclusion">2,4</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m4-2_s27</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Effects</header>
+         <instruction>About 400,000 African American men served in the armed forces during World War I.</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-2_s28.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="31" y="29"><![CDATA[
+				<h1></h1>
+				<p>African American soldiers in World War I were, for the most part, assigned menial tasks. African American soldiers served in segregated, all-black units under white commanders.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="463" y="24"><![CDATA[
+				<h1></h1>
+				<p>Most African Americans learned to live with the armed forces' racist policies. They hoped and believed that their service would earn them respect and improve their status.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="175" y="311"><![CDATA[
+				<h1></h1>
+				<p>Only a little more than 50,000 African American troops actually served in Europe, and some fought valiantly in France. Most, however, were assigned non-combat tasks.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="488" y="280"><![CDATA[
+				<h1></h1>
+				<p>In the United States, many African Americans migrated to northern cities to fill industrial jobs created by the war. This was the start of the Great Migration. Many African Americans experienced racism in northern cities such as Chicago, and race riots broke out in East St. Louis, Illinois.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-2_s28</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-26639], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The fact that African Americans served in World War I had the greatest effect on which of the following?</question>
+            <answers>
+               <answer>White attitudes toward African Americans</answer>
+               <answer correct="true">African Americans' attitude toward their status and their civil rights</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-2_s29_view.jpg</figure>
+            <feedbackAudio>USH_m4-2_s29_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-2_s29</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-26639], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="30" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Futile Search for Social Unity</header>
+         <text><![CDATA[
+		 	<p>The government soon began more coercive efforts to suppress dissent. The CPI [Committee on Public Information] ran full-page advertisements in popular magazines like the <em>Saturday Evening Post</em> urging citizens to notify the Justice Department when they encountered &quot;the man who spreads the pessimistic stories . . ., cries for peace, or belittles our efforts to win the war.&quot; The Espionage Act of 1917 gave the government new tools with which to respond to such reports. It created stiff penalties for spying, sabotage, or obstruction of the war effort (crimes that were often broadly defined); and it empowered the Post Office Department to ban &quot;seditious&quot; material from the mails. Sedition, Postmaster General Albert Sidney Burleson said, included statements that might &quot;impugn the motives of the government and thus encourage insubordination,&quot; anything that suggested &quot;that the government is controlled by Wall Street or munitions manufacturers, or any other special interests.&quot; He included in that category all publications of the Socialist Party.</p>
+			<p>More repressive were two measures of 1918: the Sabotage Act of April 20 and the Sedition Act of May 16. These bills expanded the meaning of the Espionage Act to make illegal any public expression of opposition to the war; in practice, it allowed officials to prosecute anyone who criticized the president or the government.</p>
+			<p>The most frequent targets of the new legislation (and one of the reasons for its enactment in the first place) were such anticapitalist groups (and antiwar) groups such as the Socialist Party and the Industrial Workers of the World (IWW). Many Americans had favored the repression of socialists and radicals even before the war; the wartime policies now made it possible to move against them legally. Eugene V. Debs, the humane leader of the Socialist Party and an opponent of the war, was sentenced to ten years in prison in 1918. Only a pardon by President Warren G. Harding ultimately won his release in 1921. Big Bill Haywood and members of the IWW were especially energetically prosecuted. Only by fleeing to the Soviet Union did Haywood avoid long imprisonment. More than 1,500 people were arrested in 1918 for the crime of criticizing the government.</p>
+			<p>From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-2_s30</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Some in the United States government used the war as an excuse to crack down on labor leaders and socialists associated with the progressive movement.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <figure>
+				<header italic="false">The Futile Search for Social Unity</header>
+				<text><![CDATA[
+					<p>The government soon began more coercive efforts to suppress dissent. The CPI [Committee on Public Information] ran full-page advertisements in popular magazines like the <em>Saturday Evening Post</em> urging citizens to notify the Justice Department when they encountered &quot;the man who spreads the pessimistic stories . . ., cries for peace, or belittles our efforts to win the war.&quot; The Espionage Act of 1917 gave the government new tools with which to respond to such reports. It created stiff penalties for spying, sabotage, or obstruction of the war effort (crimes that were often broadly defined); and it empowered the Post Office Department to ban &quot;seditious&quot; material from the mails. Sedition, Postmaster General Albert Sidney Burleson said, included statements that might &quot;impugn the motives of the government and thus encourage insubordination,&quot; anything that suggested &quot;that the government is controlled by Wall Street or munitions manufacturers, or any other special interests.&quot; He included in that category all publications of the Socialist Party.</p>
+					<p>More repressive were two measures of 1918: the Sabotage Act of April 20 and the Sedition Act of May 16. These bills expanded the meaning of the Espionage Act to make illegal any public expression of opposition to the war; in practice, it allowed officials to prosecute anyone who criticized the president or the government.</p>
+					<p>The most frequent targets of the new legislation (and one of the reasons for its enactment in the first place) were such anticapitalist groups (and antiwar) groups such as the Socialist Party and the Industrial Workers of the World (IWW). Many Americans had favored the repression of socialists and radicals even before the war; the wartime policies now made it possible to move against them legally. Eugene V. Debs, the humane leader of the Socialist Party and an opponent of the war, was sentenced to ten years in prison in 1918. Only a pardon by President Warren G. Harding ultimately won his release in 1921. Big Bill Haywood and members of the IWW were especially energetically prosecuted. Only by fleeing to the Soviet Union did Haywood avoid long imprisonment. More than 1,500 people were arrested in 1918 for the crime of criticizing the government.</p>
+					<p>From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text></figure>
+            <feedbackAudio>USH_m4-2_s31_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-2_s31</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s32</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-7823], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s33</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="34" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s34</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="35" type="2_Txt_Img_Animation">
+      <video>USH_m4-2_s35</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="36" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+	  	<multiple>
+            <question>Historical events are similar to scientific discoveries, in that one thing usually caused another.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Only a few events have multiple causes and effects.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Clue words that signal cause include "as a result," "contributed to," and "consequently."</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>You will learn every possible cause and effect relating to events in American History in your AP U.S. History class.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>On the AP U.S. History Exam, both multiple-choice and free-response questions relate to cause and effect.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+         <multiple hasFigure="true">
+            <question>What probably caused the United States government to create this poster?</question>
+            <answers>
+               <answer>It needed to increase support for the war in America.</answer>
+               <answer correct="true">It needed to boost enlistment during World War I.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-2_s36_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What effect might this poster have had on the American people?</question>
+            <answers>
+               <answer correct="true">American men probably felt that it was their patriotic duty to enlist in the army.</answer>
+               <answer>The Americans probably felt unsure about supporting the government by enlisting.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-2_s36_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Which of the following was a cause shared by ALL of the passengers on the "Mayflower?"</question>
+            <answers>
+               <answer>The desire to separate from the Church of England</answer>
+               <answer correct="true">The desire to start a new life in the American colonies</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>The migrating Puritans &quot;knew they were pilgrims&quot; even before they left Holland, their leader and historian William Bradford, later wrote. In September 1620 they left the port of Plymouth, on the English coast, in the <em>Mayflower</em> with thirty-five &quot;saints&quot; (Puritan Separatists) and sixty-seven &quot;strangers&quot; (people who were not full members of the church) aboard. By the time they sighted land in November, it was too late in the year to go on. Their original destination was probably the mouth of the Hudson River, in what is now New York. But they found themselves instead on Cape Cod. After exploring the region for a while, they chose a site for their settlement just north of the cape, an area Captain John Smith had named &quot;Plymouth&quot; (after the English port from which the Puritans had sailed) during an exploratory journey some years before. Plymouth lay outside the [Virginia] Company's territory, and the settlers realized they had no legal basis for settling there. As a result, forty-one male passengers signed a document, the Mayflower Compact, which established a civil government and proclaimed their allegiance to the king. Then, on December 21, 1820, the Pilgrims stepped ashore at Plymouth Rock.</p>
+					<p>From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>What was one effect of the "Mayflower" straying off course?</question>
+            <answers>
+               <answer>John Smith named the area where they landed "Plymouth."</answer>
+               <answer correct="true">Forty-one male passengers signed the Mayflower Compact, which established a civil government.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>The migrating Puritans &quot;knew they were pilgrims&quot; even before they left Holland, their leader and historian William Bradford, later wrote. In September 1620 they left the port of Plymouth, on the English coast, in the <em>Mayflower</em> with thirty-five &quot;saints&quot; (Puritan Separatists) and sixty-seven &quot;strangers&quot; (people who were not full members of the church) aboard. By the time they sighted land in November, it was too late in the year to go on. Their original destination was probably the mouth of the Hudson River, in what is now New York. But they found themselves instead on Cape Cod. After exploring the region for a while, they chose a site for their settlement just north of the cape, an area Captain John Smith had named &quot;Plymouth&quot; (after the English port from which the Puritans had sailed) during an exploratory journey some years before. Plymouth lay outside the [Virginia] Company's territory, and the settlers realized they had no legal basis for settling there. As a result, forty-one male passengers signed a document, the Mayflower Compact, which established a civil government and proclaimed their allegiance to the king. Then, on December 21, 1820, the Pilgrims stepped ashore at Plymouth Rock.</p>
+					<p>From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What probably caused the printer to publish this image in America?</question>
+            <answers>
+               <answer correct="true">He wanted to increase support for the war in the United States.</answer>
+               <answer>He wanted to shame German-Americans into leaving the country.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-2_s25_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-2_s36</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

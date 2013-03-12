@@ -1,0 +1,134 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-5_s13.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>Who was the primary audience for these posters? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Male voters in Britain]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Women who may want to join the suffrage movement]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>How are the women in the posters portrayed?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[As strong and politically active]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[As victims of the government]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>What do you think was the intended purpose of these two posters?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[To get people to vote against the Liberal government]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[To inspire more women to join to suffrage movement]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Why were the posters probably created? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[As a propaganda tool for the Conservatives who wanted to gain power]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[To create an emotional response in the viewer that would translate into a vote against the Liberal government]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>How could these posters have been used to change the mind of those who were against women’s suffrage?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Viewers would feel sorry for the women and respond to their shameful and offensive treatment]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Viewers would think that the WSPU was being targeted by the government and respond by suddenly supporting suffrage]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

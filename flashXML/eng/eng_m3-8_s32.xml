@@ -1,0 +1,259 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m3-8_s32.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+//1	
+	<question>
+		<qText>A thesis can be placed anywhere in an essay, as long as it clearly states an arguable claim.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>You should announce what you plan to write about in your essay’s opening sentence.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//3
+	<question>
+		<qText>A clincher statement should introduce a new idea about the topic.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+	
+//4
+	<question>
+		<qText>Fragments are encouraged to accentuate your style.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+	
+//5
+	<question>
+		<qText>Which of these statements is a fragment?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>He jumped over the turnstile, but the police officer stopped him</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Ella sang with the choir in the morning and a rock band that night</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>As the plane flew into the sunset</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>He ran in the house</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+	
+//6
+	<question>
+		<qText>Which sentence has incorrect subject/verb agreement?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Steven ate the whole taco salad.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The dishes in the sink is dirty.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Erika and Jon chased the loose football.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The car rolled into the street.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+
+//7
+	<question>
+		<qText>Which statement uses no redundant words?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Selina carefully opened the door cautiously.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Every day, she got up daily before sunrise. </aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The traitor gave away his platoon’s position to the enemy.</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Clint fell into a hole below him.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+
+//8
+	<question>
+		<qText>Which sentence uses active voice?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The fence blocked our view.</aText> 
+				<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>He was chased by the goat.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The stream was diverted by the engineers.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The passports were checked by the security attendant.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+
+//9
+	<question>
+		<qText>Which of these is a clear, arguable thesis?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Gatto’s theory about schooling and education being two different things is cool because it’s true.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Swift’s comments about humanity are examples of satire.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Twain’s scathing words about humanity are lessened by his humor.</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Fitzgerald’s Gatsby was involved in illegal activities.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+
+//10
+	<question>
+		<qText>Choppy, repetitive sentences are encouraged because they are easier for the AP reader to score.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>	
+	
+	
+</MultipleChoice>

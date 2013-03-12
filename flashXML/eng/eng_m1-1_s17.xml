@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Paragraph Two]]></hText>
+		<qText><![CDATA[<font size='14'>Directions: Read the paragraph and note which words are positive and which are negative.<br/><br/>On the occasion corresponding to this four years ago all thoughts were anxiously directed to an impending civil war. All dreaded it, all sought to avert it. While the inaugural address was being delivered from this place, devoted altogether to saving the Union without war, insurgent agents were in the city seeking to destroy it without war—seeking to dissolve the Union and divide effects by negotiation. Both parties deprecated war, but one of them would make war rather than let the nation survive, and the other would accept war rather than let it perish, and the war came.</font>]]></qText>
+		<correctText><![CDATA[<font size='18'><font face='c-Bold'>Negative terms:</font> anxiously, impending, war, dreaded, avert, insurgent, destroy, dissolve, divide, deprecated, perish<br /><br /><font face='c-Bold'>Positive terms:</font> devoted, saving, survive</font>]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/eng_m1-1_s17.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

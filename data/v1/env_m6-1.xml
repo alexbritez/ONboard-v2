@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="World's Major Continents and Countries">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m6-1_s1</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Asia</match>
+			<match id="4">South America</match>
+			<match id="6">Africa</match>
+			<match id="5">Antarctica</match>
+			<match id="1">North America</match>
+			<match id="2">Europe</match>
+			<match id="7">Australia</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="108" y="9"/>
+			<drop correct="2" x="277" y="9"/>
+			<drop correct="3" x="452" y="9"/>
+			<drop correct="4" x="54" y="367"/>
+			<drop correct="5" x="226" y="367"/>
+			<drop correct="6" x="356" y="367"/>
+			<drop correct="7" x="506" y="367"/>
+         </drops>
+         <image>env_m6-1_s3.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m6-1_s3</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Pacific</match>
+			<match id="4">Indian</match>
+			<match id="2">Atlantic</match>
+			<match id="5">Southern</match>
+			<match id="1">Arctic</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="269" y="49"/>
+			<drop correct="2" x="212" y="114"/>
+			<drop correct="3" x="47" y="186"/>
+			<drop correct="4" x="398" y="224"/>
+			<drop correct="5" x="270" y="273"/>
+         </drops>
+         <image>env_m6-1_s4.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m6-1_s4</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Europe and Asia</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m6-1_s6.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="env_m6-1_s6_RUSSIA" x="336" y="190"><![CDATA[
+				<h1>Russia</h1>
+				<li>Spans the continents of Europe and Asia</li>
+				<li>Largest country in the world</li>
+				<li>1.8 times the size of the United States</li>
+				<li>Pollution is a major problem</li>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m6-1_s6_UKRAINESTRONG" x="25" y="203"><![CDATA[
+				<h1>Ukraine</h1>
+				<li>Located on the European continent</li>
+				<li>About the size of Texas</li>
+				<li>Location of the 1986 Chernobyl nuclear accident</li>
+				<li>Lingering environmental issues due to radiation contamination</li>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m6-1_s6</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s7</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Countries in Asia</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m6-1_s8.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="env_m6-1_s8_INDIA" x="61" y="158"><![CDATA[
+				<h1>India</h1>
+				<ul>
+					<li>Second most populated country in the world</li>
+					<li>Expected to surpass China as the most populated</li>
+					<li>Many parts of India suffer frequent drought as well as widespread, destructive flooding.</li>
+				</ul>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m6-1_s8_INDONESIA" x="467" y="312"><![CDATA[
+				<h1>Indonesia</h1>
+				<ul>
+					<li>Made up of 17,508 islands, but only 6,000 are inhabited</li>
+					<li>Has the most volcanoes of any country in the world</li>
+					<li>Site of the deadly 2004 tsunami</li>
+				</ul>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m6-1_s8_SRILANKA" x="57" y="271"><![CDATA[
+				<h1>Sri Lanka</h1>
+				<ul style="font-size: 90%">
+					<li>Made up of mostly low, flat to rolling plains</li>
+					<li>Mountains are located in the south-central part of the country's interior.</li>
+					<li>Environmental problems--deforestation and pollution</li>
+					<li>Working to stabilize both population growth and growth of urban areas</li>
+				</ul>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m6-1_s8_BANGLADESH" x="144" y="147"><![CDATA[
+				<h1>Bangladesh</h1>
+				<ul>
+					<li>Has taken steps to slow population growth</li>
+					<li>Has issues with disease and landlessness</li>
+				</ul>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m6-1_s8</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">China</match>
+			<match id="3">Indonesia</match>
+			<match id="4">India</match>
+			<match id="5">Sri Lanka</match>
+			<match id="1">Bangladesh</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">1. Many landless people forced to live on flood-prone land where waterborne diseases are prevalent</drop>
+			<drop correct="2">2. Most populated country in the world</drop>
+			<drop correct="3">3. Site of a serious natural disaster, a tsunami, in 2004</drop>
+			<drop correct="4">4. Anticipated to become the most populated country in the world</drop>
+			<drop correct="5">5. Has developed strategies for stabilizing population growth and growth of urban areas</drop>
+         </drops>
+         <image>env_m6-1_s9.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m6-1_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s10</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s11</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s12</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Dominic Cram/Flickr RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s13</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Ocean/Corbis, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s14</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Pepiera Tom/Iconotec.com/Fotosearch, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s15</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Stephen Alvarez/National Geographic/Getty images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m6-1_s16</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Susann Parker/age footstock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Which of the following paired countries are located on the same continent?</question>
+            <answers>
+				<answer>Costa Rica and India</answer>
+				<answer>Indonesia and Ukraine</answer>
+				<answer>Mexico and Ecuador</answer>
+				<answer correct="true">Ecuador and Brazil</answer>
+				<answer>Brazil and Sri Lanka</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following paired countries comprise 50% of the world's population?</question>
+            <answers>
+				<answer>Brazil and Sri Lanka</answer>
+				<answer>India and Ecuador</answer>
+				<answer correct="true">China and India</answer>
+				<answer>Indonesia and China</answer>
+				<answer>Russia and Brazil</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is NOT a continent?</question>
+            <answers>
+				<answer>North America</answer>
+				<answer correct="true">Guatemala</answer>
+				<answer>Antarctica</answer>
+				<answer>Europe</answer>
+				<answer>Asia</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which country is the largest in terms of land mass?</question>
+            <answers>
+				<answer>China</answer>
+				<answer>India</answer>
+				<answer>Mexico</answer>
+				<answer>Brazil</answer>
+				<answer correct="true">Russia</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which two countries are known for biosphere reserves?</question>
+            <answers>
+				<answer correct="true">Guatemala and Mexico</answer>
+				<answer>Indonesia and Ukraine</answer>
+				<answer>Sri Lanka and Ecuador</answer>
+				<answer>Brazil and Bangladesh</answer>
+				<answer>Russia and China</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m6-1_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

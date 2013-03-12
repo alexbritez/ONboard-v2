@@ -1,0 +1,33 @@
+<PopUp>
+	<slideInfo>
+		<title>Line Graphs</title>
+		<info><![CDATA[<font color='#b33a0f'>•</font> independent variable <br /><font color='#b33a0f'>•</font> dependent variable ]]></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s6.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s6.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>1</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s6_1.mp3"/>
+			<xCord>450.8</xCord>
+			<yCord>129.7</yCord>
+			<width>134</width>
+			<popTitle>Dependent Variable</popTitle>
+			<popInfo>The electronegativity value of an element is the dependent variable that changes and is dependent on the atomic number.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s6_2.mp3"/>
+			<xCord>844.3</xCord>
+			<yCord>452.65</yCord>
+			<width>85</width>
+			<popTitle>Independent Variable</popTitle>
+			<popInfo>The atomic number is the independent variable that can be manipulated. It does not depend on the other variable.</popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

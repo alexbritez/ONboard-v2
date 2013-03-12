@@ -1,0 +1,94 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-4_s12.jpg</image>
+		<audio>audio/eng_m3-4_s12.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>90</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	
+	<dragItems>
+	
+		<dItem>
+			<boxText>quiet space station </boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+	
+		<dItem>
+			<boxText>in the officer’s room</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Three Laws of Robotics</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>glowing red eyes</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>new floor sweeper</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>cold voice of robot</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>satisfactory explanation</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Robot’s oddly human attitude</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Donovan works with Powell</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText><![CDATA[<font size='19'>conversation between man and machine</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="577.95" yCord="167.05" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.95" yCord="233.5" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.95" yCord="299.95" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.95" yCord="366.4" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.95" yCord="432.85" spotScale="80" spotNum="1"/>
+		
+		<dSpot xCord="862.95" yCord="167.05" spotScale="80" spotNum="2"/>
+		<dSpot xCord="862.95" yCord="233.5" spotScale="80" spotNum="2"/>
+		<dSpot xCord="862.95" yCord="299.95" spotScale="80" spotNum="2"/>
+		<dSpot xCord="862.95" yCord="366.4" spotScale="80" spotNum="2"/>
+		<dSpot xCord="862.95" yCord="432.85" spotScale="80" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

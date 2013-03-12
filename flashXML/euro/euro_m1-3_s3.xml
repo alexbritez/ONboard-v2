@@ -1,0 +1,62 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m1-3_s3.jpg</image>
+		<audio>audio/euro_m1-3_s3.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		
+		<dItem>
+			<boxText>Suffrage</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText>Parliament</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText>Minister</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText>Ambassador</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText>Law or Code</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>
+	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="515.55" yCord="151.25" spotScale="90" spotNum="1"/>
+		<dSpot xCord="515.55" yCord="218.65" spotScale="90" spotNum="2"/>
+		<dSpot xCord="515.55" yCord="286.05" spotScale="90" spotNum="3"/>
+		<dSpot xCord="515.55" yCord="366.55" spotScale="90" spotNum="4"/>
+		<dSpot xCord="515.55" yCord="447.1" spotScale="90" spotNum="5"/>
+
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

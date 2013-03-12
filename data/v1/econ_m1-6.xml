@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Unintended Consequences">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m1-6_s1</video>
+    <credits>(cl)McGraw-Hill Companies, Inc., Ken Cavanagh, photographer, (cr)Ryan McVay/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m1-6_s2</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-6_s3.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="276" y="115">
+			<![CDATA[
+				<h1></h1>
+				<p>Residents must breathe the dirty air and drink the polluted water.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="54" y="319">
+			<![CDATA[
+				<h1></h1>
+				<p>People may need to dig new wells for clean water.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="182" y="319">
+			<![CDATA[
+				<h1></h1>
+				<p>People may need to visit the doctor more often for breathing ailments, such as asthma.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="366" y="319">
+			<![CDATA[
+				<h1></h1>
+				<p>People may need to pay higher taxes for the government to clean up the polluted sites.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="500" y="319">
+			<![CDATA[
+				<h1></h1>
+				<p>Children may be born with deformities due to high levels of toxins in mothers.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-6_s3</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m1-6_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Designpics.com/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these government actions would NOT be an appropriate remedy to restore efficiency in the market where a negative externality is occurring?</question>
+        <answers>
+          <answer>Imposing a tax for each unit of pollution the firm produces</answer>
+		  <answer>Setting a limit on the amount of pollution the firm can produce</answer>
+		  <answer>Fining the firm for each unit of pollution the firm produces beyond the legal limit</answer>
+          <answer correct="true">Providing a subsidy to the firm to increase its production</answer>
+		  <answer>Requiring firms to dispose of pollution in a particular way</answer>
+        </answers>
+        <feedbackAudio>econ_m1-6_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-6_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m1-6_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Blend Images/SuperStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m1-6_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m1-6_s8</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Airplanes flying low over neigborhoods</match>
+		<match id="2">Neighborhood trash cleanup</match>
+		<match id="3">Flowers planted along a roadway</match>
+		<match id="4">Pollution</match>
+		<match id="5">Odor from a hog farm</match>
+		<match id="6">Vaccinations</match>
+      </matches>
+      <drops title="Positive Externality">2,3,6</drops>
+	  <drops title="Negative Externality">1,4,5</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-6_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Public Goods</header>
+      <instruction><![CDATA[
+	  	<p>Public goods have two unique characteristics:</p>
+		<ul>
+			<li>non-rival consumption</li>
+			<li>non-exclusive ownership</li>
+		</ul>
+	  ]]></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-6_s10.jpg</image>
+      <hotspots>
+        <hotspot audio="econ_m1-6_s10_non-rival" title="Non-rival consumption" dynamic="true" x="61" y="331">
+			<![CDATA[
+				<h1>Non-rival consumption</h1>
+				<p>Non-rival consumption means that one person's use of the good does not prevent another person from using the same good. If you are watching a fireworks show with your friend, your viewing does not prevent your friend from also seeing the fireworks.</p>
+			]]>
+        </hotspot>
+		<hotspot audio="econ_m1-6_s10_non-exclusive" title="Non-exclusive ownership" dynamic="true" x="406" y="331">
+			<![CDATA[
+				<h1>Non-exclusive ownership</h1>
+				<p>Non-exclusive ownership means that after a good is provided, it is difficult or impossible to keep those who have not paid from receiving the product. If your town charges admission to the park for a fireworks show, it cannot prevent people outside the park from looking into the sky to see the show.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-6_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Studio Photogram/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m1-6_s11</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Richard Woldendorp/Photolibrary/Getty Images, (2)Ingram Publishing, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>econ_m1-6_s12</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Comstock Images/Jupiterimages, (2)Charles Smith/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Why must the government provide public goods?</question>
+        <answers>
+          <answer correct="true">A free-rider problem develops with such goods because people can obtain them without paying.</answer>
+		  <answer>Profits of private firms would be too high if they provided such goods.</answer>
+		  <answer>Consumers do not trust the quality of such goods when private firms produce them.</answer>
+		  <answer>Private firms create negative externalities in the production of such products.</answer>
+		  <answer>Private firms would charge too much for such goods.</answer>
+        </answers>
+        <feedbackAudio>econ_m1-6_s13_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-6_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>A factory dumping pollution into the local river is an example of</question>
+        <answers>
+          <answer>a public good.</answer>
+		  <answer>a positive externality.</answer>
+		  <answer>an incentive.</answer>
+		  <answer>an opportunity cost.</answer>
+          <answer correct="true">a negative externality.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The market fails in the case of a negative externality because the firm</question>
+        <answers>
+          <answer correct="true">is able to impose part of its costs on a third party.</answer>
+		  <answer>cannot earn a profit in the market.</answer>
+		  <answer>charges a price that is too high for the market.</answer>
+		  <answer>cannot prevent those who don't pay from receiving the good.</answer>
+          <answer>produces too few products to achieve an efficient output.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The government can resolve positive externalities by</question>
+        <answers>
+          <answer>imposing a tax on the product.</answer>
+		  <answer>limiting the number of products the firm can produce.</answer>
+		  <answer>regulating the amount of the externality the firm can produce.</answer>
+		  <answer correct="true">subsidizing the purchase of the product.</answer>
+          <answer>fining firms that produce the product.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The market fails for public goods because such goods have the characteristics of</question>
+        <answers>
+          <answer>virtually unlimited demand but very little supply.</answer>
+		  <answer correct="true">non-rival consumption and non-exclusive ownership.</answer>
+		  <answer>negative externality and scarcity.</answer>
+		  <answer>opportunity cost and marginal revenue.</answer>
+          <answer>positive externality and a large private supply.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Government solves the "free rider" problem of &lt;br /&gt;public goods by</question>
+        <answers>
+          <answer>imposing fines and prison terms on people who use public goods.</answer>
+		  <answer>ordering private firms to produce the public goods for a minimal cost.</answer>
+		  <answer correct="true">providing the public goods and collecting taxes to pay for them.</answer>
+		  <answer>rationing the amount of public goods each household can consume per year.</answer>
+          <answer>fining private firms that produce public goods.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-6_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

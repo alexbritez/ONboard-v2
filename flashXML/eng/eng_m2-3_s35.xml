@@ -1,0 +1,222 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m2-3_s35.mp3</audio>
+		<endFeedback feedback=""/>
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+	
+	<question>
+		<qText>In general, we write in the illustrative mode to entertain our audience by sharing a personal experience.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	
+	<question>
+		<qText>You are the expert in a narrative essay.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	<question>
+		<qText>Descriptive writing generally relies on chronological or time sequencing.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	<question>
+		<qText>Statistics and quotations add support to many types of essays.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	
+	<question>
+		<qText>Use the point-by-point method when you want to write about one entire subject before writing about the other subject.
+</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	<question>
+		<qText>Process analysis describes how something works.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	<question>
+		<qText>With causal analysis, you tell a story, summarize an event, or describe an object or idea.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	<question>
+		<qText>Compare and contrast essays involve sorting complex ideas into groups and subgroups.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	<question>
+		<qText>A sarcastic tone is always effective in persuasive essays.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+	<question>
+		<qText>The most important characterization of a topic in an argument essay is that it be debatable.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText>
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false"/>
+	</question>
+	
+</MultipleChoice>

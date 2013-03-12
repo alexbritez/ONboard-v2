@@ -1,0 +1,43 @@
+<PopUp>
+	<slideInfo>
+		<title>What Can Primary Sources Help You Do?</title>
+		<info></info>
+		<image>images/euro_m3-1_s10.jpg</image>
+		<audio>audio/euro_m3-1_s10.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Draw Conclusions</Name>
+			<audio enable="true" url="audio/euro_m3-1_s10_draw.mp3"/>
+			<xCord>746.4</xCord>
+			<yCord>105.35</yCord>
+			<width>134</width>
+			<popTitle>Draw Conclusions</popTitle>
+			<popInfo>Primary Sources provide direct information that can be used to draw conclusions or make inferences about historical questions.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Historical Evidence</Name>
+			<audio enable="true" url="audio/euro_m3-1_s10_historical.mp3"/>
+			<xCord>930.2</xCord>
+			<yCord>184.4</yCord>
+			<width>134</width>
+			<popTitle>Historical Evidence</popTitle>
+			<popInfo>Primary Sources provide evidence to support conclusions drawn by students of history.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Points of View</Name>
+			<audio enable="true" url="audio/euro_m3-1_s10_pov.mp3"/>
+			<xCord>930.2</xCord>
+			<yCord>398.4</yCord>
+			<width>134</width>
+			<popTitle>Points of View</popTitle>
+			<popInfo>Primary sources allow us to examine different points of view about events of the past.</popInfo>
+		</pButton>
+	
+	</popButtons>
+</PopUp>

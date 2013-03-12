@@ -1,0 +1,32 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-1_s31.jpg</image>
+		<audio>audio/eng_m1-1_s31.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Parallelism</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Alliteration</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Connotative Words</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Repeated Symbol</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="522.5" yCord="168" spotScale="100" spotNum="1"/>
+		<dSpot xCord="522.5" yCord="248.65" spotScale="100" spotNum="2"/>
+		<dSpot xCord="522.5" yCord="332.3" spotScale="100" spotNum="3"/>
+		<dSpot xCord="522.5" yCord="418.95" spotScale="100" spotNum="4"/>
+	</dropSpots>
+</DragDrop>

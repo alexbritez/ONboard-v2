@@ -1,0 +1,38 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>“Activate” the Passive</title>
+		<info></info>
+		<image>images/eng_m2-2_s23.jpg</image>
+		<audio>audio/eng_m2-2_s23.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>140.95</yCord>
+			<width>134</width>
+			<popTitle>Active: </popTitle>
+			<popInfo><![CDATA[Tanner sold tickets to the spaghetti dinner fundraiser.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>265.8</yCord>
+			<width>85</width>
+			<popTitle>Active: </popTitle>
+			<popInfo><![CDATA[The children drew pictures in front of the school.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>391.2</yCord>
+			<width>92</width>
+			<popTitle>Active: </popTitle>
+			<popInfo><![CDATA[Jeannie knitted a blue and pink blanket.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

@@ -1,0 +1,16 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Percent Composition</p>]]></hText>
+		<qText>Find the percent composition of phosphorus in magnesium phosphate.</qText>
+		<fraction>answer</fraction>
+		<correctText><![CDATA[<font size='12'><font face='c-Bold'>Answer:</font><br /><br />The correct answer is 23.56%. <br/><br/>The correct formula is Mg<font face='chemNums' size='18'>3</font>(PO<font face='chemNums' size='18'>4</font>)<font face='chemNums' size='18'>2</font>.<br /><br/><font face='c-Bold' >Worked Problem:</font><br /><br />Mg: 24.305 g/mol × 3 mol = 72.92 g<br /><br />P: 30.97 g/mol × 2 mol = 61.94 g<br /><br />O: 16.00 g/mol × 8 mol = 128.00 g<br /><br />Total molar mass: 72.92 g + 61.94 g + 128.00 g = 262.86 g<br /><br /><br />                                                    61.94 g<br />Percent Composition = <font face='SuperScript'>__________________</font> × 100 = 23.56%<br />                                                  262.86 g</font>]]></correctText>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-2_s5.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s6.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s6_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

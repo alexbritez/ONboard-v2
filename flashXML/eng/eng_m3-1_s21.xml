@@ -1,0 +1,11 @@
+<FillIn>
+	<slideInfo>
+		<hText>Write a sentence that uses the rhetorical device of hyperbole.</hText>
+		<qText></qText>
+		<correctText><![CDATA[<font face="c-bold">ANSWER</font><br/>Any sentence that uses great exaggeration to make a point is acceptable.<br/><font face="c-bold">SAMPLES OF HYPERBOLE</font><br/>Getting out of bed in the morning is pure torture.<br/>My love for you fills oceans.<br/>Claire knew she would be ninety years old before she completed the calculus problem.</font>
+]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/eng_m3-1_s21.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

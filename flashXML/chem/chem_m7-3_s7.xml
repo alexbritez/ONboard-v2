@@ -1,0 +1,27 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText></hText>
+		<qText><![CDATA[<p>A sample of gas occupies a volume of 60.0 mL at a pressure of 1.00 atm and a temperature of 22.0 °C. What will be its volume at a pressure of 1.50 atm and a temperature of 60.0 °C</p>]]></qText>
+		<correctText><![CDATA[<font face='c-Bold'>The correct answer is: </font> <br/>45.2 mL]]></correctText>
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-3_s7.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-3_s7_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

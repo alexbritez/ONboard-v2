@@ -1,0 +1,125 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-4_s8.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s8.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s8.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s8.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s8.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-4_s8.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	
+	<question>
+		<qText><![CDATA[<p>The 9th century mosaic was influenced by</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Roman art</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Humanism</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Why don’t we know who created the mosaic?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>because the signature tiles are missing</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>because it was not important during this period to know the name of the artist</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Which statement best describes how the image by Giotto (the second image) bridges the gap between the mosaic and the painting by Raphael?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>because it was painted in a year that fell between the 9th and 16th century</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>because, stylistically, it has aspects that are similar to both the mosaic and the work by Raphael</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>In which work does Jesus appear more vulnerable?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>number 1 – the mosaic</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>number 2 – the painting by Giotto</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>number 3 – the painting by Raphael</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following probably had the biggest influence on Raphael’s style of painting?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Humanism</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Classicism</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Individualism</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>his religious beliefs</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+		
+</MultipleChoice>

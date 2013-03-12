@@ -1,0 +1,70 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Interpreting Primary Documents</title>
+		<info></info>
+		<image>images/euro_m3-2_s7.jpg</image>
+		<audio>audio/euro_m3-2_s7.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>537.65</xCord>
+			<yCord>199.1</yCord>
+			<width>134</width>
+			<popTitle>Quote #1</popTitle>
+			<popInfo><![CDATA[<p>Bismarck believed if Prussia did not fight a war with France, people would doubt the strength of Prussia and would lose respect for the Prussian government.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>856.1</xCord>
+			<yCord>219.1</yCord>
+			<width>134</width>
+			<popTitle>Quote #2</popTitle>
+			<popInfo><![CDATA[<p>Although Bismarck did not add any words to the Kaiser's message, by eliminating words and phrases, he made it seem curt and insulting to French Emperor, Napoleon III.</p>]]></popInfo>
+		</pButton>
+		
+			<pButton> 
+			<Name>3</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>527.65</xCord>
+			<yCord>452.85</yCord>
+			<width>134</width>
+			<popTitle>Quote #3</popTitle>
+			<popInfo><![CDATA[<p>Bismarck believed that if he sent the telegram to the newspapers as well as to the French ambassador it would infuriate the French, just like a red cape incites a bull at a bullfight. The word “Gallic” means French.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>4</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>851.65</xCord>
+			<yCord>452.85</yCord>
+			<width>134</width>
+			<popTitle>Quote #4</popTitle>
+			<popInfo><![CDATA[<p>Bismarck wanted to make it look like France was attacking Prussia and didn't want Prussia to be blamed for instigating the war.  He feared other European nations would support France if they thought Prussia was aggressively attacking its neighbors.</p>]]></popInfo>
+		</pButton>
+		
+
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

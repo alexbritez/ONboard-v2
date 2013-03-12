@@ -1,0 +1,56 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>18th Century Political Cartoon</title>
+		<info><![CDATA[What does the illustration show?<br/>What is the historical context of the cartoon?]]></info>
+		<image>images/euro_m3-5_s30.jpg</image>
+		<audio>audio/euro_m3-5_s30.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>THREE ESTATES</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Caricature.mp3"/>
+			<xCord>480</xCord>
+			<yCord>100.25</yCord>
+			<width>134</width>
+			<popTitle>The Three Estates</popTitle>
+			<popInfo><![CDATA[<p>The cartoon was drawn in the last days of <font face='c-Italic' > Ancien Regime</font> France, when French society was divided into three estates, which were derived from feudal political and social divisions. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>FIRST ESTATE</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Symbolism.mp3"/>
+			<xCord>791.7</xCord>
+			<yCord>107.25</yCord>
+			<width>134</width>
+			<popTitle>The First Estate</popTitle>
+			<popInfo><![CDATA[<p>The first estate, the Clergy, was a tiny fraction of the population. They represented the established church, and required the peasantry to pay a kind of tax called a tithe to the church. They also enforced religious orthodoxy through the Inquisition. They paid no taxes but voluntarily contributed a small amount of the immense wealth of the Catholic church to the state. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>SECOND ESTATE</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Irony.mp3"/>
+			<xCord>484.75</xCord>
+			<yCord>313.8</yCord>
+			<width>134</width>
+			<popTitle>The Second Estate</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>The second estate was made up of the nobility, who were only one-half to one percent of the total population. They controlled a vast amount of France’s land and wealth and were exempt from taxation. In addition, they exacted seigneurial or hereditary rights including an annual tax on lands leased or held by the peasants on their estates. Nobles could also charge banalités or fees for the right to use their mills, ovens, or wine presses and demand a portion of the harvest in return for permission to farm land.</font></p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>THIRD ESTATE</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Metaphor.mp3"/>
+			<xCord>702.1</xCord>
+			<yCord>445.15</yCord>
+			<width>134</width>
+			<popTitle> The Third Estate</popTitle>
+			<popInfo><![CDATA[<p>The third estate made up the remaining 98% of the population. The third estate included rural peasants, the urban poor, and the middle class or bourgeoisie. The entire tax burden of the French state fell on the third estate. Taxes were levied on land, certain goods, and included work obligations, called the corvee, in which the members of the third estate were required to donate their labor to state enterprises such as road building and repair. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>MONARCH</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Stereotype.mp3"/>
+			<xCord>868.95</xCord>
+			<yCord>284.65</yCord>
+			<width>134</width>
+			<popTitle>The Monarch</popTitle>
+			<popInfo><![CDATA[<p>The French monarch, an absolute ruler, imposed his laws through the office of Intendants, royal civil servants who enforced the king's will in the provinces by collecting taxes and monitoring policing and the courts.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

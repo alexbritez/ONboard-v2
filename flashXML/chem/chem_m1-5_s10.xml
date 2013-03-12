@@ -1,0 +1,33 @@
+<PopUp>
+	<slideInfo>
+		<title>Graphing Data</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-5_s10.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s10.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>1</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s10_a.mp3"/>
+			<xCord>463.15</xCord>
+			<yCord>257.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Data from the dependent variable is plotted on the <font face='lc-Italic'>y</font>-axis.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-5_s10_b.mp3"/>
+			<xCord>805.75</xCord>
+			<yCord>445.3</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Data from the independent variable is plotted on the <font face='lc-Italic'>x</font>-axis.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

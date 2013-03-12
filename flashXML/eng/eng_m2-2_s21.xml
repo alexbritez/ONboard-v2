@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Redundant Repetitiveness]]></hText>
+		<qText><![CDATA[1.	Blend together the ingredients.<br />2.	He commutes back and forth to work every day.<br />3.	A live witness will tell her story tonight.<br />4.	We will have to postpone the meeting until later.]]></qText>
+		<correctText><![CDATA[<font face='c-Bold' >REDUNDANT WORDS TO REMOVE</font><br /><br />1.	together<br />2.	back and forth<br />3.	live<br />4.	until later]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m2-2_s21.jpg" />
+		<audio>audio/eng_m2-2_s21.mp3</audio>
+		<feedback>audio/eng_m2-2_s21_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

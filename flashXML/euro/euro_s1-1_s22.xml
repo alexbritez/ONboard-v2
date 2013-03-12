@@ -1,0 +1,128 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_s1-1_s22.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<!--<fraction></fraction>-->
+		<qText><![CDATA[<p>There are 5 learning modules in <font face='lc-Italic'>ONboard for AP European History</font>?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>True</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>False</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction>false</fraction>
+		<qText><![CDATA[<p>In AP European History, you’ll need to know how to gather and organize information from texts and from images.</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>True</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>False</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction>false</fraction>
+		<qText><![CDATA[<p>The ability to analyze primary sources is NOT a critical skill in AP European History.</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>True</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>False</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction>false</fraction>
+		<qText><![CDATA[<p>You may receive college credit if you perform well on the AP Exam.</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>True</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>False</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction>false</fraction>
+		<qText><![CDATA[<p>History studied at the AP level is best described as</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>the memorization of important dates and people involved in events</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>an inquiry into the past that seeks answers to important historical questions </p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

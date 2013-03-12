@@ -1,0 +1,32 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m2-1_s5.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-1_s5.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size='16'>Not Testable</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size='16'>More than Two Variables</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='16'>Not Conditional</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='16'>Not Logical</font>]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="727.9" yCord="185.95" spotScale="75" spotNum="1"/>
+		<dSpot xCord="598.1" yCord="270.6" spotScale="75" spotNum="2"/>
+		<dSpot xCord="617.1" yCord="359.1" spotScale="75" spotNum="3"/>
+		<dSpot xCord="622.1" yCord="444.65" spotScale="75" spotNum="4"/>
+	</dropSpots>
+</DragDrop>

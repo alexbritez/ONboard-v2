@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Gathering and Organizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m1-2_s1</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s2</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)National Park Service/Martha Smith, (2)Library of Congress Prints and Photographs Division [LC-DIG-cwpb-04294], (3)DoD photo by Staff Sgt. Joseph P. Collins, Jr., U.S. Army, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s3</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="4" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="6">19th century</match>
+			<match id="8">20th century</match>
+			<match id="5">c. 100-44 B.C.</match>
+			<match id="2">200 B.C.</match>
+			<match id="7">21st century</match>
+			<match id="3">18th century</match>
+			<match id="1">c. 100 B.C.E.</match>
+			<match id="4">c. 1300</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">Julius Caesar was born around 100 B.C.</drop>
+			<drop correct="2">The first Chinese empire was created about 2,200 years ago.</drop>
+			<drop correct="3">Beethoven was born in 1770.</drop>
+			<drop correct="4">At around the beginning of the 14th century, the Mexicans established Tenochtitlan (modern-day Mexico City).</drop>
+			<drop correct="5">Julius Caesar lived during the 1st century B.C.E.</drop>
+			<drop correct="6">The American Civil War occurred between 1861 and 1865.</drop>
+			<drop correct="7">We currently live in this century.</drop>
+			<drop correct="8">Your parents were born in this century.</drop>
+         </drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m1-2_s4</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In which of the following periods was the transcontinental railroad completed?</question>
+            <answers>
+               <answer>1800–1825</answer>
+			   <answer>1825-1850</answer>
+               <answer correct="true">1850-1875</answer>
+			   <answer>1875-1900</answer>
+			   <answer>1900-1925</answer>
+            </answers>
+            <feedbackAudio>USH_m1-2_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-2_s5</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In which century did African American slavery become the dominant source of labor in the American South?</question>
+            <answers>
+               <answer>15th century</answer>
+			   <answer>16th century</answer>
+			   <answer>17th century</answer>
+               <answer correct="true">18th century</answer>
+			   <answer>19th century</answer>
+            </answers>
+            <feedbackAudio>USH_m1-2_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In which of the following periods was the cotton gin invented?</question>
+            <answers>
+               <answer>1690-1710</answer>
+			   <answer>1730-1750</answer>
+               <answer correct="true">1780-1800</answer>
+			   <answer>1820-1840</answer>
+			   <answer>1840-1860</answer>
+            </answers>
+            <feedbackAudio>USH_m1-2_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s8</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s9</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Historical Context</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m1-2_s10.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m1-2_s10_event" dynamic="true" x="58" y="3" title="THE EVENT"><![CDATA[
+				<h1>THE EVENT</h1>
+				<p>The writing of the Declaration of Independence.</p>
+			]]></hotspot>
+            <hotspot audio="USH_m1-2_s10_when" dynamic="true" x="192" y="80" title="WHEN?"><![CDATA[
+				<h1>WHEN?</h1>
+				<p>When did the event occur? The Declaration of Independence was written during the summer of 1776, between June 11 and July 1. Previous events include: The Boston Tea Party, 1773; the passage of the Intolerable Acts, 1774; fighting at Lexington and Concord, April 1775; and Olive Branch Petition rejected, August 1775.</p>
+			]]></hotspot>
+            <hotspot audio="USH_m1-2_s10_what" dynamic="true" x="426" y="66" title="WHAT?"><![CDATA[
+				<h1>WHAT?</h1>
+				<p>What was the situation or condition during the event? Jefferson, Adams, and many other Revolutionary-era leaders were influenced by Enlightenment ideas, such as the natural rights of man. The founders also had economic reasons to declare independence, as the British had increased taxation and restricted settlement.
+Politically, all three men in this painting could be considered treasonous British subjects.</p>
+			]]></hotspot>
+            <hotspot audio="USH_m1-2_s10_where" dynamic="true" x="30" y="156" title="WHERE?"><![CDATA[
+				<h1>WHERE?</h1>
+				<p>Where did the event occur? Thomas Jefferson wrote his first draft of the Declaration of Independence in rooms rented from bricklayer Joseph Graff on the outskirts of Philadelphia. Jefferson rented two rooms from Graff, a small bedroom and a sitting room.</p>
+			]]></hotspot>
+            <hotspot audio="USH_m1-2_s10_who" dynamic="true" x="204" y="298" title="WHO?"><![CDATA[
+				<h1>WHO?</h1>
+				<p>Who was involved? The Continental Congress appointed five committee members from a geographic range of colonies (Massachusetts, Connecticut, New York, Pennsylvania, and Virginia). John Adams, from Massachusetts, urged the Virginian Thomas Jefferson to take the lead and draft the document justifying independence.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m1-2_s10</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Universal History Archive/Universal Images Group/Getty Images,  (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s11</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)National Archives and Records Adminstration, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s12</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Historical Picture Archive/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s13</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Historical Picture Archive/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s14</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)McGraw-Hill Companies, Inc. Richard Hutchings, photographer, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">1</match>
+			<match id="2">2</match>
+			<match id="3">3</match>
+			<match id="4">4</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="3" x="0" y="130" />
+			<drop correct="2" x="0" y="190" />
+			<drop correct="1" x="0" y="250" />
+			<drop correct="4" x="0" y="310" />
+         </drops>
+         <image>USH_m1-2_s15.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>USH_m1-2_s15</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s16</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s17</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s18</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-pga-02322], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s19</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Tools for Mastering Chronology</header>
+         <text><![CDATA[
+		 	<p>Using Memory Devices for Several Events within a Period</p>
+			<p><strong>The Cold War Begins</strong></p>
+			<ul>
+				<li style="margin-bottom: 1em">Truman Doctrine: pledged United States support for any country struggling against communism (1947)</li style="margin-bottom: 1em">
+				<li style="margin-bottom: 1em">Marshall Plan: gave billions of U.S. dollars to western European nations to help them recover financially from World War II (1947)</li style="margin-bottom: 1em">
+				<li style="margin-bottom: 1em">The Berlin Crisis threatened World War III between the United States and Soviet Union (1948–49). After the U.S. ordered an airlift to help West Berlin, Soviet Premier Joseph Stalin backed down.</li style="margin-bottom: 1em">
+				<li style="margin-bottom: 1em">NATO was created by the United States and its allies for collective security in western Europe against potential Soviet aggression (1949).</li style="margin-bottom: 1em">
+				<li style="margin-bottom: 1em">&quot;Red Scare&quot;: reflected American fears of communist subversion within the United States and communist expansion worldwide</li style="margin-bottom: 1em">
+				<li style="margin-bottom: 1em">China become a communist country in 1949.</li style="margin-bottom: 1em">
+				<li style="margin-bottom: 1em">Atomic bomb was successfully tested by the Soviets in 1949.</li style="margin-bottom: 1em">
+				<li style="margin-bottom: 1em">Korean War brought the United States into war with communist North Korean and Chinese troops who were supported by the Soviet Union (1950–53).</li style="margin-bottom: 1em">
+			</ul>
+		]]></text>
+      </content>
+      <audio>USH_m1-2_s20</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which event was MOST likely the immediate cause for the formation of the North Atlantic Treaty Organization (NATO)?</question>
+            <answers>
+               <answer>Communist control of China</answer>
+			   <answer>The "Red Scare"</answer>
+			   <answer>The Korean War</answer>
+               <answer correct="true">The Berlin Crisis</answer>
+			   <answer>Soviet detonation of an atomic bomb</answer>
+            </answers>
+            <feedbackAudio>USH_m1-2_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-2_s21</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which two events in 1949 demonstrated the limits of U.S. power during the Cold War?</question>
+            <answers>
+               <answer correct="true">Communist control of China and Soviet detonation of an atomic bomb</answer>
+			   <answer>The Marshall Plan and the Korean War</answer>
+			   <answer>Soviet detonation of an atomic bomb and the Marshall Plan</answer>
+			   <answer>The Korean War and the Truman Doctrine</answer>
+			   <answer>The Marshall Plan and the formation of NATO</answer>
+            </answers>
+            <feedbackAudio>USH_m1-2_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-2_s22</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s23</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Place each event below in the correct chronological sequence (earliest to latest) by dragging each event to its appropriate number.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="margin:-10px;">
+            <match id="7">Atomic bomb (Soviets)</match>
+			<match id="5">Red Scare</match>
+			<match id="4">NATO</match>
+			<match id="6">China becomes communist</match>
+			<match id="8">Korean War</match>
+			<match id="3">Berlin Crisis</match>
+			<match id="1">Truman Doctrine</match>
+			<match id="2">Marshall Plan</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="61" y="50"/>
+			<drop correct="2" x="61" y="108"/>
+			<drop correct="3" x="61" y="166"/>
+			<drop correct="4" x="61" y="225"/>
+			<drop correct="5" x="252" y="50"/>
+			<drop correct="6" x="252" y="108"/>
+			<drop correct="7" x="252" y="166"/>
+			<drop correct="8" x="252" y="225"/>
+         </drops>
+		 <image>USH_m1-2_s24_alt.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>USH_m1-2_s24</audio>
+      <feedbackAudio>USH_m1-2_s24_FB</feedbackAudio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s25</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="1_Module_Intro">
+      <video>USH_m1-2_s26</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (cr)Buyenlarge/Archive Photos/Getty Images, (r)Library of Congress Prints and Photographs Division [LC-DIG-cwpb-04294], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="1_Module_Intro">
+      <video>USH_m1-2_s27</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Bettman/Corbis, (cl)Jacques M. Chenet/Corbis, (cr)Louise Gubb/Corbis SABA, (r)DoD photo by Staff Sgt. Joseph P. Collins, Jr., U.S Army, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s28</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Library of Congress Prints and Photographs Division [LC-USZC4-5585], (2)National Archives and Records Adminstration, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="1_Module_Intro">
+      <video>USH_m1-2_s29</video>
+      <credits><![CDATA[<span style="font-size:6px">
+         (tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l to r)Larry Downing/Sygma/Corbis, (2)Gilbert Stuart/The Bridgeman Art Library/Getty Images, (3)Library of Congress Prints and Photographs Division [LC-USZC4-2109], (4)The Library of Congress, Prints ﹠ Photographs Division [LC-DIG-pga-00352], (5)The Library of Congress,Prints ﹠ Photographs Division [LC-USZ62-104961], (6)Jacques M. Chenet/Corbis, (bkgd)Comstock/PunchStock
+      </span>]]></credits>
+   </scene>
+
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s30</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Larry Downing/Sygma/Corbis, (2)Gilbert Stuart/The Bridgeman Art Library/Getty Images, (3)Library of Congress Prints and Photographs Division [LC-USZC4-5801], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s31</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Larry Downing/Sygma/Corbis, (2)Library of Congress Prints and Photographs Division [LC-USZC4-2109], (3)Library of Congress Prints and Photographs Division [LC-USZ62-13008], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>One of the prerequisites for industrialization is an efficient system for transporting raw materials to factories and finished goods to markets. The United States had no such system in the early years of the republic. But work was under way that would ultimately remove the transportation obstacle.</p>
+			<p>There were several ways to solve the problem of the small American markets. One was to look for customers overseas, and American merchants continued their efforts to do that. Among the first acts of the new Congress when it met in 1789 were two tariff bills giving preference to American ships in American ports, helping to stimulate an expansion of domestic shipping.</p>
+			<p>More important—indeed the principal reason for the growth of American trade in this period—was the outbreak of war in Europe in the 1790s, allowing Yankee merchant vessels to take over most of the carrying trade between Europe and the Western Hemisphere.</p>
+			<p>As early as 1793, the young republic had a merchant marine and a foreign trade larger than those of any country except England. In proportion to its population, the United States had more ships and international commerce than any country in the world. Between 1789 and 1810, the total tonnage of American vessels engaged in overseas traffic rose from less than 125,000 to nearly one million. American ships had carried only 30 percent of the country's exports in 1789; they were carrying over 90 percent in 1810. The figures for American ships carrying imports increased even more dramatically, from 17.5 percent to 90 percent in the same period.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright © 2012 The McGraw-Hill Companies, Inc.</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-2_s32</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which men served as President of the United States between 1789 and 1810?</question>
+            <answers>
+               <answer correct="true">Washington, John Adams, Jefferson, and Madison</answer>
+               <answer>Jefferson, Madison, Monroe, and John Quincy Adams</answer>
+            </answers>
+            <feedbackAudio>USH_m1-2_s33_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-2_s33</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="34" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What time periods were covered in this excerpt?</question>
+            <answers>
+               <answer>"Religion, Reform, and Renaissance in Antebellum America" and "Territorial Expansion and Manifest Destiny"</answer>
+               <answer correct="true">"The Early Republic" and the "Transformation of the Economy and Society in Antebellum America"</answer>
+            </answers>
+            <feedbackAudio>USH_m1-2_s34_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-2_s34</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="35" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s35</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="36" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Drag and drop the following dates and events into the timeline.</matchingInstructions>
+      <matching type="dynamic" format="number" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">1. 1793</match>
+   			<match id="2">2. 1789</match>
+   			<match id="3">3. 1810</match>
+   			<match id="4">4. 1790s</match>
+   			<match id="5">5. U.S. had second-largest merchant marine</match>
+   			<match id="6">6. American ships carried 90% of U.S. imports and exports</match>
+   			<match id="7">7. War in Europe</match>
+   			<match id="8">8. Congress passes tariff bills</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="153" y="275" />
+			<drop correct="2" x="60" y="275" />
+			<drop correct="3" x="421" y="275" />
+			<drop correct="4" x="136" y="319" />
+			<drop correct="5" x="153" y="144" />
+			<drop correct="6" x="421" y="144" />
+			<drop correct="7" x="107" y="69" />
+			<drop correct="8" x="65" y="144" />
+         </drops>
+         <image>USH_m1-2_s36.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m1-2_s36</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="37" type="2_Txt_Img_Animation">
+      <video>USH_m1-2_s37</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)McGraw-Hill Companies, Inc. Richard Hutchings, photographer, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="38" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Timelines are the only way to remember events in chronological order.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A memory device created by someone else is a better tool than one you create yourself.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Knowing periodization is very helpful when answering essay questions on the AP U.S. History exam.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>It's not important to learn the dates that all presidents served, just the most important ones.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The questions in this quiz were presented in the same order that you learned the tools to help you organize information chronologically.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-2_s38</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

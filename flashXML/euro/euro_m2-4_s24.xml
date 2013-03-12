@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-4_s24.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-4_s24.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>What inference can this cartoon be used to support?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Many people in Britain feared the new science of vaccines.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Many people in Britain suffered from cow pox.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Many people in Britain were overweight.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The cow pox vaccine caused large cow-shaped growths to form on those who were inoculated.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The cow pox vaccine was mostly given to men.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-4_s24_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

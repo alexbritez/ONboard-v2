@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s17.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s17.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>It can be said that by 1914, Africa had been completely carved up and claimed by European countries expanding their original coastal colonies inland.</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+	
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s17_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,62 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Neoclassical Portrait</title>
+		<info></info>
+		<image>images/euro_m3-4_s40.jpg</image>
+		<audio>audio/euro_m3-4_s40.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>700.95</xCord>
+			<yCord>99.35</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Classical Pose]]></popTitle>
+			<popInfo><![CDATA[<p>Napoleon Bonaparte is in a classical pose associated with Roman emperors, the god Jupiter, and various kings and popes throughout the ages. He sits on a high backed throne that has elements of classical architecture.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>733</xCord>
+			<yCord>139</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Laurel Wreath]]></popTitle>
+			<popInfo><![CDATA[<p>Instead of a crown, on his head is a golden laurel-wreath, another reference to Roman gods and emperors. Napoleon had crowned himself emperor in 1804.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>658</xCord>
+			<yCord>230</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Established Symbols of Royalty]]></popTitle>
+			<popInfo><![CDATA[<p>Even though Napoleon’s family was of Tuscan nobility, his father was a lawyer. In this coronation portrait, Napoleon wears the same velvet robes he wore for his coronation. He also wears an ermine hood, a fur reserved for royalty.  Like French kings of the past, Napoleon wears the star of the Legion of Honor. The golden bees that decorate his cloak symbolize a new Golden Age.  </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>625</xCord>
+			<yCord>134</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Connection to Charlemagne ]]></popTitle>
+			<popInfo><![CDATA[<p>The scepter he holds in his right hand is the same one held by Charlemagne, the first French king. In his left hand he holds a staff with a hand at the end that symbolizes justice. He also has a sword resting against his left knee.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>E</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>765</xCord>
+			<yCord>430</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Above the Ground]]></popTitle>
+			<popInfo><![CDATA[<p>Napoleon rests his feet on a cushion. The carpet under the throne displays an imperial eagle</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

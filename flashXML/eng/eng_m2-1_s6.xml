@@ -1,0 +1,45 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Turn a simple sentence into a complex sentence.</title>
+		<info><![CDATA[I’m going to the mall.<font size='8'><br/><br/></font><font face='c-Bold'>Although</font> I’m going to the mall.<font size='8'><br/><br/></font>Although I’m going to the mall, I have to leave early to finish my homework.]]></info>
+		<image>images/eng_m2-1_s6.jpg</image>
+		<audio>audio/eng_m2-1_s6.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Definition</Name> 
+			<audio enable="false"/>
+			<xCord>500.6</xCord>
+			<yCord>150.7</yCord>
+			<width>134</width>
+			<popTitle>Definition of Complex Sentence:</popTitle>
+			<popInfo><![CDATA[Simple sentence (one independent clause) or compound sentence (two independent clauses) PLUS at least one subordinate (dependent) clause.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Subordinate Words</Name>
+			<audio enable="false"/>
+			<xCord>906.85</xCord>
+			<yCord>430.3</yCord>
+			<width>85</width>
+			<popTitle>Subordinate Words</popTitle>
+			<popInfo><![CDATA[The following words and others like them prevent a clause from expressing a complete thought.  Words that subordinate include: after, although, because, before, if, since, though, unless, when, where, while.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

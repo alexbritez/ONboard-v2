@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[What is the primary purpose of this passage?]]></hText>
+		<qText>In order to create the illusion of movement, still pictures must appear in rapid succession. To prepare them and display them at the right rate, certain technologies are necessary. Most basically, there must be a way of recording a long series of images on some sort of support. In principle, one could simply draw a string of images on a strip of paper or a disk. But photography offered the cheapest and most efficient way to generate the thousands of images needed for a reasonably lengthy display. Thus the invention of photography in 1826 launched a series of discoveries that made cinema possible.</qText>
+		<correctText><![CDATA[<font face='c-Bold'>ANSWER:</font><br />The primary purpose is to inform. The writer explains how motion pictures were created and why they were created.]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/eng_m1-2_s9.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

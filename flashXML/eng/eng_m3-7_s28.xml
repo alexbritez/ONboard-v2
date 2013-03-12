@@ -1,0 +1,28 @@
+﻿<TextReading>
+	<slideInfo>
+		<hText>Sample Introduction and Body Paragraph</hText>
+		<image></image>
+		<audio>audio/eng_m3-7_s28.mp3</audio>
+		<mainText><![CDATA[<p>	The identity of any society revolves around its treatment of its citizens. As time progresses, society must re-evaluate this treatment in order to ensure that each citizen has an opportunity to achieve fulfillment. The United States struggles with this evaluation of identity in the realm of women’s rights. Since the country’s inception, the U.S. has dealt with victories and failures as its leaders and citizenry seek to establish just treatment for all members of the society. The success or failure of the fair and equal treatment of women in the United States will determine the society’s ultimate identity.
+	The journey of the United States toward just treatment of all citizens must encompass an understanding of the history of inequality in order to appreciate the larger context of the struggle and move toward meaningful and relevant change. The struggle for women’s rights is not a new struggle; for centuries, women have understood that their identity within society was tenuous at best. Elizabeth Jones, in her address to a women’s rights convention in 1850, tackles the issue of equality by demanding that women be recognized as “equal members of the human family” (A). Jones’s views in 1850, while vehemently stated, were not extreme for her time period. In fact, almost a century earlier, Mary Wollstonecraft extols similar sentiments in <font face='lc-Italic'>Vindication of the Rights of Women</font>, exclaiming that “women must be allowed to found their virtue of knowledge . . . educated by the same pursuits as men” (B). Obviously, the issue of women’s rights is not restricted merely to the distant past and is, in fact, a fight taking place across the country’s history. Most recently, women endure wages far below their male counterparts (E). Through evaluating the role of this issue in the country’s larger cultural development, we can appreciate the greater need for real and lasting change as a way to provide fulfillment for all citizens.
+</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

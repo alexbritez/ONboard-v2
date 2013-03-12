@@ -1,0 +1,41 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m4-1_s40.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>"The Russian Revolution occurred primarily due to the effects of World War I."</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Russia lost most of its major battles during WWI.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The Romanovs controlled Russia for nearly 300 years and the Russians were eager for change.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The Treaty of Brest-Litovsk officially took Russia out of the War.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>During the war, millions of Russian soldiers died and those at home suffered food shortages.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Vladimir Lenin led the Bolshevik Revolution in October, 1917, and established a communist economic system.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-1_s40_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

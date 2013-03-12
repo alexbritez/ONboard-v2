@@ -1,0 +1,77 @@
+﻿<PopUp>
+	<slideInfo>
+		<title></title>
+		<info><![CDATA[]]></info>
+		<image>images/eng_m1-3_s4.jpg</image>
+		<audio>audio/eng_m1-3_s4.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Sentence 1</Name>   
+			<audio enable="false" url=""/>
+			<xCord>455.85</xCord>
+			<yCord>113.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Sentence 1</popTitle>
+			<popInfo><![CDATA[<p>This is the claim. It states directly what the argument is.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Sentence 2</Name>
+			<audio enable="false" url=""/>
+			<xCord>524.85</xCord>
+			<yCord>143.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Sentence 2</popTitle>
+			<popInfo><![CDATA[<p>This statement presents the educated opinion of an expert.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Sentence 3</Name>   
+			<audio enable="false" url=""/>
+			<xCord>622.85</xCord>
+			<yCord>205.3</yCord>
+			<width>137</width>
+			<fraction></fraction>
+			<popTitle>Sentence 3</popTitle>
+			<popInfo><![CDATA[<p>This statement provides factual information backed up with statistics.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Sentence 4</Name>
+			<audio enable="false" url=""/>
+			<xCord>781.85</xCord>
+			<yCord>267.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Sentence 4</popTitle>
+			<popInfo><![CDATA[<p>This statement provides more statistical data that backs up the claim.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Sentence 5</Name>
+			<audio enable="false" url=""/>
+			<xCord>505.85</xCord>
+			<yCord>360.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Sentence 5</popTitle>
+			<popInfo><![CDATA[<p>This statement presents the educated opinions of a group of experts.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,126 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m2-2_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Select the non-cliché that completes this sentence: <font face='lc-Italic'>I would not work the swing shift</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[if my life depended on it.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[for a million dollars.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[for love or money.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[for anything.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s18_FB.mp3" />
+	</question>
+	
+	<question>
+		
+		<qText><![CDATA[Choose the least pretentious sentence.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[I cannot guess what his reaction will be.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[I cannot surmise what his reaction will be.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[I cannot construe what his reaction will be.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[I cannot infer what his reaction will be.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s18_FB.mp3" />
+	</question>
+	
+	<question>
+		
+		<qText><![CDATA[Which idiom correctly completes this sentence: <br /><font face='lc-Italic'>I am so _____ Paul right now.</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[afraid of]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[angry of]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[happy over]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[sad with]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>
+	
+	<question>
+		
+		<qText><![CDATA[Which sentence has no empty words?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[I plan to finish at the end of my college years and then get a very high-paying job.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[I plan to finish college and then get a high-paying job.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[I have planned carefully to finish college and then get a high-paying job.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[I actually plan to finish college and then get a high-paying job.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->

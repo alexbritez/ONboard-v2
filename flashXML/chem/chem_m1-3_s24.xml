@@ -1,0 +1,257 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-3_s24.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p align="center">Link is equal to 7.92 inches.</p><br /><p align="center">50 links is equal to 33 feet.</p><br /><p align="center">100 links is equal to 1 chain.</p><br /><p align="center">10 chains is equal to 1 furlong.</p><br /><p align="center">1 miles is equal to 5280 feet.</p><br /><p align="center">3 feet is equal to 1 yard.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p align="center">Link is equal to 7.92 inches.</p><br /><p align="center">50 links is equal to 33 feet.</p><br /><p align="center">100 links is equal to 1 chain.</p><br /><p align="center">10 chains is equal to 1 furlong.</p><br /><p align="center">1 miles is equal to 5280 feet.</p><br /><p align="center">3 feet is equal to 1 yard.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p align="center">Link is equal to 7.92 inches.</p><br /><p align="center">50 links is equal to 33 feet.</p><br /><p align="center">100 links is equal to 1 chain.</p><br /><p align="center">10 chains is equal to 1 furlong.</p><br /><p align="center">1 miles is equal to 5280 feet.</p><br /><p align="center">3 feet is equal to 1 yard.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText>Dimensional analysis is a method of solving a mathematical equation by analyzing the units in the equation.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>Canceling units is the final step in solving a problem.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>All of the units must be the same in order to use dimensional analysis.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+	<fraction>true</fraction>
+		<qText><![CDATA[<p>What should the final units be for <br/><br/>the answer to this problem?<br/><br/><font size='22'>            1000 mL            13.6 g        1 kg  <br/>2 L × <font face='SuperScript'>_____________</font>    ×    <font face='SuperScript'>_______</font>  ×  <font face='SuperScript'>_______</font><br/><br/>                1 L                    mL        1000 g <br />
+</font></p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>L</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>g/mL</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>kg</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+	<fraction>true</fraction>
+		<qText><![CDATA[<p><font size='22'>              kWh          $.10<br />2600   <font face='SuperScript'>_________</font>  ×  <font face='SuperScript'>_______</font>  ×  4 months<br/><br/>            month         kWh</font></p><br/>The final units of this equation <br/><br/>should be</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>kWh/month</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>dollars</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>dollars/year</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>kWh/year</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[If you cover 1.00 furlong, how many miles is that?<br /><br /><font size="20">Click View to see a conversion chart that will help you answer this question.</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>0.125 miles</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>125 miles</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>1250 miles</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>3,484,80 miles</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[How many yards is 53.00 links?<br /><font size="20"><br /><br />Click View to see a conversion chart that will help you answer this question.</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>11.66 yards</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>104.94 yards</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>104.9 yards</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>53 yards</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[A football field measures 100.0 yards from end zone to end zone. How many links is this?<br /><br /><font size="20">Click View to see a conversion chart that will help you answer this question.</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>0.002200 links</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>22.00 links</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>198.0 links</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>454.5 links</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size="24">In the land of Mongo, on a planet called Ming, there are no significant figures and <br/>20 ncc = 8 ivy, 7 ncc = 3 tuz, 14 lam = 6 tuz, and 9 taa = 2 lam.<br/><br/>If you have 8 ncc and want to convert your money into taa, how many taa do you have?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>6.6 taa</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>36 taa</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>84 taa</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>196 taa</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size="24">In the land of Mongo, on a planet called Ming, there are no significant figures and <br/>20 ncc = 8 ivy, 7 ncc = 3 tuz, 14 lam = 6 tuz, and 9 taa = 2 lam.<br/><br/>If you have 24 taa, how many lam is this equal to?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>4.25 lam</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>5.33 lam</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>96.0 lam</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>144 lam</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

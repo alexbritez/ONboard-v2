@@ -1,0 +1,52 @@
+<PopUp>
+	<slideInfo>
+		<title>Position Statements</title>
+		<info></info>
+		<image>images/euro_m4-1_s39.jpg</image>
+		<audio>audio/euro_m4-1_s39.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>527.2</xCord>
+			<yCord>194.35</yCord>
+			<width>134</width>
+			<popTitle>Correct!</popTitle>
+			<popInfo>Statement A offers a clear, direct position that relates to the prompt. The higher standard of living for all classes resulted largely from cheaper goods that enabled people to have more money left over for other goods and services, including luxuries that would have been considered unthinkable for the working class 100 years earlier.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>864.2</xCord>
+			<yCord>194.35</yCord>
+			<width>134</width>
+			<popTitle>Incorrect.</popTitle>
+			<popInfo>This statement provides an informative statement rather than a position statement.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>527.2</xCord>
+			<yCord>361.35</yCord>
+			<width>134</width>
+			<popTitle>Incorrect.</popTitle>
+			<popInfo>This statement provides erroneous analysis rather than a position statement.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>864.2</xCord>
+			<yCord>361.35</yCord>
+			<width>134</width>
+			<popTitle>Incorrect.</popTitle>
+			<popInfo>This statement provides an informative statement rather than a position statement.</popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Big Idea 2: Energy and Molecular Building Blocks">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m1-3_s1</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Jack Weinberg/Image Source/PunchStock, (2)Corey Hochachka/Design Pics, (3)Ingram Publishing, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>bio_m1-3_s2</video>
+      <credits>(l)Goodshoot/PunchStock, (cl)Corey Hochachka/Design Pics, (cr)PhotoLink/Photodisc/Getty Images, (r)CNRI/Science Photo Library RF/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Jack Weinberg/Image Source/PunchStock, (2)Ingram Publishing, (3)PhotoLink/Photodisc/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following is NOT a source of energy?</question>
+            <answers>
+               <answer>Light</answer>
+			   <answer>Breakdown of chemicals during decay</answer>
+               <answer correct="true">Homeostasis</answer>
+			   <answer>Food</answer>
+            </answers>
+            <feedbackAudio>bio_m1-3_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m1-3_s5</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m1-3_s6.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m1-3_s6_glucose" dynamic="true" x="26" y="82"><![CDATA[
+				<h1></h1>
+				<p>Energy is stored in chemical bonds</p>
+			]]></hotspot>
+			<hotspot audio="bio_m1-3_s6_ATP" dynamic="true" x="399" y="82"><![CDATA[
+				<h1></h1>
+				<p>The chemical bond energy of food is stored in a kind of molecule called ATP.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m1-3_s6</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">ATP</match>
+			<match id="1">Chemical bonds</match>
+			<match id="3">Amino acids</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="309" y="70" />
+			<drop correct="2" x="400" y="154" />
+			<drop correct="3" x="436" y="247" />
+         </drops>
+         <image>bio_m1-3_s8.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m1-3_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Brand X Pictures/PunchStock, (2)Steven Puetzer/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (cl)Brand X Pictures/PunchStock, (cr)NHPA/Lutra/Photoshot, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s11</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Biophoto Associates/Photo Researchers/Getty Images, (2)NHPA/Lutra/Photoshot, (3)Brand X Pictures/PunchStock, (4)RubberBall/Getty Images, (5)Brand X Pictures/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">Asexual Reproduction</match>
+			<match id="1">Sexual Reproduction</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="405" y="108" />
+			<drop correct="2" x="405" y="199" />
+         </drops>
+         <image>bio_m1-3_s12.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m1-3_s12</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s13</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s14</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>bio_m1-3_s15</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Living things</question>
+            <answers>
+               <answer>use energy.</answer>
+			   <answer>use molecular building blocks.</answer>
+			   <answer>use homeostasis.</answer>
+               <answer correct="true">All the above.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Energy for living things comes from</question>
+            <answers>
+               <answer correct="true">chemical bonds.</answer>
+			   <answer>water.</answer>
+			   <answer>oxygen.</answer>
+			   <answer>hydrogen.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Organisms use energy to do all of the following except</question>
+            <answers>
+               <answer>reproduce.</answer>
+			   <answer>grow.</answer>
+               <answer correct="true">decay.</answer>
+			   <answer>homeostasis.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A molecule that temporarily stores energy is</question>
+            <answers>
+               <answer>amino acid.</answer>
+               <answer correct="true">ATP.</answer>
+			   <answer>glucose.</answer>
+			   <answer>water.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Life can reproduce</question>
+            <answers>
+               <answer>asexually.</answer>
+			   <answer>sexually.</answer>
+               <answer correct="true">either asexually or sexually depending on the specific organism.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m1-3_s16</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

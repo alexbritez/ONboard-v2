@@ -1,0 +1,29 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m2-2_s5.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-2_s5.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>100</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size='18'>What is the percent composition of water vapor in air?</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size='18'>What is the percentage of copper by mass in a post-1982 penny?</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='18'>How much phosphorus is present in a bag of <font face='c-Italic'>Rose Grow</font> fertilizer?</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.45" yCord="234.85" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.45" yCord="313.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="874.45" yCord="234.85" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.45" yCord="313.5" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

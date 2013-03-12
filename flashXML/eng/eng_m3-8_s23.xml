@@ -1,0 +1,60 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-8_s23.jpg</image>
+		<audio>audio/eng_m3-8_s23.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<p>The dog ran to the end of the driveway</p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<p>The monkey spit out the rotten banana</p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>As if she wasn’t aware</p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Off the fence as fast as lightening</p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>He had better things to do</p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Where his car was</p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="577.35" yCord="171.7" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.35" yCord="256.7" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.35" yCord="341.7" spotScale="80" spotNum="1"/>
+		<dSpot xCord="864.55" yCord="171.7" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.55" yCord="256.7" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.55" yCord="341.7" spotScale="80" spotNum="2"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[Representations <br/>and Models]]></title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m2-4_s7.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-4_s7.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-4_s7_a.mp3"/>
+			<xCord>417</xCord>
+			<yCord>358.1</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[the number of elements or ions and how they are arranged in space]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name></Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-4_s7_b.mp3"/>
+			<xCord>622</xCord>
+			<yCord>358.1</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[1. chemical formula
+2. bond diagram
+3. space-filling model<br/><br/>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name></Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-4_s7_c.mp3"/>
+			<xCord>828</xCord>
+			<yCord>358.1</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[1. elements making up the molecule
+2. the shape of the molecule
+3. the shape of the space in which the elements’ <br/>    valence electrons can be found
+]]></popInfo>
+
+		</pButton>
+	</popButtons>
+</PopUp>

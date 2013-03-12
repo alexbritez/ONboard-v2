@@ -1,0 +1,72 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-3_s16.jpg</image>
+		<audio>audio/eng_m1-3_s16.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	
+	<dragItems>
+	
+		<dItem>
+			<boxText><![CDATA[God]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[righteous might]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+			
+		<dItem>
+			<boxText><![CDATA[One hour after]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+			
+		<dItem>
+			<boxText><![CDATA[grave danger]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[Facts of yesterday]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>			
+		
+		<dItem>
+			<boxText><![CDATA[Congress]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+
+		<dItem>
+			<boxText><![CDATA[distance of Hawaii from Japan]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		
+		<dItem>
+			<boxText><![CDATA[defend ourselves]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		
+		<dItem>
+			<boxText><![CDATA[unbounding determination]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="520.75" yCord="162.2" spotScale="100" spotNum="1"/>
+		<dSpot xCord="520.75" yCord="242.45" spotScale="100" spotNum="1"/>
+		<dSpot xCord="520.75" yCord="329.2" spotScale="100" spotNum="1"/>
+		
+		<dSpot xCord="721.55" yCord="162.2" spotScale="100" spotNum="2"/>
+		<dSpot xCord="721.55" yCord="242.45" spotScale="100" spotNum="2"/>
+		<dSpot xCord="721.55" yCord="329.2" spotScale="100" spotNum="2"/>
+		
+		<dSpot xCord="922.35" yCord="162.2" spotScale="100" spotNum="3"/>
+		<dSpot xCord="922.35" yCord="242.45" spotScale="100" spotNum="3"/>
+		<dSpot xCord="922.35" yCord="329.2" spotScale="100" spotNum="3"/>
+	</dropSpots>
+	
+</DragDrop>

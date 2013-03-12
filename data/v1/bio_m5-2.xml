@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Types of Chemical Bonds">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m5-2_s1</video>
+      <credits>(tr)Fotosearch/Getty Images, (cl)Digital Vision/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m5-2_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m5-2_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Types of Chemical Bonds</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-2_s4.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-2_s4_a" title="Covalent Bond" dynamic="true" x="80" y="15"><![CDATA[
+				<h1>Covalent Bond</h1>
+				<p>This type of bond forms when two atoms share electrons.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-2_s4_b" title="Ionic Bond" dynamic="true" x="396" y="15"><![CDATA[
+				<h1>Ionic Bond</h1>
+				<p>This type of bond forms when electrons are transferred between two atoms.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-2_s4</audio>
+      <credits>(tr)Fotosearch/Getty Images, (cl)Brand X Pictures/PunchStock, (cr)Royalty-Free/Corbis, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m5-2_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+
+   <scene id="6" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_02_08A.mp4</url>
+      <image>bio_m5-2_s6.jpg</image>
+      <audio>bio_m5-2_s6</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m5-2_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Covalent Bonding</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-2_s8.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-2_s8_b" title="Proton" dynamic="true" x="497" y="111"><![CDATA[
+				<h1>Proton</h1>
+				<p>These two atoms share the electrons equally because each has one proton in its nucleus.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-2_s8_a" title="Electron" dynamic="true" x="389" y="292"><![CDATA[
+				<h1>Electron</h1>
+				<p>These two atoms share the two electrons.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-2_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m5-2_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>How many electrons does each atom need to become stable?</question>
+            <answers>
+               <answer>The carbon atom needs 8 and the oxygen atoms each need 4.</answer>
+               <answer correct="true">The carbon atom needs 4 and the oxygen atoms each need 2.</answer>
+            </answers>
+            <figure>bio_m5-2_s10_view.jpg</figure>
+            <feedbackAudio>bio_m5-2_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-2_s10</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Covalent Bonding</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-2_s11.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-2_s11_a" dynamic="true" x="291" y="84"><![CDATA[
+				<h1></h1>
+				<p>This bond is called a double covalent bond.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-2_s11_b" dynamic="true" x="440" y="127"><![CDATA[
+				<h1></h1>
+				<p>This type of bond is known as a polar covalent bond.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-2_s11_c" dynamic="true" x="220" y="256"><![CDATA[
+				<h1></h1>
+				<p>The carbon and oxygen atoms do not share the electrons equally.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-2_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m5-2_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>How many covalent bonds will a nitrogen atom form with another nitrogen atom?</question>
+            <answers>
+               <answer>One</answer>
+			   <answer>Two</answer>
+               <answer correct="true">Three</answer>
+			   <answer>Four</answer>
+			   <answer>Five</answer>
+            </answers>
+            <figure><text>The number of covalent bonds that an atom forms depends on the number of electrons that it has in its outermost orbital. Nitrogen has five electrons in its outermost orbital.</text></figure>
+            <feedbackAudio>bio_m5-2_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-2_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_02_13P.mp4</url>
+      <image>bio_m5-2_s14.jpg</image>
+      <audio>bio_m5-2_s14</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Ionic Bonding</header>
+         <instruction><![CDATA[Ionic bond &mdash; electrons are transferred between two atoms]]></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-2_s15.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m5-2_s15_a" dynamic="true" x="122" y="84"><![CDATA[
+				<h1></h1>
+				<p>Na is the atomic symbol for sodium. When an atom has a single electron in its outer shell and that electron is lost during a bond, the empty outer shell goes away.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-2_s15_b" dynamic="true" x="265" y="130"><![CDATA[
+				<h1></h1>
+				<p>F is the atomic symbol for fluorine. Here, the fluorine atom takes one electron from sodium and its outer electron shell is now full.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m5-2_s15_c" dynamic="true" x="467" y="227"><![CDATA[
+				<h1></h1>
+				<p>In this ionic bond, the two atoms have an equal, but opposite, charge.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-2_s15</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>bio_m5-2_s16</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_02_15A.mp4</url>
+      <image>bio_m5-2_s17.jpg</image>
+      <audio>bio_m5-2_s17</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc. (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A covalent bond forms when two atoms share electrons.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An ionic bond forms when a lost electron is accepted by another atom and the two charged ions attract each other.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>How many valence electrons does this atom have?</question>
+            <answers>
+               <answer>1</answer>
+			   <answer>2</answer>
+               <answer correct="true">6</answer>
+			   <answer>8</answer>
+			   <answer>None</answer>
+            </answers>
+            <figure>bio_m5-2_s18_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>How many electron shells does this atom have?</question>
+            <answers>
+               <answer>1</answer>
+               <answer correct="true">2</answer>
+			   <answer>6</answer>
+			   <answer>8</answer>
+			   <answer>None</answer>
+            </answers>
+            <figure>bio_m5-2_s18_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>If this atom covalently bonded with another atom to become stable, how would the number of electrons change?</question>
+            <answers>
+               <answer>The atom would share one electron.</answer>
+               <answer correct="true">The atom would share two electrons.</answer>
+			   <answer>The atom would lose one electron.</answer>
+			   <answer>The atom would gain two electrons.</answer>
+			   <answer>The atom would lose six electrons.</answer>
+            </answers>
+            <figure>bio_m5-2_s18_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-2_s18</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,382 @@
+<shell title="Introduction to AP Government">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_s1-1_s1</video>
+    <credits>(cl) Steve Allen/Brand X Pictures/PunchStock, (c)PoodlesRock/Corbis, (cr)Brand X Pictures/PunchStock, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_s1-1_s2</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_s1-1_s3</video>
+    <credits>(tr)Comstock/Getty Images, (1)Richard Ross/The Image Bank/Getty Images, (2)Richard Nowitz/National Geographic RF/Getty Images, (3)Charles Smith/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_s1-1_s4</video>
+    <credits>(tr)Comstock/Getty Images, (c)Universal History Archive/Universal Images Group/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="3">Equality</match>
+        <match id="1">Individualism</match>
+        <match id="5">Social Contract</match>
+        <match id="4">Freedom</match>
+        <match id="2">Democracy</match>
+      </matches>
+      <drops title="">
+        <drop correct="1"><![CDATA[The right of the individual to take initiative and accumulate material goods and property for his or her well-being]]></drop>
+        <drop correct="2"><![CDATA[A form of government in which the people govern]]></drop>
+        <drop correct="3"><![CDATA[The entitlement of all individuals to the same protections under the law]]></drop>
+        <drop correct="4"><![CDATA[The liberty to act and think as you so choose]]></drop>
+        <drop correct="5"><![CDATA[An agreement in which people surrender freedoms in return for government protection of their rights and property]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_s1-1_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Essential AP Government Vocabulary</header>
+      <instruction>
+        <![CDATA[
+          <ul>
+            <li>Review civics vocabulary</li>
+            <li>Develop government vocabulary</li>
+            <li>Knowledge of terms will be important when you take the AP Exam.</li>
+          </ul>
+        ]]>
+      </instruction>
+    </content>
+    <activity type="image">
+      <image>USGov_s1-1_s6.jpg</image>
+      <hotspots>
+        <hotspot title="state" dynamic="true" x="15" y="25">
+          <![CDATA[
+            <h1>State</h1>
+            <p>community that occupies a definite territory and has an organized government with the power to make and enforce laws without approval from any higher authority</p>
+          ]]>
+        </hotspot>
+        <hotspot title="nation" dynamic="true" x="250" y="25">
+          <![CDATA[
+            <h1>Nation</h1>
+            <p>group of people united by the bonds of race, language, custom, tradition, and sometimes religion</p>
+          ]]>
+        </hotspot>
+        <hotspot title="nation-state" dynamic="true" x="470" y="25">
+          <![CDATA[
+            <h1>Nation-state</h1>
+            <p>country in which the territory of both the nation and the state coincide</p>
+          ]]>
+        </hotspot>
+        <hotspot title="politics" dynamic="true" x="150" y="335">
+          <![CDATA[
+            <h1>Politics</h1>
+            <p>effort to control or influence the conduct and policies of government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="government" dynamic="true" x="375" y="335">
+          <![CDATA[
+            <h1>Government</h1>
+            <p>institution through which the state maintains social order, provides public services, and enforces binding decisions on citizens</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_s1-1_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Image Source/PunchStock, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_s1-1_s7</video>
+    <credits>(tr)Comstock/Getty Images, (c)Used with the permission of Joel Pett and the Cartoonist Group. All rights reserved., (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click 'view' if you need a reference to answer the question.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which region voted the most consistently Democratic in the three general elections shown?</question>
+        <answers>
+          <answer correct="true">East</answer>
+          <answer>Midwest</answer>
+          <answer>South</answer>
+          <answer>West</answer>
+          <answer>Southwest</answer>
+        </answers>
+        <figure>USGov_s1-1_s8_view.jpg</figure>
+        <feedbackAudio>USGov_s1-1_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_s1-1_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Analyzing Questions</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>USGov_s1-1_s9.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="250" y="15">
+          <![CDATA[
+            <h1>Multiple Choice</h1>
+            <p>Your score is based on the number of questions you answer correctly. Points are not deducted for incorrect answers, so you should answer all of the questions, even if you do not know the answer.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="575" y="15">
+          <![CDATA[
+            <h1>Free Response (FRQs)</h1>
+            <p>Notice how the question asks you to do several things: Define, Describe, and Explain. You get points for each part of the question you answer correctly.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_s1-1_s9</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>USGov_s1-1_s10</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="1_Module_Intro">
+    <video>USGov_s1-1_s11</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (cl-cr)Glow Images/Alamy, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+    <content>
+      <header><![CDATA[<span style="margin-top:-110px;display:block;">I. Constitutional Underpinnings of U.S. Government<br/><br/>Click to Explore</span>]]></header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+		  	&quot;But the great security against a gradual concentration of the several powers in the same department consists in giving to those who administer each department <a href="#" data-id="0" class="hotspot"><strong>the necessary constitutional means and personal motives to resist encroachments of the others.</strong></a> The provision for defense must in this, as in all other cases, be made commensurate to the danger of attack. <a href="#" data-id="1" class="hotspot"><strong>Ambition must be made to counteract ambition.</strong></a> ...It may be a reflection on human nature that such devices should be necessary to control the abuses of government. But what is government itself but the greatest of all reflections on human nature? <a href="#" data-id="2" class="hotspot"><strong>If men were angels, no government would be necessary.</strong></a> If angels were to govern men, neither external nor internal controls on government would be necessary.&quot;
+		  </p>
+		  <p>
+		  	-From <em>The Federalist</em>, No. 51
+		  </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <p>The Constitution must provide a means for one branch of government to resist seizures of power by the other branches.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Humans are by nature desirous of power, and the Constitution must protect one branch of government by giving it sufficient power to counteract the other branches' powers.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>Humans will always be motivated by power and, therefore, must have written rules to govern their actions.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_s1-1_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_s1-1_s13</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>III. Political Parties, Interest Groups, and Mass Media</header>
+    </content>
+    <activity type="image">
+      <image>USGov_s1-1_s14.jpg</image>
+      <hotspots>
+        <hotspot title="Federalist" dynamic="true" x="15" y="25">
+          <![CDATA[
+            <h1>Federalist</h1>
+            <p>1790s-1820; Favored a strong central government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Democratic-Republican" dynamic="true" x="225" y="25">
+          <![CDATA[
+            <h1>Democratic-Republican</h1>
+            <p>1790s-1828; Formed to oppose Federalists; favored state over national government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="National Republican" dynamic="true" x="470" y="25">
+          <![CDATA[
+            <h1>National Republican</h1>
+            <p>1825-1834; Split from Democratic-Republicans to oppose Andrew Jackson and work for strong central government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Democratic" dynamic="true" x="15" y="335">
+          <![CDATA[
+            <h1>Democratic</h1>
+            <p>1825-Present; Formed from Democratic-Republicans; supported Andrew Jackson and "common people"; today supports a more active role of government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Whig" dynamic="true" x="250" y="335">
+          <![CDATA[
+            <h1>Whig</h1>
+            <p>1834-1854; Formed from National Republicans and other parties; favored internal improvements</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Republican" dynamic="true" x="470" y="335">
+          <![CDATA[
+            <h1>Republican</h1>
+            <p>1854-Present; Formed from Whigs and other groups; opposed spread of slavery to new territories and favored internal improvements; today supports a limited role of government</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_s1-1_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (c)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="6_Activity_Interactivity">
+    <content>
+      <header>VI. Institutions of National Government: The Congress, the Presidency, the Bureaucracy, and the Federal Courts</header>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_07A.mp4</url>
+    <image>USGov_s1-1_s15.jpg</image>
+    <audio>USGov_s1-1_s15</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="2_Txt_Img_Animation">
+    <video>USGov_s1-1_s16</video>
+    <credits>(tr)Comstock/Getty Images, (c)Brendan Smialowski/Getty Images News/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="9_Activity_Image_Rollclick">
+    <content>
+      <header><![CDATA[<span style="margin-top:-110px;display:block;">VI. Civil Rights and Civil Liberties<br/><br/>Click to Explore</span>]]></header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+		  <h1>
+		  	<strong>Constitutional or Unconstitutional Actions?</strong>
+		  </h1>
+		  <p>
+		  	<a href="#" data-id="0" class="hotspot"><strong>Public funding of school buses for parochial (religious) students</strong></a>
+		  </p>
+		  <p>
+		  	<a href="#" data-id="1" class="hotspot"><strong>Public funding for parochial school teacher salaries</strong></a>
+		  </p>
+		  <p>
+		  	<a href="#" data-id="2" class="hotspot"><strong>Teacher-led prayer (nonspecific religion)</strong></a>
+		  </p>
+		  <p>
+		  	<a href="#" data-id="3" class="hotspot"><strong>After-school student-led religious club</strong></a>
+		  </p>
+		  <p>
+		  	<a href="#" data-id="4" class="hotspot"><strong>Requiring all students to say the Pledge of Allegiance</strong></a>
+		  </p>
+		  <p>
+		  	<a href="#" data-id="5" class="hotspot"><strong>Offering a moment of silence for voluntary prayer</strong></a>
+		  </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Constitutional</h1>
+            <p><em>Everson</em> v. <em>Board of Education</em>, 1947</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>Lemon</em> v. <em>Kurtzman</em>, 1971</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>Engel</em> v. <em>Vitale</em>, 1962</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Constitutional</h1>
+            <p><em>Board of Education Westside Community Schools</em> v. <em>Mergens</em>, 1990</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>West Virginia Board of Education</em> v. <em>Barnette</em>, 1943</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Unconstitutional</h1>
+            <p><em>Wallace</em> v. <em>Jaffree</em>, 1985</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_s1-1_s17</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Politics refers to the effort to control or influence the policies of government.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A state is a group of people united by bonds of race, language, custom, tradition, and sometimes religion.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The structure of the United States government is based on the U.S. Constitution.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>You will learn about the unlimited powers of government in your AP Government and Politics class.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>You may receive college credit if you perform well on the AP Exam.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_s1-1_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

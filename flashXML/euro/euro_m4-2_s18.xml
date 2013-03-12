@@ -1,0 +1,45 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m4-2_s18.jpg</image>
+		<audio>audio/euro_m4-2_s18.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>85</boxScale>
+		<feedback>audio/euro_m4-2_s18_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size="18">Burke agrees with Burckhardt’s description of the Later Middle Ages.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size="18">Burke agrees with Burckhardt’s description of the Renaissance.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">Burckhardt was mistaken as he took the Renaissance writers’ views of themselves as fact.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">Renaissance historians today largely reject Burckhardt’s argument.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">Burke states historians view Renaissance men as having many characteristics of the Middle Ages.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="18">Burke believes that the only “true” Renaissance occurred in the twelfth century.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="567.4" yCord="176.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="255.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="334.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="567.4" yCord="412.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="874.4" yCord="176.8" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="255.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="334.15" spotScale="75" spotNum="2"/>
+		<dSpot xCord="874.4" yCord="412.8" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

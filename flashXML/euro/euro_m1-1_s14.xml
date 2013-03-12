@@ -1,0 +1,53 @@
+<PopUp>
+	<slideInfo>
+		<title>Which of the following four choices was a city-state?</title>
+		<info><![CDATA[A. England<br />B. Russia<br />C. Prussia<br />D. Tuscany]]></info>
+		<image>images/euro_m1-1_s14.jpg</image>
+		<audio>audio/euro_m1-1_s14.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>A</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>495</xCord>
+			<yCord>215</yCord>
+			<width>85</width>
+			<popTitle>England</popTitle>
+			<popInfo><![CDATA[No, England was a nation-state.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>898</xCord>
+			<yCord>170.35</yCord>
+			<width>85</width>
+			<popTitle>Russia</popTitle>
+			<popInfo><![CDATA[No, Russia was an empire.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>725</xCord>
+			<yCord>205</yCord>
+			<width>92</width>
+			<popTitle>Prussia</popTitle>
+			<popInfo><![CDATA[No, Prussia was a kingdom inside the Holy Roman Empire.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>650</xCord>
+			<yCord>400</yCord>
+			<width>52</width>
+			<popTitle>Tuscany</popTitle>
+			<popInfo><![CDATA[Yes!  Florence was the independent city which, along with the surrounding countryside, is called Tuscany.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

@@ -1,0 +1,69 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m3-1_s26.jpg</image>
+		<titleText>Orbital Diagram</titleText>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s26.mp3</audio>
+		<boxScale>75</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_drag01.png</boxImg>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_drag01.png</boxImg>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_drag01.png</boxImg>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_drag01.png</boxImg>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_drag01.png</boxImg>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_drag01.png</boxImg>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_blank.png</boxImg>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_blank.png</boxImg>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxImg>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chemDrags/chem_m3-1_s26_blank.png</boxImg>
+			<rightSpot>2</rightSpot>
+		</dItem>
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="657.5" yCord="173.7" spotScale="50" spotNum="3"/>
+		<dSpot xCord="727.5" yCord="173.7" spotScale="50" spotNum="3"/>
+		<dSpot xCord="797.5" yCord="173.7" spotScale="50" spotNum="1"/>
+		
+		<dSpot xCord="657.5" yCord="233.7" spotScale="50" spotNum="3"/>
+		<dSpot xCord="727.5" yCord="233.7" spotScale="50" spotNum="3"/>
+		<dSpot xCord="797.5" yCord="233.7" spotScale="50" spotNum="1"/>
+	
+		<dSpot xCord="657.5" yCord="293.7" spotScale="50" spotNum="1"/>
+		<dSpot xCord="727.5" yCord="293.7" spotScale="50" spotNum="1"/>
+		<dSpot xCord="797.5" yCord="293.7" spotScale="50" spotNum="1"/>
+		
+		<dSpot xCord="657.5" yCord="353.7" spotScale="50" spotNum="3"/>
+		<dSpot xCord="727.5" yCord="353.7" spotScale="50" spotNum="3"/>
+		<dSpot xCord="797.5" yCord="353.7" spotScale="50" spotNum="1"/>
+
+		<dSpot xCord="657.5" yCord="413.7" spotScale="50" spotNum="2"/>
+		<dSpot xCord="727.5" yCord="413.7" spotScale="50" spotNum="2"/>
+		<dSpot xCord="797.5" yCord="413.7" spotScale="50" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>

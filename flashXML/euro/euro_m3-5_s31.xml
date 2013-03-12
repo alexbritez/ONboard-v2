@@ -1,0 +1,195 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-5_s31.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s31.jpg</image>
+		</Source>
+
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following is a valid interpretation of this cartoon? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The third estate is burdened by the heavy weight of taxes and obligations of those who ride him. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Without the King, nobles and clergy, France would be on its knees.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following is a valid interpretation of this cartoon?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The third estate is blind and ignorant, so its only role is to support the educated and wealthy of France.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The third estate’s blindfold may represent the ignorance that results from the denial of educational opportunities. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following is a valid interpretation of this cartoon? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[It is the right of the other estates to maintain authority and privilege by keeping the third estate under control.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[While the third estate struggles and starves, the wealthy grow fat while insisting on enforcement of their privileges.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following is a valid interpretation of this cartoon? </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The artist used caricature to portray the first and second estates and symbols of torture to create sympathy for the third estate.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The artist ridiculed the third estate by showing him naked and bleeding and portrayed the other estates admiringly.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following statements is true?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The artist was probably a skilled member of the third estate. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The artist came from the noble class.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+
+	<question>
+		<qText><![CDATA[<p>Which of the following statements is true?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The purpose of the cartoon was to create outrage for the plight of the third estate.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The purpose of the cartoon was to show how depraved and undeserving the members of the third estate were. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+
+
+	<question>
+		<qText><![CDATA[<p>Which of the following statements is true?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The likely audience was the third estate who paid high taxes and did not enjoy any of the privileges of the nobility. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The likely audience as the King who would want to be reminded of the authority he exercised over all of France.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+
+	<question>
+		<qText><![CDATA[<p>Which of the following statements is true?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The artist drew the carton from the point of view of the nobility and clergy whose rightly place was on top of the third estate.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The artist identified and sympathized with the third estate and hated the other estates and the king’s representative. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>			
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

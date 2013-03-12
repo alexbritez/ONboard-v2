@@ -1,0 +1,65 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-3_s25.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text><![CDATA[<p>What did Adam Smith believe were the results of <font face='c-Italic'>laissez-faire</font> policy?</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>What did Adam Smith believe were the results of <font face='c-Italic'>laissez-faire</font> policy?</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>What did Adam Smith believe were the results of <font face='c-Italic'>laissez-faire</font> policy?</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<p>Which of the following is the question asking the student to do?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Define <font face='c-Italic'>laissez-faire</font> policy</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Define what Smith believed were the results of <br/><font face='c-Italic' >laissez-faire</font> policy</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>Which of the following details would a strong thesis statement for this prompt include?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Some details from the results of <font face='c-Italic' >laissez-faire</font> policy, as stated by Smith</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Some details from Smith’s personal life</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>Which of the following is the prompt NOT asking the student to do?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>Present his or her own opinions on <font face='c-Italic' >laissez-faire</font> policy</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Remember the thoughts of Adam Smith</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

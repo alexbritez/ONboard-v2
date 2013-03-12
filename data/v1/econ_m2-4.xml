@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Independent and Dependent Variables">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m2-4_s1</video>
+    <credits>(l)Comstock/PunchStock, (cl)Stockbyte/Getty Images, (cr)Stockbyte/Punchstock, (r)Hill Street Studios/Blend Images LLC, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m2-4_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (cl)Andersen Ross/Digital Vision/Getty Images, (cr)Ryan McVay/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m2-4_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Digital Vision/Punchstock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Internet use and school violence</match>
+		<match id="2">Cigarette smoking and lung cancer</match>
+		<match id="3">Price and quantity supplied</match>
+		<match id="4">Pet-ownership and school performance</match>
+		<match id="5">Hair color and athletic performance</match>
+		<match id="6">Good weather and good crop yields</match>
+		<match id="7">Music trends and economic downturns</match>
+		<match id="8">Nutritious food and children's health</match>
+      </matches>
+      <drops title="Correlation">1,4,5,7</drops>
+	  <drops title="Causation">2,3,6,8</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m2-4_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m2-4_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Royalty-Free/Corbis, (2)Photodisc/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1"><![CDATA[<strong>Group 1</strong><br/>A. Weather gets colder]]></match>
+    		<match id="2"><![CDATA[<br/>B. Families buy more winter coats]]></match>
+    		<match id="3"><![CDATA[<strong>Group 2</strong><br/>C. People drive less]]></match>
+    		<match id="4"><![CDATA[<br/>D. Gasoline prices rise]]></match>
+    		<match id="5"><![CDATA[<strong>Group 3</strong><br/>E. Fewer people smoke]]></match>
+    		<match id="6"><![CDATA[<br/>F. Lung cancer rates drop]]></match>
+    		<match id="7"><![CDATA[<strong>Group 4</strong><br/>G. Price of ketchup rises]]></match>
+    		<match id="8"><![CDATA[<br/>H. Disease kills tomatoes]]></match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="180" y="144"></drop>
+		<drop correct="2" x="393" y="144"></drop>
+		<drop correct="3" x="393" y="190"></drop>
+		<drop correct="4" x="180" y="190"></drop>
+		<drop correct="5" x="180" y="236"></drop>
+		<drop correct="6" x="393" y="236"></drop>
+		<drop correct="7" x="393" y="282"></drop>
+		<drop correct="8" x="180" y="282"></drop>
+      </drops>
+      <image>econ_m2-4_s6.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m2-4_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m2-4_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m2-4_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>"Straight-leg jeans" and "the conservative movement of the 1980s" are correlates.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>"High airline ticket prices caused more people to drive on vacation" is a correlation relationship.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>"Increased demand for lumber" is the independent variable for this dependent variable: "caused hurricanes on the Gulf Coast."</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Price can be either an independent or dependent variable.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>In economics, price is always on the X-axis.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-4_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

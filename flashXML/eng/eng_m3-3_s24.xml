@@ -1,0 +1,32 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-3_s24.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text>By creating an EERIE SITUATION, making the PROTAGONIST DOUBTFUL, and ending the passage with an IRONIC STATEMENT, Asimov reveals his skeptical attitude toward technology in his short story “Reason.”</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Which of these pieces of background information<br/><br/>is more specific to the thesis?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Background information about  Isaac Asimov: author, scientist]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Background information about &quot;Reason&quot;: Part of the collection <font face='c-Italic'>I, Robot</font>; Excerpt about a humanlike robot]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m3-3_s24_FB.mp3" />
+	</question>
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->

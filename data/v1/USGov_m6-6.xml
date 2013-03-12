@@ -1,0 +1,322 @@
+<shell title="Preview to Government and Politics">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m6-6_s1</video>
+    <credits>(cl)Comstock/Jupiterimages, (c)Library of Congress Prints and Photographs Division[LC-DIG-ppmsca-03128], (cr)Ron Chapple/Taxi/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Cornstock/Getty Images.</credits>
+  </scene>
+  
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m6-6_s2</video>
+    <credits>(tr)Comstock/Getty Images, (c)SuperStock, Fotosearch/Archive Photos/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="3" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="textWithImage">
+      <text>
+        <![CDATA[
+          <p id="headline">
+            <a href="#" data-id="0" class="hotspot">
+              <em>Brown</em> v. <em>Board of Education (1954)</em>
+            </a>
+          </p>
+          <p style="font-size:90%">
+            "...We come then to the question presented: Does <a href="#" data-id="1" class="hotspot">segregation</a> of children in public schools solely on the basis of race, even though the physical facilities and other <a href="#" data-id="2" class="hotspot">'tangible' factors</a> may be equal, deprive the children of the <a href="#" data-id="3" class="hotspot">minority group</a> of equal educational opportunities? We believe that it does.
+          </p>
+          <p style="font-size:90%">
+            ...[I]n the field of public education the doctrine of <a href="#" data-id="4" class="hotspot">'separate but equal'</a> has no place. Separate educational facilities are inherently unequal."
+          </p>
+          <p style="font-size:90%">
+            --Chief Justice Earl Warren, U.S. Supreme Court
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Brown </em>v.<em> Board of Education</em></h1>
+            <p>This case represents a collection of four cases, all decided at one time. The cases had one common feature: African American children had been denied admission to segregated, all-white public schools.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Segregation</h1>
+            <p>The practice or policy of creating separate facilities within the same society for the use of a minority group</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Tangible Factors</h1>
+            <p>Actual or real elements or things; as opposed to "intangible," or vague and abstract</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Minority Group</h1>
+            <p>A group within a society that is distinct from the society as a whole because of race, ethnicity, gender, age, or other characteristic</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>"Separate but equal"</h1>
+            <p>In the case <em>Plessy</em> v. <em>Ferguson (1896),</em> the Supreme Court established the "separate but equal" principle, which stated that segregated schools and public facilities were constitutional as long as they were equal to facilities used by whites.</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="450" y="15">
+          <![CDATA[
+            <h1>Linda Brown</h1>
+            <p>Linda Brown, an African American teenager, applied for admission to an all-white public school in Topeka, Kansas. The Board of Education of Topeka refused to admit her. The National Association for the Advancement of Colored People (NAACP) saw Linda Brown's situation and that of other African Americans as an opportunity to challenge segregation.
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image>USGov_m6-6_s3.jpg</image>
+    </activity>
+    <audio>USGov_m6-6_s3</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Carl Iwasaki/Time &amp; Life Pictures/Getty Images, (bkgd)Martin Ruegner/Digtial Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="4" type="3_txt_img_reading">
+    <content>
+      <header><![CDATA[Miranda <span style="font-style:normal">v.</span> Arizona (1966)]]></header>
+      <text>
+        <![CDATA[
+        <p>
+          Ernesto Miranda was arrested and accused of kidnapping and rape. After two hours of interrogation, he signed a written confession to the crimes.
+        </p>
+        <p>
+          The Supreme Court overturned Miranda’s conviction in a 5 to 4 decision. The Court’s ruling centered on what happens when a person is taken into custody. Chief Justice Earl Warren wrote the majority opinion:
+        </p>
+        <p>
+          A person in police custody “or otherwise deprived of his freedom . . . must be warned prior to any questioning that he has the right to remain silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an attorney, and that if he cannot afford an attorney, one will be appointed for him prior to any questioning if he so desires.”  These are now known as the Miranda warnings.
+        </p>
+        <p>
+          The Miranda ruling applies only to interrogations. The ruling was not meant to bar “general on-the-scene questioning as to facts surrounding a crime or other general questioning of citizens in the fact-finding process. . . .” Nor does the Fifth Amendment bar voluntary statements or confessions outside of custodial interrogations.
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m6-6_s4</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="5" type="Middle_Multiple_Choice">
+    <multiple_choice>
+      <instruction>Click the correct answer.</instruction>
+      <question>What do the Miranda warnings protect?</question>
+      <answers>
+        <answer>people who want to confess to a crime</answer>
+        <answer correct="true">the right of criminal suspects to self-incrimination</answer>
+        <answer>police officers who are investigating a crime</answer>
+        <answer>all rights of criminal suspects</answer>
+        <answer>criminal suspects' freedom of speech</answer>
+      </answers>
+      <feedbackAudio>USGov_m6-6_s5_feedback</feedbackAudio>
+    </multiple_choice>
+    <audio>USGov_m6-6_s5</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="6" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="table">
+      <text>
+        <![CDATA[
+          <table>
+            <thead>
+              <tr>
+                <th>Amendment</th>
+                <th>Protection</th>
+                <th>Case</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>First</td>
+                <td>Freedom of speech</td>
+                <td><a href="#" data-id="0" class="hotspot">Gitlow <span style="font-style:normal">v.</span> New York, 1925</a></td>
+              </tr>
+              <tr>
+                <td>First</td>
+                <td>Freedom of the press</td>
+                <td><a href="#" data-id="1" class="hotspot">Near <span style="font-style:normal">v.</span> Minnesota, 1931</a></td>
+              </tr>
+              <tr>
+                <td>First</td>
+                <td>Freedom of assembly and petition</td>
+                <td><a href="#" data-id="2" class="hotspot">De Jonge <span style="font-style:normal">v.</span> Oregon, 1937</a></td>
+              </tr>
+              <tr>
+                <td>First</td>
+                <td>Free exercise of religion</td>
+                <td><a href="#" data-id="3" class="hotspot">Cantwell <span style="font-style:normal">v.</span> Connecticut, 1940</a></td>
+              </tr>
+              <tr>
+                <td>Fourth</td>
+                <td>Unreasonable searches and seizures</td>
+                <td><a href="#" data-id="4" class="hotspot">Mapp <span style="font-style:normal">v.</span> Ohio, 1961</a></td>
+              </tr>
+              <tr>
+                <td>Sixth</td>
+                <td>Right to a speedy trial</td>
+                <td><a href="#" data-id="5" class="hotspot">Klopfer <span style="font-style:normal">v.</span> North Carolina, 1967</a></td>
+              </tr>
+              <tr>
+                <td>Sixth</td>
+                <td>Right to an attorney in civil cases</td>
+                <td><a href="#" data-id="6" class="hotspot">Gideon <span style="font-style:normal">v.</span> Wainwright, 1963</a></td>
+              </tr>
+              <tr>
+                <td>Eighth</td>
+                <td>Cruel and unusual punishment</td>
+                <td><a href="#" data-id="7" class="hotspot">Furman <span style="font-style:normal">v.</span> Georgia, 1972</a></td>
+              </tr>
+            </tbody>
+          </table>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Gitlow </em>v.<em> New York</em></h1>
+            <p>In 1919 Benjamin Gitlow and Alan Larkin were arrested for criminal anarchy. They were Communists and had published a manifesto supporting the violent overthrow of the U.S. government. The Court upheld Gitlow's conviction but declared that First Amendment protections also applied to state governments.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Near </em>v.<em> Minnesota</em></h1>
+            <p>Jay Near published a paper in Minnesota criticizing local officials. Minnesota officials retaliated by issuing a "gag order" on future publications by Near. The Court ruled that a state could not censor a publication in advance and that the state had violated the First Amendment.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1><em>De Jonge </em>v.<em> Oregon</em></h1>
+            <p>In 1934 Dirk De Jonge attended a meeting of the Communist Party in Portland, Oregon, which the police raided. De Jonge was arrested and charged with criminal syndicalism, or meeting with the purpose of using criminal activity to effect change. The Court found that the arrest violated the due process clause of the Fourteenth Amendment by preventing an individual's right to free speech and assembly.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Cantwell </em>v.<em> Connecticut</em></h1>
+            <p style="font-size: 12px">Jesse Cantwell and his son distributed Jehovah's Witnesses literature in a heavily Catholic neighborhood in Connecticut. Two pedestrians voluntarily listened to a recording played by Cantwell that had anti-Catholic messages. When the pedestrians became angry, Cantwell and his son were arrested on charges of solicitation without a permit and disturbing the peace. The Court found that distributing religious messages did not count as solicitation and that the Cantwells' First Amendment rights of freedom of speech and religion had been violated.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Mapp </em>v.<em> Ohio</em></h1>
+            <p>Dollree Mapp was convicted of possessing obscene materials after an illegal search of her home was conducted while police were looking for a fugitive. The Court ruled that evidence obtained by illegal search and seizure was not admissible in court.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Klopfer </em>v.<em> North Carolina</em></h1>
+            <p>Klopfer was arrested in North Carolina for criminal trespass, and his trial ended in a mistrial. The state repeatedly postponed the new trial, in spite of Klopfer's objections and requests for a new trial. The Court eventually ruled that the state had denied Klopfer's right to a speedy trial.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Gideon </em>v.<em> Wainwright</em></h1>
+            <p>Clarence Gideon was arrested for burglary and could not afford to hire a lawyer. His request for appointed counsel was denied because his case did not involve a capital crime. The Court ruled in Gideon's favor, explaining that the Fourteenth Amendment requires states to grant citizens those rights considered "fundamental and essential to a fair trial."</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1><em>Furman </em>v.<em> Georgia</em></h1>
+            <p>This case invalidated the death penalty under state laws then in place. The Supreme Court explained that existing death penalty statues did not give juries enough guidance in deciding whether or not to impose the death penalty. The result was that the death penalty in many cases was imposed arbitrarily, or without a reasonable basis in the facts and circumstances of the offender or the crime.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m6-6_s6</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m6-6_s7</video>
+    <credits>(tr)Cornstock/Getty Images, (c)Bettmann/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="8" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">14th Amendment</match>
+        <match id="2">5th Amendment</match>
+        <match id="3">Minority</match>
+        <match id="4">Segregation</match>
+        <match id="5">Selective Incorporation</match>
+      </matches>
+      <drops title="">
+        <drop correct="4"><![CDATA[1. Creating separate facilities within the same society for the use<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of a minority group]]></drop>
+        <drop correct="3"><![CDATA[2. Person distinct from society as a whole because of race,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ethnicity, gender, age, or other characteristic]]></drop>
+        <drop correct="1"><![CDATA[3. "No State shall...deprive any person of life, liberty, or<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;property, without due process of law; nor deny to any person<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;within its jurisdiction the equal protection of the laws."]]></drop>
+        <drop correct="5"><![CDATA[4. Applies most of the Bill of Rights protections to state<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;government actions]]></drop>
+        <drop correct="2"><![CDATA[5. "No person...shall be compelled in any criminal case to be a<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witness against himself..."]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m6-6_s8</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="9" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Constitutionally guaranteed rights that government acts to protect are called</question>
+        <answers>
+          <answer>civil liberties.</answer>
+          <answer>Bill of Rights.</answer>
+          <answer correct="true">civil rights.</answer>
+          <answer>fundamental freedoms.</answer>
+          <answer>constitutional protections.</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Individual legal and constitutional protections against the government are called</question>
+        <answers>
+          <answer correct="true">civil liberties.</answer>
+          <answer>civil rights.</answer>
+          <answer>consitutional protections.</answer>
+          <answer>fundamental freedoms.</answer>
+          <answer>Bill of Rights.</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The Supreme Court interpretation of the Fourteenth Amendment's due process clause, which applies most of the Bill of Rights protections to state government actions, is called the</question>
+        <answers>
+          <answer correct="true">doctrine of selective incorporation.</answer>
+          <answer>separate-but-equal doctrine.</answer>
+          <answer>Bill of Rights doctrine.</answer>
+          <answer>due-process doctrine.</answer>
+          <answer>states' rights doctirne.</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The Supreme Court case that outlawed segregation was</question>
+        <answers>
+          <answer><![CDATA[<em>Mapp</em> v. <em>Ohio</em>.]]></answer>
+          <answer><![CDATA[<em>Robinson</em> v. <em>California</em>.]]></answer>
+          <answer><![CDATA[<em>Plessy</em> v. <em>Ferguson</em>.]]></answer>
+          <answer><![CDATA[<em>Roe</em> v. <em>Wade</em>.]]></answer>
+          <answer correct="true"><![CDATA[<em>Brown</em> v. <em>Board of Education</em>.]]></answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question><![CDATA[The Supreme Court's decision in <em>Gideon</em> v. <em>Wainwright</em>]]></question>
+        <answers>
+          <answer>temporarily banned use of the death penalty.</answer>
+          <answer correct="true">required states to provide counsel for criminal suspects who cannot afford it.</answer>
+          <answer>required that certain warning be given to a suspect prior to questioning.</answer>
+          <answer>established the exclusionary rule.</answer>
+          <answer>clarified the definition of cruel and unusual punishment.</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-6_s9</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

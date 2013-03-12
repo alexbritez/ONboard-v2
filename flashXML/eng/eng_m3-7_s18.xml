@@ -1,0 +1,28 @@
+﻿<TextReading>
+	<slideInfo>
+		<hText>Source A</hText>
+		<image></image>
+		<audio>audio/eng_m3-7_s18.mp3</audio>
+		<mainText><![CDATA[<p>
+—From an address by J. Elizabeth Jones, <font face='lc-Italic'>The Salem, Ohio, 1850 Women’s Rights Convention Proceedings</font></br>
+“There is not, perhaps, in the wide field of reform, any one subject so difficult to discuss as that of Woman’s Rights. I use the term “Woman’s Rights” because it is a technical phrase. I like not the expression. It is not Woman’s <font face='lc-Italic'>Rights</font> of which I design to speak, but of Woman’s <font face='lc-Italic'>Wrongs</font>. I shall claim nothing for ourselves because of our sex—I shall demand the recognition of no rights on the ground of our womanhood. In the contest which is now being waged in behalf of the enslaved colored man in this land, I have yet to hear the first word in favor of his rights as a colored man; the great point which is sought to be established is this, that the colored man is a human being, and as such, entitled to the free exercise of all the rights which belong to humanity. And we should demand <font face='lc-Italic'>our</font> recognition as equal members of the human family. . . .”</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

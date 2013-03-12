@@ -1,0 +1,9 @@
+﻿<LaunchOut>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-4_s10.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-4_s10.mp3</audio>
+		<titleText>Acids and Bases</titleText>
+		<bodyText><![CDATA[<font face='c-Bold' >Strong Acid Ionization</font><br />HBr + H<font face='SubScript'>2</font>O   <font face='CambriaMath'>→</font>   H<font face='SubScript'>3</font>O<font face='SuperScript'>+</font> +   Br<font face='SuperScript'>−</font><br /><br /><font face='c-Bold' >Weak Acid Ionization</font> <br />HNO<font face='SubScript'>2</font>  +  H<font face='SubScript'>2</font>O <font face='CambriaMath'>⇌</font>  NO<font face='chemNums' size='20'>0</font> +  H<font face='SubScript'>3</font>O<font face='SuperSript'>+</font>]]></bodyText>
+		<btnLink>http://ezto-media.mhecloud.mcgraw-hill.com.s3.amazonaws.com/Media/Connect_Production/career/onboard/chem/CHEM_M06_04_03P.swf</btnLink>
+	</slideInfo>
+</LaunchOut>

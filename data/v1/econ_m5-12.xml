@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Short Run/Long Run">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-12_s1</video>
+    <credits>(cl-cr)Mitchell Funk/Photographer's Choice/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-12_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-12_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Ramin Talaie/Bloomberg/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m5-12_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Ramin Talaie/Bloomberg/Getty Images, (2)Tim Hawley/FoodPix/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>How long is the "long run" in microeconomics?</question>
+        <answers>
+          <answer>Six months</answer>
+		  <answer>One year</answer>
+		  <answer>As long as it takes for wages to adjust</answer>
+          <answer correct="true">As long as it takes for firms to adjust plant size</answer>
+		  <answer>As long as it takes to order new daily supplies</answer>
+        </answers>
+        <feedbackAudio>econ_m5-12_s5_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Boeing lays off workers during a recession.</match>
+    		<match id="2">Coca-Cola buys more plastic bottles.</match>
+    		<match id="3">Domino's hires an additional delivery driver.</match>
+    		<match id="4">Ford closes an assembly plant in Minnesota.</match>
+    		<match id="5">Google builds a new facility for servers. </match>
+    		<match id="6">Wal-Mart opens new outlets in China. </match>
+    		<match id="7">Nails Etc. buys nail polish for manicures.</match>
+    		<match id="8">Tyson opens a new chicken processing plant.</match>
+      </matches>
+      <drops title="Short-run Adjustment">1,2,3,7</drops>
+	  <drops title="Long-run Adjustment">4,5,6,8</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-12_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m5-12_s7</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m5-12_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Norm Betts/Bloomberg/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m5-12_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>What is the most significant difference between the "short run" and "long run" in macroeconomics?</question>
+        <answers>
+          <answer>In the long run, all of the factors of production can change.</answer>
+		  <answer>In the short run, all of the factors of production can change.</answer>
+          <answer correct="true">In the long run, wages are fully flexible, meaning increases in spending will only cause inflation.</answer>
+		  <answer>In the short run, wages are fully flexible, meaning increases in spending will only cause inflation.</answer>
+		  <answer>In the short run, only the labor factor can be changed.</answer>
+        </answers>
+        <feedbackAudio>econ_m5-12_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is a short-run microeconomic adjustment?</question>
+        <answers>
+          <answer>A computer firm builds a new factory.</answer>
+		  <answer>A franchise closes a restaurant.</answer>
+          <answer correct="true">A hot dog vendor buys more buns.</answer>
+		  <answer>A bank opens a new branch.</answer>
+		  <answer>A store adds additional warehouses.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following is a long-run microeconomic adjustment?</question>
+        <answers>
+          <answer correct="true">A grocery doubles the size of its store.</answer>
+		  <answer>A restaurant fires a chef.</answer>
+		  <answer>A bank offers a new credit card.</answer>
+		  <answer>A nursery plants trees in one of its fields.</answer>
+		  <answer>A sandwich shop hires another delivery person.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following firms would likely have the longest "short run"?</question>
+        <answers>
+          <answer>A software developer</answer>
+          <answer correct="true">A car manufacturer</answer>
+		  <answer>A Web-based business</answer>
+		  <answer>A used book store</answer>
+		  <answer>A family-owned restaurant</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The key difference between short run and long run in macroeconomics is</question>
+        <answers>
+          <answer>the speed at which a firm can respond to new demand.</answer>
+		  <answer>the number of workers a business employs.</answer>
+		  <answer>the need to lay off workers or buy less of other materials.</answer>
+          <answer correct="true">the flexibility of wages.</answer>
+		  <answer>the quantity supplied.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following would NOT be a concern of macroeconomics?</question>
+        <answers>
+          <answer>GDP</answer>
+		  <answer>Unemployment</answer>
+		  <answer>Inflation</answer>
+		  <answer>Recession</answer>
+          <answer correct="true">Individual market behavior</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-12_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

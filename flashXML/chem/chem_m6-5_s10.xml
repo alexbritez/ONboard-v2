@@ -1,0 +1,35 @@
+﻿<PopUp>
+	<slideInfo>
+		<title></title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-5_s10.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s10.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>1.</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s10_a1.mp3"/>
+			<xCord>453.5</xCord>
+			<yCord>271.35</yCord>
+			<width>134</width>
+			<fraction>true</fraction>
+			<popTitle>Answer:</popTitle>
+			<popInfo><![CDATA[34.1 kg Al(OH)<font face='SubScript'>3</font><br/><br/>7.90  ×  10<font face='SuperScript'>26</font> molecules H<font face='SubScript'>2</font>O<br /><br />                        1 mol H<font face='SubScript'>2</font>O <br />×  <font face='SuperScript'>_________________________________________</font><br />        6.02 × 10<font face='SuperScript'>23</font> molecules H<font face='SubScript'>2</font>O <br /><br />      2 mol Al(OH)<font face='SubScript'>3</font>         78.00 g Al(OH)<font face='SubScript'>3</font>        1 kg<br />×  <font face='SuperScript'>_____________________</font>  ×  <font face='SuperScript'>____________________</font>  ×  <font face='SuperScript'>_________</font><br />          6 mol H<font face='SubScript'>2</font>O             1 mol Al(OH)<font face='SubScript'>3</font>      1 × 10<font face='SuperScript'>3</font> g<br /><br />=   34.1 kg Al(OH)<font face='SubScript'>3 </font>]]></popInfo>
+		</pButton>
+		
+		
+		
+		
+		<pButton> 
+			<Name>2.</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s10_a2.mp3"/>
+			<xCord>453.5</xCord>
+			<yCord>381.35</yCord>
+			<width>85</width>
+			<fraction>true</fraction>
+			<popTitle>Answer:</popTitle>
+			<popInfo><![CDATA[<p>83.6%<br/><br/>                      28.5 kg<br />% yield = <font face='SuperScript'>______________</font> × 100 = 83.6%<br/>                      34.1 kg</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

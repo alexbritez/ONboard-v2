@@ -1,0 +1,38 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s8.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+
+		<qText>Choose the statement that best describes the relationship between the political situation depicted on the map and the development of the Italian Renaissance.</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>There is no relationship between the Peace of Lodi and the Italian Renaissance.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The leaders of the city states devoted themselves to becoming Renaissance scholars and writers, not warriors.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The leaders and wealthy merchants of the city states could use their resources as patrons of the arts and learning of the Italian Renaissance.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>	
+		
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s8_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

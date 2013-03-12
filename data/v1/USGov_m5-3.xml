@@ -1,0 +1,588 @@
+<shell title="Article Analysis">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m5-3_s1</video>
+    <credits><![CDATA[(l)Hill Street Studios/Blend Images/Getty Images, (cl)STAN HONDA/AFP/Getty Images, (c)Joe Raedle/Getty Images News/Getty Image, (cr)Photo Researchers/Getty Images, (r)Library of Congress, Prints &amp; Photographs Division, LC-USZ62-5803, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.]]></credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s2</video>
+    <credits>(tr)Comstock/Getty Images, (1)Latin Stock Collection/Corbis, (2)Dave and Les Jacobs/age footstock, (3)Image Source/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s3</video>
+    <credits>(tr)Comstock/Getty Images, (c)Raphael/The Bridgeman Art Library/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s4</video>
+    <credits>(tr)Comstock/Getty Images, (1)Myrleen Pearson/Alamy, (2)Photo Researchers/Getty Images, (3)Everett Collection Inc/Alamy, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p>
+			Three days from now, after half a century in the service of our country, I shall lay down the responsibilities of office as, in traditional and solemn ceremony, the authority of the Presidency is vested in my successor. . . .
+		</p>
+        <p>
+          We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of them involved our own country. Despite these holocausts America is today the strongest, the most influential and most productive nation in the world. Understandably proud of this pre-eminence we yet realize that America's leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on how we use our power in the interests of world peace and human<br/>betterment. . . .
+		</p>
+		<p>
+          A vital element in keeping the peace is our military establishment. Our arms must be mighty, ready for instant action, so that no potential aggressor may be tempted to risk his own destruction. . . .
+		</p>
+		<p>
+          . . . We recognize the imperative need for this development. Yet we must not fail to comprehend its grave implications. Our toil, resources, and livelihood are all involved; so is the very structure of our society.
+		</p>
+		<p>
+          In the councils of government, we must guard against the acquisition of unwarranted<br/>influence . . . by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist. We must never let the weight of this combination endanger our liberties or democratic processes.
+		</p>
+		<p>
+			<strong>Citation:</strong> Farewell address by President Dwight D. Eisenhower, January 17, 1961; Final TV Talk 1/17/61 (1), Box 38, Speech Series, Papers of Dwight D. Eisenhower as President, 1953-61, Eisenhower Library; National Archives and Records Administration.
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-3_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Eisenhower hoped the military-industrial partnership would continue to gain influence.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+		<figure>
+			<header></header>
+			  <text>
+				<![CDATA[
+				<p>
+					Three days from now, after half a century in the service of our country, I shall lay down the responsibilities of office as, in traditional and solemn ceremony, the authority of the Presidency is vested in my successor. . . .
+				</p>
+				<p>
+				  We now stand ten years past the midpoint of a century that has witnessed four major wars among great nations. Three of them involved our own country. Despite these holocausts America is today the strongest, the most influential and most productive nation in the world. Understandably proud of this pre-eminence we yet realize that America's leadership and prestige depend, not merely upon our unmatched material progress, riches and military strength, but on how we use our power in the interests of world peace and human<br/>betterment. . . .
+				</p>
+				<p>
+				  A vital element in keeping the peace is our military establishment. Our arms must be mighty, ready for instant action, so that no potential aggressor may be tempted to risk his own destruction. . . .
+				</p>
+				<p>
+				  . . . We recognize the imperative need for this development. Yet we must not fail to comprehend its grave implications. Our toil, resources, and livelihood are all involved; so is the very structure of our society.
+				</p>
+				<p>
+				  In the councils of government, we must guard against the acquisition of unwarranted<br/>influence . . . by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist. We must never let the weight of this combination endanger our liberties or democratic processes.
+				</p>
+				<p>
+					<strong>Citation:</strong> Farewell address by President Dwight D. Eisenhower, January 17, 1961; Final TV Talk 1/17/61 (1), Box 38, Speech Series, Papers of Dwight D. Eisenhower as President, 1953-61, Eisenhower Library; National Archives and Records Administration.
+				</p>
+				]]>
+			  </text>
+		</figure>
+		<feedbackAudio>USGov_m5-3_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m5-3_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s7</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s8</video>
+    <credits>(tr)Comstock/Getty Images, (1)ClassicStock.com/SuperStock, (2)APA/Hulton Archive/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p>
+			Our nation is at risk. . . . We report to the American people that while we can take justifiable pride in what our schools and colleges have historically accomplished and contributed to the United States and the well-being of its people, the educational foundations of our society are presently being eroded by a rising tide of mediocrity that threatens our very future as a Nation and a people. . . .
+		</p>
+		<p>
+			If an unfriendly foreign power had attempted to impose on America the mediocre educational performance that exists today, we might well have viewed it as an act of war. As it stands, we have allowed this to happen to ourselves. . . .
+		</p>
+		<p>
+			. . . America's position in the world may once have been reasonably secure with only a few exceptionally well-trained men and women. It is no longer.
+		</p>
+		<p>
+			The risk is not only that the Japanese make automobiles more efficiently than Americans and have government subsidies for development and export. It is not just that the South Koreans recently built the world's most efficient steel mill, or that American machine tools, once the pride of the world, are being displaced by German products. . . .
+		</p>
+		<p>
+			Our concern, however, goes well beyond matters such as industry and commerce. It also includes the intellectual, moral, and spiritual strengths of our people which knit together the very fabric of our society.
+		</p>
+		<p>
+			—&quot;A Nation at Risk: The Imperative for Educational Reform,&quot; National Commission on Excellence in Education, U.S. Department of Education, 1983. Archives and Records Administration.
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-3_s9</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s10</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="9_Activity_Image_Rollclick">
+    <content style="top: 110px">
+      <header><![CDATA[Logos]]></header>
+      <instruction><![CDATA[
+	  <p>
+	  <strong>Logical appeal includes:</strong>
+	  <ul>
+	  		<li>a clear claim</li>
+			<li>effective supporting evidence</li>
+			<li>a consistent message</li>
+		</ul></p>
+    <h1>Click to Explore</h1>
+    <p>Click on the 'hot spots' to view additional information.</p>
+    ]]>
+	</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+			<p style="text-align:center;width:605px;"><strong>Should Higher Education for Women Differ?</strong></p>
+          <p>
+		  	<strong><a href="#" data-id="0" class="hotspot">What is the best attainable training for the physician or the lawyer, man or woman?</a> <a href="#" data-id="1" class="hotspot">There is no reason to believe that typhoid or scarlet fever or phthisis can be successfully treated by a woman physician in one way and by a man physician in another way.</a> <a href="#" data-id="2" class="hotspot">There is indeed every reason to believe that unless treated in the best way the patient may die</a></strong>, the sex of the doctor affecting the result less even than the sex of the patient. The question needs only to be put for us to feel irrevocably sure that <strong><a href="#" data-id="3" class="hotspot">there is no special woman's way of dealing with disease</a></strong>.
+          </p>
+          <p style="font-size:90%">
+            Source: &quot;Should the Higher Education of Women Differ from That of Men?&quot; by M. Carey Thomas. <em>Educational Review</em> 21, 1901.
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <p>The main question being argued is whether female physicians and lawyers should receive training that is different from male physicians and lawyers.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Logic does not support that a disease will respond differently to male physician tactics versus female physician tactics. </p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Logic says that if a patient is not treated, the patient may die. It does not matter if the doctor is male or female.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>The main argument is repeated. Female doctors should be trained the same as male doctors.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m5-3_s11</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>M. Carey Thomas's argument would have been more effective had she utilized ethos or pathos in her statement.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <figure>
+          <header italic="false">Should Higher Education for Women Differ?</header>
+          <text>
+          <![CDATA[
+          <p>
+            What is the best attainable training for the physician or the lawyer, man or woman? There is no reason to believe that typhoid or scarlet fever or phthisis can be successfully treated by a woman physician in one way and by a man physician in another way. There is indeed every reason to believe that unless treated in the best way the patient may die, the sex of the doctor affecting the result less even than the sex of the patient. The question needs only to be put for us to feel irrevocably sure that there is no special woman's way of dealing with disease.
+          </p>
+          <p style="font-size:90%">
+            Source: &quot;Should the Higher Education of Women Differ from That of Men?&quot; by M. Carey Thomas. <em>Educational Review</em> 21, 1901.
+          </p>
+          ]]>
+          </text>
+        </figure>
+      </multiple>
+	  <feedbackAudio>USGov_m5-3_s12_FB</feedbackAudio>
+    </multiple_choice>
+    <audio>USGov_m5-3_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s13</video>
+    <credits>(tr)Comstock/Getty Images, (1)STAN HONDA/AFP/Getty Images, (2)Joe Raedle/Getty Images News/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s14</video>
+    <credits>(tr)Comstock/Getty Images, (c)Don Smetzer/Alamy, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p>
+			It is not true that our fathers, as Judge Douglas assumes, made this government part slave and part free. Understand the sense in which he puts it. He assumes that slavery is a rightful thing within itself,—was introduced by the framers of the Constitution. The exact truth is, that they found the institution existing among us, and they left it as they found it. . . . They found slavery among them, and they left it among them because of the difficulty—because of the absolute impossibility—of its immediate removal. . . .
+		</p>
+		<p>
+			The real issue in this controversy—the one pressing upon every mind—is the sentiment on the part of one class that looks upon the institution of slavery in this country as a wrong, and of another class that does not look upon it as a wrong. . . .
+		</p>
+		<p>
+			On this subject of treating it as a wrong, and limiting its spread, let me say a word. Has anything ever threatened the existence of this Union save and except this very institution of slavery? What is it that we hold most dear amongst us? Our own liberty and prosperity. What has ever threatened our liberty and prosperity, save and except this institution of slavery? If this is true, how do you propose to improve the condition of things by enlarging slavery—by spreading it out and making it bigger?
+		</p>
+		<p>
+			—Abraham Lincoln, October 1858
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-3_s15</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s16</video>
+    <credits><![CDATA[(tr)Comstock/Getty Images, (1)Photo Researchers/Getty Images, (2)Library of Congress, Prints &amp; Photographs Division, LC-USZ62-5803, (bkgd)Martin Ruegner/Digital Vision/Getty Images.]]></credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s17</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s18</video>
+    <credits>(tr)Comstock/Getty Images, (1)Monty Rakusen/Cultura/Getty Images, (2)CDC/Cade Martin, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s19</video>
+    <credits>(tr)Comstock/Getty Images, (1)Hill Street Studios/Blend Images/Getty Images, (2)Stockbyte/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p>
+			In so extensive a republic, the great officers of government would soon become above the control of the people, and abuse their power to the purpose of aggrandizing [enhancing] themselves, and oppressing them. The trust committed to the executive offices, in a country of the extent of the United-States, must be various and of magnitude. The command of all the troops and navy of the republic, the appointment of officers, the power of pardoning offences, the collecting of all the public revenues, and the power of expending them, with a number of other powers, must be lodged and exercised in every state, in the hands of a few. . . .
+		</p>
+		<p>
+			These are some of the reasons by which it appears, that a free republic cannot long subsist over a country of the great extent of these states. If then this new constitution is calculated to consolidate the thirteen states into one, as it evidently is, it ought not to be adopted.
+		</p>
+		<p>
+			—Brutus
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-3_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s21</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s22</video>
+    <credits>(tr)Comstock/Getty Images, (c)Silvia Otte/Photonica/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="3_txt_img_reading">
+    <content>
+      <header italic="false">"Last Rites for Indian Dead: Treating Remains Like Artifacts Is Intolerable"</header>
+      <text>
+        <![CDATA[
+		<p>
+			by Suzan Shown Harjo
+		</p>
+		<p>
+			Indian remains are still being collected for racial biological studies. While the intentions may be honorable, the ethics of using human remains this way without the full consent of relatives must be questioned.
+		</p>
+		<p>
+			Some relief for Indian people has come on the state level. Almost half of the states, including California, have passed laws protecting Indian burial sites and restricting the sale of Indian bones, burial offerings and other sacred items. Rep. Charles E. Bennett (D-Fla.) and Sen. John McCain (R-Ariz.) have introduced bills that are a good start in invoking the federal government's protection. However, no legislation has attacked the problem head-on by imposing stiff penalties at the marketplace, or by changing laws that make dead Indians the nation's property.
+		</p>
+		<p>
+			Some universities—notably Stanford, Nebraska, Minnesota and Seattle—have returned, or agreed to return, Indian human remains; it is fitting that institutions of higher education should lead the way.
+		</p>
+		<p>
+			Congress is now deciding what to do with the government's extensive collection of Indian human remains and associated funerary objects. The secretary of the Smithsonian, Robert McC. Adams, has been valiantly attempting to apply modern ethics to yesterday's excesses. This week, he announced that the Smithsonian would conduct an inventory and return all Indian skeletal remains that could be identified with specific tribes or living kin.
+		</p>
+		<p>
+			But there remains a reluctance generally among collectors of Indian remains to take action of a scope that would have a quantitative impact and a healing quality. If they will not act on their own—and it is highly unlikely that they will—then Congress must act.
+		</p>
+		<p>
+			The country must recognize that the bodies of dead American Indian people are not artifacts to be bought and sold as collectors' items. It is not appropriate to store tens of thousands of our ancestors for possible future research. They are our family. They deserve to be returned to their sacred burial grounds and given a chance to rest.
+		</p>
+		<p>
+			The plunder of our people's graves has gone on too long. Let us rebury our dead and remove this shameful past from America's future.
+		</p>
+		<p style="font-size:90%">
+			Credit: Suzan Shown Harjo (Cheyenne &amp; Muscogee) is an author of the federal repatriation laws, a founder of the National Museum of the American Indian and President of The Morning Star Institute in Washington, D.C.
+		</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m5-3_s23</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="24" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>What action does the author want?</question>
+        <answers>
+          <answer>payment to Native Americans for past abuses</answer>
+          <answer correct="true">the return of skeletal remains to sacred burial grounds</answer>
+          <answer>proper biological studies performed on Native American remains</answer>
+          <answer>an apology from the federal government for Native American inventories</answer>
+          <answer>classes on Native American studies to be mandatory</answer>
+        </answers>
+		<figure>
+			<header italic="false">"Last Rites for Indian Dead: Treating Remains Like Artifacts Is Intolerable"</header>
+		  <text>
+			<![CDATA[
+			<p>
+				by Suzan Shown Harjo
+			</p>
+			<p>
+				Indian remains are still being collected for racial biological studies. While the intentions may be honorable, the ethics of using human remains this way without the full consent of relatives must be questioned.
+			</p>
+			<p>
+				Some relief for Indian people has come on the state level. Almost half of the states, including California, have passed laws protecting Indian burial sites and restricting the sale of Indian bones, burial offerings and other sacred items. Rep. Charles E. Bennett (D-Fla.) and Sen. John McCain (R-Ariz.) have introduced bills that are a good start in invoking the federal government's protection. However, no legislation has attacked the problem head-on by imposing stiff penalties at the marketplace, or by changing laws that make dead Indians the nation's property.
+			</p>
+			<p>
+				Some universities—notably Stanford, Nebraska, Minnesota and Seattle—have returned, or agreed to return, Indian human remains; it is fitting that institutions of higher education should lead the way.
+			</p>
+			<p>
+				Congress is now deciding what to do with the government's extensive collection of Indian human remains and associated funerary objects. The secretary of the Smithsonian, Robert McC. Adams, has been valiantly attempting to apply modern ethics to yesterday's excesses. This week, he announced that the Smithsonian would conduct an inventory and return all Indian skeletal remains that could be identified with specific tribes or living kin.
+			</p>
+			<p>
+				But there remains a reluctance generally among collectors of Indian remains to take action of a scope that would have a quantitative impact and a healing quality. If they will not act on their own—and it is highly unlikely that they will—then Congress must act.
+			</p>
+			<p>
+				The country must recognize that the bodies of dead American Indian people are not artifacts to be bought and sold as collectors' items. It is not appropriate to store tens of thousands of our ancestors for possible future research. They are our family. They deserve to be returned to their sacred burial grounds and given a chance to rest.
+			</p>
+			<p>
+				The plunder of our people's graves has gone on too long. Let us rebury our dead and remove this shameful past from America's future.
+			</p>
+			<p style="font-size:90%">
+				Credit: Suzan Shown Harjo (Cheyenne &amp; Muscogee) is an author of the federal repatriation laws, a founder of the National Museum of the American Indian and President of The Morning Star Institute in Washington, D.C.
+			</p>
+			]]>
+		  </text>
+		</figure>
+		<feedbackAudio>USGov_m5-3_s24_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="25" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Part of the evidence Harjo uses in her article to support her argument includes the fact that</question>
+        <answers>
+          <answer correct="true">several state governments had already passed laws to return Indian remains to family members.</answer>
+          <answer>universities had been the most difficult to work with.</answer>
+          <answer>the Smithsonian Institution refused to return remains because the bones were considered valuable historical records of U.S. territoriality.</answer>
+          <answer>Indian remains should continue to be collected for scientific studies.</answer>
+          <answer>the Indian burial ground is no longer sacred because the bones are not there.</answer>
+        </answers>
+		<figure>
+			<header italic="false">"Last Rites for Indian Dead: Treating Remains Like Artifacts Is Intolerable"</header>
+		  <text>
+			<![CDATA[
+			<p>
+				by Suzan Shown Harjo
+			</p>
+			<p>
+				Indian remains are still being collected for racial biological studies. While the intentions may be honorable, the ethics of using human remains this way without the full consent of relatives must be questioned.
+			</p>
+			<p>
+				Some relief for Indian people has come on the state level. Almost half of the states, including California, have passed laws protecting Indian burial sites and restricting the sale of Indian bones, burial offerings and other sacred items. Rep. Charles E. Bennett (D-Fla.) and Sen. John McCain (R-Ariz.) have introduced bills that are a good start in invoking the federal government's protection. However, no legislation has attacked the problem head-on by imposing stiff penalties at the marketplace, or by changing laws that make dead Indians the nation's property.
+			</p>
+			<p>
+				Some universities—notably Stanford, Nebraska, Minnesota and Seattle—have returned, or agreed to return, Indian human remains; it is fitting that institutions of higher education should lead the way.
+			</p>
+			<p>
+				Congress is now deciding what to do with the government's extensive collection of Indian human remains and associated funerary objects. The secretary of the Smithsonian, Robert McC. Adams, has been valiantly attempting to apply modern ethics to yesterday's excesses. This week, he announced that the Smithsonian would conduct an inventory and return all Indian skeletal remains that could be identified with specific tribes or living kin.
+			</p>
+			<p>
+				But there remains a reluctance generally among collectors of Indian remains to take action of a scope that would have a quantitative impact and a healing quality. If they will not act on their own—and it is highly unlikely that they will—then Congress must act.
+			</p>
+			<p>
+				The country must recognize that the bodies of dead American Indian people are not artifacts to be bought and sold as collectors' items. It is not appropriate to store tens of thousands of our ancestors for possible future research. They are our family. They deserve to be returned to their sacred burial grounds and given a chance to rest.
+			</p>
+			<p>
+				The plunder of our people's graves has gone on too long. Let us rebury our dead and remove this shameful past from America's future.
+			</p>
+			<p style="font-size:90%">
+				Credit: Suzan Shown Harjo (Cheyenne &amp; Muscogee) is an author of the federal repatriation laws, a founder of the National Museum of the American Indian and President of The Morning Star Institute in Washington, D.C.
+			</p>
+			]]>
+		  </text>
+		</figure>
+		<feedbackAudio>USGov_m5-3_s25_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="26" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Which of these is a statement from Harjo's article that demonstrates factual evidence to support her argument?</question>
+        <answers>
+          <answer>The ethics of using human remains this way without the full consent of relatives must be questioned.</answer>
+          <answer>It is fitting that institutions of higher education should lead the way.</answer>
+          <answer>No legislation has attacked the problem head-on by imposing stiff penalties at the market place.</answer>
+          <answer correct="true">Almost half of the states, including California, have passed laws protecting Indian burial sites.</answer>
+          <answer>The country must recognize that the bodies of dead American Indian peoples are not artifacts to be bought and sold.</answer>
+        </answers>
+		<figure>
+			<header italic="false">"Last Rites for Indian Dead: Treating Remains Like Artifacts Is Intolerable"</header>
+		  <text>
+			<![CDATA[
+			<p>
+				by Suzan Shown Harjo
+			</p>
+			<p>
+				Indian remains are still being collected for racial biological studies. While the intentions may be honorable, the ethics of using human remains this way without the full consent of relatives must be questioned.
+			</p>
+			<p>
+				Some relief for Indian people has come on the state level. Almost half of the states, including California, have passed laws protecting Indian burial sites and restricting the sale of Indian bones, burial offerings and other sacred items. Rep. Charles E. Bennett (D-Fla.) and Sen. John McCain (R-Ariz.) have introduced bills that are a good start in invoking the federal government's protection. However, no legislation has attacked the problem head-on by imposing stiff penalties at the marketplace, or by changing laws that make dead Indians the nation's property.
+			</p>
+			<p>
+				Some universities—notably Stanford, Nebraska, Minnesota and Seattle—have returned, or agreed to return, Indian human remains; it is fitting that institutions of higher education should lead the way.
+			</p>
+			<p>
+				Congress is now deciding what to do with the government's extensive collection of Indian human remains and associated funerary objects. The secretary of the Smithsonian, Robert McC. Adams, has been valiantly attempting to apply modern ethics to yesterday's excesses. This week, he announced that the Smithsonian would conduct an inventory and return all Indian skeletal remains that could be identified with specific tribes or living kin.
+			</p>
+			<p>
+				But there remains a reluctance generally among collectors of Indian remains to take action of a scope that would have a quantitative impact and a healing quality. If they will not act on their own—and it is highly unlikely that they will—then Congress must act.
+			</p>
+			<p>
+				The country must recognize that the bodies of dead American Indian people are not artifacts to be bought and sold as collectors' items. It is not appropriate to store tens of thousands of our ancestors for possible future research. They are our family. They deserve to be returned to their sacred burial grounds and given a chance to rest.
+			</p>
+			<p>
+				The plunder of our people's graves has gone on too long. Let us rebury our dead and remove this shameful past from America's future.
+			</p>
+			<p style="font-size:90%">
+				Credit: Suzan Shown Harjo (Cheyenne &amp; Muscogee) is an author of the federal repatriation laws, a founder of the National Museum of the American Indian and President of The Morning Star Institute in Washington, D.C.
+			</p>
+			]]>
+		  </text>
+		</figure>
+		<feedbackAudio>USGov_m5-3_s26_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="27" type="2_Txt_Img_Animation">
+    <video>USGov_m5-3_s27</video>
+    <credits>(tr)Comstock/Getty Images, (c)CDC/Cade Martin, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="28" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+	  <multiple>
+        <question>A series of reasons for or against a position, legal case, proposition, or proposal are all types of argument.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Providing evidence weakens a person's argument.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A person must be familiar with evidence on both sides of an argument to make a decision about an issue.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Politicians do not use emotional examples when debating an issue.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A good debater will not tell about his or her background when presenting an argument.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+	  <multiple>
+        <question>Ethos, pathos, and logos are principles of argumentation invented by modern campaign managers.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Pathos uses choice of language and visuals to tug at the emotions of the audience.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Political argument hurts democracy.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Logical appeals must be supported by evidence.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The terms "first," "second," and "finally" are clue words that signal structure in an argument.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m5-3_s28</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

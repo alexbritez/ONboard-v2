@@ -1,0 +1,68 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Mercantilism</title>
+		<info></info>
+		<image>images/euro_m1-4_s18.jpg</image>
+		<audio>audio/euro_m1-4_s18.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>EMPIRES</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>469.7</xCord>
+			<yCord>103.35</yCord>
+			<width>134</width>
+			<popTitle>Empires</popTitle>
+			<popInfo><![CDATA[<p>Colonial empires required extensive work on the part of the mother countries. There had to be tax collectors loyal to the king at every port, a navy to guarantee the safety of the merchant fleets and to guard against smuggling as well as a nationalized army to ensure that the king’s laws were carried out and all taxes were paid. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>MERCANTILISM</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>627.5</xCord>
+			<yCord>103.35</yCord>
+			<width>85</width>
+			<popTitle>Mercantilism</popTitle>
+			<popInfo><![CDATA[<p>Politically, this led to the formation of nation states and absolutism. Mercantilism was the economic theory that dominated the age. As you’ve learned, its basic assumption was that gold and silver bullion was the proper measure of wealth. Since there was a finite amount of gold or silver in the world, there was a finite amount of wealth in the world and the strength of any country depended upon its stockpile of bullion. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>COLONIES</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>469.7</xCord>
+			<yCord>446.35</yCord>
+			<width>85</width>
+			<popTitle>Colonies</popTitle>
+			<popInfo><![CDATA[<p>Countries, therefore, attempted to sell more than they bought. Colonies were providers of raw materials which were shipped to the mother country. There they were turned into finished products and resold throughout the empire. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>FAMILY</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>627.5</xCord>
+			<yCord>446.35</yCord>
+			<width>85</width>
+			<popTitle>Empire as a Family</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>Let’s think of an empire as a family. The mother country is like a parent who protected the children, which were her colonies. Just as a family might be considered wealthy if they have a lot of money in the bank, according to mercantilist theory, an empire was wealthy if it had a pile of gold and silver bullion. And, just as a family will try to keep money within the family unit by selling more then they spent, so did empires. Instead of paying someone to mow the lawn, clean the house, or repair the car, a parent who pays his children to perform these services will hold wealth within the family.</font> </p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

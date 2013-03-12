@@ -1,0 +1,95 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-2_s26.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>According to the lecture, which country was the center of the second phase of the industrial revolution?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Britain</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Germany</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+	
+	<question>
+		<qText>According to the textbook, which of the following statements is true?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Industrial employment was generally unsteady.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Industrial employment was steady except in extreme cases, such as the lack of cotton during the Civil War.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+
+	<question>
+		<qText><![CDATA[In <font face='lc-Italic'>Mary Barton</font> which of the following is true about the mill owners?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>They refused to spend their insurance money on rebuilding the mill.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>They decided to take their time rebuilding the mill, making sure it had the most up-to-date equipment.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>
+	       
+	<question>
+		<qText><![CDATA[The events described in <font face='lc-Italic'>Mary Barton</font> best support the information in which of the following?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the lecture</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the textbook passage</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-2_s35.mp3" />
+	</question>	
+	
+</MultipleChoice>

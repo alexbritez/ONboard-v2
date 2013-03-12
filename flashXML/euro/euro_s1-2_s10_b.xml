@@ -1,0 +1,82 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Foundations: Legacy and Heritage of Greece</title>
+		<info><![CDATA[Greeks – Gifted in Thought and Letters]]></info>
+		<image>images/euro_s1-2_s10_b.jpg</image>
+		<audio>audio/euro_s1-2_s10.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>PHILOSOPHY</Name>   
+			<audio enable="false" url=""/>
+			<xCord>496.85</xCord>
+			<yCord>122.3</yCord>
+			<width>134</width>
+			<popTitle>PHILOSOPHY</popTitle>
+			<popInfo><![CDATA[<p>The Greek people were gifted in thought and letters. The work of Greek philosophers such as Plato, Socrates, and Aristotle are still studied today. </font></p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ARCHITECTURE</Name>
+			<audio enable="false" url=""/>
+			<xCord>906.85</xCord>
+			<yCord>145.3</yCord>
+			<width>85</width>
+			<popTitle>ARCHITECTURE</popTitle>
+			<popInfo><![CDATA[<p>As an artistic people, they created beautiful architectural styles such as the Doric or Corinthian column. Many 18<font face='SuperScript'>th</font>, 19<font face='SuperScript'>th</font>, and 20<font face='SuperScript'>th</font> century buildings, such as the U.S. Supreme Court building and the New York Stock Exchange feature similar, Neoclassical, columns.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>LITERATURE</Name>
+			<audio enable="false" url=""/>
+			<xCord>550.85</xCord>
+			<yCord>231.3</yCord>
+			<width>85</width>
+			<popTitle>LITERATURE</popTitle>
+			<popInfo><![CDATA[<p>Greek writers provided form and a framework to writing that is still used today. They were the first to write epic poems, such as the <font face='c-Italic'>Iliad</font> and the <font face='c-Italic'>Odyssey</font>, and comedic and dramatic plays, such as <font face='c-Italic'>Lysistrata</font> and <font face='c-Italic'>Oedipus the King</font>.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>DEMOCRACY</Name>
+			<audio enable="false" url=""/>
+			<xCord>496.85</xCord>
+			<yCord>321.3</yCord>
+			<width>85</width>
+			<popTitle>DEMOCRACY</popTitle>
+			<popInfo><![CDATA[<p>The Greeks developed new political models such as democracy. The most significant version is Athenian democracy, which featured direct democracy in which the people themselves voted on legislation. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>MATH & SCIENCE</Name>
+			<audio enable="false" url=""/>
+			<xCord>887.85</xCord>
+			<yCord>399.3</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>MATH & SCIENCE</popTitle>
+			<popInfo><![CDATA[<p>Pythagoras, Aristotle, Euclid and others laid the foundations for modern science and mathematics. You’ve probably used Pythagoras’ theorem to determine the length of a side in a right triangle; in your Euclidian geometry class, of course.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>HISTORY</Name>
+			<audio enable="false" url=""/>
+			<xCord>710.85</xCord>
+			<yCord>381.3</yCord>
+			<width>85</width>
+			<popTitle>HISTORY</popTitle>
+			<popInfo><![CDATA[<p>Herodotus and Thucydides originated the idea of recording and describing the events of the past for future use.  This yields the basis for historical study as a subject distinct from myth and legend. Their foundational work made your AP* European History class possible! </p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

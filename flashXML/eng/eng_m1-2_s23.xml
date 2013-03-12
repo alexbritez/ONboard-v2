@@ -1,0 +1,59 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-2_s23.jpg</image>
+		<audio>audio/eng_m1-2_s23.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Joking]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Encouraging]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Sad]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Urgent]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Lighthearted]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Enthusiastic]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Positive]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Amusing]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Caring]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="537.4" yCord="226.85" spotScale="75" spotNum="1"/>
+		<dSpot xCord="537.4" yCord="305.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="537.4" yCord="384.15" spotScale="75" spotNum="1"/>
+		
+		<dSpot xCord="720.6" yCord="226.85" spotScale="75" spotNum="2"/>
+		<dSpot xCord="720.6" yCord="305.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="720.6" yCord="384.15" spotScale="75" spotNum="2"/>
+		
+		<dSpot xCord="904.4" yCord="226.85" spotScale="75" spotNum="3"/>
+		<dSpot xCord="904.4" yCord="305.5" spotScale="75" spotNum="3"/>
+		<dSpot xCord="904.4" yCord="384.15" spotScale="75" spotNum="3"/>
+	</dropSpots>
+</DragDrop>

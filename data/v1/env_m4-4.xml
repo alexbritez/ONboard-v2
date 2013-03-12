@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Chemical Properties of Matter">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m4-4_s1</video>
+      <credits>(cl)Comstock/JupiterImages, (cr)Siede Preis/Photodisc/Getty Images, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m4-4_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (cl)Comstock/JupiterImages, (cr)Siede Preis/Photodisc/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m4-4_s3</video>
+      <credits>(l to r)Siede Preis/Photodisc/Getty Images, (2)Photo Researchers/Getty Images, (3)McGraw-Hill Companies, Inc. Stephen Frisch, photographer, (4)Studio Photogram/Alamy, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="6_Activity_Interactivity">
+      <content>
+         <header>Identifying Chemical Properties Lab</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+      <image>env_m4-4_s4.jpg</image>
+      <audio>env_m4-4_s4</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m4-4_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (cl)Glow Images/Getty Images, (cr)McGraw-Hill Companies, Inc., Charles D. Winters, photographer, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m4-4_s6</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., Charles D. Winters, photographer, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m4-4_s7</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m4-4_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Chemical Properties: pH</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m4-4_s9.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="" x="332" y="199"><![CDATA[
+				<h1>pH: 8</h1>
+				<p>Eggs<br/>
+				Almonds</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="292" y="199"><![CDATA[
+				<h1>pH: 7</h1>
+				<p>Pure water</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="251" y="199"><![CDATA[
+				<h1>pH: 6</h1>
+				<p>Milk<br/>
+				Hot dog<br/>
+				Fish<br/>
+				Corn</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="211" y="199"><![CDATA[
+				<h1>pH: 5</h1>
+				<p>Banana<br/>
+				White potato<br/>
+				Chicken<br/>
+				Black beans</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="171" y="199"><![CDATA[
+				<h1>pH: 4</h1>
+				<p>Yogurt<br/>
+				Grapes<br/>
+				Tomatoes</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="131" y="199"><![CDATA[
+				<h1>pH: 3</h1>
+				<p>Soft drinks<br/>
+				Strawberries<br/>
+				Orange juice</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="91" y="199"><![CDATA[
+				<h1>pH: 2</h1>
+				<p>Lemon juice<br/>
+				Vinegar</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m4-4_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">2</match>
+			<match id="2">4.6</match>
+			<match id="3">6.4</match>
+			<match id="4">5.3</match>
+			<match id="5">8.2</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4">Over a four-year period in Hawaii, the average pH of precipitation was closest to the "normal" value.</drop>
+			<drop correct="2">Bananas have a pH value that is ten times stronger than the pH of "normal" rain.</drop>
+			<drop correct="1">Fog in Los Angeles had the most acidic pH value ever recorded for acid precipitation.</drop>
+			<drop correct="5">Baking soda can be added to pool water to raise the pH so that it is slightly above neutral. Therefore, soda ash has this pH value.</drop>
+			<drop correct="3">Precipitation that is less acidic than "normal" precipitation has this pH value.</drop>
+         </drops>
+         <image>env_m4-4_s10.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m4-4_s10</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="11" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>Click to Explore</header>
+			<instruction>Click on the 'hot spots' to view additional information.</instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+				<div style="width: 270px; margin-left: auto; margin-right: auto;">
+				<p><strong>Other Chemical Properties</strong></p>
+				<br/><br/><br/>
+				
+				<ul style="color:#92C839">
+					<li><a href="#" data-id="0" class="hotspot">Toxicity</a></li>
+					<li><a href="#" data-id="1" class="hotspot">Flammability</a></li>
+					<li><a href="#" data-id="2" class="hotspot">Heat of Combustion</a></li>
+					<li><a href="#" data-id="3" class="hotspot">Reactivity</a></li>
+				</ul>
+				</div>
+			]]></text>
+			<hotspots>
+				<hotspot audio="env_m4-4_s11_toxicity">
+					<![CDATA[
+					<h1></h1>
+					<p>Toxicity is the degree to which a substance can harm living things. Arsenic is a naturally occurring element that can harm both plants and animals. Areas where this toxin occurs are usually barren of plants or animals.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="env_m4-4_s11_flammability">
+					<![CDATA[
+					<h1></h1>
+					<p>Flammability is how easily a substance will burn. Gasoline is a very flammable substance, but water is very non-flammable.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="env_m4-4_s11_combustion">
+					<![CDATA[
+					<h1></h1>
+					<p>The energy released as heat when a substance chemically reacts with oxygen to form carbon dioxide and water. When gasoline or wood burn in the presence of oxygen, a lot of heat is released.</p>
+					]]>
+				</hotspot>
+				<hotspot audio="env_m4-4_s11_reactivity">
+					<![CDATA[
+					<h1></h1>
+					<p>Reactivity is how a particular substance reacts with another substance. For example, an important ingredient in antacids is calcium hydroxide. A chemical property of calcium hydroxide is that it reacts with the acids in your stomach.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>env_m4-4_s11</audio>
+		<credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+	</scene>
+   
+   <scene id="12" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>In 2001, the pH of a lake was measured at 6.6. Measurements were taken again in 2011, and the pH had fallen to 4.6. Which of the following statements is true?</question>
+            <answers>
+				<answer>The water in the lake is now twice as acidic.</answer>
+				<answer>The decrease in pH means the lake is now 20 times less acidic.</answer>
+				<answer>The water in the lake is now 20 times more acidic.</answer>
+				<answer correct="true">The water in the lake is now 100 times more acidic.</answer>
+				<answer>The decrease in pH means the lake is more basic.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following illustrates a chemical property?</question>
+            <answers>
+				<answer>Aluminum is malleable, which means it can be hammered or pressed into a very thin sheet.</answer>
+				<answer correct="true">A solution of potassium iodide produces a yellow precipitate when it is mixed with a solution of lead nitrate.</answer>
+				<answer>Saltwater leaves a solid residue after the water has been boiled away.</answer>
+				<answer>Solid iodine crystals, which have a purple color, release a purplish gas when they are exposed to air.</answer>
+				<answer>The molecules of water move farther apart from one another as the liquid forms a gas.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What happens during any chemical reaction?</question>
+            <answers>
+				<answer correct="true">A new substance is produced.</answer>
+				<answer>The color changes.</answer>
+				<answer>A gas is produced.</answer>
+				<answer>Energy is absorbed.</answer>
+				<answer>Energy is released.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>All matter has</question>
+            <answers>
+				<answer>only physical properties.</answer>
+				<answer>only chemical properties.</answer>
+				<answer correct="true">both physical and chemical properties.</answer>
+				<answer>physical properties that undergo chemical changes.</answer>
+				<answer>chemical properties that cannot be observed.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[Bromine is a red-brown liquid that has a density of 3.1 g/cm<sup>3</sup>. Bromine melts at 27&deg;C and boils at 58.8&deg;C. Bromine reacts with sodium metal to form a salt called sodium bromide. Sodium bromide is a white, crystalline solid. Which statement describes a chemical property of bromine?]]></question>
+            <answers>
+				<answer><![CDATA[Bromine boils at 58.8&deg;C.]]></answer>
+				<answer>Bromine is a liquid.</answer>
+				<answer><![CDATA[Bromine has a density of 3.1 g/cm<sup>3</sup>.]]></answer>
+				<answer>Bromine has a melting temperature higher than that of water.</answer>
+				<answer correct="true">Bromine reacts with sodium to form a white, crystalline solid.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-4_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,381 @@
+<shell>
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m6-3_s1</video>
+    <credits>(cl)The Desert Sun, Crystal Chatham/AP Images, (c)McGraw-Hill Companies, Inc., Jill Braaten, Photographer, (cr)Mark Wilson/Getty Images News/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+  
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s2</video>
+    <credits>(tr)Comstock/Getty Images, (1)Nikki Kahn/The Washington Post/Getty Images, (2)Sven Creutzmann/Mambo photo/Getty Images News/Getty Images, (3)ANDREAS SOLARO/AFP/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="3" type="6_Activity_Interactivity">
+    <content>
+      <header>History of U.S. Political Parties</header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M06_03_04A.mp4</url>
+    <image>USGov_m6-3_s3.jpg</image>
+    <audio>USGov_m6-3_s3</audio>
+    <credits>(tr)Comstock/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>How many major political parties have existed in the United States since 1789?</question>
+        <answers>
+          <answer>Two</answer>
+		  <answer>Four</answer>
+          <answer>Five</answer>
+		  <answer correct="true">Six</answer>
+		  <answer>Eight</answer>
+        </answers>
+		<feedbackAudio>USGov_m6-3_s4_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-3_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="5" type="9_Activity_Image_Rollclick">
+    <content>
+		<header>Major Political Parties</header>
+    </content>
+    <activity type="image">
+      <image>USGov_m6-3_s5.jpg</image>
+      <hotspots>
+        <hotspot title="Federalist" dynamic="true" x="24" y="8">
+          <![CDATA[
+            <h1>Federalist:</h1>
+            <p>1790s–1820; Favored a strong central government</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Democratic-Republican" dynamic="true" x="240" y="8">
+          <![CDATA[
+            <h1>Democratic-Republican:</h1>
+            <p>1790s–1828; Formed to oppose Federalists; favored state over national government</p>
+          ]]>
+        </hotspot>
+		<hotspot title="National Republican" dynamic="true" x="460" y="8">
+          <![CDATA[
+            <h1>National Republican:</h1>
+            <p>1825–1834; Split from Democratic-Republicans to oppose Andrew Jackson and work for strong central government</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Democratic" dynamic="true" x="24" y="344">
+          <![CDATA[
+            <h1>Democratic:</h1>
+            <p>1825–Present; Formed from Democratic-Republicans; supported Andrew Jackson and "common people"; today supports a more active role of government</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Whig" dynamic="true" x="240" y="344">
+          <![CDATA[
+            <h1>Whig:</h1>
+            <p>1834–1854; Formed from National Republicans and other parties; favored internal improvements</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Republican" dynamic="true" x="460" y="344">
+          <![CDATA[
+            <h1>Republican:</h1>
+            <p>1854–Present; Formed from Whigs and other groups; opposed spread of slavery to new territories and favored internal improvements; today supports a limited role of government</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m6-3_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (c)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="6" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+		<p style="text-align:center; font-size:80%">
+			<strong>Third Parties</strong>
+		</p>
+        <p style="font-size:80%">
+			Minor or third parties rarely win major elections in the United States. Why is this the case?
+        </p>
+		<p style="font-size:80%">
+			For one thing, the United States' <a href="#" data-id="0" class="hotspot"><strong>electoral system</strong></a>—which is made up of <a href="#" data-id="1" class="hotspot"><strong>single-member districts</strong></a>—makes it difficult for third parties to compete. Also, American politics has traditionally been characterized by compromise and negotiation between the two major parties, which allows their candidates to appeal to more voters.
+		</p>
+		<p style="font-size:80%">
+			Some third parties form over a single issue, such as slavery. Some have formed over a political figure, such as Theodore Roosevelt's Bull Moose Progressive Party. Others form over an <a href="#" data-id="2" class="hotspot"><strong>ideology</strong></a>, like the Communist Party USA or, more recently, the Tea Party—a conservative party that promotes less government, fiscal responsibility, and states' rights. Although third parties might not have a strong chance of winning, they often influence politics by promoting new ideas.
+		</p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Electoral system</h1>
+            <p>a legal voting system for making democratic choices</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Single-member districts</h1>
+            <p>a voting district in which one representative is elected to serve in a body such as a legislature</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Ideology</h1>
+            <p>a highly organized framework of beliefs concerning the nature and role of government in society</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m6-3_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s7</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="8" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m6-3_s8.jpg</image>
+      <hotspots>
+        <hotspot title="National Convention" dynamic="true" x="24" y="8">
+          <![CDATA[
+            <h1>National Convention</h1>
+            <p>The national party's meeting, held in the summer of a presidential election year, in which each state sends delegates to nominate the party's candidates for president and vice president</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Caucus" dynamic="true" x="460" y="232">
+          <![CDATA[
+            <h1>Caucus</h1>
+            <p>A meeting of the members of a political party, especially to select delegates to a convention</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Nominating Convention" dynamic="true" x="460" y="8">
+          <![CDATA[
+            <h1>Nominating Convention</h1>
+            <p>The meeting of party leaders to nominate party candidates at any level</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Primary Election" dynamic="true" x="46" y="118">
+          <![CDATA[
+            <h1>Primary Election</h1>
+            <p>Election held before the general election in which party members or voters select candidates for the general election</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Direct Primary" dynamic="true" x="240" y="344">
+          <![CDATA[
+            <h1>Direct Primary</h1>
+            <p>Election held before the general election in which voters directly choose the candidates for the general election; Depending on a state's election rules, the candidate who wins the primary gets all of the state's convention delegates (called "winner-take-all"), or each candidate gets delegates based on the proportion of how many popular votes he or she receives in the primary.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Platform" dynamic="true" x="460" y="344">
+          <![CDATA[
+            <h1>Platform</h1>
+            <p>An official statement of a political party's views and policies on political issues</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m6-3_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (c) McGraw-Hill Companies, Inc. Jill Braaten, Photographer.</credits>
+  </scene>
+  
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s9</video>
+    <credits>(tr)Comstock/Getty Images, (1)Chip Somodevilla/Getty Images News/Getty Images, (2)Mark Wilson/Getty Images News/Getty Images, (3)Max Whittaker/Getty Images News/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s10</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s11</video>
+    <credits>(tr)Comstock/Getty Images, (c)Doug Grinbergs/Demotix/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s12</video>
+    <credits>(tr)Comstock/Getty Images, (c)Michael Reynolds/epa/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s13</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="14" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="5">Single-member Districts</match>
+        <match id="6">Ideology</match>
+        <match id="9">PAC</match>
+        <match id="1">Two-Party System</match>
+        <match id="8">Caucus</match>
+		<match id="3">Multiparty System</match>
+        <match id="4">Electoral System</match>
+        <match id="7">National Convention</match>
+        <match id="2">One-Party System</match>
+        <match id="10">Interest Group</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1">Government in which two main parties dominate elections</drop>
+        <drop correct="2">System often found in autocratic governments or nations ruled by religious leaders</drop>
+        <drop correct="3">Government in which political parties often must form a coalition to rule</drop>
+        <drop correct="4">Legal voting system for making democratic choices</drop>
+        <drop correct="5">Voting district in which one representative is elected to serve in a body such as a legislature</drop>
+		<drop correct="6">Highly organized framework of beliefs concerning the nature and role of government in society</drop>
+        <drop correct="7">Meeting at which delegates nominate the party's candidates for president and vice president</drop>
+        <drop correct="8">Meeting of political party members to select delegates to a convention</drop>
+        <drop correct="9">Donates contributed funds to candidates</drop>
+        <drop correct="10">Organization of people who want to influence government policies through political involvement</drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m6-3_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="15" type="3_txt_img_reading">
+    <content>
+      <header italic="false">How Media Impact Government and Politics</header>
+      <text>
+        <![CDATA[
+		<p>
+			The mass media includes print media and broadcast media. The Internet has emerged as a powerful new interactive medium. The relationship between the media and U.S. government officials is complex. They need to work together, but their jobs often place them in adversarial positions.
+		</p>
+        <p>
+			The president and television have a mutually beneficial relationship. The president is a great source of news, and television offers presidents the best way to "sell" their ideas and policies to the public. White House staff media advisers control the daily flow of information through news releases and briefings, press conferences, background stories, leaks, and media events.
+        </p>
+		<p>
+			Congress gets less media coverage than the president because most legislative work takes place in committees and subcommittees over long periods of time. When Congress is in the news, reporters tend to focus on controversial issues such as confirmation hearings, oversight activities, or the personal lives of members. C-SPAN broadcasts floor proceedings of the House and Senate.
+        </p>
+		<p>
+			During election season, television greatly influences who runs for office, how candidates are nominated, and campaign advertising. Television lets candidates appeal directly to the people. TV ads also allow candidates to make their opponents look unappealing.
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m6-3_s15</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="16" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s16</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>How much of the population completely or mostly distrusts the media?</question>
+        <answers>
+          <answer>15 percent</answer>
+          <answer>31 percent</answer>
+          <answer>43 percent</answer>
+          <answer correct="true">46 percent</answer>
+          <answer>100 percent</answer>
+        </answers>
+		<figure>USGov_m6-3_s17_view.jpg</figure>
+		<feedbackAudio>USGov_m6-3_s17_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-3_s17</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>USGov_m6-3_s18</video>
+    <credits>(tr)Comstock/Getty Images, (c)The Desert Sun, Crystal Chatham/AP Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+  
+  <scene id="19" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+	  <multiple>
+        <question>The United States has a multiparty system.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Many nations with multiparty systems are politically unstable.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>There have been two major political parties since 1789.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Primary races help narrow the field of candidates.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>To vote, you must be a citizen of the United States and 21 years old.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+	  <multiple>
+        <question>Presidential campaigns end on Election Day, the Tuesday after the first Monday in November.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Lobbyists provide congressional testimony and might help draft bills.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Presidential candidates may accept unlimited federal funding.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>To be elected president, a candidate must win 270 of the 538 available electoral votes.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The president gets less media coverage than Congress.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-3_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

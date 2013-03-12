@@ -1,0 +1,65 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[MISSTEPS: Logical Fallacies<br/>Hasty Generalization]]></title>
+		<info></info>
+		<image>images/eng_m3-6_s19.jpg</image>
+		<audio>audio/eng_m3-6_s19.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name><![CDATA[1]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>871.5</xCord>
+			<yCord>110</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[American tourist: ]]></popTitle>
+			<popInfo><![CDATA[Monsieur, please bring me some iced tea.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[2]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>871.5</xCord>
+			<yCord>155</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[French waiter: ]]></popTitle>
+			<popInfo><![CDATA[We do not have iced tea. We have only hot tea.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[3]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>871.5</xCord>
+			<yCord>200</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Tourist: ]]></popTitle>
+			<popInfo><![CDATA[Do you have ice? ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[4]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>623.95</xCord>
+			<yCord>348</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Waiter: ]]></popTitle>
+			<popInfo><![CDATA[Yes.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[5]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>623.95</xCord>
+			<yCord>393</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Tourist: ]]></popTitle>
+			<popInfo><![CDATA[Then bring me some hot tea and a glass of ice. I’ll make my own.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[6]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>623.95</xCord>
+			<yCord>438</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Waiter: ]]></popTitle>
+			<popInfo><![CDATA[[leaves the table and tells his coworkers] Why do Americans go to other countries if they are such arrogant fools that they demand we serve them as though they were still in America?]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

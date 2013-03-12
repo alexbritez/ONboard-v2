@@ -1,0 +1,27 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Events in European History</p>]]></hText>
+		<fraction></fraction>
+		<qText><![CDATA[<p>What events in European history are you most interested in learning about? </p>]]></qText>
+		<correctText><![CDATA[<p>I am interested in learning more about the Reformation, the French Revolution, and World War II. </p>]]></correctText>
+		<haveSource enable="false" word="" image="" />
+		<audio>audio/euro_s1-1_s18.mp3</audio>
+		<feedback>audio/euro_s1-1_s18_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

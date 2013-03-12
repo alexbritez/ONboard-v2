@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s23.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>What advantages might there be to such a farming system?</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>Communal farming encouraged cooperation so villagers could share plows and other farming tools. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>It would increase production because farmers could try out new crops on different strips of land.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s24_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

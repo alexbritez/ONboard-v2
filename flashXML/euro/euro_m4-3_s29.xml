@@ -1,0 +1,75 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>The French Revolution</title>
+		<info><![CDATA[]]></info>
+		<image>images/euro_m4-3_s29.jpg</image>
+		<audio>audio/euro_m4-3_s29.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>ESTATES GENERAL</Name>   
+			<audio enable="true" url="audio/euro_m4-3_s29_A.mp3"/>
+			<xCord>461.95</xCord>
+			<yCord>100.7</yCord>
+			<width>134</width>
+			<popTitle>Estates General </popTitle>
+			<popInfo><![CDATA[In 1787 and 1788 King Louis XVI requested a tax increase for nobles. Leading nobles refused to pay taxes until the king agreed to convene the Estates General. 
+This body had not met in nearly 175 years. The king reluctantly agreed to convene the Estates General.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>OATH</Name>
+			<audio enable="true" url="audio/euro_m4-3_s29_B.mp3"/>
+			<xCord>461.95</xCord>
+			<yCord>152.35</yCord>
+			<width>85</width>
+			<popTitle>The Tennis Court Oath</popTitle>
+			<popInfo><![CDATA[During the meeting of the Estates General in 1789 members of the Third Estate declared that they were now the sovereign power in France. When the king locked them out of their meeting place, they met in an indoor tennis court on June 20, 1789, and pledged that they would create a new government and constitution for France. The result was the creation of the National Assembly, France’s governing congress.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>THE BASTILLE</Name>
+			<audio enable="true" url="audio/euro_m4-3_s29_C.mp3"/>
+			<xCord>461.95</xCord>
+			<yCord>204</yCord>
+			<width>92</width>
+			<popTitle>The Bastille </popTitle>
+			<popInfo><![CDATA[When the Parisian working class heard rumors that the king was planning to crack down on the revolution, thousands stormed the Bastille. Dozens of Parisians died in the event. The king lost control of Paris and was forced to accept the legitimacy of the revolution. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>THE DECLARATION</Name>
+			<audio enable="true" url="audio/euro_m4-3_s29_D.mp3"/>
+			<xCord>461.95</xCord>
+			<yCord>255.7</yCord>
+			<width>52</width>
+			<popTitle>The Declaration</popTitle>
+			<popInfo><![CDATA[In 1789, the National Assembly drew up the <font face='lc-Italic'>Declaration of the Rights of Man and Citizen</font>, a constitutional blueprint from which the Constitution of 1791 would eventually be created. In effect, <font face='c-Italic'>The Declaration</font> signaled that France would become a constitutional government that would follow the rule of law and respect the rights of all French citizens. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>WOMEN’S MARCH</Name>
+			<audio enable="true" url="audio/euro_m4-3_s29_E.mp3"/>
+			<xCord>933.35</xCord>
+			<yCord>100.7</yCord>
+			<width>52</width>
+			<popTitle>Women’s March</popTitle>
+			<popInfo><![CDATA[In October 1789, a large group of women, angry that they did not have enough food to feed their families, marched from Paris to Versailles to demand that the king provide for his people. Once at Versailles, the women killed some royal guards and kidnapped the king, queen and their son and heir.]]></popInfo>
+		</pButton>		
+		<pButton> 
+			<Name>THE REPUBLIC</Name>
+			<audio enable="true" url="audio/euro_m4-3_s29_F.mp3"/>
+			<xCord>933.35</xCord>
+			<yCord>152.35</yCord>
+			<width>87</width>
+			<popTitle>The Republic</popTitle>
+			<popInfo><![CDATA[In August, 1792, an armed Parisian crowd stormed the king’s palace in Paris and arrested the royal family. The following month, the Jacobins declared France to be a republic, a democratic representative government without a king. The First French Republic would last nine years when it was replaced by Napoleon Bonaparte in 1799.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>THE TERROR</Name>
+			<audio enable="true" url="audio/euro_m4-3_s29_G.mp3"/>
+			<xCord>933.35</xCord>
+			<yCord>204</yCord>
+			<width>74</width>
+			<popTitle>The Terror</popTitle>
+			<popInfo><![CDATA[In the 1790s, Jacobin leaders cracked down on their enemies. King Louis XVI was executed in January, 1793 and his wife, Marie Antoinette, was executed later in the year. By 1794, approximately 40,000 people had been executed by the Committee of Public Safety. The “Reign of Terror” of 1793-94 convinced many people that the Jacobins had to be removed from power. Robespierre was arrested and executed and a new government—the Directory—controlled France for the next five years.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

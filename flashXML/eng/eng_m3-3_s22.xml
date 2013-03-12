@@ -1,0 +1,33 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-3_s22.jpg</image>
+		<audio>audio/eng_m3-3_s22.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<p>One</p>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Two]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Three]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Four]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="505" yCord="113.7" spotScale="75" spotNum="1"/>
+		<dSpot xCord="776" yCord="113.7" spotScale="75" spotNum="2"/>
+		<dSpot xCord="505" yCord="326" spotScale="75" spotNum="3"/>
+		<dSpot xCord="776" yCord="326" spotScale="75" spotNum="4"/>
+	</dropSpots>
+</DragDrop>

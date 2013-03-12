@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s23.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s23.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>Why are Vanier and LeFebvre’s strips of land so widely separated from one another?</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>They wanted to plant equal numbers of each kind of crop.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>Each farmer’s lands were deliberately scattered to prevent any one person from getting all the good or bad land. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s23_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,62 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Elements, Compounds, and Mixtures</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m3-2_s15.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s15.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s15_1.mp3"/>
+			<xCord>951.1</xCord>
+			<yCord>398.4</yCord>
+			<width>134</width>
+			<popTitle>Elements</popTitle>
+			<popInfo><![CDATA[<ul><li>are composed of one type of atom.</li><li>cannot be broken down into simpler substances.</li><li>can be classified as metals, nonmetals, or metalloids.</li><li>Examples: copper, gold, aluminum</li></ul>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s15_2.mp3"/>
+			<xCord>771.1</xCord>
+			<yCord>398.4</yCord>
+			<width>134</width>
+			<popTitle>Compounds</popTitle>
+			<popInfo><![CDATA[<font size=''><ul><li>are formed by combining elements to form new substances</li><li>can be broken down into simpler substances.</li><li> have properties different from the properties of their elements.</li><li>Examples: sodium chloride (table salt)</li></ul></font>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>3</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s15_3.mp3"/>
+			<xCord>478.45</xCord>
+			<yCord>230.4</yCord>
+			<width>134</width>
+			<popTitle>Mixtures</popTitle>
+			<popInfo><![CDATA[<ul><li>are formed by combining elements, but the individual substances stay the same.</li><br /><li>are divided into two types: homogeneous and heterogeneous</li></ul>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>4</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s15_4.mp3"/>
+			<xCord>444.1</xCord>
+			<yCord>398.4</yCord>
+			<width>134</width>
+			<popTitle>Homogeneous Mixtures</popTitle>
+			<popInfo><![CDATA[<ul><li>are called solutions.</li><br /><li>Substances that make up a solution are evenly distributed throughout the solution.</li><br /><li>Examples: vinegar, soft drinks</li></ul>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>5</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-2_s15_5.mp3"/>
+			<xCord>621.1</xCord>
+			<yCord>398.4</yCord>
+			<width>134</width>
+			<popTitle>Heterogeneous Mixtures</popTitle>
+			<popInfo><![CDATA[<ul><li>are called mixtures.</li><br/><li>Substances that make up a mixture are not evenly distributed throughout the mixture.</li><br /><li>Examples: muddy water, smoke</li></ul>]]></popInfo>
+		</pButton>		
+		
+	</popButtons>	
+</PopUp>

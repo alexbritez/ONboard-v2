@@ -1,0 +1,231 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-5_s37.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s37.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s37.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s37.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s37.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s37.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s37.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s37.jpg</image>
+		</Source>
+
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>Which symbol(s) in the cartoon most identify the caricature of the Jew as a foreigner?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The money bags]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The hat and the beard]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The clothing]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The facial features]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The pose]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>The title of the poster and caption of the cartoon both exploit which anti-Semitic themes?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The idea of the eternally wandering Jew]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The idea that Jews are an alien presence in Western Europe ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The idea that Jews have no homeland]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A and B only]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A, B, and C]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Who were the likely audiences for the cartoon and the poster?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Non-Jewish citizens of German, Austria and France]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jewish citizens of Germany, Austria and France]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[People outside Western Europe]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Citizens of countries bordering Germany, Austria and France]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Americans]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>The main message of the poster and the cartoon include all of the following EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Jews seek to economically exploit and control]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jews must be expelled from Germany and France]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jews cannot be trusted]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jews pose a danger to Germany and must be exposed]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jews are an evil, alien presence in countries like Germany and France]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Both the political cartoon and the poster use all of the following techniques EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Caricatures that reflect unflattering stereotypes of Jews]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Fear of Jews as economic exploiters]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Distrust of Jews as foreigners]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Outrage at Jewish cruelty and fears of Marxism]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Demonization of Jews as the enemy]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+
+	<question>
+		<qText><![CDATA[<p>The cartoon and poster represent which of the following points of view?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Pro-Jewish]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Pro-capitalist]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Anti-capitalist]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Pro-Marxist]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Antisemitic ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+		
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

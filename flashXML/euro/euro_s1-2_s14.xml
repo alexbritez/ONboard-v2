@@ -1,0 +1,72 @@
+<PopUp>
+	<slideInfo>
+		<title>Social Classes – the Nobility</title>
+		<info></info>
+		<image>images/euro_s1-2_s14.jpg</image>
+		<audio>audio/euro_s1-2_s14.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>GOVERN and DEFEND</Name>
+			<audio enable="true" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>471.25</xCord>
+			<yCord>103.35</yCord>
+			<width>134</width>
+			<popTitle>GOVERN and DEFEND</popTitle>
+			<popInfo><![CDATA[The amount of territory and power a nobleman could claim was closely related to how many people that nobleman was sworn to protect.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>TERRITORY</Name>
+			<audio enable="true" url="audio/euro_s1-2_s14_TERRITORY.mp3"/>
+			<xCord>471.25</xCord>
+			<yCord>274.3</yCord>
+			<width>85</width>
+			<popTitle>TERRITORY</popTitle>
+			<popInfo><![CDATA[There was constant feuding amongst neighboring nobles, fueled by envy of the wealth and possessions of those in neighboring manors.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>TITLES</Name>
+			<audio enable="true" url="audio/euro_s1-2_s14_TITLES.mp3"/>
+			<xCord>471.25</xCord>
+			<yCord>445.25</yCord>
+			<width>92</width>
+			<popTitle>TITLES</popTitle>
+			<popInfo><![CDATA[Many of the first nobles were descended from Germanic chieftains. Newer nobles distinguished themselves in battle to earn titles, such as duke, earl, count, baron, and marquis.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>ROYALTY</Name>
+			<audio enable="true" url="audio/euro_s1-2_s14_ROYALTY.mp3"/>
+			<xCord>924.2</xCord>
+			<yCord>103.35</yCord>
+			<width>52</width>
+			<popTitle>ROYALTY</popTitle>
+			<popInfo><![CDATA[From the greater nobility will emerge a group known as “royalty” by the end of the Early Middle Ages. They earned this rank through distinguished leadership on the battlefield – with a promise of many more victories to come. The “royals” would have the loyalty of many nobles. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CEREMONY</Name>
+			<audio enable="true" url="audio/euro_s1-2_s14_CEREMONY.mp3"/>
+			<xCord>924.2</xCord>
+			<yCord>274.3</yCord>
+			<width>87</width>
+			<popTitle>CEREMONY</popTitle>
+			<popInfo><![CDATA[By the eighth century, some rulers were ceremonially armed with a royal scepter. Once crowned, kings and Kaisers claimed to rule by divine right (or at God’s will).  Their sacred role signifies Christianity’s dominion over medieval Europe.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>POWER</Name>
+			<audio enable="true" url="audio/euro_s1-2_s14_POWER.mp3"/>
+			<xCord>924.2</xCord>
+			<yCord>445.3</yCord>
+			<width>87</width>
+			<popTitle>POWER</popTitle>
+			<popInfo><![CDATA[By the early modern era (around 1400) strong sovereigns will seek ways to escape the Vatican’s control.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

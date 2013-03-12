@@ -1,0 +1,93 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Photographs</title>
+		<info></info>
+		<image>images/euro_m3-5_s21.jpg</image>
+		<audio>audio/euro_m3-5_s21.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>GHETTO</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>461.8</xCord>
+			<yCord>102.8</yCord>
+			<width>134</width>
+			<popTitle>The Lodz Ghetto</popTitle>
+			<popInfo><![CDATA[<p>This photo was taken in the Polish city of Lodz, sometime between April and August 1940. After the German invasion of Poland on September 1, 1939 that began the Second World War, Polish Jews were subjected to severe restrictions including confiscation of property and businesses and confinement to specific areas that were known as ghettos. In Lodz, over 150,000 Jews were forced into an impoverished area in the north of the city. 
+</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>JUDENRAT</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>461.8</xCord>
+			<yCord>148.05</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[<font face='c-Italic' >Judenrat</font>]]></popTitle>
+			<popInfo><![CDATA[<p>In 1940, the ghetto was ‘sealed’, or completely isolated from the city by barbed wire fences and armed guards. So that they would have as little interaction with the confined Jews as possible, Germans required each ghetto to establish a Jewish council known as the <font face='c-Italic'>Judenrat</font>. There were also Jewish police forces. The <font face='c-Italic' >Judenrat</font>  and the Jewish police carried out German orders including demands for labor and deportations from the ghetto to death camps. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>POPULATION</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>461.8</xCord>
+			<yCord>193.3</yCord>
+			<width>134</width>
+			<popTitle>The Population of Lodz</popTitle>
+			<popInfo><![CDATA[<p>Beginning in 1941, tens of thousands of Western European Jews were deported to ghettos in Eastern Europe including Lodz, where by 1942 the ghetto population approached 200,000 people in a space of about 1.5 square miles. The local population was forbidden to enter the ghetto or contact Jews without permission. A number of official and unofficial German photographs documenting life in the Lodz ghetto have survived.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>LIFE & DEATH</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>461.8</xCord>
+			<yCord>357.15</yCord>
+			<width>134</width>
+			<popTitle>Life and Death in Lodz</popTitle>
+			<popInfo><![CDATA[<p>Ghetto inhabitants suffered from overcrowding, starvation, disease and the constant threat of deportation. At least 70,000 ghetto inhabitants were murdered in the death camp at Chelmno between January 1942 and July 1944. In August the remaining sixty to seventy thousand ghetto inhabitants were sent to Auschwitz. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>WHY?</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>461.8</xCord>
+			<yCord>402.4</yCord>
+			<width>134</width>
+			<popTitle>Why were the Jews put into a ghetto? </popTitle>
+			<popInfo><![CDATA[<p>According to Nazi racial ideology, Jews were a separate inferior race that needed to be quarantined from the rest of society to prevent ‘racial pollution’. Nazi propaganda spread many false ideas about Jews including the accusation that they spread disease, which was used as a justification for confining Jews to ghettos in Poland and other Eastern European occupied lands. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ANTISEMITISM</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>461.8</xCord>
+			<yCord>447.65</yCord>
+			<width>134</width>
+			<popTitle>Antisemitism</popTitle>
+			<popInfo><![CDATA[<p>Nazi propaganda also played on numerous anti-Jewish beliefs and attitudes. This kind of prejudice is known as antisemitism. Antisemitic ideas include the belief that because Jews rejected conversion to Christianity, they were ‘blind’ to the truth and as punishment were damned to eternally wander the earth in search of a home. Ideas like this reinforced the concept that the Jews were an alien foreign presence in every country they inhabited. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ALIEN</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>940.85</xCord>
+			<yCord>167.15</yCord>
+			<width>134</width>
+			<popTitle>An “Alien” Population</popTitle>
+			<popInfo><![CDATA[<p>By the late 19th century, Jews had assimilated into nearly every Western European nation and were prominent in banking and business. However, suspicion of Jews, long viewed as foreign and alien, was not eliminated and they were now accused of secretly plotting to undermine and take control over the countries where they lived. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ACCUSATIONS</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>940.85</xCord>
+			<yCord>212.4</yCord>
+			<width>402.4</width>
+			<popTitle>Accusations</popTitle>
+			<popInfo><![CDATA[<p>Although completely without foundation, the idea of a secretive world-wide Jewish takeover was believed by many in countries like France and Germany in the early 20th century. Jews were accused of both capitalistic exploitation and the spreading of Marxism in this supposed quest for world-wide power.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>HOLOCAUST</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>940.8</xCord>
+			<yCord>257.65</yCord>
+			<width>134</width>
+			<popTitle>Holocaust</popTitle>
+			<popInfo><![CDATA[<p>These antisemitic beliefs, abhorrent as they are, guided Nazi policy towards the Jews. They led to discriminatory actions against German Jews before the war, the deportation and ghettoization of Jews after the war began, the exploitation of Jewish labor and confiscation of Jewish assets, and eventually the murder of millions of Jews in the Holocaust.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

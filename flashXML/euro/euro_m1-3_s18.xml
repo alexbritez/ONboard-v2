@@ -1,0 +1,131 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m1-3_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+	</slideInfo>
+	
+	<question>
+		<qText>Middle class wealth will trickle down to the workers.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Agree</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Disagree</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	<question>
+		<qText>Revolution is inevitable.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Agree</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Disagree</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	<question>
+		<qText>Workers will eventually end up in slavery.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Agree</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Disagree</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	<question>
+		<qText>Life for workers gets better and better under a capitalist economy.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Agree</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Disagree</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	<question>
+		<qText>There is no limit to the greed of a capitalist.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Agree</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Disagree</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	<question>
+		<qText>Communism is the last step in an inevitable cycle.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Agree</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Disagree</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m1-3_s18.mp3" />
+	</question>
+
+	
+</MultipleChoice>

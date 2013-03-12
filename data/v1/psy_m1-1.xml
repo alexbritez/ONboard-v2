@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Mindset">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m1-1_s1</video>
+      <credits>(l)Echo/Cultura/Getty Images, (bkgd) Glow Images/Getty Images, (others) Brand X Pictures/PunchStock.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s2</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="9_Activity_Image_Rollclick">
+      <content>
+			<header>Click to Explore</header>
+			<instruction>Click on the 'hot spots' to view additional information.</instruction>
+      </content>
+      <activity type="text">
+         <text><![CDATA[
+		 <div style="font-size:125%; line-height:1.5;"><span style="font-weight: bold; font-size: 125%;">Mindset</span><br/>
+		 Dr. Carol Dweck
+		 <ul>
+		 	<li>Researched achievement and success</li>
+			<li>Discovered that mindsets affect how we approach academic courses</li>
+		 </ul>
+		 Two types of mindsets
+		 <ul>
+		 	<li><a href="#" data-id="0" class="hotspot"><strong>Fixed</strong></a></li>
+			<li><a href="#" data-id="1" class="hotspot"><strong>Growth</strong></a></li>
+		 </ul>
+		 </div>]]></text>
+         <hotspots>
+            <hotspot><![CDATA[
+				<h1>Fixed</h1>
+				<p>The mental outlook in which a person believes that basic qualities, like intelligence, cannot be improved or changed.</p>
+			]]></hotspot>
+			<hotspot><![CDATA[
+				<h1>Growth</h1>
+				<p>The mental outlook in which a person believes that basic qualities, like intelligence, can be changed through effort.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-1_s3</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s4</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Yellow Dog Productions/Lifesize/Getty Images, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s5</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Jack Hollingsworth/Blend Images/Corbis, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s6</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s7</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s8</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s9</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s10</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s11</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Jack Hollingsworth/Blend Images/Corbis, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s12</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Yellow Dog Productions/Lifesize/Getty Images, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s13</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Liquidlibrary/Dynamic Graphics Group/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s14</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Liquidlibrary/Dynamic Graphics Group/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">Fixed</match>
+			<match id="1">Growth</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="85" y="139" />
+			<drop correct="2" x="85" y="215" />
+         </drops>
+         <image>psy_m1-1_s15.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m1-1_s15</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s16</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Yellow Dog Productions/Lifesize/Getty Images, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s17</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Echo/Cultura/Getty Images, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s18</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="19" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-1_s19.jpg</image>
+         <hotspots>
+            <hotspot audio="psy_m1-1_s19a" dynamic="true" x="58" y="47"><![CDATA[
+				<h1>Communication between the neurons</h1>
+				<p></p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-1_s19c" dynamic="true" x="366" y="183"><![CDATA[
+				<h1>The receptor site and neurotransmitters</h1>
+				<p></p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-1_s19b" dynamic="true" x="47" y="351"><![CDATA[
+				<h1>The synapse and synaptic gap</h1>
+				<p></p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-1_s19</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="20" type="9_Activity_Image_Rollclick">
+      <content>
+			<header>Click to Explore</header>
+			<instruction>Click on the 'hot spots' to view additional information.</instruction>
+      </content>
+      <activity type="text">
+         <text><![CDATA[
+		 <div style="font-size:125%; line-height:1.5;"><span style="font-weight: bold; font-size: 125%;">Developing the Growth Mindset</span><br/>
+		 How the Brain Learns<br/>
+		 Research Study on Juggling<br/>
+		 24 non-jugglers were divided into two groups:
+		 <ul>
+		 	<li><a href="#" data-id="0" class="hotspot"><strong>Control group</strong></a></li>
+			<li><a href="#" data-id="1" class="hotspot"><strong>Experimental group</strong></a></li>
+			<li>Special MRI scans revealed NO differences between the groups.</li>
+		 </ul>
+		 </div>]]></text>
+         <hotspots>
+            <hotspot><![CDATA[
+				<h1>Control group</h1>
+				<p>The participants in an experiment who are as much like the experimental group as possible and who are treated in every way like the experimental group except for a manipulated factor, the independent variable.</p>
+			]]></hotspot>
+			<hotspot><![CDATA[
+				<h1>Experimental group</h1>
+				<p>The participants in an experiment who receive the drug or other treatment, or who experience the condition under study—that is, those who are exposed to the change that the independent variable represents.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-1_s20</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s21</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Art Vandalay/Digital Vision/Getty Images, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s22</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="23" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What conclusion can you draw from this study?</question>
+            <answers>
+               <answer>People are either natural jugglers or not.</answer>
+			   <answer correct="true">People need to keep practicing a skill in order to maintain it.</answer>
+			   <answer>There is no point in learning new things because the information decays rapidly.</answer>
+            </answers>
+            <feedbackAudio>psy_m1-1_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-1_s23</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s24</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s25</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="26" type="9_Activity_Image_Rollclick">
+      <content>
+			<header>Click to Explore</header>
+			<instruction>Click on the 'hot spots' to view additional information.</instruction>
+      </content>
+      <activity type="text">
+         <text><![CDATA[
+		 <div style="font-size:125%; line-height:1.5;"><span style="font-weight: bold; font-size: 125%;">Developing the Growth Mindset</span><br/>
+		 <ul>
+		 	<li>Change your way of thinking and your behavior</li>
+			<li>This process is called "<a href="#" data-id="0" class="hotspot"><strong>cognitive restructuring</strong></a>"</li>
+			<li>Cognitive restructuring involves 4 steps</li>
+		 </ul>
+		 </div>]]></text>
+         <hotspots>
+            <hotspot><![CDATA[
+				<h1>Cognitive restructuring</h1>
+				<p>Replacing negative thoughts with positive, more constructive thoughts—shaking up your thought process.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-1_s26</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s27</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)McGraw-Hill Companies, Inc., Gary He, photographer, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="28" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s28</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)McGraw-Hill Companies, Inc., Gary He, photographer, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s29</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Jack Hollingsworth/Blend Images/Corbis, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s30</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Jack Hollingsworth/Blend Images/Corbis, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s31</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Jack Hollingsworth/Blend Images/Corbis, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="32" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s32</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Echo/Cultura/Getty Images, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="33" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[<span style="font-size:90%">"Don't try or you'll fail."</span>]]></match>
+			<match id="2"><![CDATA[<span style="font-size:90%">"I think I can learn to do this task with time and effort."</span>]]></match>
+			<match id="3"><![CDATA[<span style="font-size:90%">"Better not risk looking like a loser."</span>]]></match>
+			<match id="4"><![CDATA[<span style="font-size:90%">"I may struggle, but I'll just try harder."</span>]]></match>
+			<match id="5"><![CDATA[<span style="font-size:90%">"Most successful people had failures along the way. I'm no different."</span>]]></match>
+			<match id="6"><![CDATA[<span style="font-size:90%">"This would have been easy if I had any real intelligence."</span>]]></match>
+			<match id="7"><![CDATA[<span style="font-size:90%">"Let me listen to your feedback and learn whatever I can."</span>]]></match>
+			<match id="8"><![CDATA[<span style="font-size:90%">"It's not my fault."</span>]]></match>
+			<match id="9"><![CDATA[<span style="font-size:90%">"Effort helps me succeed."</span>]]></match>
+			<match id="10"><![CDATA[<span style="font-size:90%">"You don't know what you are talking about when criticizing me."</span>]]></match>
+			<match id="11"><![CDATA[<span style="font-size:90%">"If I don't take responsibility, I can't fix it."</span>]]></match>
+			<match id="12"><![CDATA[<span style="font-size:90%">"It's okay if I cheat a little to keep up appearances."</span>]]></match>
+         </matches>
+         <drops title="Fixed">1,3,6,8,10,12</drops>
+		 <drops title="Growth">2,4,5,7,9,11</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m1-1_s33</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="34" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[<p>When faced with a challenge, you might think &quot;Don't try—you'll fail.&quot;</p>
+<p>Instead, how should you reframe this thought?</p> 
+]]></question>
+            <answers>
+				<answer>"What if I fail?"</answer>
+				<answer correct="true">"I'm not sure I can do it now, but I think I can learn to with time and effort."</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-1_s34</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="35" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[<p>When you hit a setback, you might think &quot;If I was smart, I would have succeeded.&quot;</p>
+<p>Instead, how should you reframe this thought?</p> 
+]]></question>
+            <answers>
+				<answer correct="true">"Failure means I need to try again."</answer>
+				<answer>"Failure is not an option."</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-1_s35</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="36" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[<p>As you face criticism, you might think &quot;I don't have to listen to your feedback.&quot;</p>
+<p>Instead, how should you reframe this thought?</p> 
+]]></question>
+            <answers>
+				<answer correct="true">"Let me listen to your feedback, however painful it is, and learn whatever I can."</answer>
+				<answer>"Feedback won't help me solve this problem."</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-1_s36</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+   
+   <scene id="37" type="2_Txt_Img_Animation">
+      <video>psy_m1-1_s37</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Echo/Cultura/Getty Images, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="38" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Dr. Carol Dweck's research found that there were how many different types of mindsets?</question>
+            <answers>
+			   <answer correct="true">two</answer>
+               <answer>three</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following phrases is consistent with a growth mindset?</question>
+            <answers>
+			   <answer>Human qualities are carved in stone.</answer>
+               <answer correct="true">In the face of failure you should try harder.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following phrases is consistent with a fixed mindset?</question>
+            <answers>
+			   <answer correct="true">Asking for help makes you look weak.</answer>
+               <answer>Success is about learning, not proving you are smart.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What happens in your brain when you learn something?</question>
+            <answers>
+			   <answer>You grow more neurotransmitters.</answer>
+               <answer correct="true">You make connections between neurons.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>In the study about learning to juggle, what happened to the brains of the experimental group after three months of NOT practicing?</question>
+            <answers>
+			   <answer>Their brains continued to grow in size.</answer>
+               <answer correct="true">The growth that they had shown decreased.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What is cognitive restructuring?</question>
+            <answers>
+			   <answer correct="true">Replacing negative thoughts with more constructive thoughts.</answer>
+               <answer>Changing the way you process incoming information.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is an example of cognitive restructuring?</question>
+            <answers>
+			   <answer>Changing "It's not my fault" to "Other people can do this because they are smart."</answer>
+               <answer correct="true">Changing "I can't do this" to "I can learn to do this task with time and effort."</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>How many steps are there in cognitive restructuring?</question>
+            <answers>
+			   <answer>two</answer>
+               <answer correct="true">four</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is one of the steps in cognitive restructuring?</question>
+            <answers>
+			   <answer correct="true">Learn to hear your fixed mindset "voice."</answer>
+               <answer>Learn to accept criticism.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>How does one become adept at cognitive restructuring?</question>
+            <answers>
+			   <answer correct="true">by practicing</answer>
+               <answer>by recognizing that you have a choice</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-1_s38</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+</shell>

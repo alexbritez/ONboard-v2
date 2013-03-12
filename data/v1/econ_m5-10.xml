@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Economic Growth">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-10_s1</video>
+    <credits>(cl-cr)Library of Congress, Prints and Photographs Division, Detroit Publishing Company Collection [LC-D4-71274 DLC], (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-10_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-10_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>How long did it take real GDP per capita to recover to its 1929 levels before the Great Depression?</question>
+        <answers>
+          <answer>1 year</answer>
+          <answer>5 years</answer>
+		  <answer correct="true">10 years</answer>
+		  <answer>15 years</answer>
+		  <answer>25 years</answer>
+        </answers>
+        <figure>econ_m5-10_s4_view.jpg</figure>
+        <feedbackAudio>econ_m5-10_s4_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[<p>&quot;As for the economy, growth is slowing. Housing is by far the weakest sector in the economy. Home sales are down and prices have fallen not just on the East and West Coasts, as they did in previous slumps, but in every region. . . .
+		         </p>
+				 <p>Corporate profits, which held up well through most of the decade, are now showing signs of retreat, and some economists say that capital spending on new machines and equipment might also be weakening. Job growth has clearly slowed in the last two years, but not drastically.
+				 </p>
+				 <p>Employers added 127,000 jobs a month, on average, over the past year, down from 186,000 in the previous 12 months, despite the tight credit markets. And the unemployment rate has remained below 5 percent. . . .
+				 </p>
+				 <p>But most economists expect the economy to slow sharply, with some predicting little if any growth in the last three months of the year, raising the possibility that the economy could falter even more into 2008, perhaps precipitating a recession.&quot;
+				 </p>
+				 <p style="font-size: 80%">—From <em>The New York Times</em>, December 12, 2007 &copy; 2007 The New York Times, www.nytimes.com. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this Content without express written permission is prohibited.</p>]]>
+      </text>
+    </content>
+    <audio>econ_m5-10_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question><![CDATA[Which definition of &quot;growth&quot; does the <em>New York Times</em> use in the article?]]></question>
+        <answers>
+          <answer>Increase in GDP</answer>
+          <answer>Increase in per capita GDP</answer>
+		  <answer>Increase in real GDP</answer>
+		  <answer>Increase in real per capita GDP</answer>
+		  <answer correct="true">Cannot tell from the article</answer>
+        </answers>
+        <figure><text><![CDATA[<p>&quot;As for the economy, growth is slowing. Housing is by far the weakest sector in the economy. Home sales are down and prices have fallen not just on the East and West Coasts, as they did in previous slumps, but in every region. . . .
+		         </p>
+				 <p>Corporate profits, which held up well through most of the decade, are now showing signs of retreat, and some economists say that capital spending on new machines and equipment might also be weakening. Job growth has clearly slowed in the last two years, but not drastically.
+				 </p>
+				 <p>Employers added 127,000 jobs a month, on average, over the past year, down from 186,000 in the previous 12 months, despite the tight credit markets. And the unemployment rate has remained below 5 percent. . . .
+				 </p>
+				 <p>But most economists expect the economy to slow sharply, with some predicting little if any growth in the last three months of the year, raising the possibility that the economy could falter even more into 2008, perhaps precipitating a recession.&quot;
+				 </p>
+				 <p style="font-size: 80%">—From <em>The New York Times</em>, December 12, 2007 &copy; 2007 The New York Times, www.nytimes.com. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this Content without express written permission is prohibited.</p>]]></text></figure>
+        <feedbackAudio>econ_m5-10_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question><![CDATA[Which of the following is evidence that supports the article’s assertion that the GDP growth rate is slowing?]]></question>
+        <answers>
+          <answer><![CDATA[&quot;Unemployment has remained below 5%.&quot;]]></answer>
+          <answer><![CDATA[&quot;Employers added 127,000 jobs a month, on average.&quot;]]></answer>
+		  <answer><![CDATA[&quot;Most economists expect the economy to slow sharply.&quot;]]></answer>
+		  <answer correct="true"><![CDATA[&quot;Job growth has clearly slowed in the last two years.&quot;]]></answer>
+		  <answer><![CDATA[&quot;Corporate profits . . . held up well through most of the decade.&quot;]]></answer>
+        </answers>
+        <figure><text><![CDATA[<p>&quot;As for the economy, growth is slowing. Housing is by far the weakest sector in the economy. Home sales are down and prices have fallen not just on the East and West Coasts, as they did in previous slumps, but in every region. . . .
+		         </p>
+				 <p>Corporate profits, which held up well through most of the decade, are now showing signs of retreat, and some economists say that capital spending on new machines and equipment might also be weakening. Job growth has clearly slowed in the last two years, but not drastically.
+				 </p>
+				 <p>Employers added 127,000 jobs a month, on average, over the past year, down from 186,000 in the previous 12 months, despite the tight credit markets. And the unemployment rate has remained below 5 percent. . . .
+				 </p>
+				 <p>But most economists expect the economy to slow sharply, with some predicting little if any growth in the last three months of the year, raising the possibility that the economy could falter even more into 2008, perhaps precipitating a recession.&quot;
+				 </p>
+				 <p style="font-size: 80%">—From <em>The New York Times</em>, December 12, 2007 &copy; 2007 The New York Times, www.nytimes.com. All rights reserved. Used by permission and protected by the Copyright Laws of the United States. The printing, copying, redistribution, or retransmission of this Content without express written permission is prohibited.</p>]]></text></figure>
+        <feedbackAudio>econ_m5-10_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m5-10_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Michael Rosenfeld/Photographer's Choice/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m5-10_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Michael Rosenfeld/Photographer's Choice/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m5-10_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Andersen Ross/Digital Vision/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m5-10_s11</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Radius Images/Corbis (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>econ_m5-10_s12</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Eye Ubiquitous/Super Stock (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="13" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+            <match id="1">Cuba repeals laws against entrepreneurs</match>
+			<match id="2">Cell phone companies expand in Africa</match>
+			<match id="3">Vietnam limits investment by foreign firms</match>
+			<match id="4">Rwanda improves education for girls</match>
+			<match id="5">Pakistan suffers political instability</match>
+			<match id="6">States cut spending on public universities</match>
+			<match id="7">New software speeds accounting practices</match>
+			<match id="8">Government puts higher taxes on firms</match>
+         </matches>
+      <drops title="PROMOTES&lt;br&gt; ECONOMIC GROWTH">1,2,4,7</drops>
+	  <drops title="STIFLES&lt;br&gt; ECONOMIC GROWTH">3,5,6,8</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m5-10_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-10_s15.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="90" y="9">
+			<![CDATA[
+				<h1>&quot;Great Leap Forward&quot;</h1>
+				<p>The &quot;Great Leap Forward&quot; in Communist China occurred in the late 1950s–early 1960s. Real per capita GDP declined, however. Private property rights were not protected as the Communist government ordered the creation of farming communes and backyard factories. Russia stopped sharing new technology, and bad weather hurt farming.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="296" y="9">
+			<![CDATA[
+				<h1>The Cultural Revolution</h1>
+				<p>During China's Cultural Revolution of the 1960s–1970s, the per capita GDP continued to stagnate and, in some years, decline. Engineers, scientists, and other professionals were removed and sent to the countryside. Trucks and trains were taken for military purposes. Politicians, not professional managers, ran firms.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="500" y="9">
+			<![CDATA[
+				<h1>Reform</h1>
+				<p style="font-size:83%">Since 1979, China's economy has grown by nearly 10% per year. That year, Deng Xiaoping rose to power and began implementing economic reforms. He reintroduced private property for farming, lifted the ban on private enterprise, opened the nation to foreign investment, and focused on education and training. China's leaders have used many of the economic strategies for growth to attain their &quot;Chinese Miracle.&quot;</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-10_s15</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="15" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[<p>&quot;Calls for more aid to Africa are growing louder, with advocates pushing for doubling the roughly $50 billion of international assistance that already goes to Africa each year.
+		         </p>
+				 <p>Yet evidence overwhelmingly demonstrates that aid to Africa has made the poor poorer, and the growth slower. The insidious aid culture has left African countries more debt-laden, more inflation-prone, more vulnerable to the vagaries of the currency markets and more unattractive to higher-quality investment. . . .
+				 </p>
+				 <p>Stuck in an aid world of no incentives, there is no reason for governments to seek other, better, more transparent ways of raising development finance (such as accessing the bond market, despite how hard that might be). The aid system encourages poor-country governments to pick up the phone and ask the donor agencies for the next capital infusion. It is no wonder that across Africa, over 70% of the public purse comes from foreign aid. . . .
+				 </p>
+				 <p>. . . The good news is we know what works; what delivers growth and reduces poverty. We know that economies that rely on open-ended commitments of aid almost universally fail, and those that do not depend on aid succeed.
+				 </p>
+				<p>The latter is true for economically successful countries such as China and India, and even closer to home, in South Africa and Botswana. Their strategy of development finance emphasizes the important role of entrepreneurship and markets over a staid aid-system of development that preaches hand-outs.&quot;
+				 </p><br/>
+				 <p style="font-size: 80%">Credit: From &quot;Why Foreign Aid Is Hurting Africa&quot; by Dambisa Moyo, <em>The Wall Street Journal</em>, March 21, 2009.</p>]]>
+      </text>
+    </content>
+    <audio>econ_m5-10_s16</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="16" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question><![CDATA[The author argues that direct foreign aid to Africa is having what impact?]]></question>
+        <answers>
+          <answer>Stifling growth</answer>
+          <answer>Harming individual businesses in Africa</answer>
+		  <answer>Discouraging foreign business investment</answer>
+		  <answer>Reducing technological progress</answer>
+		  <answer correct="true">All of the above</answer>
+        </answers>
+        <figure><text>
+        <![CDATA[<p>&quot;Calls for more aid to Africa are growing louder, with advocates pushing for doubling the roughly $50 billion of international assistance that already goes to Africa each year.
+		         </p>
+				 <p>Yet evidence overwhelmingly demonstrates that aid to Africa has made the poor poorer, and the growth slower. The insidious aid culture has left African countries more debt-laden, more inflation-prone, more vulnerable to the vagaries of the currency markets and more unattractive to higher-quality investment. . . .
+				 </p>
+				 <p>Stuck in an aid world of no incentives, there is no reason for governments to seek other, better, more transparent ways of raising development finance (such as accessing the bond market, despite how hard that might be). The aid system encourages poor-country governments to pick up the phone and ask the donor agencies for the next capital infusion. It is no wonder that across Africa, over 70% of the public purse comes from foreign aid. . . .
+				 </p>
+				 <p>. . . The good news is we know what works; what delivers growth and reduces poverty. We know that economies that rely on open-ended commitments of aid almost universally fail, and those that do not depend on aid succeed.
+				 </p>
+				<p>The latter is true for economically successful countries such as China and India, and even closer to home, in South Africa and Botswana. Their strategy of development finance emphasizes the important role of entrepreneurship and markets over a staid aid-system of development that preaches hand-outs.&quot;
+				 </p><br/>
+				 <p style="font-size: 80%">Credit: From &quot;Why Foreign Aid Is Hurting Africa&quot; by Dambisa Moyo, <em>The Wall Street Journal</em>, March 21, 2009.</p>]]>
+      </text></figure>
+        <feedbackAudio>econ_m5-10_s17_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>What solution does the writer recommend for generating more economic growth in Africa?</question>
+        <answers>
+          <answer correct="true">Market reforms that emphasize entrepreneurship</answer>
+          <answer>Government-sponsored job creation in Africa</answer>
+		  <answer>Tax cuts in African nations</answer>
+		  <answer>More direct aid to Africa</answer>
+		  <answer>Efforts to curb population growth in Africa</answer>
+        </answers>
+        <figure><text>
+        <![CDATA[<p>&quot;Calls for more aid to Africa are growing louder, with advocates pushing for doubling the roughly $50 billion of international assistance that already goes to Africa each year.
+		         </p>
+				 <p>Yet evidence overwhelmingly demonstrates that aid to Africa has made the poor poorer, and the growth slower. The insidious aid culture has left African countries more debt-laden, more inflation-prone, more vulnerable to the vagaries of the currency markets and more unattractive to higher-quality investment. . . .
+				 </p>
+				 <p>Stuck in an aid world of no incentives, there is no reason for governments to seek other, better, more transparent ways of raising development finance (such as accessing the bond market, despite how hard that might be). The aid system encourages poor-country governments to pick up the phone and ask the donor agencies for the next capital infusion. It is no wonder that across Africa, over 70% of the public purse comes from foreign aid. . . .
+				 </p>
+				 <p>. . . The good news is we know what works; what delivers growth and reduces poverty. We know that economies that rely on open-ended commitments of aid almost universally fail, and those that do not depend on aid succeed.
+				 </p>
+				<p>The latter is true for economically successful countries such as China and India, and even closer to home, in South Africa and Botswana. Their strategy of development finance emphasizes the important role of entrepreneurship and markets over a staid aid-system of development that preaches hand-outs.&quot;
+				 </p><br/>
+				 <p style="font-size: 80%">Credit: From &quot;Why Foreign Aid Is Hurting Africa&quot; by Dambisa Moyo, <em>The Wall Street Journal</em>, March 21, 2009.</p>]]>
+      </text></figure>
+        <feedbackAudio>econ_m5-10_s18_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Real per capita GDP is the real GDP divided by the population.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>All nations with abundant natural resources experience economic growth.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>China’s economy began to grow during its period of Cultural Revolution.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Saving is a key to economic growth.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Between 1910 and 2010, real per capita GDP grew in the United States from about $6,000 to about $42,000, a 600% increase.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-10_s19</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

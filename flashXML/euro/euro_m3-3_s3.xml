@@ -1,0 +1,81 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Historical Literature: Background</title>
+		<info></info>
+		<image>images/euro_m3-3_s3.jpg</image>
+		<audio>audio/euro_m3-3_s3.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>LOCATION</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>532.85</xCord>
+			<yCord>150.7</yCord>
+			<width>134</width>
+
+			<popTitle>Location</popTitle>
+			<popInfo><![CDATA[<p>Bishop Bossuet lived in France during the 17th century, an era also known as the Age of Absolutism. During the 17th century, French kings consolidated their control over the nation and Louis XIV grew to be one of the most powerful kings of all time.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>BACKGROUND</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>532.85</xCord>
+			<yCord>200.7</yCord>
+			<width>134</width>
+
+			<popTitle>Background</popTitle>
+			<popInfo><![CDATA[<p>Bishop Bossuet was born into a family of lawyers in Dijon France in 1627.  He lived in France until his death in 1704.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>EDUCATION</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>532.85</xCord>
+			<yCord>250.7</yCord>
+			<width>134</width>
+
+			<popTitle>Education</popTitle>
+			<popInfo><![CDATA[<p>At age 10, his parents decided that he should be a priest, so they sent him to a classical Jesuit school where he began his religious studies.  He later attended the College of Navarre in Paris and also studied privately with Vincent de Paul, eventually being ordained to the priesthood in 1652.  </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CAREER</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>532.85</xCord>
+			<yCord>300.7</yCord>
+			<width>134</width>
+
+			<popTitle>Career</popTitle>
+			<popInfo><![CDATA[<p>After becoming a priest, he preached in Metz where Louis XIV's mother, Anne of Austria, heard one of his sermons.  He was appointed the counselor and priest to King Louis XIV and worked in Paris where he became a bishop.  He also tutored Louis XIV's son.  He spent the last 23 years of his life as the Bishop of Meaux.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ETHNICITY</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>877.45</xCord>
+			<yCord>300.7</yCord>
+			<width>134</width>
+
+			<popTitle>Ethnicity</popTitle>
+			<popInfo><![CDATA[<p>Bishop Bossuet was French.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>INTERESTS</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>877.45</xCord>
+			<yCord>350.7</yCord>
+			<width>134</width>
+
+			<popTitle>Interests</popTitle>
+			<popInfo><![CDATA[<p>Bishop Bossuet was interested in politics and promoted the concept of the divine right of kings.  He was a strong supporter of the monarchy in France.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>WRITINGS</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>877.45</xCord>
+			<yCord>400.7</yCord>
+			<width>134</width>
+
+			<popTitle>Writings</popTitle>
+			<popInfo><![CDATA[<p>Bishop Bossuet wrote many sermons and essays, but he is best known for his defense of absolutism in "Politics Drawn from the Very Words of Holy Scripture."</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

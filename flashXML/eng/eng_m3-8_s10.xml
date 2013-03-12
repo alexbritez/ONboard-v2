@@ -1,0 +1,27 @@
+<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p></p>]]></hText>
+		<image></image>
+		<audio>audio/eng_m3-8_s10.mp3</audio>
+		<mainText><![CDATA[<p>	The United States is stuck in its drug abuse metaphors and in polarized arguments about them. Everyone has an opinion. One side insists that we must control supply, the other that we must reduce demand. People see addiction as either a disease or as a failure of will. None of this bumper sticker analysis moves us forward. The truth is that we will make progress in dealing with drug issues only when our national discourse and our strategies are as complex and comprehensive as the problem itself.	
+	A concept that has been evolving with scientific advances over the past decade is that drug addiction is a brain disease that develops over time as a result of the initial voluntary behavior of using drugs. A <font face='lc-Italic'>disease</font> is defined as the “condition of the living animal or plant body that impairs normal functioning.” Interestingly, <font face='lc-Italic'>disease</font> is also defined as a “harmful development, as in a social institution.” The consequence of this brain disease is virtually uncontrollable drug craving and use that interferes with, if not destroys, an individual's functioning in the family and in society. This medical condition demands formal treatment.</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

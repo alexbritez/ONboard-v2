@@ -1,0 +1,892 @@
+<shell title="Essential AP Government Vocabulary">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m2-1_s1</video>
+    <credits>(c)Jeff Hunter/Photographer's Choice RF/Punchstock, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m2-1_s2</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m2-1_s3</video>
+    <credits>(tr)Comstock/Getty Images, (1)Jeff Hunter/Photographer's Choice RF/Punchstock, (2)Steve Allen/Brand X Pictures/PunchStock, (3)Brand X Pictures/PunchStock, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">U.S. Attorneys</match>
+        <match id="2">Appellate courts</match>
+        <match id="3">Commander-in-chief</match>
+        <match id="4">Senate</match>
+        <match id="5">Speaker of the House</match>
+        <match id="6">Chief Justice</match>
+        <match id="7">Chief diplomat</match>
+        <match id="8">Governor</match>
+        <match id="9">Secretary of State</match>
+        <match id="10">Congress</match>
+        <match id="11">State legislature</match>
+        <match id="12">Supreme Court</match>
+      </matches>
+      <drops title="Legislative">4,5,10,11</drops>
+      <drops title="Executive">3,7,8,9</drops>
+      <drops title="Judicial">1,2,6,12</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m2-1_s5.jpg</image>
+      <hotspots>
+        <hotspot title="state" dynamic="true" x="15" y="25">
+          <![CDATA[
+            <h1>State</h1>
+            <p>community that occupies a definite territory and has an organized government with the power to make and enforce laws without approval from any higher authority</p>
+          ]]>
+        </hotspot>
+        <hotspot title="nation" dynamic="true" x="250" y="25">
+          <![CDATA[
+            <h1>Nation</h1>
+            <p>group of people united by the bonds of race, language, custom, tradition, and sometimes religion</p>
+          ]]>
+        </hotspot>
+        <hotspot title="nation-state" dynamic="true" x="470" y="25">
+          <![CDATA[
+            <h1>Nation-state</h1>
+            <p>country in which the territory of both the nation and the state coincide</p>
+          ]]>
+        </hotspot>
+        <hotspot title="politics" dynamic="true" x="150" y="335">
+          <![CDATA[
+            <h1>Politics</h1>
+            <p>effort to control or influence the conduct and policies of government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="government" dynamic="true" x="375" y="335">
+          <![CDATA[
+            <h1>Government</h1>
+            <p>institution through which the state maintains social order, provides public services, and enforces binding decisions on citizens</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m2-1_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Image Source/PunchStock, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">state</match>
+        <match id="2">nation</match>
+        <match id="3">nation-state</match>
+        <match id="4">government</match>
+        <match id="5">politics</match>
+      </matches>
+      <drops title="">
+        <drop correct="3"><![CDATA[<span style="font-size:20px;">The Athenian people glorified their __________ of Athens, which was located on a peninsula in what is today the country of Greece.</span>]]></drop>
+        <drop correct="4"><![CDATA[<span style="font-size:20px;">Washington, D.C., is the headquarters of the national __________ of the United States.</span>]]></drop>
+        <drop correct="5"><![CDATA[<span style="font-size:20px;">More than any other organizations, Republicans and Democrats have the most influence on __________ in the United States.</span>]]></drop>
+        <drop correct="1"><![CDATA[<span style="font-size:20px;">Once part of the Soviet Union, Kazakhstan is now its own __________.</span>]]></drop>
+        <drop correct="2"><![CDATA[<span style="font-size:20px;">Freedom is one of the most basic values of the American __________.</span>]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+    <audio>USGov_m2-1_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m2-1_s7</video>
+    <credits>(tr)Comstock/Getty Images, (c)Chris Jackson/Getty Images News/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="4">theocracy</match>
+        <match id="6">oligarchy</match>
+        <match id="8">domestic policy</match>
+        <match id="7">foreign policy</match>
+        <match id="1">democracy</match>
+		<match id="3">parliamentary democracy</match>
+        <match id="2">representative democracy</match>
+        <match id="5">autocracy</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.25em;">
+        <drop correct="1"><![CDATA[Government in which the people rule]]></drop>
+        <drop correct="2"><![CDATA[Government in which voters elect representatives to govern for them]]></drop>
+        <drop correct="3"><![CDATA[Government in which both executive and legislative responsibilities are held by an elected assembly called parliament]]></drop>
+        <drop correct="4"><![CDATA[Government dominated by religious leaders]]></drop>
+        <drop correct="5"><![CDATA[Government in which the power to rule is in the hands of a single individual]]></drop>
+		<drop correct="6"><![CDATA[Government in which the power to rule is in the hands of a small group of people]]></drop>
+        <drop correct="7"><![CDATA[Strategies and goals that guide a nation's relations with other countries]]></drop>
+        <drop correct="8"><![CDATA[Strategies and goals that guide a nation's programs at home]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m2-1_s9.jpg</image>
+      <hotspots>
+        <hotspot title="ordinance" dynamic="true" x="10" y="10">
+          <![CDATA[
+            <h1>Ordinance</h1>
+            <p>a law written by a city or county government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="joint resolution" dynamic="true" x="170" y="10">
+          <![CDATA[
+            <h1>Joint Resolution</h1>
+            <p>a formal statement, passed by both houses of Congress, that becomes law if signed by the president</p>
+          ]]>
+        </hotspot>
+        <hotspot title="judicial review" dynamic="true" x="325" y="10">
+          <![CDATA[
+            <h1>Judicial review</h1>
+            <p>the power of the Supreme Court to declare laws and actions of local, state, or national governments unconstitutional</p>
+          ]]>
+        </hotspot>
+        <hotspot title="veto" dynamic="true" x="475" y="10">
+          <![CDATA[
+            <h1>Veto</h1>
+            <p>rejection of a bill by the chief executive</p>
+          ]]>
+        </hotspot>
+        <hotspot title="amendment" dynamic="true" x="10" y="340">
+          <![CDATA[
+            <h1>Amendment</h1>
+            <p>a change to the Constitution</p>
+          ]]>
+        </hotspot>
+        <hotspot title="ratify" dynamic="true" x="170" y="340">
+          <![CDATA[
+            <h1>Ratify</h1>
+            <p>to formally approve</p>
+          ]]>
+        </hotspot>
+        <hotspot title="bill" dynamic="true" x="325" y="340">
+          <![CDATA[
+            <h1>Bill</h1>
+            <p>a proposed law</p>
+          ]]>
+        </hotspot>
+        <hotspot title="due process of law" dynamic="true" x="475" y="340">
+          <![CDATA[
+            <h1>Due process of law</h1>
+            <p>principle in the Fifth Amendment stating that the federal government must follow proper constitutional procedures in trials and in other actions it takes against individuals</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m2-1_s9</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Brand X Pictures/PunchStock, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">amendment</match>
+        <match id="2">vetoed</match>
+        <match id="3">bill</match>
+        <match id="4">ordinance</match>
+        <match id="5">judicial review</match>
+        <match id="6">ratified</match>
+        <match id="7">joint resolution</match>
+        <match id="8">due process of law</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="5"><![CDATA[<span style="font-size:20px;">The Supreme Court used its power of __________ to </span>]]></drop>
+        <drop correct="4"><![CDATA[<span style="font-size:20px;">declare the city __________ unconstitutional on the grounds that</span>]]></drop>
+        <drop correct="8"><![CDATA[<span style="font-size:20px;">it failed to follow __________.</span>]]></drop>
+        <drop correct="3"><![CDATA[<span style="font-size:20px;">The __________ that was passed by both houses</span>]]></drop>
+        <drop correct="2"><![CDATA[<span style="font-size:20px;">of Congress was __________ by the president.</span>]]></drop>
+        <drop correct="7"><![CDATA[<span style="font-size:20px;">Congress used a __________ to propose</span>]]></drop>
+        <drop correct="1"><![CDATA[<span style="font-size:20px;">a constitutional __________ which</span>]]></drop>
+        <drop correct="6"><![CDATA[<span style="font-size:20px;">was then __________ by the states.</span>]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s10</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="7">concurrent powers</match>
+        <match id="3">elastic clause</match>
+        <match id="2">expressed powers</match>
+        <match id="8">supremacy clause</match>
+        <match id="4">implied powers</match>
+		<match id="5">inherent powers</match>
+        <match id="1">delegated powers</match>
+        <match id="6">reserved powers</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0em;">
+        <drop correct="1"><![CDATA[Powers that the Constitution grants or delegates to the national government]]></drop>
+        <drop correct="2"><![CDATA[Powers directly expressed in the Constitution]]></drop>
+        <drop correct="3"><![CDATA[Clause in Article I, Section 8, of the Constitution that gives Congress the right to make all laws &quot;necessary and proper&quot; to carry out the powers expressed in the other clauses of Article I]]></drop>
+        <drop correct="4"><![CDATA[Powers not directly stated but necessary for the government to carry out its expressed constitutional powers]]></drop>
+        <drop correct="5"><![CDATA[Powers the national government may exercise simply because it is a government]]></drop>
+		<drop correct="6"><![CDATA[Powers that are reserved strictly for the states]]></drop>
+        <drop correct="7"><![CDATA[Powers that both the national government and the states have]]></drop>
+        <drop correct="8"><![CDATA[Statement in Article VI of the Constitution establishing that the Constitution, laws passed by Congress, and treaties of the United States &quot;shall be the supreme Law of the Land&quot;]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s11</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="8">national budget</match>
+        <match id="6">public bill</match>
+        <match id="3">authorization bill</match>
+        <match id="1">revenue</match>
+        <match id="5">private bill</match>
+		<match id="9">entitlement spending</match>
+        <match id="10">pork barrel appropriation</match>
+		<match id="4">appropriations bill</match>
+		<match id="2">revenue bill</match>
+        <match id="7">fiscal policy</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0em;">
+        <drop correct="1"><![CDATA[Money a government collects from taxes or other sources]]></drop>
+        <drop correct="2"><![CDATA[Law proposed to raise money]]></drop>
+        <drop correct="3"><![CDATA[Proposed law to authorize spending money]]></drop>
+        <drop correct="4"><![CDATA[Bill that sets up a federal program and specifies how much money may be appropriated for the program]]></drop>
+        <drop correct="5"><![CDATA[Bill dealing with individual people or places]]></drop>
+		<drop correct="6"><![CDATA[Bill dealing with general matters and applying to the entire nation]]></drop>
+        <drop correct="7"><![CDATA[Government's use of spending and taxation to influence the economy]]></drop>
+		<drop correct="8"><![CDATA[Yearly financial plan for the federal government]]></drop>
+		<drop correct="9"><![CDATA[Government payments into social programs that people are entitled to]]></drop>
+        <drop correct="10"><![CDATA[Money from Congress for federal projects to benefit a particular congressional district]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these is the best example of a pork barrel appropriation?</question>
+        <answers>
+          <answer>using state funds to repair roads within a state</answer>
+          <answer>using federal funds to repair roads within a state</answer>
+          <answer>using state funds to build a new airport near a state capital</answer>
+          <answer>using federal funds to build a new airport near a state capital</answer>
+          <answer correct="true">using federal funds to build a new airport far from a state capital</answer>
+        </answers>
+        <feedbackAudio>USGov_m2-1_s13_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m2-1_s13</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m2-1_s14.jpg</image>
+      <hotspots>
+        <hotspot title="original jurisdiction" dynamic="true" x="15" y="25">
+          <![CDATA[
+            <h1>Original jurdisduction</h1>
+            <p>the authority of a trial court to be the first to hear a case</p>
+          ]]>
+        </hotspot>
+        <hotspot title="concurrent jurisdiction" dynamic="true" x="250" y="25">
+          <![CDATA[
+            <h1>Concurrent jurisdiction</h1>
+            <p>authority to hear a case that is shared by both federal and state courts</p>
+          ]]>
+        </hotspot>
+        <hotspot title="appellate jurisdiction" dynamic="true" x="470" y="25">
+          <![CDATA[
+            <h1>Appellate jurisdiction</h1>
+            <p>authority held by a court to hear a case that is appealed from a lower court</p>
+          ]]>
+        </hotspot>
+        <hotspot title="opinion" dynamic="true" x="15" y="85">
+          <![CDATA[
+            <h1>Opinion</h1>
+            <p>a written explanation of a Supreme Court decision</p>
+          ]]>
+        </hotspot>
+        <hotspot title="grand jury" dynamic="true" x="470" y="85">
+          <![CDATA[
+            <h1>Grand jury</h1>
+            <p>group that hears charges against a suspect and decides whether there is sufficient evidence to bring the person to trial</p>
+          ]]>
+        </hotspot>
+        <hotspot title="indictment" dynamic="true" x="15" y="145">
+          <![CDATA[
+            <h1>Indictment</h1>
+            <p>a formal charge against a person by a grand jury</p>
+          ]]>
+        </hotspot>
+        <hotspot title="petit jury" dynamic="true" x="470" y="145">
+          <![CDATA[
+            <h1>Petit jury</h1>
+            <p>a trial jury, usually consisting of 6 or 12 people, that weighs the evidence presented at a trial and renders a verdict</p>
+          ]]>
+        </hotspot>
+        <hotspot title="criminal law" dynamic="true" x="15" y="335">
+          <![CDATA[
+            <h1>Criminal law</h1>
+            <p>law that defines crimes and provides for their punishment</p>
+          ]]>
+        </hotspot>
+        <hotspot title="civil law" dynamic="true" x="250" y="335">
+          <![CDATA[
+            <h1>Civil law</h1>
+            <p>law relating to disputes among two or more individuals or between individuals and the government</p>
+          ]]>
+        </hotspot>
+        <hotspot title="litigant" dynamic="true" x="470" y="335">
+          <![CDATA[
+            <h1>Litigant</h1>
+            <p>a person engaged in a lawsuit</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m2-1_s14</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Stockbyte/Punchstock, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="2_Txt_Img_Animation">
+    <video>USGov_m2-1_s15</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">Highest State Court of Appeals</match>
+        <match id="2">U.S. Federal Court of Appeals</match>
+        <match id="3">Court of Military Appeals</match>
+        <match id="4">Court of Claims</match>
+        <match id="5">Court of International Trade</match>
+        <match id="6">Local trial courts</match>
+        <match id="7">U.S. federal district courts</match>
+        <match id="8">State Appeals Court</match>
+      </matches>
+      <drops title="Courts with &lt;br&gt;ORIGINAL jurisdiction">4,5,6,7</drops>
+      <drops title="Courts with &lt;br&gt;APPELLATE jurisdiction">1,2,3,8</drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s16</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m2-1_s17</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="number" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">1. Which words are part of the Constitution?</match>
+        <match id="2">2. Which term means "change to the Constitution"?</match>
+        <match id="3">3. Who is the author of this statement?</match>
+        <match id="4">4. Which phrase refers to the Supreme Court?</match>
+        <match id="5">5. Who was the first Secretary of the Treasury?</match>
+        <match id="6">6. Who was the first president of the United States?</match>
+        <match id="7">7. Why was the author "left out" of the Constitution?</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="6"><![CDATA[<span style="font-size:20px;">"I felt somehow for many years that <strong>George Washington</strong> and </span>]]></drop>
+        <drop correct="5"><![CDATA[<span style="font-size:20px;"><strong>Alexander Hamilton</strong> just left me out by mistake. But through the</span>]]></drop>
+        <drop correct="2"><![CDATA[<span style="font-size:20px;">process of <strong>amendment</strong>,</span>]]></drop>
+        <drop correct="4"><![CDATA[<span style="font-size:20px;"><strong>interpretation, and court decision</strong>,</span>]]></drop>
+        <drop correct="1"><![CDATA[<span style="font-size:20px;">I have finally been included in '<strong>We, the people</strong>.'"</span>]]></drop>
+        <drop correct="7"><![CDATA[<span style="font-size:20px;">-- <strong>Barbara Jordan</strong>,</span>]]></drop>
+        <drop correct="3"><![CDATA[<span style="font-size:20px;">the first <strong>African-American woman</strong> elected to the Texas State Senate</span>]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+		  	<a href="#" data-id="0" class="hotspot"><strong style="background-color: #FFFF99">Amendment I</strong></a>
+		  </p>
+		  <p>
+		  	<a href="#" data-id="1" class="hotspot"><strong style="background-color: #FFFF99">Congress</strong></a> shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or <a href="#" data-id="2" class="hotspot"><strong style="background-color: #FFFF99">abridging</strong></a> the freedom of speech, or of the <a href="#" data-id="3" class="hotspot"><strong style="background-color: #FFFF99">press</strong></a>; or the right of the people peaceably to <a href="#" data-id="4" class="hotspot"><strong style="background-color: #FFFF99">assemble</strong></a>, and to <a href="#" data-id="5" class="hotspot"><strong style="background-color: #FFFF99">petition</strong></a> the Government for a redress of grievances.
+		  </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Amendment</h1>
+            <p>addition or change to the Constitution</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Congress</h1>
+            <p>legislative branch of the United States government</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Abridging</h1>
+            <p>to shorten or limit</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Press</h1>
+            <p>media such as newspapers and televised news</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Assemble</h1>
+            <p>to gather, usually in a public place</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Petition</h1>
+            <p>a formal request to government leaders</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m2-1_s19</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>Which of the following is the best summary of the First Amendment?</question>
+        <answers>
+          <answer>It provides voting rights for all qualified citizens.</answer>
+          <answer>It provides the right to privacy.</answer>
+          <answer>It provides equal protection under the law.</answer>
+          <answer correct="true">It provides freedom of expression and religion.</answer>
+          <answer>It provides a right to an attorney.</answer>
+        </answers>
+        <figure>
+			<header><![CDATA[<span style="font-style:normal">Amendment I</span>]]></header>
+			<text>Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.</text>
+		</figure>
+        <feedbackAudio>USGov_m2-1_s20_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m2-1_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>The First Amendment bars ___ from infringing on basic liberties.</question>
+        <answers>
+          <answer>state government</answer>
+          <answer>local government</answer>
+          <answer correct="true">national government</answer>
+          <answer>confederation government</answer>
+          <answer>all of these</answer>
+        </answers>
+        <figure>
+			<header><![CDATA[<span style="font-style:normal">Amendment I</span>]]></header>
+			<text>Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.</text>
+		</figure>
+        <feedbackAudio>USGov_m2-1_s21_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+		  <p style="font-size:80%">
+		  	Limits on the <a href="#" data-id="0" class="hotspot"><strong style="background-color: #FFFF99">executive branch</strong></a>:
+		  </p>
+		  <p style="font-size:80%">
+		  	<strong>Amendment II</strong>
+		  </p>
+		  <p style="font-size:80%">
+		  	A well-regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear <a href="#" data-id="1" class="hotspot"><strong style="background-color: #FFFF99">arms</strong></a>, shall not be <a href="#" data-id="2" class="hotspot"><strong style="background-color: #FFFF99">infringed</strong></a>.
+		  </p>
+		  <p style="font-size:80%">
+		  	<strong>Amendment III</strong>
+		  </p>
+		  <p style="font-size:80%">
+		  	No Soldier shall, in times of peace be <a href="#" data-id="3" class="hotspot"><strong style="background-color: #FFFF99">quartered</strong></a> in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
+		  </p>
+		  <p style="font-size:80%">
+		  	<strong>Amendment IV</strong>
+		  </p>
+		  <p style="font-size:80%">
+		  	The right of the people to be secure in their persons, houses, papers, and effects, against <a href="#" data-id="4" class="hotspot"><strong style="background-color: #FFFF99">unreasonable</strong></a> <a href="#" data-id="5" class="hotspot"><strong style="background-color: #FFFF99">searches</strong></a> and <a href="#" data-id="6" class="hotspot"><strong style="background-color: #FFFF99">seizures</strong></a>, shall not be violated, and no <a href="#" data-id="7" class="hotspot"><strong style="background-color: #FFFF99">Warrants</strong></a> shall issue, but upon <a href="#" data-id="8" class="hotspot"><strong style="background-color: #FFFF99">probable cause</strong></a>. . . .
+		  </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>Executive branch</h1>
+            <p>the branch of the United States government, headed by the president, that oversees carrying out the nation's laws</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Arms</h1>
+            <p>weapons, including firearms</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Infringe</h1>
+            <p>to disregard or interfere with</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Quarter</h1>
+            <p>to provide with lodging or shelter</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Unreasonable</h1>
+            <p>unfair, unprovoked, extreme; Defining the term "unreasonable" has been the subject of many Supreme Court cases.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Search</h1>
+            <p>to look through a person's home or belongings for evidence of a crime</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Seizure</h1>
+            <p>to take a person's belongings as evidence of a crime</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Warrant</h1>
+            <p>a legal document authorizing the search and/or seizure of evidence</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Probable cause</h1>
+            <p>a reasonable suspicion that a crime has been committed; Defining the term "probable cause" has been the subject of many Supreme Court cases.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m2-1_s22</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>What does the Second Amendment mean to many Americans?</question>
+        <answers>
+          <answer>It provides freedom of religion for all qualified citizens.</answer>
+          <answer>It provides the right to privacy.</answer>
+          <answer>It provides rights to the states that do not belong to the national government.</answer>
+          <answer>It provides freedom to fight against the government.</answer>
+          <answer correct="true">It supports an individual's right to own a weapon.</answer>
+        </answers>
+        <figure>
+			<header><![CDATA[<span style="font-style:normal">Amendment II</span>]]></header>
+			<text>A well-regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear arms, shall not be infringed.</text>
+		</figure>
+        <feedbackAudio>USGov_m2-1_s23_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m2-1_s23</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="24" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>The Third Amendment was an important right to the colonists because it</question>
+        <answers>
+          <answer>protected them from bandits that were pro-British.</answer>
+          <answer>allowed them to fight the backers of Shays's Rebellion.</answer>
+          <answer correct="true">protected their right to privacy and from having to house soldiers.</answer>
+          <answer>established a national church distinct from the Church of England.</answer>
+          <answer>provided them with protection against cruel and unusual punishment.</answer>
+        </answers>
+        <figure>
+			<header><![CDATA[<span style="font-style:normal">Amendment III</span>]]></header>
+			<text>No Soldier shall, in times of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.</text>
+		</figure>
+        <feedbackAudio>USGov_m2-1_s24_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="25" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>According to the Fourth Amendment, the government cannot</question>
+        <answers>
+          <answer correct="true">invade or violate one's privacy during an investigation of one's house without authorization.</answer>
+          <answer>establish a free press due to national security reasons.</answer>
+          <answer>deny the rights that inherently belong to the state governments.</answer>
+          <answer>deny a citizen a trial by jury.</answer>
+          <answer>allow citizens the right to peacefully assemble.</answer>
+        </answers>
+        <figure>
+			<header><![CDATA[<span style="font-style:normal">Amendment IV</span>]]></header>
+			<text>The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause. . . . </text>
+		</figure>
+        <feedbackAudio>USGov_m2-1_s25_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="26" type="2_Txt_Img_Animation">
+    <video>USGov_m2-1_s26</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="27" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="number" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">1. Who wrote this article?</match>
+        <match id="2">2. Whom or what is this article about?</match>
+        <match id="3">3. Which term means "choice"?</match>
+        <match id="4">4. Which term means "certain to happen"?</match>
+        <match id="5">5. Which term means "unbeatable"?</match>
+        <match id="6">6. Which term means "surrender"?</match>
+        <match id="7">7. Which term means "directs"?</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="2"><![CDATA[<span style="font-size:17px;">"The millions of people, armed in the holy cause of <span style="text-decoration:underline;">liberty</span>, and in such a country as that which we possess,</span>]]></drop>
+        <drop correct="5"><![CDATA[<span style="font-size:17px;">are <span style="text-decoration:underline;">invincible</span> by any force, which our enemy can send against us. Besides, sir, we shall not fight our battles alone.</span>]]></drop>
+        <drop correct="7"><![CDATA[<span style="font-size:17px;">There is a just God who <span style="text-decoration:underline;">presides</span> over the destinies of nations, and who will raise up friends to fight our battles for us. The battle, sir, is not to the strong alone; it is to the vigilant, the active, the brave.</span>]]></drop>
+        <drop correct="3"><![CDATA[<span style="font-size:17px;">Besides, sir, we have no <span style="text-decoration:underline;">election</span>. If we were base enough to desire it, it is now too late to retire from the contest.</span>]]></drop>
+        <drop correct="6"><![CDATA[<span style="font-size:17px;">There is no retreat but in <span style="text-decoration:underline;">submission</span> and slavery! Our chains are forged! Their clanking may be heard on the plains of Boston!</span>]]></drop>
+        <drop correct="4"><![CDATA[<span style="font-size:17px;">The war is <span style="text-decoration:underline;">inevitable</span>—and let it come! I repeat it, sir, let it come."</span>]]></drop>
+        <drop correct="1"><![CDATA[<span style="font-size:17px;">—Excerpt taken from <span style="text-decoration:underline;">Patrick Henry's</span> "Give Me Liberty or Give Me Death" speech</span>]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m2-1_s27</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="28" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+		  <p style="font-size:95%">
+		  	<a href="#" data-id="0" class="hotspot"><strong>"The millions of people, armed in the holy cause of liberty, and in such a country as that which we possess, are invincible by any force, which our enemy can send against us.</strong></a> Besides, sir, we shall not fight our battles alone. There is a just God who presides over the destinies of nations, and who will raise up friends to fight our battles for us. The battle, sir, is not to the strong alone; it is to the vigilant, the active, the brave. <a href="#" data-id="1" class="hotspot"><strong>Besides, sir, we have no election. If we were base enough to desire it, it is now too late to retire from the contest.</strong></a> <a href="#" data-id="2" class="hotspot"><strong>There is no retreat but in submission and slavery!</strong></a> <a href="#" data-id="3" class="hotspot"><strong>Our chains are forged! Their clanking may be heard on the plains of Boston!</strong></a> The war is inevitable—and let it come! I repeat it, sir, let it come."
+          </p>
+		  <p style="font-size:95%">
+		  	—Excerpt taken from Patrick Henry's &quot;Give Me Liberty or Give Me Death&quot; speech
+		  </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <p>Americans fighting for their independence will not be stopped by British troops.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Americans have no choice now but to fight for independence, even if some are cowardly enough to think otherwise.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>If Americans back away from the fight now, they will be slaves to the British.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>All Americans are in this fight together, and we must support those Americans already fighting in Boston.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m2-1_s28</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="29" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question><![CDATA[The phrase <em>the holy cause of liberty</em> refers to which of the following freedoms desired by the colonists?]]></question>
+        <answers>
+          <answer>the right to worship</answer>
+          <answer>the right to vote for a king</answer>
+          <answer correct="true">the right to be independent</answer>
+          <answer>the right to remain British subjects</answer>
+          <answer>the right to have slaves</answer>
+        </answers>
+        <figure>
+			<text><![CDATA[
+		  <p>
+		  	&quot;The millions of people, armed in the holy cause of liberty, and in such a country as that which we possess, are invincible by any force, which our enemy can send against us. Besides, sir, we shall not fight our battles alone. There is a just God who presides over the destinies of nations, and who will raise up friends to fight our battles for us. The battle, sir, is not to the strong alone; it is to the vigilant, the active, the brave. Besides, sir, we have no election. If we were base enough to desire it, it is now too late to retire from the contest. There is no retreat but in submission and slavery! Our chains are forged! Their clanking may be heard on the plains of Boston! The war is inevitable—and let it come! I repeat it, sir, let it come.&quot;
+          </p>
+		  <p>
+		  	—Excerpt taken from Patrick Henry's &quot;Give Me Liberty or Give Me Death&quot; speech
+		  </p>
+        ]]></text>
+		</figure>
+        <feedbackAudio>USGov_m2-1_s29_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m2-1_s29</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="30" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Politics refers to the effort to control or influence the policies of government.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A state is a group of people united by bonds of race, language, custom, tradition, and sometimes religion.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Original jurisdiction refers to the authority of a trial court to be the first to hear a case.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>An opinion is a written explanation of a Supreme Court decision.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Concurrent powers are those that the Constitution grants or delegates to the national government.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+	  <multiple>
+        <question>A revenue bill is a bill that sets up a federal program and specifies how much money may be appropriated for the program.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Criminal law relates to disputes among two or more individuals or between individuals and the government.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A grand jury hears charges against a suspect and decides whether there is sufficient evidence to bring the person to trial.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A warrant is a legal document authorizing the search and/or seizure of evidence.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Government payments into social programs are called entitlement spending.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m2-1_s30</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

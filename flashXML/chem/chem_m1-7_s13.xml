@@ -1,0 +1,148 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-7_s13.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Multiply:<br/><br/>          1       2        158<br/>48 × <font face='SuperScript'>___</font> × <font face='SuperScript'>___</font> ×  <font face='SuperScript'>______</font> =<br/>         32      3          1]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[4]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[24]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[100]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[158]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<font size='24'>Simplify:<br/><br/><br/>          1<br/><font face='SuperScript'>            ___</font><br/>          8<br/><font face='SuperScript'>        _______</font><br/>          1<br/><font face='SuperScript'>            ___</font><br/>          5</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.625]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[1.6]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[16]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[40]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Evaluate:<br/><br/>         3<br/><font face='SuperScript'>            ___</font><br/>         8<br/><font face='SuperScript'>        _______</font><br/>        2.5]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.10]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.15]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[20]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[43]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Simplify:<br/><br/><br/>(2 × 10<font face='SuperScript'>7</font>)(1.5 × 10<font face='SuperScript'>4</font>)<br/><font face='SuperScript'>______________________</font><br/>          4.5 × 10<font face='SuperScript'>8</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[5]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[16]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[5.00 ×10<font face='SuperScript'>1</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[6.67 × 10<font face='SuperScript'>2</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Simplify:<br/><br/><br/>          1       1         42<br/>12 × <font face='SuperScript'>___</font> × <font face='SuperScript'>___</font> ×  <font face='SuperScript'>______</font> =<br/>          2       2          1]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[64]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[81]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[126]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[256]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

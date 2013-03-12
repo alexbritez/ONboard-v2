@@ -1,0 +1,50 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m2-3_s27.jpg</image>
+		<audio>audio/eng_m2-3_s27.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>80</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Explains “how” to do it]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Links connect events ]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Involves two topics ]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Explains “why” it happened ]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Step-by-step format ]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Utilizes a Venn diagram ]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="521.75" yCord="195.2" spotScale="100" spotNum="1"/>
+		<dSpot xCord="521.75" yCord="275.45" spotScale="100" spotNum="1"/>
+		<dSpot xCord="521.75" yCord="357.2" spotScale="100" spotNum="1"/>
+
+		<dSpot xCord="722.55" yCord="195.2" spotScale="100" spotNum="2"/>
+		<dSpot xCord="722.55" yCord="275.45" spotScale="100" spotNum="2"/>
+		<dSpot xCord="722.55" yCord="357.2" spotScale="100" spotNum="2"/>
+
+
+		<dSpot xCord="923.35" yCord="195.2" spotScale="100" spotNum="3"/>
+		<dSpot xCord="923.35" yCord="275.45" spotScale="100" spotNum="3"/>
+		<dSpot xCord="923.35" yCord="357.2" spotScale="100" spotNum="3"/>
+		
+	</dropSpots>
+</DragDrop>

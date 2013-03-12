@@ -1,0 +1,39 @@
+<PopUp>
+	<face>and the thing</face>
+	<slideInfo>
+		<title><![CDATA[Dimensional Analysis]]></title>
+		<info><![CDATA[<img src="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-3_s14.swf"/>]]></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-3_s14.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-3_s14.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton>
+			<Name>1</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>460</xCord>
+			<yCord>145</yCord>
+			<width>134</width>
+			<popTitle>Answer:</popTitle>
+			<popInfo>hours</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>460</xCord>
+			<yCord>275</yCord>
+			<width>85</width>
+			<popTitle>Answer:</popTitle>
+			<popInfo>minutes</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>3</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>460</xCord>
+			<yCord>405</yCord>
+			<width>92</width>
+			<popTitle>Answer:</popTitle>
+			<popInfo>One hour is 60 minutes, so 1 will be in front of the hour unit and 60 will be in front of the minutes unit.</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

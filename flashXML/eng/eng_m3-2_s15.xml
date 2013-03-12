@@ -1,0 +1,38 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>HOW does Asimov reveal his attitude toward technology?</title>
+		<info></info>
+		<image>images/eng_m3-2_s15.jpg</image>
+		<audio>audio/eng_m3-2_s15.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Claim 1</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>626.3</xCord>
+			<yCord>318.3</yCord>
+			<width>134</width>
+			<popTitle>Claim 1</popTitle>
+			<popInfo><![CDATA[II. Body Paragraph First Claim:  This is an eerie scene.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Claim 2</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>673.3</xCord>
+			<yCord>261.35</yCord>
+			<width>85</width>
+			<popTitle>Claim 2</popTitle>
+			<popInfo><![CDATA[III. Body Paragraph Second Claim: Powell is unsure, doubtful, anxious about the robot.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Claim 3</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>776.3</xCord>
+			<yCord>296.3</yCord>
+			<width>92</width>
+			<popTitle>Claim 3</popTitle>
+			<popInfo><![CDATA[IV. Body Paragraph Third Claim: It’s ironic that the robot seems to be in control of the situation.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

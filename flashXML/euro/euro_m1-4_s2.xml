@@ -1,0 +1,98 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Social History Vocabulary</title>
+		<info></info>
+		<image>images/euro_m1-4_s2.jpg</image>
+		<audio>audio/euro_m1-4_s2.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>WORKING CLASS</Name>   
+			<audio enable="true" url="audio/euro_m1-4_s2_working.mp3"/>
+			<xCord>605.55</xCord>
+			<yCord>95.8</yCord>
+			<width>134</width>
+			<popTitle>Working Class</popTitle>
+			<popInfo><![CDATA[<p>The phrase “working class” became widely used in the nineteenth century. It separated the workers from the supervisors or owners. In the country, the working class consisted of farm laborers or those who worked on estates or women performing labor for others in their homes. Most domestic servants (maids, housekeepers, cooks, butlers, footmen, drivers, etc.) were also considered working class. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>MIDDLE CLASS</Name>
+			<audio enable="true" url="audio/euro_m1-4_s2_middle.mp3"/>
+			<xCord>605.55</xCord>
+			<yCord>140.8</yCord>
+			<width>85</width>
+			<popTitle>Middle Class</popTitle>
+			<popInfo><![CDATA[<p>The term “middle class” became popular around the same time as “working class.” People in the middle class earned an income by practicing a profession or through trade or commerce. Social class in Europe was much more restrictive. People in the upper classes looked down on “middle class” people, even if they had more money. The middle class is sometimes referred to as the bourgeoisie.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>UPPER CLASS</Name>
+			<audio enable="true" url="audio/euro_m1-4_s2_upper.mp3"/>
+			<xCord>605.55</xCord>
+			<yCord>185.8</yCord>
+			<width>85</width>
+			<popTitle>Upper Class</popTitle>
+			<popInfo><![CDATA[<p>This upper class can be broken into three basic categories. The top category is royalty. The middle category is the aristocracy or nobility. People in the aristocracy usually have some sort of title. The lowest-ranking group in the European upper class is the gentry. Historically, members of the gentry were land owners. They earned income from rent or lived off of investments. They did not “work” or have a job.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>GENDER</Name>
+			<audio enable="true" url="audio/euro_m1-4_s2_gender.mp3"/>
+			<xCord>565.55</xCord>
+			<yCord>267.8</yCord>
+			<width>85</width>
+			<popTitle>Gender</popTitle>
+			<popInfo><![CDATA[<p>Gender simply means whether a person is a man or a woman. Gender history or gender studies can sometimes refer to women’s history or women’s studies.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>DOMESTIC</Name>
+			<audio enable="true" url="audio/euro_m1-4_s2_domestic.mp3"/>
+			<xCord>583.55</xCord>
+			<yCord>356.8</yCord>
+			<width>85</width>
+			<popTitle>Domestic</popTitle>
+			<popInfo><![CDATA[<p>Socially, domestic means “of the home.” Politically, it means “of the country.”</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>SEPARATE SPHERES</Name>
+			<audio enable="true" url="audio/euro_m1-4_s2_spheres.mp3"/>
+			<xCord>839.55</xCord>
+			<yCord>308.8</yCord>
+			<width>85</width>
+			<popTitle>Separate Spheres</popTitle>
+			<popInfo><![CDATA[<p>The idea that men and women inhabit two “separate spheres” was popularized in the late eighteenth and in the nineteenth centuries. Backed by some Enlightenment thinkers it was deemed that men would occupy the worldly sphere while women occupied the domestic sphere.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>LEISURE</Name>
+			<audio enable="true" url="audio/euro_m1-4_s2_leisure.mp3"/>
+			<xCord>823.55</xCord>
+			<yCord>406.8</yCord>
+			<width>85</width>
+			<popTitle>Leisure</popTitle>
+			<popInfo><![CDATA[<p>Leisure simply means not associated with work or duty. Social history often focuses on what people did in their spare time – if they had any. This allows historians to learn more about what life was actually like for people in the past.</p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

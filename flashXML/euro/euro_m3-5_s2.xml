@@ -1,0 +1,63 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Why do visual primary sources matter?</title>
+		<info></info>
+		<image>images/euro_m3-5_s2.jpg</image>
+		<audio>audio/euro_m3-5_s2.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="audio/euro_m3-5_s2_A.mp3"/>
+			<xCord>612.95</xCord>
+			<yCord>105.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>They “show” history.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>     
+			<audio enable="true" url="audio/euro_m3-5_s2_B.mp3"/>
+			<xCord>612.95</xCord>
+			<yCord>223.95</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>They are first-hand observations.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>    
+			<audio enable="true" url="audio/euro_m3-5_s2_C.mp3"/>
+			<xCord>595.95</xCord>
+			<yCord>348.9</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>They offer information that may not be available in written resources.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>      
+			<audio enable="true" url="audio/euro_m3-5_s2_D.mp3"/>
+			<xCord>802.5</xCord>
+			<yCord>404.7</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>They tend to have a more immediate emotional impact than written sources.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

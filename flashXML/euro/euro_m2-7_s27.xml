@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-7_s27.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-7_s27.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Taking into account both population and the number of motor vehicles, we could expect that by the 1930s</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>France’s volume of mail would equal or exceed that of Great Britain.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Germany’s volume of mail would decrease.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Italy’s volume of mail would be equal to that of Great Britain and France.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-7_s27_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

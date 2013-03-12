@@ -1,0 +1,590 @@
+<shell title="Analyzing Questions">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m4-2_s1</video>
+    <credits>(l)Caroline Mowry/Somos Images/Corbis, (r)EIGHTFISH/The Image Bank/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m4-2_s2</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m4-2_s3</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-2_s4.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="294" y="5">
+          <![CDATA[
+            <h1>Identify</h1>
+            <p>State the name or term, along with some key background information</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="451" y="84">
+          <![CDATA[
+            <h1>Describe</h1>
+            <p>Create an image in the mind of the reader through the use of details and sequences</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="451" y="281">
+          <![CDATA[
+            <h1>Compare / Contrast</h1>
+            <p>Consider similarities and differences among people, events, or ideas</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="294" y="355">
+          <![CDATA[
+            <h1>Explain</h1>
+            <p>Clarify a situation in detail; If the question states "Explain<br/>WHY . . . ," you need to be sure that the word "because" is explicit or implied in your answer. If the question states "Explain HOW . . . ," the word "by" should be explicit or implied in your answer.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="139" y="281">
+          <![CDATA[
+            <h1>Analyze</h1>
+            <p>Take apart a situation or an event to explain the parts and their relationships to one another or to a broader situation or event</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="139" y="84">
+          <![CDATA[
+            <h1>Evaluate</h1>
+            <p>Weigh the impact or value of the item, person, or event that is discussed in the prompt</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-2_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m4-2_s5</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-2_s6.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="377" y="13">
+          <![CDATA[
+            <h1>Simple Task</h1>
+            <p>Listing and identifying require examples in your response.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="415" y="116">
+          <![CDATA[
+            <h1>Medium-Level Tasks</h1>
+            <p>Defining, describing, and discussing require elaboration in your response.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="398" y="246">
+          <![CDATA[
+            <h1>Analytical Tasks</h1>
+            <p>Explaining, analyzing, comparing, assessing, and making an argument require evidence and connections to be made.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-2_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m4-2_s7</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p style="color:#F72A07;">
+			(a) <strong>Identify</strong> two formal methods for changing the Constitution.
+		</p>
+        <p>
+          The U.S. Constitution can be formally amended, or changed, to reflect changing times. To do this, first, an amendment must be formally proposed, which is usually done in Congress. In order for the amendment to be formally proposed, it must receive a two-thirds vote of both houses. A second method of proposal is when two-thirds of state legislatures request a special convention.
+		  </p>
+		  <p>
+After the amendment is proposed, it must then be ratified before it becomes part of the Constitution. Most of the time, amendments are ratified by legislatures in three-fourths of the states. Sometimes, however, such as in the case of repealing Prohibition, an amendment may be ratified by three-fourths of state-ratifying conventions. In a state-ratifying convention, the state's citizens vote on the amendment.
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m4-2_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p style="color:#F72A07;">
+			(b) <strong>Describe</strong> two informal methods that have been used to change the meaning of the Constitution. Provide one specific example for each method you described.
+		</p>
+        <p>
+          The Constitution may also be changed informally. This occurs through the process of judicial review. Judicial review is the power of the courts to decide if a government action is constitutional. It takes place when a case reaches a federal court, and the court interprets the meaning of the Constitution in a new way. For example, in <em>Brown</em> v. <em>Board of Education</em> (1954), the U.S. Supreme Court interpreted the Fourteenth Amendment's equal-protection clause in a new way. The justices argued that segregating schools by race denied students equal protection of the laws. The Court's ruling effectively ended the practice of segregating schools by race.
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m4-2_s9</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>USGov_m4-2_s10</video>
+    <credits>(tr)Comstock/Getty Images, (c)Bettmann/Corbis/AP Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p style="color:#F72A07;">
+			(c) <strong>Explain</strong> why informal methods are used more often than the formal methods.
+		</p>
+        <p>
+          It is more common for the U.S. Constitution to be changed informally. The formal amendment process is very difficult, due to the fact that it requires two supermajority votes (one at the national level and one at the state level). Because we have not had one political party controlling two-thirds of Congress, even proposing an amendment is difficult, as it requires mass cooperation between the two parties.
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m4-2_s11</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+        <div style="font-size:78%">
+		<p>
+			<a href="#" data-id="0" class="hotspot">National interest groups often target national-level policymaking institutions to achieve their policy objectives. Select one of the following national interest groups:</a>
+		</p>
+        <p style="font-size: 90%">
+          <a href="#" data-id="1" class="hotspot">(A) American Association of Retired Persons (AARP)<br/>
+(B) American Medical Association (AMA)<br/>
+(C) National Association for the Advancement of Colored People (NAACP)<br/>
+(D) National Association of Manufacturers (NAM)</a>
+        </p>
+		<p>
+			Do each of the following for the group you selected:
+		</p>
+		<p style="font-size: 90%">
+			(a) <a href="#" data-id="2" class="hotspot"><strong>Identify</strong></a> <a href="#" data-id="3" class="hotspot"><strong>one major national-level policymaking institution</strong></a> that this group targets.<br/><br/>
+(b) <a href="#" data-id="4" class="hotspot"><strong>Describe</strong></a> one resource or <a href="#" data-id="5" class="hotspot"><strong>characteristic of the group</strong></a> you have chosen AND explain <a href="#" data-id="6" class="hotspot"><strong>how it influences the choice of the target</strong></a> you have identified in (a).<br/><br/>
+(c) Describe another resource or characteristic of the group you have chosen AND <a href="#" data-id="7" class="hotspot"><strong>explain</strong></a> how it influences the choice of the target you have identified in (a).
+		</p>
+		<p style="text-align: right; font-size: 70%;">Source: AP Central, 1999</p>
+      </div>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>stem</h1>
+            <p>The main idea of the question is the influence of interest groups. </p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>list A-D</h1>
+            <p>The question asks you to choose one—not all—of these interest groups for your responses to the rest of the question.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Identify</h1>
+            <p>Identify is a simple task.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>one major national…</h1>
+            <p>To identify a &quot;national-level policymaking institution,&quot; you have three choices: Congress, the executive branch, or the courts.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Describe</h1>
+            <p>Describe is a medium-level task.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>characteristic of the group</h1>
+            <p>If you selected the AARP as the group that you would like to discuss, a characteristic you might mention is that it is a large group very active in the political process.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>how it influences...</h1>
+            <p>If you selected the AARP as the group that you would like to discuss, you would choose Congress as the institution of government that the group targets.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>explain</h1>
+            <p>Explain is a higher-level task.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m4-2_s12</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+		<p style="color:#F72A07;">
+			(a) Identify one major national-level policymaking institution that this group targets.<br/><br/>
+(b) Describe one resource or characteristic of the group you have chosen AND explain how it influences the choice of the target you have identified in (a).<br/><br/>
+(c) Describe another resource or characteristic of the group you have chosen AND explain how it influences the choice of the target you have identified in (a).
+		</p>
+        <p>
+          (a) The national policy-making institution that the American Association of Retired Persons (AARP) targets is Congress.<br/><br/>
+(b) Size is one of the AARP's greatest resources. It is the largest interest group in the United States, and its size alone makes it powerful. Members of Congress know that if their policies appeal to the AARP, they are more likely to win re-election and continue to serve in Congress.<br/><br/>
+(c) Furthermore, the AARP's membership tends to be politically active, another great resource. Because members of the AARP are retired, they have more time to engage in grassroots politics. This includes emailing, calling, and writing to their members of Congress to express their views on upcoming legislation. When the AARP mobilizes its members to act, it is difficult for members of Congress to ignore.
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m4-2_s13</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m4-2_s14</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-2_s15.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="-33" y="21">
+          <![CDATA[
+            <h1></h1>
+            <p>The main idea of this question is low voter turnout.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="-33" y="74">
+          <![CDATA[
+            <h1></h1>
+            <p>Question 1 is about factors that keep voter turnout <strong>low</strong>.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="-33" y="139">
+          <![CDATA[
+            <h1></h1>
+            <p>In Question 1, part A, you should discuss two demographic factors of nonvoters—such as low education and low income levels.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="-33" y="214">
+          <![CDATA[
+            <h1></h1>
+            <p>In Question 1, part B, you should discuss three institutional obstacles to voter turnout—such as voter registration requirements, single-day Tuesday elections, and absentee ballots.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="276" y="21">
+          <![CDATA[
+            <h1></h1>
+            <p>The main idea of this question is low voter turnout.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="276" y="105">
+          <![CDATA[
+            <h1></h1>
+            <p>Question 2 is about factors that have caused voter turnout to <strong>decline</strong>.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="276" y="216">
+          <![CDATA[
+            <h1></h1>
+            <p>In Question 2, part A, you should discuss factors for the decline in turnout, such as expansion of suffrage to the young (18- to 21-year-old voters), and voters' lack of trust and confidence in government and the system.</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="276" y="331">
+          <![CDATA[
+            <h1></h1>
+            <p>In Question 2, part B, you should discuss why voter turnout is higher for the presidential election. It receives more media attention than the midterm elections, for example, and voters perceive the presidential election to be more important.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-2_s15</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="3_txt_img_reading">
+    <content>
+      <header></header>
+      <text>
+        <![CDATA[
+        <p style="margin-bottom: 0">
+          The U.S. Congress has debated a variety of campaign finance reforms over the last decade.
+The proposals debated have included the following:</p>
+<ul>
+          <li>eliminating soft money</li>
+          <li>limiting independent expenditures</li>
+          <li>raising limits on individual contributions</li>
+</ul>
+
+<p style="margin-bottom: 0">(a) Select one of the listed proposals and do all of the following:</p>
+<ul>
+          <li>Define the proposal.</li>
+          <li>Describe an argument that proponents make in favor of the proposal.</li>
+          <li>Describe an argument that opponents make against the proposal.</li>
+</ul>
+
+<p style="margin-bottom: 0">(b) Select a different listed proposal and do all of the following:</p>
+<ul>
+          <li>Define the proposal.</li>
+          <li>Describe an argument that proponents make in favor of the proposal.</li>
+          <li>Describe an argument that opponents make against the proposal.</li>
+</ul>
+
+<p>Source: AP Central, 2005</p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m4-2_s16</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m4-2_s17</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m4-2_s18.jpg</image>
+      <hotspots>
+        <hotspot title="Limits on individual contributions" dynamic="true" x="332" y="52">
+          <![CDATA[
+            <h1>Limits on individual contributions:</h1>
+            <p>currently the limits are $2,000 for an individual and $5,000 for a political action committee (PAC)</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Independent expenditures" dynamic="true" x="332" y="184">
+          <![CDATA[
+            <h1>Independent expenditures:</h1>
+            <p>money spent on a campaign by a group outside the campaign</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Soft money" dynamic="true" x="332" y="314">
+          <![CDATA[
+            <h1>Soft money:</h1>
+            <p>unlimited amounts of money that can be given to a candidate's campaign</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m4-2_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2">Define the proposal</match>
+        <match id="3">Describe an argument in favor of proposal</match>
+        <match id="1">Describe an argument against proposal</match>
+      </matches>
+      <drops title="">
+        <drop correct="1"><![CDATA[Opponents of eliminating soft money argue that in a free society, individuals should be able to spend their money as they see fit, and that spending money is a type of political expression guaranteed by the First Amendment. Therefore, to eliminate soft money would be unconstitutional.]]></drop>
+        <drop correct="2"><![CDATA[Eliminating soft money would make it illegal for individuals or political action committees (PACs) to contribute unlimited amounts of money to a political party.]]></drop>
+        <drop correct="3"><![CDATA[Proponents of eliminating soft money argue that because unlimited soft money is only available to the wealthy, allowing soft money in the political process takes away from equality of opportunity.]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m4-2_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="3">Define the proposal</match>
+        <match id="1">Describe an argument in favor of proposal</match>
+        <match id="2">Describe an argument against proposal</match>
+      </matches>
+      <drops title="">
+        <drop correct="1"><![CDATA[Proponents of raising the limits argue that due to hyperinflation, the cost of campaigns has increased so much that a $5,000 or a $2,000 contribution is not enough to have your voice heard.]]></drop>
+        <drop correct="2"><![CDATA[Opponents of raising the limits argue that the limits should be kept where they are in order to keep the playing field more level for all citizens. By having lower limits, more Americans can be involved in the political process and have an equal voice.]]></drop>
+        <drop correct="3"><![CDATA[Currently the limits on individual contributions are $2,000 for an individual and $5,000 for a PAC.]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m4-2_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+		<p>
+			<a href="#" data-id="0" class="hotspot">American politics has a &quot;class bias.&quot;</a>
+		</p>
+		<p>
+			<a href="#" data-id="1" class="hotspot">(a) Describe what is meant by a &quot;class bias&quot; in American politics.</a><br/><br/>
+			<a href="#" data-id="2" class="hotspot">(b) Describe how this bias is evident in political participation.</a><br/><br/>
+			<a href="#" data-id="3" class="hotspot">(c) Identify two factors that contribute to this bias in political participation. Explain how or why each factor contributes.</a><br/><br/>
+			<a href="#" data-id="4" class="hotspot">(d) Identify a specific example that shows the effect of &quot;class bias&quot; on public policy. Describe the process through which the class bias affected public policy.</a>
+		</p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <p>This question is worth seven points.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Part a is worth one point. You must convey the idea that higher-income people have an advantage over lower-income people in the American political system.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>Part b is worth one point. You must explain that upper-class or higher-income groups vote, campaign, join groups, or lobby government at higher rates than lower-income groups. Notice that no points are awarded for saying that class affects which party, vote, or issue position a person takes.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p style="font-size:11px">Part c is worth three points. One point is awarded for identifying two factors; no point for identifying only one. One point is awarded for explaining how or why one factor contributes to the class bias in political participation. One point is awarded for explaining how or why a second factor contributes to the class bias in political participation.</p>
+      			<p style="font-size:11px">Acceptable answers to this question include: Lower-income groups participate less than higher groups due to fewer resources (time and money) to expend on politics, weaker civic attitudes, a weaker sense of civic duty, more apathy, more alienation because of low level of trust, less political knowledge, less political interest, and the fact that one must have the personal initiative to participate.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>Part d is worth two points. One point is awarded for describing the impact of class bias in a specific example. The example needs to illustrate a case in which lower-income groups did or did not receive something from government, or that upper-class groups did or did not receive something from government. The second point is awarded for describing the process by which the group was or was not effective (by electing advocates or lobbying Congress, for example).</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m4-2_s21</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+		<p>
+			<a href="#" data-id="0" class="hotspot">Since the mid-1960s, there has been an incumbency advantage for members of the House of Representatives.</a>
+		</p>
+		<p>
+			<a href="#" data-id="1" class="hotspot">(a) Describe what is meant by &quot;incumbency advantage.&quot;</a><br/><br/>
+			<a href="#" data-id="2" class="hotspot">(b) Identify and describe two factors that have contributed to this advantage. Explain how they contribute.</a><br/><br/>
+			<a href="#" data-id="3" class="hotspot">(c) Identify a consequence of the incumbency advantage for policymaking and explain how the incumbency advantage results in this.</a>
+		</p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <p>This question is worth six points.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <p>Part a is worth one point. The answer needs to convey the idea that incumbent representatives—those already holding a seat—are likely to win re-election.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>Part b is worth three points. One point is earned for identifying two factors that contribute to the advantage. The second point is earned for explaining how the first factor contributes to the advantage. The third point is earned by explaining how the second factor contributes to the advantage.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <p>Part c is worth two points. The first is for identifying a policymaking consequence of the incumbency advantage. The second is for explaining how the incumbency advantage results in this consequence.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m4-2_s22</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+	  <multiple>
+        <question>The free-response section of the exam counts toward 50 percent of your total score on the exam.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>You should begin writing your responses immediately after reading the questions.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Examples for each of your answers are unimportant.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The main idea of the question is usually found in the stem.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Circling the task can help you determine how to focus your writing.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m4-2_s23</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

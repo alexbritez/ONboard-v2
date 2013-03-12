@@ -1,0 +1,144 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s20.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[How many grams of propane reacts with 42 L of oxygen at STP?<br /><br /><font size='22'>C<font face='SubScript'>3</font>H<font face='SubScript'>8</font> (<font face='c-Italic' >g</font>)  +  5O<font face='SubScript'>2</font> (<font face='c-Italic' >g</font>)   <font face='CambriaMath'>→</font>   3CO<font face='SubScript'>2</font> (<font face='c-Italic' >g</font>)  +  4H<font face='SubScript'>2</font>O (<font face='c-Italic' >l</font>)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[17 g]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[41 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[83 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[8300 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size='22'>What is the maximum yield of carbon dioxide in grams if 29.3 grams of propane reacts with oxygen?<br/><br />C<font face='SubScript'>3</font>H<font face='SubScript'>8</font>(<font face='c-Italic' >g</font>)  +  5O<font face='SubScript'>2</font>(<font face='c-Italic' >g</font>)   <font face='CambriaMath'>→</font>   3CO<font face='SubScript'>2</font>(<font face='c-Italic'>g</font>)  +  4H<font face='SubScript'>2</font>O(<font face='c-Italic' >l</font>)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[1.99 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[9.75 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[29.2 g]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[87.7 g]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size='22'>The theoretical yield of water formed in the complete reaction of propane was found to be 500 mL. What is the percent yield if 350 mL of water actually formed?<br /><br />C<font face='SubScript'>3</font>H<font face='SubScript'>8</font>(<font face='c-Italic' >g</font>)  +  5O<font face='SubScript'>2</font>(<font face='c-Italic' >g</font>)   <font face='CambriaMath'>→</font>   3CO<font face='SubScript'>2</font>(<font face='c-Italic' >g</font>)  +  4H<font face='SubScript'>2</font>O(<font face='c-Italic' >l</font>)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[30.0%]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[42.9%]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[70.0%]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[143%]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size='22'>What is the theoretical yield of carbon dioxide in liters at STP when 25 g of propane reacts with 75 g of oxygen?<br /><br />C<font face='SubScript'>3</font>H<font face='SubScript'>8</font>(<font face='c-Italic' >g</font>)  +  5O<font face='SubScript'>2</font>(<font face='c-Italic' >g</font>)   <font face='CambriaMath'>→</font>   3CO<font face='SubScript'>2</font>(<font face='c-Italic' >g</font>)  +  4H<font face='SubScript'>2</font>O(<font face='c-Italic'>l</font>)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[13 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[32 L]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[38 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[53 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size="22">The complete neutralization of phosphoric acid by potassium hydroxide is shown below.  What is the limiting reactant if 0.350 moles of potassium hydroxide react with 0.100 moles of phosphoric acid?<br />3KOH(<font face='c-Italic' >aq</font>)  +  H<font face='SubScript'>3</font>PO<font face='SubScript'>4</font> (<font face='c-Italic' >aq</font>)   <font face='CambriaMath'>→</font>   <br/>K<font face='SubScript'>3</font>PO<font face='SubScript'>4</font>(<font face='c-Italic' >aq</font>)  +  3H<font face='SubScript'>2</font>O(<font face='c-Italic' >l</font>)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[KOH (<font face='c-Italic' >aq</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>3</font>PO<font face='SubScript'>4</font> (<font face='c-Italic' >aq</font>) ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[K<font face='SubScript'>3</font>PO<font face='SubScript'>4</font> (<font face='c-Italic' >aq</font>)]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>2</font>O (<font face='c-Italic' >l</font>)]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

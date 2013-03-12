@@ -1,0 +1,384 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-4_s27.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text><![CDATA[<p>A 2.5 × 10<font face='SuperScript'>−3</font> <font face='c-Italic' >M</font> clear, colorless solution of the strong acid, HClO<font face='SubScript'>4</font>, has a hydronium ion concentration of 2.5 × 10<font face='SuperScript'>−3</font> <font face='c-Italic' >M</font>. </p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>A 2.5 × 10<font face='SuperScript'>−3</font> <font face='c-Italic' >M</font> clear, colorless solution of the strong acid, HClO<font face='SubScript'>4</font>, has a hydronium ion concentration of 2.5 × 10<font face='SuperScript'>−3</font> <font face='c-Italic' >M</font>. </p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>A 2.5 × 10<font face='SuperScript'>−3</font> <font face='c-Italic' >M</font> clear, colorless solution of the strong acid, HClO<font face='SubScript'>4</font>, has a hydronium ion concentration of 2.5 × 10<font face='SuperScript'>−3</font> <font face='c-Italic' >M</font>. </p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+
+
+	
+	
+	<question>
+		<qText><![CDATA[What is the pH of the solution? <br />Click View to see reference information for this question.]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>2.50</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>3.00</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>2.60</aText>
+				<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>5.99</aText> 
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+
+	
+		<question>
+		<qText><![CDATA[What is the hydroxide concentration of the solution? <br /><br />Click View to see reference information for this question.]]></qText> 
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[2.5 × 10<font face='chemNums'>c</font><font face='SuperScript'>17</font> <font face='c-Italic'>M</font>]]></aText> 
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[ 4.0 × 10<font face='chemNums'>c</font><font face='SuperScript'>12</font> <font face='c-Italic'>M</font>]]></aText>
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ 1.0 × 10<font face='chemNums'>c</font><font face='SuperScript'>14</font> <font face='c-Italic'>M</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ 2.5 × 10<font face='chemNums'>c</font><font face='SuperScript'>11</font> <font face='c-Italic'>M</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	
+	
+		<question>
+		<qText><![CDATA[What color would litmus paper turn in this solution? <br /><br />Click View to see reference information for this question.]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>Blue</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>Green</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>Colorless</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>Red</aText> 
+			 	<correct>true</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+
+	
+	
+	
+		<question>
+		<qText><![CDATA[Which of the following reactions best represents the net ionic equation for the reaction of <br />HClO<font face='SubScript' size='30'>4</font> <font face='c-Italic'>(aq)</font> with NaOH <font face='c-Italic'>(aq)</font>?]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[ H<font face='chemNums'>d</font> + H<font face='chemNums'>2</font>O <font face='CambriaMath'>→</font> H<font face='chemNums'>3</font>O<font face='chemNums'>d</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[H<font face='chemNums' >d</font> + OH<font face='chemNums'>c</font> <font face='CambriaMath'>→</font> H<font face='chemNums'>2</font>O]]></aText>
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ HClO<font face='chemNums'>4</font> + H<font face='chemNums'>2</font>O <font face='CambriaMath'>→</font> H<font face='chemNums'>3</font>O<font face='chemNums'>d</font> + ClO<font face='chemNums'>=</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ H<font face='chemNums'>d</font> + ClO<font face='chemNums'>=</font> + H<font face='chemNums'>2</font>O <font face='CambriaMath'>→</font> H<font face='chemNums'>3</font>O<font face='chemNums'>d</font> + ClO<font face='chemNums' size='24'>=</font>]]></aText>
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	
+	
+	
+	//5
+	
+		<question>
+		<qText>Which of the following is a strong base?</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[ Cu(OH)<font face='SubScript'>2</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[ Pb(OH)<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ Al(OH)<font face='SubScript'>3</font>]]></aText> 
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ Ca(OH)<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+
+	//6
+	
+		<question>
+		<qText>The pH of a solution increased from 3 to 6.  Which of the following best represents the change in the hydronium ion concentration?</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>Increased by a factor of two.</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>Decreased by a factor of 100.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>Increased by a factor of 1000.</aText> 
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>Decreased by a factor of 1000.</aText> 
+			 	<correct>true</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	
+	
+	
+			//7
+	
+		<question>
+		<qText><![CDATA[Calculate the pOH of a solution with a hydronium ion concentration of 4.88 × 10<font face='SuperScript'>–4</font> <font face='c-Italic' >M</font>.]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>3.312</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>10.688</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>7.625</aText> 
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>6.375</aText> 
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	
+	
+	
+	
+		//8
+	
+		<question>
+		<qText><![CDATA[Which of the following best describes a solution with a hydroxide concentration of <br/>4.75 × 10<font face='SuperScript'>–2</font> <font face='c-Italic' >M</font>?]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Basic, pOH &#62; 7]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[Acidic, pOH &#62; 7]]></aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[Basic, pOH &#60; 7]]></aText>
+				<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[Acidic, pOH &#60; 7]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	
+
+	
+	
+			//9
+
+		<question>
+		<qText><![CDATA[Which of the following is a neutralization reaction?]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[2HNO<font face='SubScript'>3</font> + Ba(OH)<font face='SubScript'>2</font> <font face='CambriaMath'>→</font> Ba(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> + 2H<font face='SubScript'>2</font>O]]></aText>
+				<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[HF + H<font face='chemNums'>2</font>O <font face='CambriaMath'>⇄</font> H<font face='SubScript'>3</font>O<font face='chemNums'>d</font> + F<font face='chemNums'>c</font>]]></aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>2</font>SO<font face='SubScript'>4</font> + BaCl<font face='SubScript'>2</font> <font face='CambriaMath'>→</font> BaSO<font face='SubScript'>4</font> + 2HCl]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[2HCl +  Mg <font face='CambriaMath'>→</font> MgCl<font face='SubScript'>2</font> + H<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+	
+	
+	
+	
+	
+	
+			//10
+
+		<question>
+		<qText><![CDATA[What is the conjugate base of H<font face='chemNums'>2</font>PO<font face='chemNums'>=</font>?]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>3</font>PO<font face='SubScript'>4</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				  <aText><![CDATA[H<font face='SubScript'>2</font>PO<font face='chemNums'>=</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				  <aText><![CDATA[HPO<font face='chemNums'>t</font><font face='chemNums'>c</font>]]></aText>
+				<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[PO<font face='chemNums'>u</font><font face='chemNums'>c</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>	
+
+	
+	
+</MultipleChoice>

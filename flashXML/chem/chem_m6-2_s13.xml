@@ -1,0 +1,128 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-2_s12.mp3</audio>
+		<endFeedback feedback="" />
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo.jpg" />
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-2_s12_q2.jpg" />
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo3.jpg" />
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo3.jpg" />
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo3.jpg" />
+	</slideInfo>
+	
+	<question>
+		<qText>What is the most common oxidation number for cadmium when it is in an ionic compound?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>O</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+1</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+2</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+3</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	<question>
+		<qText>What is the oxidation number of solid iodine in the following chemical reaction? Click the view button to view the chemical reaction.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>-1</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>0</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+3</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+5</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	
+	<question>
+		<qText>In which of the following substances is hydrogen assigned an oxidation number of -1?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript' size='20'>2</font>S]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='SubScript' size='20'>3</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript' size='20'>2</font>SO<font face='SubScript' size='20'>4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[SrH<font face='SubScript' size='20'>2</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[What is the oxidation number of sulfur in Na<font face='SubScript' size='20'>2</font>SO<font face='SubScript' size='20'>3</font>]]></qText> 
+		<answerButtons>
+			<aBtn>
+				 <aText>+6</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+4</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+1</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>-2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[What are the oxidation numbers for each nitrogen atom in NH<font face='SubScript' size='20'>4</font>NO<font face='SubScript' size='20'>2</font>]]></qText> 
+		<answerButtons>
+			<aBtn>
+				 <aText>-3, +3 respectively</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>+4, +3 respectively</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Both are +4</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Both are -3</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	
+</MultipleChoice>

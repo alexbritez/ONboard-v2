@@ -1,0 +1,199 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-5_s24.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s23.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>Who took the photo?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[One of the Jews crossing the street took the photo surreptitiously]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[An official German photographer took the picture]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A local Polish citizen took the photo]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>The photographer might have taken the picture for all the following purposes EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[to show that ghetto life was orderly and well controlled]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to document  all aspects of ghetto life ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to use later for propaganda ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to have a record of individual ghetto inmates]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to reinforce Nazi stereotypes about Jews]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>For whom and for what purpose did the Nazis erect the sign?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[For the Jews, to show them where they lived and to keep out those who would do them harm.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[For the German military to warn them against mixing with Jews.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[For local German and Polish residents of Lodz traveling through the ghetto to warn them not to communicate with the Jews.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+		<question>
+		<qText><![CDATA[<p>Why does the sign call the barbed wire enclosed ghetto a ‘Jewish Residential Area?'</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The Nazis wanted to convince the Jews that they were being protected rather than imprisoned]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The Nazis cared about the Jews’ feelings and thought it sounded nicer than ‘ghetto’.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The Nazis made it sound benign so that the Polish and German civilians would not develop sympathy for the Jews.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>In terms of audience and message, the photo primarily was meant </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[to show German military and civil authorities how the ghetto was being administered]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to show the German public how Jews were being treated in Poland]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to show the Polish populace what life was like in Lodz under German occupation]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to show Jews still living in Germany what they could expect when they were deported]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[tto show the rest of the world how humanely they were treating their Jewish captives.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>The photo most strongly represents the point of view of which of the following?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The Polish government]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The ghetto’s Jewish council]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The German military and civil administration of Lodz]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The German and Polish residents of Lodz]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+				<aBtn>
+				 <aText><![CDATA[The Jewish ghetto inhabitants ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+			
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to Biology">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_s1-1_s1</video>
+      <credits>(l)Ingram Publishing, (cl)Randy Faris/Fuse/Getty Images, (cr)Melba Photo Agency/PunchStock, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>bio_s1-1_s2</video>
+      <credits>(l)Nicola Sutton/Life File/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_s1-1_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_s1-1_s4</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_s1-1_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Nicola Sutton/Life File/Digital Vision/Getty Images, (2)Ingram Publishing, (3)Melba Photo Agency/PunchStock, (4)Brand X Pictures/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="1_Module_Intro">
+      <video>bio_s1-1_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Alan and Sandy Carey/Photodisc/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">Genetic code</match>
+			<match id="3">Redox reactions</match>
+			<match id="1">Darwin's finches</match>
+			<match id="4">Population dynamics</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="139" y="121" />
+			<drop correct="2" x="139" y="252" />
+			<drop correct="3" x="336" y="121" />
+			<drop correct="4" x="336" y="252" />
+         </drops>
+         <image>bio_s1-1_s7.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_s1-1_s7</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_s1-1_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_s1-1_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., Richard Hutchings photographer, (c)Purestock/SuperStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_s1-1_s10.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="89" y="89">
+				<![CDATA[
+					<h1></h1>
+					<p>Here, the height of the plants is measured in centimeters (cm). In the metric system, a centimeter is 1/100 of a meter. A meter is a metric unit used to measure length.</p>
+				]]>
+			</hotspot>
+			<hotspot dynamic="true" x="241" y="304">
+				<![CDATA[
+					<h1></h1>
+					<p>On this graph, the abbreviation (g/L) stands for grams per liter. The gram is a metric unit of mass and the liter is a metric unit of volume.</p>
+				]]>
+			</hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_s1-1_s10</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="1_Module_Intro">
+      <video>bio_s1-1_s11</video>
+      <credits>(c)Thinkstock/Jupiterimages, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_s1-1_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[In which <em>OnBoard for AP Biology</em> module would you expect to find more information about this subject?]]></question>
+            <answers>
+               <answer correct="true">Biology Big Ideas</answer>
+			   <answer>Experimental Design</answer>
+			   <answer>Math Skills</answer>
+			   <answer>Graphing and Data Analysis</answer>
+			   <answer>Chemistry Foundation</answer>
+            </answers>
+            <figure verticalAlign="center">bio_s1-1_s13_view.jpg</figure>
+            <feedbackAudio>bio_s1-1_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_s1-1_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_s1-1_s14</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="End_Multiple_Choice">
+      <instruction>Click on TRUE if a statement is true. Click on FALSE if it is false.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[<em>ONboard</em> for AP Biology contains three different learning modules.]]></question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>This course is designed to help you learn advanced inquiry and reasoning skills.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Science Practices is one of the four Biology Big Ideas.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Graphing and data analysis are important components of AP Biology.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Math and chemistry skills  are NOT important for studying AP Biology.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_s1-1_s15</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

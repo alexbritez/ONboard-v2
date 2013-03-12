@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to AP World History">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_s1-1_s1</video>
+      <credits>(l)Danita Delimont/Gallo Images/Getty Images, (cl)Melba Photo Agency/PunchStock, (c)Universal Images Group/Getty Images, (cr)M. Freeman/PhotoLink/Getty Images, (r)Reed Kaestner/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s2</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Christopher Chan/Flickr/Getty Images, (2)Martin Child/Photographer's Choice RF/Getty Images, (3)Reed Kaestner/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s4</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Derek Gardner/Stone/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s5</video>
+      <credits><![CDATA[<span style="font-size:7px">(tr)Tetra Images/Getty Images, (1)National Geographic Societ/Corbis, (2)Image Sorce/PunchStock, (3)Jack Hollingsworth/Photodisc/Getty Images, (4)SHAUN CURRY/AFP/Getty Images, (5)M. Freeman/PhotoLink/Getty Images, (6)Steve Estvanik/Corbis, (7)Apic/Hulton Archive/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</span>]]></credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s1-1_s7.jpg</image>
+         <hotspots>
+			<hotspot title="Technological and&lt;br/&gt;Environmental Transformations" dynamic="true" x="420" y="305"><![CDATA[
+				<p><strong>Key Concept 1.1</strong> Big Geography and the Peopling of the Earth</p>
+				<p><strong>Key Concept 1.2</strong> The Neolithic Revolution and Early Agricultural Societies</p>
+				<p><strong>Key Concept 1.3</strong> The Development and Interactions of Early Agricultural, Pastoral, and Urban Societies</p>
+			]]></hotspot>
+			<hotspot title="Organization and Reorganization&lt;br/&gt;of Human Societies" dynamic="true" x="410" y="211"><![CDATA[
+				<p><strong>Key Concept 2.1</strong> The Development and Codification of Religious and Cultural Traditions</p>
+				<p><strong>Key Concept 2.2</strong> The Development of States and Empires</p>
+				<p><strong>Key Concept 2.3</strong> Emergence of Transregional Networks of Communication and Exchange</p>
+			]]></hotspot>
+			<hotspot title="Regional and Transregional Interactions" dynamic="true" x="4" y="222"><![CDATA[
+				<p><strong>Key Concept 3.1</strong> Expansion and Intensification of Communication and Exchange Networks</p>
+				<p><strong>Key Concept 3.2</strong> Continuity and Innovation of State Forms and Their Interactions</p>
+				<p><strong>Key Concept 3.3</strong> Increased Economic Productive Capacity and Its Consequences</p>
+			]]></hotspot>
+			<hotspot title="Global Interactions" dynamic="true" x="468" y="148"><![CDATA[
+				<p><strong>Key Concept 4.1</strong> Globalizing Networks of Communication and Exchange</p>
+				<p><strong>Key Concept 4.2</strong> New Forms of Social Organization and Modes of Production</p>
+				<p><strong>Key Concept 4.3</strong> State Consolidation and Imperial Expansion</p>
+			]]></hotspot>
+			<hotspot title="Industrialization and Global Integration" dynamic="true" x="4" y="26"><![CDATA[
+				<p><strong>Key Concept 5.1</strong> Industrialization and Global Capitalism</p>
+				<p><strong>Key Concept 5.2</strong> Imperialism and Nation-State Formation</p>
+				<p><strong>Key Concept 5.3</strong> Nationalism, Revolution, and Reform</p>
+				<p><strong>Key Concept 5.4</strong> Global Migration</p>
+			]]></hotspot>
+			<hotspot title="Accelerating Global Change &lt;br/&gt; and Realignments" dynamic="true" x="435" y="26"><![CDATA[
+				<p><strong>Key Concept 6.1</strong> Science and the Environment</p>
+				<p><strong>Key Concept 6.2</strong> Global Conflicts and Their Consequences</p>
+				<p><strong>Key Concept 6.3</strong> New Conceptualizations of Global Economy, Society, and Culture</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s1-1_s7</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Roger Wood/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s8</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>THEME 1</header>
+         <instruction><![CDATA[<p>Interaction between humans and the environment</p>
+         <p><strong>SUBTHEMES</strong></p>
+         <ul>
+          <li>
+            Demography and Disease
+          </li>
+          <li>
+            Migration
+          </li>
+          <li>
+            Patterns of Settlement
+          </li>
+          <li>
+            Technology
+          </li>
+         </ul>]]></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s1-1_s9.jpg</image>
+         <hotspots>
+			<hotspot audio="WHIS_s1-1_s9_demography" title="Demography" dynamic="true" x="41" y="51"><![CDATA[
+				<h1>Demography</h1>
+				<p>The word <em>demography</em> refers to the study of human populations, such as the number of people living in an area, how fast or slow the population is growing, the number of old versus young people, and other statistics.</p>
+			]]></hotspot>
+			<hotspot audio="WHIS_s1-1_s9_migration" title="Migration" dynamic="true" x="461" y="348"><![CDATA[
+				<h1>Migration</h1>
+				<p>The term <em>migration</em> means &quot;the movement of people from place to place.&quot;</p>
+			]]></hotspot>
+			<hotspot audio="WHIS_s1-1_s9_patterns" title="Patterns of Settlement" dynamic="true" x="94" y="347"><![CDATA[
+				<h1>Patterns of Settlement</h1>
+				<p>The phrase <em>patterns of settlement</em> refers to similarities in where villages and cities arose, such as near rivers or trade routes or coal deposits. It also refers to the different ways that cities formed—in a square or grid pattern, for example, or as a round cluster of homes.</p>
+			]]></hotspot>
+			<hotspot audio="WHIS_s1-1_s9_technology" title="Technology" dynamic="true" x="411" y="51"><![CDATA[
+				<h1>Technology</h1>
+				<p>The word <em>technology</em> refers to putting knowledge to practical use. The spear and wheelbarrow, for example, were great technological inventions.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s1-1_s9</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Adam Jones/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Demography and Disease</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_s1-1_s10.jpg</image>
+         <hotspots>
+			<hotspot title="Mongols &amp; Merchants" dynamic="true" x="465" y="107"><![CDATA[
+				<h1>Mongols &amp; Merchants</h1>
+				<p>During the 1340s, Mongols, merchants, and other travelers spread the disease known as bubonic plague along trade routes from China to Black Sea ports. Some historians believe that 20 million Chinese died from the deadly bacteria carried by fleas.</p>
+			]]></hotspot>
+			<hotspot title="Black Death" dynamic="true" x="221" y="129"><![CDATA[
+				<h1>Black Death</h1>
+				<p>Italian merchant ships carrying flea-infested rats brought the bubonic plague from Black Sea ports to Europe. There, the disease became known as the Black Death because victims developed black lumps before dying. Roughly 25 percent of Europeans died from the disease as it swept through crowded cities and into villages.</p>
+			]]></hotspot>
+			<hotspot title="Explorers &amp; Smallpox" dynamic="true" x="9" y="205"><![CDATA[
+				<h1>Explorers &amp; Smallpox</h1>
+				<p>Explorers to the Americas and Pacific Islands introduced smallpox and other diseases to native peoples. Between 1500 and 1800, some 100 million people may have died during epidemics in these regions.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_s1-1_s10</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these statements about historical epidemics is true?</question>
+            <answers>
+               <answer>The bubonic plague killed more people in China than smallpox did in the Americas and Pacific.</answer>
+			   <answer>Smallpox was spread through bacteria-infected fleas.</answer>
+               <answer correct="true">The Black Death spread through trade, and spread quickly due to crowded and dirty cities.</answer>
+			   <answer>Roughly half of Europe's population died from the Black Death.</answer>
+            </answers>
+            <feedbackAudio>WHIS_s1-1_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s1-1_s11</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s12</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)Danita Delimont/Gallo Images/Getty Images, (tc)Melba Photo Agency/PunchStock, (bc)Universal Images Group/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+	<scene id="13" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>"The Execution of Mata Hari, 1917"</header>
+			<instruction><![CDATA[<h1>Click to Explore</h1><p>Click on the 'hot spots' to view additional information.</p>]]></instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+        <div style="font-size:75%">
+				<p><a href="#" data-id="0" class="hotspot"><strong>In the murky world of the spy</strong></a> . . . the French suspected <a href="#" data-id="1" class="hotspot"><strong>[Mata Hari]</strong></a> of being a double agent. In <a href="#" data-id="2" class="hotspot"><strong>February 1917</strong></a> Mata Hari returned to Paris and was immediately arrested; charged with being a German spy. Her trial in July revealed some damning evidence that the dancer was unable to adequately explain. She was convicted and sentenced to death.</p>
+				<p>In the early-morning hours of October 15, Mata Hari was awakened and taken by car from her Paris prison cell to an army barracks on the city's outskirts where she was to meet her fate.</p>
+				<p><a href="#" data-id="3" class="hotspot"><strong>Henry Wales was a British reporter who covered the execution.</strong></a></p>
+				<p>"<a href="#" data-id="4" class="hotspot"><strong>Mata Hari was not bound and she was not blindfolded</strong></a>. She stood gazing steadfastly at her executioners, when <a href="#" data-id="5" class="hotspot"><strong>the priest, the nuns,</strong></a> and her lawyer stepped away from her.</p>
+				<p>The officer in command of the firing squad, who had been watching his men like a hawk that none might examine his rifle and try to find out <a href="#" data-id="6" class="hotspot"><strong>whether he was destined to fire the blank cartridge which was in the breech of one rifle,</strong></a> seemed relieved that the business would soon be over."</p>
+				<p style="font-size: 80%; text-align: right;">Credit: Copyright &copy; 2005 EyeWitnesstoHistory.com</p>
+        </div>
+			]]></text>
+			<hotspots>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Spies must be common throughout history, because this text suggests that there is a "world" surrounding this occupation.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Mata Hari is an unusual name for a woman in France. The text a few lines down says she is a dancer. Maybe &quot;Mata Hari&quot; is a stage name.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>February 1917 means this occurred during World War I.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Mata Hari must have been famous if a British reporter is covering her death.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Evidently, most people killed by firing squad are first bound and blindfolded.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>It must be common practice for church members to accompany an execution. Or perhaps Mata Hari was Catholic.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>One member of a firing squad is given a blank cartridge. Why? Maybe to lessen the guilt of killing a human being.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>WHIS_s1-1_s13</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="14" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s14</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>WHIS_s1-1_s15</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)Leemage/Universal Images Group/Getty Images, (r)Roberto Schmidt/AFP/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="3_txt_img_reading">
+      <content>
+         <header italic="false">THE CAMPAIGNS OF ALEXANDER</header>
+         <text><![CDATA[
+		 	<p>Alexander the Great &quot;had great personal beauty, invincible power of endurance, and a keen intellect; he was brave and adventurous, strict in the observance of his religious duties, and hungry for fame. . . .  Noble indeed was his power of inspiring his men, of filling them with confidence, and, in the moment of danger, of sweeping away their fear by the spectacle of his own fearlessness. . . . </p>
+			<p>Doubtless, in the passion of the moment Alexander sometimes erred; it is true that he took some steps toward the pomp and arrogance of the Asiatic kings: but I, at least, cannot feel that such errors were very heinous, if the circumstances are taken fairly into consideration. For, after all, he was young . . . [and he was] sorry for his mistakes. . . .&quot; </p>
+			<p style="font-size:90%;">Credit: From THE CAMPAIGNS OF ALEXANDER by Arrian, translated by Aubrey de Selincourt, published by Penguin.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_s1-1_s16</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">personal beauty</match>
+			<match id="2">errors</match>
+			<match id="3">keen intellect</match>
+			<match id="4">arrogance</match>
+			<match id="5">brave</match>
+			<match id="6">pomp</match>
+			<match id="7">inspiring</match>
+			<match id="8">fearlessness</match>
+			<match id="9">hungry for fame</match>
+			<match id="10">invincible</match>
+			<match id="11">erred</match>
+			<match id="12">mistakes</match>
+         </matches>
+         <drops title="Positive Tone">1,3,5,7,8,10</drops>
+		 <drops title="Negative Tone">2,4,6,9,11,12</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_s1-1_s17</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="4">A. Personal Reaction</match>
+      			<match id="5">B. Subject Matter</match>
+      			<match id="2">C. Visual Elements</match>
+      			<match id="3">D. Expressive Content</match>
+      			<match id="1">E. Judgment</match>
+      			<match id="6">F. Purpose</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="6" y="14" />
+			<drop correct="2" x="6" y="64" />
+			<drop correct="3" x="6" y="148" />
+			<drop correct="4" x="6" y="207" />
+			<drop correct="5" x="6" y="275" />
+			<drop correct="6" x="6" y="343" />
+         </drops>
+         <image>WHIS_s1-1_s18.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_s1-1_s18</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Dennis Cox/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="6_Activity_Interactivity">
+		<content>
+			<header>Analyzing Geographics and Data</header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_19A.mp4</url>
+		<image>WHIS_s1-1_s19.jpg</image>
+		<audio>WHIS_s1-1_s19</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="20" type="3_txt_img_reading">
+      <content>
+         <header italic="false"></header>
+         <text><![CDATA[
+		 	<p><strong>Narrative of Events [on May 2, 1992, in the city of Sarajevo]</strong>: Fighting erupted in the morning after Serb mortar shells began falling near the city's old Muslim quarter. A major artillery attack began soon after 1:00 P.M. and fighting continued well into the night. Mortar and tank shells were fired for hours directly into the main business and shopping district. . . . Hundreds of people walking in the downtown area were caught in the streets when the attack began. They ran for shelter into bars, basements, and entrance halls. . . . At dusk, with the fighting continuing, reporters on the scene described blazing government buildings, bodies of fighters and civilians lying on the street for hours after the fighting began, artillery and mortar shells coming from the hills, and of close-range fighting in the narrow alleys of . . . the old Muslim city.</p>
+			<p style="font-size:90%;">Credit: &quot;Annex VI: Study of the Battle and Siege of Sarajevo,&quot; <em>Final Report of the United Nations Commission of Experts Established Pursuant to Security Council Resolution 780 (1992)</em>. (United Nations document S/1994/674/Add.2 (Vol. II), 28 December 1994).</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_s1-1_s20</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>How do we know that this excerpt is a secondary source?</question>
+            <answers>
+				<answer>It was written by someone at the scene.</answer>
+				<answer>It was relayed to the writer by a person at the scene.</answer>
+               <answer correct="true">It is a summary found in a UN document.</answer>
+			   <answer>It supports what is viewed in the photograph.</answer>
+            </answers>
+            <figure>
+				<text><![CDATA[
+					<p><strong>Narrative of Events [on May 2, 1992, in the city of Sarajevo]</strong>: Fighting erupted in the morning after Serb mortar shells began falling near the city's old Muslim quarter. A major artillery attack began soon after 1:00 P.M. and fighting continued well into the night. Mortar and tank shells were fired for hours directly into the main business and shopping district. . . . Hundreds of people walking in the downtown area were caught in the streets when the attack began. They ran for shelter into bars, basements, and entrance halls. . . . At dusk, with the fighting continuing, reporters on the scene described blazing government buildings, bodies of fighters and civilians lying on the street for hours after the fighting began, artillery and mortar shells coming from the hills, and of close-range fighting in the narrow alleys of . . . the old Muslim city.</p>
+					<p style="font-size:90%;">Credit: &quot;Annex VI: Study of the Battle and Siege of Sarajevo,&quot; <em>Final Report of the United Nations Commission of Experts Established Pursuant to Security Council Resolution 780 (1992)</em>. (United Nations document S/1994/674/Add.2 (Vol. II), 28 December 1994).</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_s1-1_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s1-1_s21</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>AP World History Exam</header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+         <image>WHIS_s1-1_s22.jpg</image>
+			<hotspots>
+				<hotspot dynamic="true" x="12" y="10">
+					<![CDATA[
+					<h1>Multiple Choice</h1>
+					<p>Your score is based on the number of questions you answer correctly. Points are not deducted for incorrect answers, so you should answer all of the questions, even if you do not know the answer.</p>
+					]]>
+				</hotspot>
+				<hotspot dynamic="true" x="325" y="10">
+					<![CDATA[
+					<h1>Free Response </h1>
+					<p>Budget your time to complete all three questions. You are expected to provide historical evidence and use examples in your answers.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>WHIS_s1-1_s22</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="23" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>History, or the time when humans began to write, occurred about 5,000 years ago.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The spear and wheelbarrow are examples of technology.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Demographics is the study of human populations.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>On the AP Exam, you should not answer the questions you do not know.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>You may receive college credit if you perform well on the AP Exam.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_s1-1_s23</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

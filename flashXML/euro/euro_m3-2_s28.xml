@@ -1,0 +1,239 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m3-2_s28.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+//1		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//2		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//3		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//4		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//5		<Source>
+			<Text><![CDATA[<p><font face='c-Bold'>What is the Third Estate?</font>
+Is it not exceedingly clear that the noble order has privileges, exemptions, even rights separate from the rights of the majority of citizens? Thus it deviates from the common order, from the common law. Thus its civil rights already render it a people apart in a great nation. It is indeed <font face='lc-Italic'>imperium in imperia.</font> </p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+						
+//6		<Source>
+			<Text><![CDATA[<p><font face='c-Bold'>Magna Carta</font>
+To obtain the general consent of the realm for the assessment of an ‘aid' - except in the three cases specified above - or a ‘scutage', we will cause the archbishops, bishops, abbots, earls, and greater barons to be summoned individually by letter.			
+			    </p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		
+//7		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//8		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+//9		<Source>
+<Text><![CDATA[<p><font face='c-Bold'>Bismarck’s Memoirs</font>
+I went on to explain: “If in execution of his Majesty’s order I at once communicate this text, which contains no alteration in or addition to the telegram, not only to the newspapers, but also by telegraph to all our embassies, it will be known in Paris before midnight, and not only on account of its contents, but also on account of the manner of its distribution, will have the effect of a red rag upon the Gallic bull. </p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		
+//10	<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		</slideInfo>
+
+//1	
+	<question>
+		<qText><![CDATA[Analyzing documents is different than just describing the contents, quoting or paraphrasing the sources.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText><![CDATA[The author's background is not an important factor to consider when analyzing a document.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+	
+//3
+	<question>
+		<qText><![CDATA[Pamphlets, just like public speeches, often promote a cause.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+//4	
+	<question>
+		<qText><![CDATA[When attempting to decode difficult vocabulary or challenging passages, context can be a helpful clue.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+//5	
+	<question>
+		<qText><![CDATA[Sieyes and Bismarck would have had similar attitudes concerning the privileges of the nobility.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+//6	
+	<question>
+		<qText><![CDATA[Sieyes and the English barons (in the Magna Carta) both wanted to limit the role of the nobility in society and government.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+//7	
+	<question>
+		<qText><![CDATA[King James' belief in divine right would have been accepted by Sieyes, since Sieyes thought the nobility's privileges were the detrimental force in France. ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+//8	
+	<question>
+		<qText><![CDATA[Sieyes and the English barons both promoted the idea of limited government.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+//9	
+	<question>
+		<qText><![CDATA[Based on the excerpt from Bismarck, it is clear that he believed that he was above the law.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+//10	
+	<question>
+		<qText><![CDATA[All of the following represent the point of view of Sieyes, <em>EXCEPT:</em>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[he wanted to secure rights for members of the Third Estate]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[he wanted to limit the power of the nobility]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[he wanted to have a say in how tax money was spent]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[he wanted to limit royal power]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[he wanted to give the king more power]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-2_s28_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

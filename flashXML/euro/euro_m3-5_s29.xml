@@ -1,0 +1,162 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-5_s29.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s29.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s29.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s29.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s29.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s29.jpg</image>
+		</Source>
+
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>For what purpose was this image probably created?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[To portray Luther as a many faceted person]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[To portray Luther and his religious ideas as heretical or crazy]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[To persuade viewers that Luther was a false prophet and a traitor]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[B and C only]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A, B, and C]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Who was the intended audience for this woodcut?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The Prince of Saxony]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Loyal and pious Catholics]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[People who were attracted to Luther’s views on religion]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Which of the following elements of satire are used in this illustration?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Caricature]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Stereotyping]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Metaphor]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Symbolism]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[All of the above]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>What effect does the artist achieve by showing Luther with multiple heads?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Luther is seen as complex.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Luther is seen as deceitful or phony.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>What is the artist’s point of view?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The artist has a Catholic point of view.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The artist has a Calvinist point of view.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+			
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

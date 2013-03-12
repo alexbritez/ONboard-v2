@@ -1,0 +1,37 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m1-3_s14.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which of the following would NOT have been a tenet of Conservatism in the 19th century?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Restoration of legitimate monarchs to the thrones</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Gradual change through adaptation</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Implementing policies to maintain a balance-of-power</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Representative government based on Enlightenment ideals</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m1-3_s14_FB.mp3" />
+	</question>
+
+</MultipleChoice>

@@ -1,0 +1,37 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-4_s11.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-4_s11.swf</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[An unknown gas has a density of 1.34 grams per liter. Which of these gases might it be?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[O<font face='SubScript' size='16'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[NH<font face='SubScript' size='16'>3</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[SO<font face='SubScript' size='16'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[C<font face='SubScript' size='16'>2</font>H<font face='SubScript' size='16'>6</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="World's Major Events">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m6-2_s1</video>
+      <credits>(l)Chris Bott/Alamy, (r)JOHN GAPS III/AP/Corbis, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m6-2_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m6-2_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Constantinos Pliakos/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m6-2_s4</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1,2)Creatas/PunchStock, (3)F. Schussler/PhotoLink/Getty Images,(4)NASA, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m6-2_s5</video>
+      <credits>(1)NASA, (2)University of Maryland Global Land Cover Facility/NASA, (bkgd)Image Souces/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m6-2_s6</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Jocelyn Augustino/FEMA, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="Cause">
+            <match id="1">Building of Three Gorges Dam</match>
+			<match id="2">Diverting water from Aral Sea</match>
+			<match id="3">Human-built levee failed</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="48" y="103"/>
+			<drop correct="2" x="48" y="177"/>
+			<drop correct="3" x="48" y="251"/>
+         </drops>
+         <image>env_m6-2_s7.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m6-2_s7</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m6-2_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)JOHN GAPS III/AP/Corbis, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Human-Caused Environmental Events</header>
+         <instruction>Oil Disasters</instruction>
+      </content>
+      <activity type="image">
+         <image>env_m6-2_s9.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" title="Event" audio="env_m6-2_s9_event" x="67" y="240"><![CDATA[
+				<h1>Event</h1>
+				<p>Deepwater Horizon oil platform exploded in 2010</p>
+			]]></hotspot>
+			<hotspot dynamic="true" title="Results" audio="env_m6-2_s9_results" x="208" y="294"><![CDATA[
+				<h1>Results</h1>
+				<ul>
+					<li>Approximately 5 million barrels of crude oil released into the Gulf of Mexico</li>
+					<li>Killed 11 platform workers</li>
+					<li>Extensive damage to both marine habitats and wildlife</li>
+				</ul>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m6-2_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m6-2_s10</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Human-Caused Environmental Events</header>
+         <instruction>Nuclear Energy Disasters</instruction>
+      </content>
+      <activity type="image">
+         <image>env_m6-2_s11.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="env_m6-2_s11_ukraine_is_strong" x="14" y="216"><![CDATA[
+				<h1>Chernobyl nuclear power plant disaster:</h1>
+				<ul>
+					<li>Explosion and fire in 1986</li>
+					<li>Radioactive contamination released into the atmosphere</li>
+					<li>Contamination spread over the USSR and Europe</li>
+					<li>High levels of cancer and genetic defects occurred</li>
+				</ul>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m6-2_s11_fukushima" x="575" y="277"><![CDATA[
+				<h1>Fukushima-Daiichi nuclear power facility disaster:</h1>
+				<ul>
+					<li>Offshore earthquake and tsunami in 2011</li>
+					<li>Earthquakes caused reactors to shut down automatically</li>
+					<li>Tsunami prevented the generators from cooling the reactors</li>
+					<li>Overheating resulted in radiation release</li>
+				</ul>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m6-2_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Human-caused habitat destruction can result in extinctions and loss of ecosystems, which can threaten human health.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Air pollution is one of the most common types of pollution caused by human.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The Three Gorges Dam in China was built to generate hydroelectricity, but it also caused downstream flooding.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The Exxon Valdez oil spill caused significant loss of life to animal populations when more than 700,00 barrels of oil spread throughout the Gulf of Mexico.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The nuclear power plant accident at Three Mile Island in Pennsylvania led to sweeping reforms in nuclear power plant operations in the United States.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m6-2_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

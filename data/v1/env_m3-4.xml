@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Cellular Respiration">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m3-4_s1</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m3-4_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m3-4_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m3-4_s4</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Royalty-Free/Corbis, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Glycolysis</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-4_s5.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="84" y="3" audio="env_m3-4_s5_leftimage"><![CDATA[
+				<h1></h1>
+				<p>Glycolysis begins with the addition of energy. Two high-energy phosphates from two molecules of ATP are added to the six-carbon glucose, producing a six-carbon molecule with two phosphates.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="286" y="3" audio="env_m3-4_s5_centerimage"><![CDATA[
+				<h1></h1>
+				<p>The phosphorylated six-carbon molecule is split in two, forming the two three-carbon sugar phosphates.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="496" y="3" audio="env_m3-4_s5_rightimage"><![CDATA[
+				<h1></h1>
+				<p>In a series of reactions, each of the two three-carbon sugar phosphates is converted to pyruvate. In the process, an energy-rich hydrogen is harvested as NADH and two ATP molecules are formed for each pyruvate.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-4_s5</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m3-4_s6</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which does not occur during glycolysis?</question>
+            <answers>
+               <answer>ATP is made.</answer>
+			   <answer>Glucose is broken down.</answer>
+               <answer>Pyruvate is synthesized.</answer>
+			   <answer>A six-carbon compound is changed into two three-carbon compounds.</answer>
+			   <answer correct="true">Carbon dioxide is produced.</answer>
+            </answers>
+            <feedbackAudio>env_m3-4_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-4_s7</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m3-4_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="6_Activity_Interactivity">
+      <content>
+         <header>Oxidation of Pyruvate</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_04_06P.mp4</url>
+      <image>env_m3-4_s9.jpg</image>
+      <audio>env_m3-4_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Krebs Cycle</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-4_s10.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="84" y="20" audio="env_m3-4_s10_left"><![CDATA[
+				<h1></h1>
+				<p>The Krebs cycle begins when a two-carbon fragment is transferred from acetyl-CoA to a four-carbon molecule (the starting material).</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="286" y="20" audio="env_m3-4_s10_center"><![CDATA[
+				<h1></h1>
+				<p>The resulting six-carbon molecule is oxidized (a hydrogen removed to form NADH) and decarboxylated (a carbon removed to form carbon dioxide). Next, the five-carbon molecule is oxidized and decarboxylated again, and a coupled reaction generated ATP.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="496" y="20" audio="env_m3-4_s10_right"><![CDATA[
+				<h1></h1>
+				<p>The resulting four-carbon molecule is further oxidized (hydrogens removed to form FADH2 and NADH). This regenerates the four-carbon starting material, completing the cycle.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-4_s10</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="6_Activity_Interactivity">
+      <content>
+         <header>Krebs Cycle</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_04_08P.mp4</url>
+      <image>env_m3-4_s11.jpg</image>
+      <audio>env_m3-4_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which is NOT a product of the Krebs cycle?</question>
+            <answers>
+               <answer>ATP</answer>
+			   <answer>NADH</answer>
+               <answer correct="true"><![CDATA[H<sub>2</sub>O]]></answer>
+			   <answer><![CDATA[FADH<sub>2</sub>]]></answer>
+			   <answer><![CDATA[CO<sub>2</sub>]]></answer>
+            </answers>
+            <feedbackAudio>env_m3-4_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-4_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Electron Transport Chain</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-4_s13.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="80" y="27"><![CDATA[
+				<h1></h1>
+				<p>A protein complex in the electron transfer chain picks up an electron from the NADH and passes it to a second protein complex.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="265" y="27"><![CDATA[
+				<h1></h1>
+				<p>The second protein complex—and all the others in the chain—uses the energy of the electron to pump a hydrogen ion across the mitochondrial membrane. The electron is then passed to a third protein complex.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="441" y="27"><![CDATA[
+				<h1></h1>
+				<p>The third proton complex uses electrons to link oxygen and hydrogen atoms to form molecules of water.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-4_s13</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m3-4_s14</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="6_Activity_Interactivity">
+      <content>
+         <header>Electron Transport Chain and Chemiosmosis</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_04_06P.mp4</url>
+      <image>env_m3-4_s15.jpg</image>
+      <audio>env_m3-4_s15</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="6_Activity_Interactivity">
+      <content>
+         <header>Cellular Respiration: Summary</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_04_12P.mp4</url>
+      <image>env_m3-4_s16.jpg</image>
+      <audio>env_m3-4_s16</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>env_m3-4_s17</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>As a result of cellular respiration, the energy stored in glucose will be stored in molecules known as ATP, which supplies the energy that organisms need to carry out cellular processes.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>In the electron transport chain, the third proton complex uses electrons to link oxygen and hydrogen atoms to form molecules of water.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which step of respiration produces the greatest number of ATP molecules?</question>
+            <answers>
+				<answer>Digestion</answer>
+				<answer>Glycolysis</answer>
+				<answer>Conversion of glucose to pyruvate</answer>
+				<answer>Krebs cycle</answer>
+				<answer correct="true">Electron transport system</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which pair is correctly matched?</question>
+            <answers>
+				<answer>Glycolysis - mitochondrion</answer>
+				<answer correct="true">Krebs cycle - mitochondrion</answer>
+				<answer>Electron transport system - cytoplasm</answer>
+				<answer><![CDATA[Glucose pyruvate - mitochondrion]]></answer>
+				<answer><![CDATA[Oxygen water - cytoplasm]]></answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which stage of respiration does not operate in a series of one-way steps?</question>
+            <answers>
+				<answer correct="true">Krebs cycle</answer>
+				<answer>Glycolysis</answer>
+				<answer>Electron transport system</answer>
+				<answer>Conversion of oxygen into water</answer>
+				<answer>Synthesis of ATP molecules</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-4_s18</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,74 @@
+<PopUp>
+	<slideInfo>
+		<title>Annotating and Questioning the Text</title>
+		<info></info>
+		<image>images/eng_m3-1_s31.jpg</image>
+		<audio>audio/eng_m3-1_s31.mp3</audio>
+		<popType>4</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>686</xCord>
+			<yCord>125</yCord><!-- 73 -->
+			<width>86</width>
+			<popTitle></popTitle>
+			<popInfo>Powell seems worried.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>939</xCord>
+			<yCord>179</yCord>
+			<width>96</width>
+			<popTitle></popTitle>
+			<popInfo>Imagery: The only sound is mechanical.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>559.5</xCord>
+			<yCord>260</yCord>
+			<width>97</width>
+			<popTitle></popTitle>
+			<popInfo>Imagery: The eyes are demonic colored.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>641</xCord>
+			<yCord>314</yCord>
+			<width>190</width>
+			<popTitle></popTitle>
+			<popInfo>Tone: Powell is anxious.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>974</xCord>
+			<yCord>369</yCord>
+			<width>46</width>
+			<popTitle></popTitle>
+			<popInfo>Why is this word italicized? Who is Powell trying to convince? Powell is doubtful.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>431</xCord>
+			<yCord>396</yCord>
+			<width>62</width>
+			<popTitle></popTitle>
+			<popInfo>Syntax: The fragment and a dash show that Powell is unsure.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>528.6</xCord>
+			<yCord>423.75</yCord>
+			<width>260</width>
+			<popTitle></popTitle>
+			<popInfo>Powell can't really trust that the robot will work the way it was programmed.</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

@@ -1,0 +1,47 @@
+<PopUp>
+	<slideInfo>
+		<title>A Typical High School History Textbook</title>
+		<info></info>
+		<image>images/euro_m2-1_s2.jpg</image>
+		<audio>audio/euro_m2-1_s2.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>
+			<audio enable="true" url="audio/euro_m2-1_s2_a.mp3"/>
+			<xCord>715</xCord>
+			<yCord>95</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>Notice the size and amount of text on this page.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="true" url="audio/euro_m2-1_s2_b.mp3"/>
+			<xCord>832</xCord>
+			<yCord>270</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo>Vocabulary words are often highlighted and in boldface type.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="true" url="audio/euro_m2-1_s2_c.mp3"/>
+			<xCord>545</xCord>
+			<yCord>209</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo>Notice the frequent use of headings and subheadings.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="true" url="audio/euro_m2-1_s2_d.mp3"/>
+			<xCord>410</xCord>
+			<yCord>424</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo>The high school book discusses Rousseau's contributions to the Enlightenment in three short paragraphs.</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

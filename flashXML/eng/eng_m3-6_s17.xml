@@ -1,0 +1,48 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[MISSTEPS: Logical Fallacies<br/>Begging the Question]]></title>
+		<info></info>
+		<image>images/eng_m3-6_s17.jpg</image>
+		<audio>audio/eng_m3-6_s17.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name><![CDATA[1]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>634</xCord>
+			<yCord>118.7</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Bob: ]]></popTitle>
+			<popInfo><![CDATA[Vandalism by teenagers is unavoidable.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[2]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>634</xCord>
+			<yCord>174.05</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Sue: ]]></popTitle>
+			<popInfo><![CDATA[Why is that?]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[3]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>634</xCord>
+			<yCord>229.4</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Bob:]]></popTitle>
+			<popInfo><![CDATA[Because teenagers are young and irresponsible.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[4]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>634</xCord>
+			<yCord>284.75</yCord>
+			<width>52</width>
+			<popTitle><![CDATA[Sue: ]]></popTitle>
+			<popInfo><![CDATA[Why do you say that?]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

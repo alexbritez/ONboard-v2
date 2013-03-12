@@ -1,0 +1,67 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Run-on Sentences</title>
+		<info></info>
+		<image>images/eng_m2-1_s21.jpg</image>
+		<audio>audio/eng_m2-1_s21.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Correct version:</Name>   
+			<audio enable="true" url="audio/eng_m2-1_s21_1.mp3"/>
+			<xCord>403</xCord>
+			<yCord>120</yCord>
+			<width>134</width>
+			<fraction></fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[I planned to get to school on time, but my alarm didn’t go off. Then, my car wouldn’t start, and I hit every red light on my way to school.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s21_2.mp3"/>
+			<xCord>403</xCord>
+			<yCord>227</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Mrs. Dempsey’s cat is sick. He won’t eat his canned food or drink any water.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s21_3.mp3"/>
+			<xCord>403</xCord>
+			<yCord>306</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Cats eat both dry food and canned food.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s21_4.mp3"/>
+			<xCord>403</xCord>
+			<yCord>357</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[The cat usually demands to be fed each morning; therefore, Mrs. Dempsey knows that something is wrong.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

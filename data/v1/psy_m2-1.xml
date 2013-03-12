@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Identifying the Main Idea">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m2-1_s1</video>
+      <credits>(cl)Don Hammond/Design Pics, (c)Kristy-Anne Glubish/Design Pics, (cr)Ingram Publishing, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s2</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="3" type="3_txt_img_reading">
+          <content>
+        <header></header>
+        <text>
+            <![CDATA[
+			<p>Why Study Psychology?</p>
+            <p>
+          I decided to study psychology because I am interested in human behavior. I have always been fascinated by why people do the things they do. For example, why do some people join religious cults? What compels people to show compassion to others? In what circumstances do people not show compassion?</p>
+<p>Studying psychology has helped me answer those questions and has given me a glimpse into the human mind.
+            </p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-1_s3</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s4</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s5</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s6</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>In this passage, is this main idea stated or implied?</question>
+            <answers>
+               <answer correct="true">Stated</answer>
+			   <answer>Implied</answer>
+            </answers>
+            <figure><header></header>
+            <text>
+            <![CDATA[
+			<p>Why Study Psychology?</p>
+            <p>
+          I decided to study psychology because I am interested in human behavior. I have always been fascinated by why people do the things they do. For example, why do some people join religious cults? What compels people to show compassion to others? In what circumstances do people not show compassion?
+	        </p>
+		    <p>Studying psychology has helped me answer those questions and has given me a glimpse into the human mind.
+		    </p>
+			]]></text>
+           </figure>
+            <feedbackAudio>psy_m2-1_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-1_s7</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s8</video>
+      <credits>bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s9</video>
+      <credits>bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s10</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="11" type="3_txt_img_reading">
+          <content>
+        <header></header>
+        <text>
+            <![CDATA[
+            <p>
+          It’s difficult to describe my attitude after I had taken a few psychology classes. A friend would start talking about her ex-boyfriend and instead of agreeing with her, I began to wonder about her motivations. I started observing the behavior of groups at parties. I began to understand why some members of the group went along with the others even though they were clearly uncomfortable. I was more thoughtful about human behavior than ever before. I felt as though I had an insight into their behavior. Personally, I was much more self-aware.
+            </p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-1_s11</audio>
+    <credits>tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following is the main idea for this passage?</question>
+            <answers>
+               <answer correct="true">Studying psychology has given the author insight into her own behavior and the behavior of others.</answer>
+			   <answer>Studying psychology has given the author insight into the behavior of college students at parties.</answer>
+
+				<answer>Studying psychology has made the author more interested in her friends.</answer>
+
+				<answer>Studying psychology has made the author more self aware.</answer>
+
+				<answer>Studying psychology has made the author aware of the shallowness of her friends.</answer>
+			</answers>
+            <figure>
+			<header></header>
+            <text>
+            <![CDATA[
+            <p>It’s difficult to describe my attitude after I had taken a few psychology classes. A friend would start talking about her ex-boyfriend and instead of agreeing with her, I began to wonder about her motivations. I started observing the behavior of groups at parties. I began to understand why some members of the group went along with the others even though they were clearly uncomfortable. I was more thoughtful about human behavior than ever before. I felt as though I had an insight into their behavior. Personally, I was much more self-aware.</p>
+		   ]]></text>
+           </figure>
+            <feedbackAudio>psy_m2-1_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-1_s13</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+<scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+        <header>Finding the Main Idea in a Textbook</header>
+        <instruction><![CDATA[
+				  <ul>
+                   <li>Features headings and subheadings
+                   <li>Headings offer clues to content and main ideas
+                   <li>WARNING: Most assigned readings in AP Psychology classes are not found in your textbook!
+                  </ul>
+				 ]]></instruction>
+    </content>
+    <activity type="image">
+        <image>psy_m2-1_s14.jpg</image>
+        <hotspots>
+		    <hotspot audio="psy_m2-1_s14_a" dynamic="true" x="27" y="4">
+                <h1></h1>
+				<p>Most textbooks feature the chapter number and title on pages within each chapter.</p>
+            </hotspot>
+
+		    <hotspot audio="psy_m2-1_s14_b" dynamic="true" x="348" y="7">
+                <![CDATA[
+                <h1></h1>
+                <p>This large heading identifies the topic of this section of the text.</p>
+                ]]>
+            </hotspot>
+
+			<hotspot audio="psy_m2-1_s14_c" dynamic="true" x="532" y="329">
+                <![CDATA[
+                <h1></h1>
+                <p>The three headings on this page are different sizes, much like headings in an outline.</p>
+                ]]>
+            </hotspot>
+
+			<hotspot audio="psy_m2-1_s14_d" dynamic="true" x="422" y="109">
+                <![CDATA[
+                <h1></h1>
+                <p>The text in this heading lets you know that there are at least two components of long-term memory.</p>
+                ]]>
+            </hotspot>
+        </hotspots>
+    </activity>
+    <audio>psy_m2-1_s14</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (c)Ingram Publishing/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+</scene>
+
+<scene id="15" type="3_txt_img_reading">
+          <content>
+        <header><![CDATA[<span style="font-style:normal; font-weight:bold;">Long-Term Memory<span>]]></header>
+        <text>
+            <![CDATA[
+            <p>
+          <strong>Long-term memory</strong> is a relatively permanent type of memory that stores huge amounts of information for a long time. The capacity of long-term memory is staggering. John von Neumann, a distinguished mathematician, put the size at 2.8 &middot; 10<sup>20</sup> (280 quintillion) bits, which in practical terms means that our storage capacity is virtually unlimited. Von Neumann assumed that we never forget anything; but even considering that we do forget things, we can hold several billion times more information than a large computer.
+            </p>
+			<p>From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-1_s15</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+    <scene id="16" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s16</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+<scene id="17" type="9_Activity_Image_Rollclick">
+    <content>
+        <header></header>
+        <instruction></instruction>
+    </content>
+    <activity type="image">
+        <image>psy_m2-1_s17.jpg</image>
+        <hotspots>
+            <hotspot audio="psy_m2-1_s17_a" dynamic="true" x="10" y="17">
+                <h1></h1>
+				<p>Textbooks often provide definitions for key terms.</p>
+            </hotspot>
+
+		    <hotspot audio="psy_m2-1_s17_b" dynamic="true" x="549" y="122">
+                <![CDATA[
+                <h1></h1>
+                <p>Skip terms that seem unnecessary for immediate understanding or that may be explained later.</p>
+                ]]>
+            </hotspot>
+
+			<hotspot audio="psy_m2-1_s17_c" dynamic="true" x="393" y="283">
+                <![CDATA[
+                <h1></h1>
+                <p>Look for additional clues in parenthetical and italicized text. </p>
+                ]]>
+            </hotspot>
+        </hotspots>
+    </activity>
+    <audio>psy_m2-1_s17</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (c)Ingram Publishing/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+</scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s18</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Kristy-Anne Glubish/Design Pics, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s19</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Kristy-Anne Glubish/Design Pics, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s20</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s21</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Sergei Bachlakov/Getty Images News/Getty Images, (2)Ariel Skelley/Blend Images/Getty Images, (3)Ross Taylor/Getty Images News/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which answer best reflects the main idea of the lecture?</question>
+            <answers>
+			   <answer>human nature</answer>
+               <answer correct="true">compassion</answer>
+			   <answer>mothers and children</answer>
+			   <answer>war</answer>
+			   <answer>greed</answer>
+            </answers>
+            <figure>
+			<text>
+            <![CDATA[
+            <p>
+          Humans are selfish. It’s so easy to say. The same goes for so many assertions that follow. Greed is good. Altruism is an illusion. Cooperation is for suckers. Competition is natural, war inevitable. The bad in human nature is stronger than the good….
+	        </p>
+			<p>Even compassion, the concern we feel for another being’s welfare, has been treated with downright derision. … Many question whether true compassion exists at all—or whether it is inherently motivated by self-interest.
+		    </p>
+			<p>Recent studies of compassion argue persuasively for a different take on human nature, one that rejects the preeminence of self-interest.
+			</p>
+			<p>…Compassion and benevolence, this research suggests, are an evolved part of human nature, rooted in our brain and biology, and ready to be cultivated for the greater good.
+			</p>
+			<p>First consider the recent study of the biological basis of compassion. If such a basis exists, we should be wired up, so to speak, to respond to others in need. Recent evidence supports this point convincingly. University of Wisconsin psychologist Jack Nitschke found in an experiment that when mothers looked at pictures of their babies, they not only reported feeling more compassionate love than when they saw other babies; they also demonstrated unique activity in a region of their brains associated with the positive emotions. Nitschke’s finding suggests that this region of the brain is attuned to the first objects of our compassion—our offspring.
+			</p>
+			<p>But this compassionate instinct isn’t limited to parents’ brains. In a different set of studies, Joshua Greene and Jonathan Cohen of Princeton University found that when subjects contemplated harm being done to others, a similar network of regions in their brains lit up. Our children and victims of violence—two very different subjects, yet united by the similar neurological reactions they provoke. This consistency strongly suggests that compassion isn’t simply a fickle or irrational emotion, but rather an innate human response embedded into the folds of our brains.
+			</p>
+			<p>From &quot;The Compassionate Instinct&quot;, by Dacher Keltner. Originally appeared in Greater Good magazine, published by the Greater Good Science Center at the University of California, Berkeley (http://greatergood.berkely.edu).
+			</p>]]>
+			</text>
+           </figure>
+            <feedbackAudio>psy_m2-1_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-1_s22</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images. (inset text) From "The Compassionate Instinct," by Dacher Keltner. Originally appeared in Greater Good magazine, published by the Greater Good Science Center at the University of California, Berkeley (http://greatergood.berkeley.edu)</credits>
+   </scene>
+
+    <scene id="23" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which answer best reflects the main idea of the lecture?</question>
+            <answers>
+			   <answer>Many question whether true compassion, the concern we feel for another being’s welfare, exists at all—or whether it is inherently motivated by self-interest</answer>
+			   <answer>When mothers looked at pictures of their babies, they reported feeling more compassionate love than when they saw other babies.</answer>
+			   <answer correct="true">Research shows that compassion isn’t simply an irrational emotion, but rather an innate human response embedded into the folds of our brains.</answer>
+			   <answer>Our children and victims of violence—two very different subjects— were united by the similar neurological reactions they provoke.</answer>
+			   <answer>But this compassionate instinct isn’t limited to parents’ brains</answer>
+            </answers>
+            <figure>
+			<text>
+            <![CDATA[
+            <p>
+          Humans are selfish. It’s so easy to say. The same goes for so many assertions that follow. Greed is good. Altruism is an illusion. Cooperation is for suckers. Competition is natural, war inevitable. The bad in human nature is stronger than the good…
+	        </p>
+			<p>Even compassion, the concern we feel for another being’s welfare, has been treated with downright derision. … Many question whether true compassion exists at all—or whether it is inherently motivated by self-interest.
+		    </p>
+			<p>Recent studies of compassion argue persuasively for a different take on human nature, one that rejects the preeminence of self-interest.
+			</p>
+			<p>…Compassion and benevolence, this research suggests, are an evolved part of human nature, rooted in our brain and biology, and ready to be cultivated for the greater good.
+			</p>
+			<p>First consider the recent study of the biological basis of compassion. If such a basis exists, we should be wired up, so to speak, to respond to others in need. Recent evidence supports this point convincingly. University of Wisconsin psychologist Jack Nitschke found in an experiment that when mothers looked at pictures of their babies, they not only reported feeling more compassionate love than when they saw other babies; they also demonstrated unique activity in a region of their brains associated with the positive emotions. Nitschke’s finding suggests that this region of the brain is attuned to the first objects of our compassion—our offspring.
+			</p>
+			<p>But this compassionate instinct isn’t limited to parents’ brains. In a different set of studies, Joshua Greene and Jonathan Cohen of Princeton University found that when subjects contemplated harm being done to others, a similar network of regions in their brains lit up. Our children and victims of violence—two very different subjects, yet united by the similar neurological reactions they provoke. This consistency strongly suggests that compassion isn’t simply a fickle or irrational emotion, but rather an innate human response embedded into the folds of our brains.
+			</p>
+			<p>From &quot;The Compassionate Instinct&quot;, by Dacher Keltner. Originally appeared in Greater Good magazine, published by the Greater Good Science Center at the University of California, Berkeley (http://greatergood.berkely.edu).
+			</p>]]>
+			</text>
+           </figure>
+            <feedbackAudio>psy_m2-1_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-1_s23</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images. (inset text) From "The Compassionate Instinct," by Dacher Keltner. Originally appeared in Greater Good magazine, published by the Greater Good Science Center at the University of California, Berkeley (http://greatergood.berkeley.edu)</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s24</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Art Vandalay/Photodisc/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s25</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is the main idea of the graph on improving your memory?</question>
+            <answers>
+			   <answer>There are four types of processing tasks that people can use to improve memory.</answer>
+			   <answer>One way to measure memory is by the number of words people can recall using processing tasks.</answer>
+			   <answer>Using a physical processing task is not an effective way to improve your memory.</answer>
+			   <answer correct="true">Making a personal connection to content improves memory more than twice as effectively as other processing tasks</answer>
+			   <answer>Acoustic memory is less successful than semantic memory.</answer>
+            </answers>
+            <figure>psy_m2-1_s29_view.jpg</figure>
+            <feedbackAudio>psy_m2-1_s26_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-1_s26</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+  <scene id="27" type="2_Txt_Img_Animation">
+      <video>psy_m2-1_s27</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Don Hammond/Design Pics, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="3_txt_img_reading">
+          <content>
+        <header></header>
+        <text>
+            <![CDATA[
+            <p>"Secrets of Happiness" by Steven Reiss</p>
+            <p>
+          Feel-good happiness is sensation-based pleasure. When we joke around or [eat chocolate], we experience feel-good happiness. Since feel-good happiness is ruled by the law of diminishing returns, the kicks get harder to come by. This type of happiness rarely lasts longer than a few hours at a time. Value-based happiness is a sense that our lives have meaning and fulfill some larger purpose. It represents a spiritual source of satisfaction, stemming from our deeper purpose and values. Since this form of happiness is not ruled by the law of diminishing returns, there is no limit to how meaningful our lives can be.
+            </p>
+			<p>You cannot find enduring happiness by aiming to have more fun or by seeking pleasure. What you need to do, as the 19th-century philosopher J. S. Mill observed, is to satisfy your basic desires and take happiness in passing. How strongly are you motivated to obtain a successful marriage, career or family? Do you love a good meal and dining out? Must you be physically fit to be happy? …    </p>
+			<p>After you identify your most important desires, you need to find effective ways to satisfy them. There is a catch, however. Shortly after you satisfy a desire, it reasserts itself, motivating you to satisfy the desire all over again. After a career success, for example, you feel competent, but only for a period of time. Therefore, you need to satisfy your desires repeatedly.
+			<p>How can we repeatedly satisfy our most important basic desires and find value-based happiness? Most people turn to relationships, careers, family, leisure and spirituality to satisfy their most important desires. Since we have the potential to satisfy our basic desires through relationships, we can find greater happiness by finding new relationships or by improving the ones we already have.
+			</p>
+			<p>From &quot;Secrets of Happiness&quot; by Steven Reiss. Originally appeared in <em>Psychology Today</em>, January 1, 2001.</p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-1_s28</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+   <scene id="29" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What is the main idea of this article?</question>
+            <answers>
+			   <answer>Feel-good happiness rarely lasts longer than a few hours at a time.</answer>
+			   <answer>You cannot find enduring happiness by aiming to have more fun or by seeking pleasure.</answer>
+			   <answer>After you identify your most important desires, you need to find effective ways to satisfy them.</answer>
+			   <answer>Value-based happiness is a sense that our lives have meaning and fulfill some larger purpose.</answer>
+			   <answer correct="true">We achieve value-based happiness, a sense that our lives have meaning, through careers and relationships.</answer>
+            </answers>
+            <figure>
+			<header></header>
+			<text>
+            <![CDATA[
+            <p>"Secrets of Happiness" by Steven Reiss</p>
+            <p>
+          Feel-good happiness is sensation-based pleasure. When we joke around or [eat chocolate], we experience feel-good happiness. Since feel-good happiness is ruled by the law of diminishing returns, the kicks get harder to come by. This type of happiness rarely lasts longer than a few hours at a time. Value-based happiness is a sense that our lives have meaning and fulfill some larger purpose. It represents a spiritual source of satisfaction, stemming from our deeper purpose and values. Since this form of happiness is not ruled by the law of diminishing returns, there is no limit to how meaningful our lives can be.
+	        </p>
+
+			<p>You cannot find enduring happiness by aiming to have more fun or by seeking pleasure. What you need to do, as the 19th-century philosopher J. S. Mill observed, is to satisfy your basic desires and take happiness in passing. How strongly are you motivated to obtain a successful marriage, career or family? Do you love a good meal and dining out? Must you be physically fit to be happy? …
+		    </p>
+
+			<p>After you identify your most important desires, you need to find effective ways to satisfy them. There is a catch, however. Shortly after you satisfy a desire, it reasserts itself, motivating you to satisfy the desire all over again. After a career success, for example, you feel competent, but only for a period of time. Therefore, you need to satisfy your desires repeatedly.
+			</p>
+
+			<p>How can we repeatedly satisfy our most important basic desires and find value-based happiness? Most people turn to relationships, careers, family, leisure and spirituality to satisfy their most important desires. Since we have the potential to satisfy our basic desires through relationships, we can find greater happiness by finding new relationships or by improving the ones we already have.
+			</p>
+			<p>From &quot;Secrets of Happiness&quot; by Steven Reiss. Originally appeared in <em>Psychology Today</em>, January 1, 2001.</p>]]>
+			</text>
+           </figure>
+            <feedbackAudio>psy_m2-1_s29_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.)</credits>
+   </scene>
+
+<scene id="30" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What is the topic of this passage?</question>
+            <answers>
+               <answer>THE FEMALE BRAIN</answer>
+			   <answer correct="true">Stereotypes about gender and language</answer>
+			   <answer>the 'extreme male brain theory' of autism</answer>
+			   <answer>Women are more talkative than men.</answer>
+               <answer>Men are better at math and spatial reasoning than they are at talking and being social.</answer>
+            </answers>
+            <figure>
+			<header></header>
+			<text>
+        <![CDATA[
+    			<p>&quot;Does Gender Influence Language?&quot;</p>
+          <p>Common stereotypes suggest that women are the talkative sex. The bestseller <em>The Female Brain</em> by Louann Brizendine (2006) claims that women talk three times as much as men. Brizendine suggests that women's brains are wired from birth to be extraordinarily sensitive for social information. Women, she says, have an &quot;eight-lane superhighway&quot; for processing emotion, whereas men have only &quot;a single country road.&quot;</p>
+          <p>The notion that men are somehow missing out on an emotional expressway is also reflected in the <em>extreme male brain theory</em> of autism. Simon Baron-Cohen has suggested that characteristics associated with autism might be considered simply extreme forms of the &quot;male brain&quot;—that is, one that is well suited to math and spatial reasoning but less well geared to verbal and social skills. This controversial notion certainly shows that people seem to be prone to extreme positions and stereotypes when discussing gender differences. </p>
+        ]]>
+			</text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple hasTextFigure="true">
+            <question>What is the main idea of this passage?</question>
+            <answers>
+				<answer>Common stereotypes suggest that women are the talkative sex.</answer>
+				<answer>The bestseller THE FEMALE BRAIN by Louann Brizendine (2006) claims that women talk three times as much as men.</answer>
+				<answer>Women, she says, have an "eight-lane superhighway" for processing emotion, whereas men have only "a single country road."</answer>
+               	<answer correct="true">People seem to be prone to extreme positions and stereotypes when discussing gender differences.</answer>
+               	<answer>The notion that men are somehow missing out on an emotional expressway is also reflected in the 'extreme male brain theory' of autism.</answer>
+            </answers>
+            <figure>
+			<header></header>
+			<text>
+        <![CDATA[
+          <p>&quot;Does Gender Influence Language?&quot;</p>
+          <p>Common stereotypes suggest that women are the talkative sex. The bestseller <em>The Female Brain</em> by Louann Brizendine (2006) claims that women talk three times as much as men. Brizendine suggests that women's brains are wired from birth to be extraordinarily sensitive for social information. Women, she says, have an &quot;eight-lane superhighway&quot; for processing emotion, whereas men have only &quot;a single country road.&quot;</p>
+          <p>The notion that men are somehow missing out on an emotional expressway is also reflected in the <em>extreme male brain theory</em> of autism. Simon Baron-Cohen has suggested that characteristics associated with autism might be considered simply extreme forms of the &quot;male brain&quot;—that is, one that is well suited to math and spatial reasoning but less well geared to verbal and social skills. This controversial notion certainly shows that people seem to be prone to extreme positions and stereotypes when discussing gender differences. </p>
+        ]]>
+      </text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple hasTextFigure="true">
+            <question>Is the main idea of this passage a stated or implied main idea?</question>
+            <answers>
+               <answer correct="true">Stated main idea</answer>
+               <answer>Implied main idea</answer>
+            </answers>
+            <figure>
+			<header></header>
+			<text>
+        <![CDATA[
+          <p>&quot;Does Gender Influence Language?&quot;</p>
+          <p>Common stereotypes suggest that women are the talkative sex. The bestseller <em>The Female Brain</em> by Louann Brizendine (2006) claims that women talk three times as much as men. Brizendine suggests that women's brains are wired from birth to be extraordinarily sensitive for social information. Women, she says, have an &quot;eight-lane superhighway&quot; for processing emotion, whereas men have only &quot;a single country road.&quot;</p>
+          <p>The notion that men are somehow missing out on an emotional expressway is also reflected in the <em>extreme male brain theory</em> of autism. Simon Baron-Cohen has suggested that characteristics associated with autism might be considered simply extreme forms of the &quot;male brain&quot;—that is, one that is well suited to math and spatial reasoning but less well geared to verbal and social skills. This controversial notion certainly shows that people seem to be prone to extreme positions and stereotypes when discussing gender differences. </p>
+        ]]>
+      </text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple hasFigure="true">
+            <question>What is the main idea of this graph? </question>
+            <answers>
+               <answer>Most of what we learn is forgotten in an hour.</answer>
+               <answer>People retain about 20 percent of what they learn after a month.</answer>
+			   <answer correct="true">Memory of original learning drops substantially in an hour and then gradually over a month’s time.</answer>
+			   <answer>If you remember what you’ve learned after a day, you’ll probably still remember it in a month.</answer>
+			   <answer>People remember about as much after 24 hours than they do after 48 hours</answer>
+            </answers>
+            <figure>psy_m2-1_s33_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+		 <multiple hasFigure="true">
+            <question>Is the main idea of the graph a stated or implied main idea?</question>
+            <answers>
+               <answer>Stated main idea</answer>
+               <answer correct="true">Implied main idea</answer>
+            </answers>
+            <figure>psy_m2-1_s33_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+
+      </multiple_choice>
+      <audio>psy_m2-1_s30</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+</shell>

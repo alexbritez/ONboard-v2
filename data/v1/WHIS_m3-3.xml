@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Skills">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m3-3_s1</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="inside" deductionFactor="2" maxAttempts="3" hasPoints="false" points="6">
+         <matches title="">
+            <match id="1">0 hours</match>
+            <match id="1">0 hours</match>
+            <match id="1">0.5 hours</match>
+            <match id="1">1 hour</match>
+            <match id="1">1 hour</match>
+            <match id="1">2 hours</match>
+            <match id="1">3 hours</match>
+            <match id="1">4 hours</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="377" y="75" />
+   			<drop correct="1" x="377" y="114" />
+   			<drop correct="1" x="377" y="154" />
+   			<drop correct="1" x="377" y="194" />
+   			<drop correct="1" x="377" y="235" />
+   			<drop correct="1" x="377" y="275" />
+   			<drop correct="1" x="377" y="315" />
+   			<drop correct="1" x="377" y="355" />
+         </drops>
+         <image>WHIS_m3-3_s2.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>WHIS_m3-3_s2</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (cl)PhotoAlto, (cr)Yellow Dog Productions/Riser/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s4</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s5</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s7</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which two countries consume more oil per day than they produce?</question>
+            <answers>
+				<answer>Saudi Arabia and Russia</answer>
+				<answer>Russia and the United States</answer>
+				<answer correct="true">United States and China</answer>
+				<answer>China and Iran</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s8_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s8_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s8</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What do the numbers represent in the bar graph of world exports?</question>
+            <answers>
+				<answer>Trillions of U.S. dollars</answer>
+				<answer>Billions of U.S. dollars</answer>
+				<answer correct="true">Percentages</answer>
+				<answer>Gross Domestic Product</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s9_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s9_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s9</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these countries has a larger percentage of world exports than the United States?</question>
+            <answers>
+				<answer>China</answer>
+				<answer>Germany</answer>
+				<answer>Japan</answer>
+				<answer correct="true">Both A and B</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s10_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s9_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s10</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s11</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>At what point did Canada's immigrant population peak?</question>
+            <answers>
+				<answer>1900</answer>
+				<answer correct="true">1913</answer>
+				<answer>1928</answer>
+				<answer>1957</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s12_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s12_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s12</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which decade had the lowest number of immigrants?</question>
+            <answers>
+				<answer correct="true">1930s</answer>
+				<answer>1950s</answer>
+				<answer>1960s</answer>
+				<answer>1980s</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s13_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s12_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s13</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s14</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>According to the graph, which event most recently caused the human population to increase significantly?</question>
+            <answers>
+				<answer>Agricultural Revolution</answer>
+				<answer>Industrial Revolution</answer>
+				<answer>Urbanization</answer>
+				<answer correct="true">Medical Revolution</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s15_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s15_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s15</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What was the total world population by 2000?</question>
+            <answers>
+				<answer>6 million</answer>
+				<answer>600 million</answer>
+				<answer correct="true">6 billion</answer>
+				<answer>6000</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s16_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s16_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s16</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s17</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="5">10.4 percent</match>
+			<match id="4">13.2 percent</match>
+			<match id="1">Americas</match>
+			<match id="3">Europe</match>
+			<match id="2">Oceania</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="-16" y="18" />
+			<drop correct="2" x="-16" y="95" />
+			<drop correct="3" x="-16" y="172" />
+			<drop correct="4" x="-16" y="249" />
+			<drop correct="5" x="-16" y="326" />
+         </drops>
+         <image>WHIS_m3-3_s18.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>WHIS_m3-3_s18</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s19</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s20</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Why might the letters be similar?</question>
+            <answers>
+				<answer correct="true">The Phoenicians were a trading power with an extensive network throughout the Mediterranean region.</answer>
+				<answer>Christian missionaries introduced Latin letters throughout the Mediterranean region.</answer>
+				<answer>The Romans dominated language during ancient times and passed on their Latin alphabet to other cultures.</answer>
+				<answer>Only the Phoenicians had a written language.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s21_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-3_s21_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s22</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-3_s23</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+  <scene id="24" type="6_Activity_Interactivity">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_03_19A.jpg</url>
+		<image>WHIS_m3-3_s24.jpg</image>
+		<audio>WHIS_m3-3_s24</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="25" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The table and the map indicate that Indo-European language and writing spread through</question>
+            <answers>
+				<answer>war and disease.</answer>
+				<answer correct="true">trade networks and migration.</answer>
+				<answer>shipping and water.</answer>
+				<answer>superior iron and steel technologies.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s25_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Indo-Europeans' ability to migrate and spread their language system was primarily due to</question>
+            <answers>
+				<answer>their religious convictions.</answer>
+				<answer>bravery in battle.</answer>
+				<answer>agricultural technologies.</answer>
+				<answer correct="true">domesticating the horse.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-3_s26_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+	<scene id="27" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Line graphs are most useful for showing a distribution of resources.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Bar graphs are most useful for comparing different amounts or units. </question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Circle graphs are most useful for showing change over time.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The horizontal axis of a line graph usually measures time.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The x-axis is the vertical axis.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A circle graph compares 100 percent of something.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The key on a graph will tell who created the data.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Phoenicians spread their alphabet after they domesticated the horse.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Each slice of a circle graph represents a percentage.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The Medical Revolution led to urbanization.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-3_s27</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

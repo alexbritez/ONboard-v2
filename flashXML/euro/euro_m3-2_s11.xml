@@ -1,0 +1,45 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-2_s11.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[What is the main idea expressed in this excerpt from "The True Law of Free Monarchies?"]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[A good king will follow the law, even though he is not bound to do so.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A good king is always bound by the laws of parliament.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Parliament has the right to make laws without the king's consent.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[A good king should never stoop to follow the laws made for his subjects, since he is above them.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[Kings have the right to amend laws, even if they are made by a parliament.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-2_s11_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,29 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-3_s2.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-3_s2.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<p><font size='20'>concentrated fruit punch</font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size='20'>powdered sweetener</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size='20'>water</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="599.95" yCord="255.55" spotScale="100" spotNum="1"/>
+		<dSpot xCord="599.95" yCord="334.2" spotScale="100" spotNum="1"/>
+		<dSpot xCord="841.95" yCord="255.55" spotScale="100" spotNum="2"/>
+		<dSpot xCord="841.95" yCord="334.2" spotScale="100" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

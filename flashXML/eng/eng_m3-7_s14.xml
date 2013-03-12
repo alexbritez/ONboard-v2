@@ -1,0 +1,107 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-7_s14.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		
+//1	
+		<Source>
+			<Text><![CDATA[<p><font face='c-Bold'>(1)The struggle for equal rights for women in the United States began long before the nation existed, and some would argue that this struggle continues even today. (2) While most people would agree that men and women should have equal rights, many citizens fail to realize the complexity and scope of the inequality that women endure.
+(3) Read the following sources carefully. (4) In a well-organized essay, take a position on the relevance of the women’s rights struggle to the overall cultural prosperity of the United States.
+</font></p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+//2
+		<Source>
+			<Text><![CDATA[<p><font face='c-Bold'>(1)The struggle for equal rights for women in the United States began long before the nation existed, and some would argue that this struggle continues even today. (2) While most people would agree that men and women should have equal rights, many citizens fail to realize the complexity and scope of the inequality that women endure.
+(3) Read the following sources carefully. (4) In a well-organized essay, take a position on the relevance of the women’s rights struggle to the overall cultural prosperity of the United States.
+</font></p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+//3
+			<Source>
+			<Text><![CDATA[<p><font face='c-Bold'>(1)The struggle for equal rights for women in the United States began long before the nation existed, and some would argue that this struggle continues even today. (2) While most people would agree that men and women should have equal rights, many citizens fail to realize the complexity and scope of the inequality that women endure.
+(3) Read the following sources carefully. (4) In a well-organized essay, take a position on the relevance of the women’s rights struggle to the overall cultural prosperity of the United States.
+</font></p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+//1	
+
+	<question>
+		<qText>Which sentence is the task?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Sentence 1</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 2</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 3</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 4</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>Which sentence holds the context?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Sentence 1</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 2</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 3</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 4</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//3
+	<question>
+		<qText>Which sentence includes points of view?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Sentence 1</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 2</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 3</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 4</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+		
+</MultipleChoice>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to AP Psychology: The Course">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_s1-2_s1</video>
+      <credits>
+         <![CDATA[
+            <span style="font-size: 90%">(l to r)Ariel Skelley/Blend Images/Getty Images, (2)Ross Taylor/Getty Images News/Getty Images, (3)Sergei Bachlakov/Getty Images News/Getty Images, (4)Hank Morgan/Photo Researchers, Inc., (5)David Riecks/age fotostock, (6)Richard T. Nowitz/Photo Researchers, Inc., (7)Brand X Pictures, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</span>
+         ]]>
+      </credits>
+   </scene>
+
+   <scene id="2" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_s1-2_s2.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="126" y="63"><![CDATA[
+				<h1></h1>
+				<p>Psychologists work on the cutting edge of modern brain science.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="562" y="19"><![CDATA[
+				<h1></h1>
+				<p>Psychologists debate the nature and meaning of mental illness.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="401" y="182"><![CDATA[
+				<h1></h1>
+				<p>Psychologists investigate how the Internet and the Web affect our thinking processes.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="362" y="53"><![CDATA[
+				<h1></h1>
+				<p>Psychologists study the best ways to educate children and the best ways to help seniors keep their intellects sharp.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="73" y="138"><![CDATA[
+				<h1></h1>
+				<p>Psychologists help workers deal with lay-offs and help immigrants find their way in a new culture.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="162" y="348"><![CDATA[
+				<h1></h1>
+				<p>Psychologists create measures of job satisfaction and ways to motivate employees.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="236" y="207"><![CDATA[
+				<h1></h1>
+				<p>Psychologists help create human interfaces with automobiles and video games.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_s1-2_s2</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Wieslaw Smetek/Photo Researchers, Inc., (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s3</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Purestock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s4</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Francis Zera/Spaces Images/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s5</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)Kristy-Anne Glubish/Design Pics, (r)Art Vandalay/Photodisc/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s6</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (b)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s7</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s8</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)BananaStock/PictureQuest, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s9</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)Andrea Chu/Digital Vision/Getty Images, (r)MedicalRF/Photo Researchers, Inc., (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s10</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)Andrea Chu/Digital Vision/Getty Images, (r)Joel Sartore/National Geographic/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s11</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)Andrea Chu/Digital Vision/Getty Images, (r)Sam Falk/Photo Researchers/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s12</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (r)Paul Damien/National Geographic/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s13</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Ken Cedeno/Corbis, (c)Paul Damien/National Geographic/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s14</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Stockbyte/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>psy_s1-2_s15</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Stockbyte/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="6">Social-cultural</match>
+			<match id="3">Humanistic</match>
+			<match id="4">Biological</match>
+			<match id="1">Cognitive</match>
+			<match id="2">Psychodynamic</match>
+			<match id="5">Behavioral</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1">How does a person with Internet addition plan and conduct Internet searches?</drop>
+			<drop correct="2">Does a person with Internet addition unconsciously relish the unlimited opportunities on the Internet because his father was extremely controlling?</drop>
+			<drop correct="3">Does a person with Internet addition vicariously seek relationships through Internet stories and photos?</drop>
+			<drop correct="4">A person experiences mood-altering effects from chemical changes in the brain when using the Internet.</drop>
+			<drop correct="5">One teen observes the behavior of a peer on the Internet and desires to replicate what he or she observed.</drop>
+			<drop correct="6">When her friends all rave about the new photos on a social network, a young woman decides to go see them for herself.</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_s1-2_s16</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction><![CDATA[<p><strong>Clinical:</strong> the diagnosis and treatment of illness</p>
+		 <p>Clinical professionals use the <i>Diagnostic and Statistical Manual of Mental Disorders</i> to guide their diagnosis of patients.</p>
+		 <p>A clinical psychologist will consider the patient's situation from different perspectives (5 axes).</p>]]></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_s1-2_s17.jpg</image>
+         <hotspots>
+            <hotspot numbered="true" title="1" dynamic="true" x="85" y="78"><![CDATA[
+               <h1></h1>
+               <p>Axis 1 documents the patient's symptoms of most psychological disorders.</p>
+            ]]></hotspot>
+            <hotspot numbered="true" title="2" dynamic="true" x="276" y="71"><![CDATA[
+               <h1></h1>
+               <p>Axis 2 specifically looks at whether the patient shows symptoms of mental retardation or a certain class of psychological disorders called personality disorders.</p>
+            ]]></hotspot>
+            <hotspot numbered="true" title="3" dynamic="true" x="271" y="319"><![CDATA[
+               <h1></h1>
+               <p>Axis 3 is concerned with medical conditions that may contribute to the patient's psychological distress.</p>
+            ]]></hotspot>
+            <hotspot numbered="true" title="4" dynamic="true" x="564" y="197"><![CDATA[
+               <h1></h1>
+               <p>Axis 4 is used for reporting social or environmental issues that may contribute to the patient's psychological distress.</p>
+            ]]></hotspot>
+            <hotspot numbered="true" title="5" dynamic="true" x="473" y="59"><![CDATA[
+               <h1></h1>
+               <p>Axis 5 is used for assessing the patient's ability to function in the world – at school, at work, in relationships, and in personal care. It is referred to as the General Assessment of Functioning (GAF).</p>
+            ]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_s1-2_s17</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Lewis J. Merrim/Photo Researchers, Inc., (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Axis 1 documents symptoms of most psychological disorders.</match>
+			<match id="1">Axis 2 looks for symptoms of personality disorders.</match>
+			<match id="4">Axis 3 is concerned with medical conditions.</match>
+			<match id="5">Axis 4 is concerned with social or environmental issues.</match>
+			<match id="2">GAF - General Assessment of Functioning</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="528" y="64" />
+			<drop correct="2" x="528" y="137" />
+			<drop correct="3" x="528" y="210" />
+			<drop correct="4" x="528" y="283" />
+			<drop correct="5" x="528" y="356" />
+         </drops>
+         <image>psy_s1-2_s18.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_s1-2_s18</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Not much has changed in the field of psychology in the last 20 years.</question>
+            <answers>
+			   <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Taking AP Psychology could help you get admitted to the college you prefer.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Psychologists use three perspectives as a way to organize the vast field of psychology.</question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Behavioral, evolutionary, and humanistic are examples of different types of psychological perspectives.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[Clinical professionals use the <em>Diagnostic and Statistical Manual of Mental Disorders</em> to guide their diagnoses of patients.]]></question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_s1-2_s19</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+</shell>

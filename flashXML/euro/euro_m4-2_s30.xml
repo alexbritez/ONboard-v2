@@ -1,0 +1,63 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m4-2_s30.jpg</image>
+		<audio>audio/euro_m4-2_s30.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>75</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[A]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[B]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[C]]></boxText>
+			<rightSpot>7</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[D]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[E]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[F]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[G]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[H]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[I]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[J]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+
+		<dSpot xCord="680.1" yCord="140.65" spotScale="30" spotNum="1"/>
+		<dSpot xCord="755.1" yCord="140.65" spotScale="30" spotNum="1"/>
+		<dSpot xCord="675.9" yCord="200.2" spotScale="30" spotNum="2"/>
+		<dSpot xCord="760.9" yCord="200.2" spotScale="30" spotNum="3"/>
+		<dSpot xCord="612.1" yCord="235.2" spotScale="30" spotNum="4"/>
+		<dSpot xCord="715.9" yCord="230.2" spotScale="30" spotNum="5"/>
+		<dSpot xCord="819.55" yCord="235.2" spotScale="30" spotNum="6"/>
+		<dSpot xCord="642.1" yCord="290.2" spotScale="30" spotNum="4"/>
+		<dSpot xCord="715.9" yCord="270.2" spotScale="30" spotNum="7"/>
+		<dSpot xCord="789.55" yCord="290.2" spotScale="30" spotNum="6"/>
+	</dropSpots>
+</DragDrop>

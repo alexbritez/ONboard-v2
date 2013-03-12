@@ -1,0 +1,55 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m2-2_s24.jpg</image>
+		<audio>audio/eng_m2-2_s24.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>120</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size="16">Emerson was lifted off her bike.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size="16">Movie tickets were purchased by Jill.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="16">Lyndi remembered where Dad hid the key.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="16">The curve was handled by Keith.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="16">Beth was asked to the prom by Luke.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="16">Jaime won the award.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="16">Ben jumped over the sprinkler.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="16">The class was captivated by Erika’s speech.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="582.6" yCord="186.8" spotScale="85" spotNum="1"/>
+		<dSpot xCord="582.6" yCord="246.8" spotScale="85" spotNum="1"/>
+		<dSpot xCord="582.6" yCord="306.8" spotScale="85" spotNum="1"/>
+		<dSpot xCord="582.6" yCord="366.8" spotScale="85" spotNum="1"/>
+		<dSpot xCord="582.6" yCord="426.8" spotScale="85" spotNum="1"/>
+		<dSpot xCord="846.9" yCord="186.8" spotScale="85" spotNum="2"/>
+		<dSpot xCord="846.9" yCord="246.8" spotScale="85" spotNum="2"/>
+		<dSpot xCord="846.9" yCord="306.8" spotScale="85" spotNum="2"/>
+		<dSpot xCord="846.9" yCord="366.8" spotScale="85" spotNum="2"/>
+		<dSpot xCord="846.9" yCord="426.8" spotScale="85" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>

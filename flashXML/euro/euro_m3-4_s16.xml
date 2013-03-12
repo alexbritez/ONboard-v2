@@ -1,0 +1,111 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What is the point of view of the artist?</title>
+		<info></info>
+		<image>images/euro_m3-4_s16.jpg</image>
+		<audio>audio/euro_m3-4_s16.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>936.35</xCord>
+			<yCord>250.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Many of the pious are wealthy people who seem to be brazenly acting penitent and giving alms to the poor. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>829.55</xCord>
+			<yCord>300.7</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Some of the poor and lame are even seen rushing over to the church to take advantage of their generosity. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>836.5</xCord>
+			<yCord>129.7</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Only the rich are seen exiting the church through the main door. Those leaving by the side door are the poor, who have had to bring their own chairs to the service. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>500.95</xCord>
+			<yCord>439.65</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The man to the left, with waffles stuck in his cap, plays dice with a man dressed as the devil, implying that gambling and playing dice endanger the soul. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>E</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>911.45</xCord>
+			<yCord>439.65</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>This woman begs next to a corpse, perhaps suggesting that the excessive piety of the wealthy is just for show. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>F</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>708.7</xCord>
+			<yCord>95.8</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Notice, the figure perched in front of an upper story window in the house at the center of the painting. It has been suggested that this is the artist himself taking in all the activity below him. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>G</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>636.8</xCord>
+			<yCord>239.3</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Notice the figures in the very center of the square walking with their backs to us. The one on the right is dressed as a nun, the other wearing a large brown hat. They seem to come from the opposing sides of the painting. They are being led by a man dressed in multi-colored clothing called motley, known as a fool, carrying a lit torch. Carrying a torch in daylight was a well-known Netherlandish proverb symbolizing foolishness or folly.  </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>H</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>693.7</xCord>
+			<yCord>331.8</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Also at the center is the town well. On the carnival side stands a pig, and on the Lent side a large fish representing feast and famine. The water belongs to the entire town, and has symbolic meaning as the true source of life. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>I</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>640.95</xCord>
+			<yCord>375.75</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Notice that the weapons that the figures representing Carnival and Lent carry do not actually clash.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

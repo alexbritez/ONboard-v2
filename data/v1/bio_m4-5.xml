@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Graphs: Trend Lines">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m4-5_s1</video>
+      <credits>(cl)Nigel Cattlin/Photo Researchers, Inc., (cr)Andy Sacks/Stone/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>bio_m4-5_s2</video>
+      <credits>(cl)Nigel Cattlin/Photo Researchers, Inc., (cr)Andy Sacks/Stone/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Biology: Graphing Data</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m4-5_s4.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m4-5_s4_a" dynamic="true" x="38" y="155"><![CDATA[
+				<h1></h1>
+				<p>Data from the dependent variable is plotted on the y-axis.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m4-5_s4_b" dynamic="true" x="384" y="357"><![CDATA[
+				<h1></h1>
+				<p>Data from the independent variable is plotted on the x-axis.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m4-5_s4</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m4-5_s7.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m4-5_s7_a" dynamic="true" x="45" y="64" title="1"><![CDATA[
+				<h1></h1>
+				<p>This line represents the opposite trend, or pattern, of what is found in the data. </p>
+			]]></hotspot>
+			<hotspot audio="bio_m4-5_s7_b" dynamic="true" x="251" y="64" title="2"><![CDATA[
+				<h1></h1>
+				<p>This line represents no trend, yet the data does show a trend.</p>
+			]]></hotspot>
+			<hotspot audio="bio_m4-5_s7_c" dynamic="true" x="465" y="64" title="3"><![CDATA[
+				<h1></h1>
+				<p>This line best fits the pattern of data shown on the graph. Notice that some data points are right on the trend line. Other data points are above the trend line, and some are below the trend line.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m4-5_s7</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s8</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Steve Cole/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>If the equation for the graph is y = 23x +1.7, what should be the percent change in mass of the solution when the molarity equals 2?</question>
+            <answers>
+               <answer>1.7</answer>
+			   <answer>2</answer>
+			   <answer>22</answer>
+			   <answer>44</answer>
+               <answer correct="true">47.7</answer>
+            </answers>
+            <figure><text><![CDATA[Suppose the molarity is 2. If the equation for the graph is <em>y</em> = 23x + 1.7, what should be the percent change in mass of the solution when the molarity equals 2?]]></text></figure>
+            <feedbackAudio>bio_m4-5_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-5_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s13</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m4-5_s14</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A trend line is also known as a best fit line.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>On the AP Biology exam, you will use a computer to draw trend lines.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Trend lines can be used to make inferences and draw conclusions about data.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which best describes a trend line?</question>
+            <answers>
+               <answer correct="true">A straight line through a graph that best represents the pattern of the data on the graph.</answer>
+			   <answer>A straight line on a graph that goes through every data point on the graph.</answer>
+			   <answer>A straight line on a graph that connects to some data points but also has various smaller lines projecting from the line to connect other data points.</answer>
+			   <answer>A statement that describes the data trends on a graph.</answer>
+			   <answer>A statement that describes how to extend the graph line to predict other values.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What does the R2 value report?</question>
+            <answers>
+               <answer>The relationship of a to b in the trend line equation.</answer>
+               <answer correct="true">How well the trend line of a graph fits the data.</answer>
+			   <answer>The slope of the trend line.</answer>
+			   <answer>The placement of independent variable values on the graph.</answer>
+			   <answer>The relationship of the x- and y-axes.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m4-5_s15</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

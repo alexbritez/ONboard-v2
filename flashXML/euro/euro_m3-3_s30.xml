@@ -1,0 +1,294 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m3-3_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>A prince must imitate the fox and the lion, for the lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves.<br/><font size='14'>From <font face='lc-Italic'>The Prince</font> by Niccolo Machiavelli</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>A prince must imitate the fox and the lion, for the lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves. <br/><font size='14'>From <font face='lc-Italic'>The Prince</font> by Niccolo Machiavelli</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>"In the actions of men, and especially of Princes, from which there is no appeal, the end justifies the means."<br/>From <font face='lc-Italic'>The Prince</font> by Niccolo Machiavelli</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>Society has the right to require of every public agent an account of his administration.<br/>From <font face='lc-Italic'>The Declaration of the Rights of Man and of the Citizen,</font> written in France in August 1789</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+	<question>
+		<qText>Which of the following explains why King James and Bishop Bossuet supported the Divine Right of Kings?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>They were both monarchs.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>They both served monarchs.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>James supported the Divine Right because he was a king and Bossuet was a supporter of James.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Bossuet wrote about the Divine Right, stressing the judicious use of power, because he was teaching a future king. James was a king.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Bossuet believed in the Divine Right because he could find evidence in the scripture to support this view. James believed that the Bible did not promote this view.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>In this quote, Machiavelli uses satire to describe the qualities of the ideal ruler.  </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText>According to Machiavelli, successful princes need to have which of the following qualities?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>cunning and dishonesty</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>kindness and honesty</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>cunning and strength</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>strength and honesty</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>dishonesty and kindness</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>Which of the following is a group of authors who favor absolute monarchy as the ideal form of government?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Rousseau, Machiavelli, and Bossuet</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Locke, Hobbes, and King James</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet, King James, and Rousseau</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Machiavelli, Locke, and Bossuet</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet, King James, and Hobbes</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+		
+	<question>
+		<qText>Which of the following Enlightenment writers was known for his use of satirical attacks on institutions and ideas with which he did not agree?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Jean Jacques Rousseau</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Thomas Hobbes</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Abbé Sieyes</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Voltaire</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Adam Smith</aText>
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The social contract theory was used by which of the following groups of writers?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Rousseau, Machiavelli, and Bossuet</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Locke, Hobbes, and King James</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Locke, Hobbes, and Rousseau</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Machiavelli, Locke, and Bossuet</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bossuet, King James, and Hobbes</aText>
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Machiavelli's political philosophy can best be grouped with which of the following historical figures?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Otto von Bismarck</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bishop Bossuet</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Jean Jacques Rousseau</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Abbe Sieyes</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>John Locke</aText>
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which of the following groups would have most disagreed with this quote from the French "Declaration of the Rights of Man?"</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Bossuet, Rousseau, and Machiavelli</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Locke, Sieyes, and Bossuet</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>King James, Sieyes, and Bossuet</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Hobbes, Bossuet, and Machiavelli</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Locke, Rousseau, and Hobbes</aText>
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Locke and Rousseau believe that human nature is inherently good.  </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>False</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>"...and private misfortunes make the public good, so that the more private misfortunes there are, the more everything is well."<br/>This is an example of</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>metaphor</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>satire</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-3_s133_FB.mp3" />
+	</question>
+</MultipleChoice>

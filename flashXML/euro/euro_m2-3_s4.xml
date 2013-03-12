@@ -1,0 +1,39 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Thesis Creation Process</title>
+		<info></info>
+		<image>images/euro_m2-3_s4.jpg</image>
+		<audio>audio/euro_m2-3_s4.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Step 1: Dissect the prompt  </Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>469.75</xCord>
+			<yCord>210</yCord>
+			<width>134</width>
+			<popTitle>Step 1: Dissect the prompt  </popTitle>
+			<popInfo><![CDATA[The “prompt” is another word for the question. It’s used because it “prompts” you about what to write. Sometimes a prompt is a statement that you need to support or refute and not an actual question. In order to address the prompt effectively, you have to figure out exactly what it is asking. Take about five minutes to plan out your approach to answering the question. Many students begin writing their essays right away, but you should resist this impulse and take time to plan.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Step 2: Organize your thoughts</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>700.75</xCord>
+			<yCord>210</yCord>
+			<width>85</width>
+			<popTitle>Step 2: Organize your thoughts</popTitle>
+			<popInfo><![CDATA[Due to time constraints during the Exam, it is important to recognize that this step simply involves brainstorming. A few bullet points are enough. This is not a research paper requiring an outline. Think of all the relevant specific details and examples related to the topic that you can recall. Consider how you can use the evidence, which you have in your head, to respond to the prompt. This information forms the basis for the paragraphs of your essay.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Step 3: Form your thesis statement</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>932.75</xCord>
+			<yCord>210</yCord>
+			<width>92</width>
+			<popTitle>Step 3: Form your thesis statement</popTitle>
+			<popInfo><![CDATA[A thesis is normally a one- or two-sentence statement explaining the main arguments (or points) you will develop in your essay.  A strong thesis has a clear relationship to the question.  A good thesis also ties the parts of the essay together.]]></popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>

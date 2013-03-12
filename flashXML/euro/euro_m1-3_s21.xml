@@ -1,0 +1,211 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m1-3_s21.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>Which of the following is a European legislative body?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Minister</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Duma</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The idea that political authority rests in written law, not in the person of an absolute monarch.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Constitutionalism</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Fascism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Perhaps the best example of an absolute monarch is</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Queen Victoria of England </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Louis XIV of France</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Which of the following would appeal to a 19th Century liberal?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Absolute monarchy</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Representational government</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Conservatives favored</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the status-quo</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>progressive change</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Marx argued that the last stage of history was </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the inevitable stage of Communism</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the triumph of Democracy</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>The Congress of Vienna was</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Conservative</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Liberal</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Monarchs who embraced ideas of toleration and rationality were called</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Absolute Monarchs</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Enlightened Monarchs</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Intense feelings of pride and superiority for your own country is known as </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Communism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Nationalism</aText> 
+			    <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>This is an ideology characterized by extreme nationalism, militarism, and loyalty to one ruler.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Fascism</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Nationalism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+		
+
+	
+</MultipleChoice>

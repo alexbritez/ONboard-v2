@@ -1,0 +1,29 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m4-4_s10.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Which of the following seems MOST evident in the map of musical centers?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Continuity</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Change</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-4_s10.mp3" />
+	</question>
+
+</MultipleChoice>

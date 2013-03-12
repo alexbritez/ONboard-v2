@@ -1,0 +1,40 @@
+﻿<PopUp>
+	<face>and the thing</face>
+	<slideInfo>
+		<title>Subtraction – Different Exponents</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-1_s20.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s20.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Olde Tyme</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>431.15</xCord>
+			<yCord>211.35</yCord>
+			<width>134</width>
+			<popTitle>The correct steps are:</popTitle>
+			<popInfo><![CDATA[<p>(6.2 × 10<font face='SuperScript'>4</font>)<br/><br/>6.2 <font face='CambriaMath'>→</font> 62<br/><br/>10<font face='SuperScript'>4</font> <font face='CambriaMath'>→</font> 10<font face='SuperScript'>3</font><br/><br/>(62 × 10<font face='SuperScript'>3</font>) − (5.25 × 10<font face='SuperScript'>3</font>)</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Ants</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>431.15</xCord>
+			<yCord>289.35</yCord>
+			<width>85</width>
+			<popTitle>The correct steps are:</popTitle>
+			<popInfo><![CDATA[(62 − 5.25) × 10<font face='SuperScript'>3</font><br/><br/>56.75 × 10<font face='SuperScript'>3</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Structure</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>431.15</xCord>
+			<yCord>369.8</yCord>
+			<width>92</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[5.675 × 10<font face='SuperScript'>4</font>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

@@ -1,0 +1,278 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m2-1_s33.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+				<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<!--<fraction></fraction>-->
+		<qText><![CDATA[Tameka stayed home from school because she just did not feel ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[good.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				<frac></frac>
+				 <aText><![CDATA[well.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[I had to be patient with my neighbor because he was the _____thoughtless person I had ever met.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[more]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[most]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The newly-knighted actor received his honors from the queen bowing in a gentlemanly fashion.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Bowing in a gentlemanly fashion, the newly-knighted actor received his honors from the queen.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Looking out the window, as a gang of thugs robbed the liquor store across the street.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Looking out the window, I watched as a gang of thugs robbed the liquor store across the street.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[After the forest fire burned down several homes along the mountainside. State and federal officials provided assistance to displaced homeowners. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[After the forest fire burned down several homes along the mountainside, state and federal officials provided assistance to displaced homeowners.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[After the forest fire burned down. Several homes along the mountainside. State and federal officials provided assistance to displaced homeowners.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[After the forest fire burned down several homes, along the mountainside state and federal officials provided assistance to displaced homeowners.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>	
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[On the horizon were a tiny speck of sun indicating that dawn were imminent.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[On the horizon were a tiny speck of sun indicating that dawn was imminent.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[On the horizon was a tiny speck of sun indicating that dawn were imminent.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[On the horizon was a tiny speck of sun indicating that dawn was imminent.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Adam devours a huge meal before we left on our camping trip.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Adam devoured a huge meal before we left on our camping trip. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Adam devours a huge meal before we are leaving on our camping trip.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Adam devoured a huge meal before we are leaving on our camping trip.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[She could not believe how long it took to clean up the living room the party was over.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[She could not believe how long it took to clean up the living room, the party was over.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[She could not believe how long it took to clean up the living room after the party was over.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[She could not believe how long it took, to clean up the living room the party was over.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[They had a great time at the party but when it was over no one stayed to help clean up.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[They had a great time at the party when it was over no one stayed to help clean up.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[They had a great time at the party, but when it was over no one stayed to help clean up.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[They had a great time at the party it was over no one stayed to help clean up.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction></fraction>
+		<qText><![CDATA[Which sentence is correct?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Cleaning up is no fun.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Cleaning up no fun at all.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Cleaning up never no fun.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Cleaning up no fun.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>	
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

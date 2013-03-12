@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Can you complete these tired clichés?]]></hText>
+		<qText><![CDATA[1.	Cool as a _____<br />2.	Happy as a _____<br />3.	Calm, cool, and _____<br />4.	White as a _____]]></qText>
+		<correctText><![CDATA[<font face='c-Bold'>ANSWERS</font><br />1.	Cool as a cucumber<br />2.	Happy as a clam (or lark)<br />3.	Calm, cool, and collected<br />4.	White as a sheet (or ghost)]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m2-2_s11.jpg" />
+		<audio>audio/eng_m2-2_s11.mp3</audio>
+		<feedback>audio/eng_m2-2_s11_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

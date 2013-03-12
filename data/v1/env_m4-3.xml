@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Physical Properties">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m4-3_s1</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>States of Matter</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m4-3_s2.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="env_m4-3_s2_solid" x="157" y="0"><![CDATA[
+				<h1>Solid</h1>
+				<p>The particles in a solid are closer together than in a liquid or a gas. The particles are also organized. For that reason, a solid has a definite shape and volume.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m4-3_s2_liquid" x="292" y="0"><![CDATA[
+				<h1>Liquid</h1>
+				<p>Although the particles in a liquid are still fairly close together, they are farther apart than in a solid. They are also disorganized. Liquids have a definite volume but can change shape.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m4-3_s2_gas" x="431" y="0"><![CDATA[
+				<h1>Gas</h1>
+				<p>The particles that make up a gas are far apart and disorganized. Gases do not have a definite shape or a definite volume.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m4-3_s2</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Alexey Stiop/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="States of Matter">
+            <match id="1">Solid</match>
+			<match id="2">Liquid</match>
+			<match id="3">Gas</match>
+			<match id="4">Plasma</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4" x="22" y="98" />
+			<drop correct="2" x="22" y="158" />
+			<drop correct="1" x="22" y="218" />
+			<drop correct="3" x="22" y="278" />
+         </drops>
+         <image>env_m4-3_s4.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m4-3_s4</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)Brand X Pictures/PunchStock, (2)Image Source/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="6_Activity_Interactivity">
+      <content>
+         <header>States of Matter</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M04_03_06P.mp4</url>
+      <image>env_m4-3_s6.jpg</image>
+      <audio>env_m4-3_s6</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions><![CDATA[<p>Match the items on the left to the correct areas on the right.</p><h1>Process</h1>]]></matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="Process">
+            <match id="1">boiling</match>
+			<match id="2">melting</match>
+			<match id="3">condensation</match>
+			<match id="4">freezing</match>
+			<match id="5">sublimation</match>
+			<match id="6">crystallization</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="62" y="85" />
+			<drop correct="1" x="62" y="131" />
+			<drop correct="5" x="62" y="177" />
+			<drop correct="3" x="62" y="223" />
+			<drop correct="4" x="62" y="269" />
+			<drop correct="6" x="62" y="315" />
+         </drops>
+         <image>env_m4-3_s7.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m4-3_s7</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)Brand X Pictures/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s9</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)Brand X Pictures/PunchStock, (2)PM Images/Photodisc/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s10</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s11</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s12</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Image Source/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s13</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s14</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[What is the approximate density of this substance in g/cm<sup>3</sup>?]]></question>
+            <answers>
+               <answer correct="true">11.35</answer>
+			   <answer>1.135</answer>
+			   <answer>81.216</answer>
+			   <answer>0.088125</answer>
+			   <answer>8.8125</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+					<p><strong>m = 96.0 grams</strong></p>
+					<p><strong>V = 8.46 cm<sup>3</sup></strong></p>
+				]]></text>
+			</figure>
+            <feedbackAudio>env_m4-3_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-3_s15</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m4-3_s16</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Extensive Physical Properties</header>
+         <instruction>Extensive property - a property that depends on the amount of substance present</instruction>
+      </content>
+      <activity type="image">
+         <image>env_m4-3_s17.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="6" y="104"><![CDATA[
+				<h1>Mass</h1>
+				<p>The mass depends on how much of the substance is present.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="360" y="353"><![CDATA[
+				<h1>Volume:</h1>
+				<p>The volume depends on how much space the substance occupies.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="267" y="6"><![CDATA[
+				<h1>Length:</h1>
+				<p>The length depends on how long the object is.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="577" y="158"><![CDATA[
+				<h1>Weight:</h1>
+				<p>The weight depends on how much mass is present.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m4-3_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Stockbyte/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Physical changes</question>
+            <answers>
+				<answer>are always reversible.</answer>
+				<answer>cannot be used to identify the substance.</answer>
+				<answer correct="true">do not change the composition of the substance.</answer>
+				<answer>can only occur at room temperature.</answer>
+				<answer>can be observed only with the use of special instruments.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is an example of an intensive physical property?</question>
+            <answers>
+				<answer>Mass</answer>
+				<answer>Volume</answer>
+				<answer>Weight</answer>
+				<answer correct="true">Density</answer>
+				<answer>Height</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is NOT an example of a physical change or property?</question>
+            <answers>
+				<answer>A sheet of copper is hammered until it is only 1.0 mm thin.</answer>
+				<answer correct="true">A piece of paper is burned and leaves a pile of ashes.</answer>
+				<answer>A piece of limestone is crushed by striking it with a hammer.</answer>
+				<answer>A jar of solid iodine is opened and a purple gas is emitted from the jar.</answer>
+				<answer>A metal wire gets hot as it conducts electricity.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following best describes boiling?</question>
+            <answers>
+				<answer><![CDATA[solid &rarr; liquid]]></answer>
+				<answer correct="true"><![CDATA[liquid &rarr; gas]]></answer>
+				<answer><![CDATA[solid &rarr; gas]]></answer>
+				<answer><![CDATA[gas &rarr; liquid]]></answer>
+				<answer><![CDATA[liquid &rarr; solid]]></answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which best describes density?</question>
+            <answers>
+				<answer>D = V/m</answer>
+				<answer>The amount of space an object takes up</answer>
+				<answer>The measure of how much matter is in an object</answer>
+				<answer correct="true">D.	The ratio of the mass of a substance to its volume</answer>
+				<answer><![CDATA[<em>l</em> &times; <em>w</em> &times; <em>h</em>]]></answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-3_s18</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

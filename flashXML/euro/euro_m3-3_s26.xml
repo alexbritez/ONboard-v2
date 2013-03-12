@@ -1,0 +1,41 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-3_s26.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Which of the following statements most completely represents Locke's beliefs concerning absolute monarchy?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Absolute monarchy is illegitimate, since it puts the power to judge in the hands of the nobility.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Absolute monarchy can be a good form of government, if the king judges fairly in disputed matters.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Absolute monarchy is illegitimate, since it puts the power in the hands of one person, rather than in an impartial government sanctioned by the people.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Absolute monarchy is a legitimate form of government, since the king gets his sovereignty from God.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>In civil society, individuals have the right to pass judgment and punish wrongdoers, so absolute government is best.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-3_s26_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

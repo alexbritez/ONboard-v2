@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s16.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s14.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>According to the map, is it logical to assume that the British and the French came into conflict at Fashoda in central eastern Africa?</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>Yes</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>No</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+	
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s16_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

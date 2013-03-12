@@ -1,0 +1,95 @@
+<PopUp>
+	<slideInfo>
+		<title>Historical Context</title>
+		<info></info>
+		<image>images/euro_m3-1_s27.jpg</image>
+		<audio>audio/euro_m3-1_s27.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Social class</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_class.mp3"/>
+			<xCord>533.7</xCord>
+			<yCord>192.8</yCord>
+			<width>134</width>
+			<popTitle>Social class</popTitle>
+			<popInfo>James was a member of the Stuart family, the royal family of Scotland.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Nationality</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_nation.mp3"/>
+			<xCord>856.3</xCord>
+			<yCord>192.8</yCord>
+			<width>134</width>
+			<popTitle>Nationality</popTitle>
+			<popInfo>James was from Scotland.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Age</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_age.mp3"/>
+			<xCord>856.3</xCord>
+			<yCord>102.15</yCord>
+			<width>134</width>
+			<popTitle>Age</popTitle>
+			<popInfo>James was 32 when he wrote "On the True Lawe of Free Monarchies".</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Political</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_political.mp3"/>
+			<xCord>856.3</xCord>
+			<yCord>374.1</yCord>
+			<width>134</width>
+			<popTitle>Political</popTitle>
+			<popInfo>James was not a member of any political party.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Gender</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_gender.mp3"/>
+			<xCord>533.7</xCord>
+			<yCord>102.15</yCord>
+			<width>134</width>
+			<popTitle>Gender</popTitle>
+			<popInfo>James was male.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Occupation</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_occupation.mp3"/>
+			<xCord>856.3</xCord>
+			<yCord>283.45</yCord>
+			<width>134</width>
+			<popTitle>Occupation</popTitle>
+			<popInfo>James was the King of Scots (beginning in 1567) and also the King of England (beginning in 1603)</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Education</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_education.mp3"/>
+			<xCord>533.7</xCord>
+			<yCord>283.45</yCord>
+			<width>134</width>
+			<popTitle>Education</popTitle>
+			<popInfo>James was educated by private tutors and was fluent in English, French, and Latin.</popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>Purpose</Name>
+			<audio enable="true" url="audio/euro_m3-1_s27_purpose.mp3"/>
+			<xCord>533.7</xCord>
+			<yCord>374.1</yCord>
+			<width>134</width>
+			<popTitle>Purpose</popTitle>
+			<popInfo>James wrote "On the True Lawe of Free Monarchies" to show the nobility that he believed he was a strong ruler by divine right.</popInfo>
+		</pButton>
+
+
+	
+	</popButtons>
+</PopUp>

@@ -1,0 +1,88 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>SECOND PARAGRAPH</title>
+		<info></info>
+		<image>images/eng_m3-4_s17.jpg</image>
+		<audio>audio/eng_m3-4_s17.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>654.35</xCord>
+			<yCord>434.4</yCord>
+			<width>134</width>
+			<popTitle>1</popTitle>
+			<popInfo>Topic sentence or claim that connects to the thesis:  Gregory Powell appears to be doubtful of the robot that he created.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>711.35</xCord>
+			<yCord>159.5</yCord>
+			<width>134</width>
+			<popTitle>2</popTitle>
+			<popInfo>“repressed a sudden attack of nerves”</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>3</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>792.3</xCord>
+			<yCord>237.45</yCord>
+			<width>134</width>
+			<popTitle>3</popTitle>
+			<popInfo><![CDATA[<font face='c-Italic'>“safe!”</font> in italics; trying to convince himself]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>4</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>739.3</xCord>
+			<yCord>332.45</yCord>
+			<width>134</width>
+			<popTitle>4</popTitle>
+			<popInfo>“his brows furrowed doubtfully”</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>5</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>632.35</xCord>
+			<yCord>316.45</yCord>
+			<width>134</width>
+			<popTitle>5</popTitle>
+			<popInfo>“Mathematical squiggles . . . against robot fact.”</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>6</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>619.35</xCord>
+			<yCord>211.5</yCord>
+			<width>134</width>
+			<popTitle>6</popTitle>
+			<popInfo>Syntax of fragments and dashes shows anxiety.</popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

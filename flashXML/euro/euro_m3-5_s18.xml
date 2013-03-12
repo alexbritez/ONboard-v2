@@ -1,0 +1,74 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Photographs</title>
+		<info></info>
+		<image>images/euro_m3-5_s18.jpg</image>
+		<audio>audio/euro_m3-5_s18.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>908.2</xCord>
+			<yCord>330.1</yCord>
+			<width>134</width>
+			<popTitle>Who are these people? </popTitle>
+			<popInfo><![CDATA[<p>The ragged and ill-fitting clothing of most of the people, including the speaker indicate that they are peasants. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>808</xCord>
+			<yCord>104.7</yCord>
+			<width>134</width>
+			<popTitle>Where is this taking place? </popTitle>
+			<popInfo><![CDATA[<p>Although there are not many visible clues that would help us answer this question, it is reasonable to assume the scene takes place in the peasants’ village, in front of the one of their log huts, from which two rough tables and some chairs have been removed to make a kind of stage for the speakers.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>C</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>558.65</xCord>
+			<yCord>112.35</yCord>
+			<width>134</width>
+			<popTitle>What is being discussed?</popTitle>
+			<popInfo><![CDATA[<p>Here, the portrait may give us a clue. The portrait is that of Vladimir Lenin, the force behind the Russian Revolution of 1917 and the first leader of the Soviet Union. He assumed dictatorial control over the USSR after his Communist Red Army defeated the anti-communist White Army in the four year-long Russian civil war that ended in 1922. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>D</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>477.75</xCord>
+			<yCord>327.65</yCord>
+			<width>134</width>
+			<popTitle>What is the significance?</popTitle>
+			<popInfo><![CDATA[<p>The papers and pamphlets on the table are also significant. The writings of both Karl Marx and Vladimir Lenin formed the ideological basis for the political, social, and economic organization of the Soviet Union. These ideas were unfamiliar to the vast majority of illiterate peasants in the 1920s, and well-coordinated efforts were made to bring Marxist-Leninist doctrine to every corner of the USSR. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>E</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>709.5</xCord>
+			<yCord>242.65</yCord>
+			<width>134</width>
+			<popTitle>Who is the speaker?</popTitle>
+			<popInfo><![CDATA[<p>While the portrait of Lenin oversees the proceedings, a peasant who may be a Communist Party member tells the villagers about the new government ideology. The booklets on the table may contain simple Communist sayings from Marx and Lenin’s writings. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>F</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>627.55</xCord>
+			<yCord>186.7</yCord>
+			<width>134</width>
+			<popTitle>The Commissar</popTitle>
+			<popInfo><![CDATA[<p>These education campaigns in the countryside were usually organized by Communist Party functionaries known as Political Commissars who were sent from Moscow to supervise and oversee the proceedings, making sure the peasant speakers were sticking to Communist orthodoxy when they spoke. The pose, posture, expression, position, and clothing of the man in the overcoat indicate that he is probably such a political commissar. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>G</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>584.3</xCord>
+			<yCord>287.65</yCord>
+			<width>134</width>
+			<popTitle>How do they feel?</popTitle>
+			<popInfo><![CDATA[<p>The commissar’s presence in the village may account for some of the worried or serious expressions among the villagers notably that of the young woman seated behind the table. Commissars were often regarded with fear, suspicion and resentment because they represented a government that sought to requisition the peasants’ harvests and confiscate their private property.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

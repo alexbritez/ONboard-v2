@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Find the Passive]]></hText>
+		<qText><![CDATA[In the final seconds of a nail-biting game, West’s football team scored the needed three points to defeat East, and this year’s Football Championship was won by West. The winning points came during a surprising field-goal conversion. Favored to win was East, but injuries were sustained by two of its star players the day before the game. West’s Coach said, “I knew my players wanted to win the title, and they weren’t going to settle for anything less.” An East player, who wishes to remain anonymous, admitted to being overconfident. A confession was made by him that he did not anticipate West’s new plays.]]></qText>
+		<correctText><![CDATA[<font face='c-Bold' >SAMPLE ANSWERS</font><br /><br />“Football Championship was won by West”<br />“Favored to win was East”<br />“injuries were sustained by two of its star players”<br />“to being overconfident”<br />“confession was made by him”]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m2-2_s11.jpg" />
+		<audio>audio/eng_m2-2_s25.mp3</audio>
+		<feedback>audio/eng_m2-2_s25_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

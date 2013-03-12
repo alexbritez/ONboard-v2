@@ -1,0 +1,152 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m3-3_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[The primary purpose of an introduction is to<br/><br/>present the thesis.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[TRUE]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[FALSE]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-3_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[The type of introduction an author chooses<br/><br/>depends on the subject, purpose, and audience.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[TRUE]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[FALSE]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-3_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Which of these would be a logical introduction for<br/><br/>an analysis essay?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Describe the location, characters, or initial problem of a plot.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Identify the controversial issue.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Present essential background information.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Define key terms.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Choose interesting details or ideas.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-3_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Which of these would be a logical introduction for<br/><br/>an argumentation essay?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Describe the location, characters, or initial problem of a plot.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Identify the controversial issue.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Present essential background information.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Define key terms.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Choose interesting details or ideas.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-3_s30_FB.mp3" />
+	</question>
+	
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Which of these would be a logical introduction for<br/><br/>a narrative essay?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Describe the location, characters, or initial problem of a plot.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Identify the controversial issue.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Present essential background information.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Define key terms.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Choose interesting details or ideas.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-3_s30_FB.mp3" />
+	</question>	
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->

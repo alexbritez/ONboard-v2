@@ -1,0 +1,72 @@
+<PopUp>
+	<slideInfo>
+		<title>Significant Figures</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-2_s8.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-2_s8.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+	
+		<pButton> 
+			<Name>The correct answer is:</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>476.1</xCord>
+			<yCord>152.35</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[4]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>The correct answer is:</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>489.1</xCord>
+			<yCord>209.35</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[4]]></popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>The correct answer is:</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>489.1</xCord>
+			<yCord>265.35</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[5]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>The correct answer is:</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>550.1</xCord>
+			<yCord>321.35</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[7]]></popInfo>
+		</pButton>
+	
+		<pButton> 
+			<Name>The correct answer is:</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>463.1</xCord>
+			<yCord>378.35</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[3]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>The correct answer is:</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/launchAudio.mp3"/>
+			<xCord>488.1</xCord>
+			<yCord>434.35</yCord>
+			<width>134</width>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[5]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>

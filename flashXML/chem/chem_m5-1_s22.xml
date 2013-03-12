@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Convert the following, <br />assuming all gases are at STP.]]></hText>
+		<qText>Convert 36.6 liters He to moles.</qText>
+		<correctText><![CDATA[<font face='c-Bold' size='13'>The correct answer is: </font><br />1.63 mol of He]]></correctText>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-1_s22.swf" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-1_s22.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-1_s22_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

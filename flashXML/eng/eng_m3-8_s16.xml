@@ -1,0 +1,28 @@
+<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p>Ronald Reagan: The Deliberately Vague President</p>]]></hText>
+		<image></image>
+		<audio>audio/eng_m3-8_s16.mp3</audio>
+		<mainText><![CDATA[<p>	President Ronald Reagan’s style of leadership was a study in contradicted expectations. With his cheerful wave and jutting jaw, he projected an aura of physical vitality and movie-star good looks. Yet at 69 he was the oldest person to become president, and no one since Calvin Coolidge slept as soundly or as often. 
+	Such serenity marked Reagan’s refusal to become bogged down in the details of his job. Outsiders applauded his “hands-off” style after four years under President Jimmy Carter, whose obsession with policy details led critics to say he missed the forest for the trees. Reagan set the direction of his administration, leaving the rest to his advisors. Sometimes that left him in the dark about major programs. Donald Regan, his first Treasury Secretary, once noted: “The Presidential mind was not cluttered with facts.”
+	The effectiveness of Reagan’s message was no accident. The president had honed his public speaking skills as an actor, as a spokesperson for General Electric, and as a politician. His communications staff planned everything from the president’s words to a speech’s location and camera angles down to the lighting. But the elaborate preparation also depended on Reagan’s discipline as a performer. The president as well as his staff understood how to use a battlefield, a classroom, or the flag to communicate a hopeful message.</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

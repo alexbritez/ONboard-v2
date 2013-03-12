@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Electronegativity">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m5-3_s1</video>
+      <credits>(cl-cr)NOAA, (bkgd)Image Source/Getty Images,  (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m5-3_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m5-3_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m5-3_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m5-3_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.&lt;br&gt;If you need to review the Electronegativity table to help you answer this question, go to slide 4.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Lithium has an electronegativity of 1.0. Which statement best describes lithium's attraction for electrons compared to that of fluorine?</question>
+            <answers>
+               <answer>Lithium's attraction is four times that of fluorine.</answer>
+               <answer correct="true">Lithium's attraction is one-fourth that of fluorine.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Periodic Table and Electronegativity Values</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m5-3_s7.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="30" y="221"><![CDATA[
+				<h1></h1>
+				<p>Electronegativity tends to increase across each period of the periodic table, but there are exceptions.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="425" y="38"><![CDATA[
+				<h1></h1>
+				<p>Electronegativities also tend to either decrease down a group or remain the same.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m5-3_s7</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m5-3_s8</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which atom has a stronger attraction for shared electrons?</question>
+            <answers>
+               <answer>Sodium (Na) with an electronegativity of 0.9</answer>
+               <answer correct="true">Chlorine (Cl) with an electronegativity of 3.0</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m5-3_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">nitrogen (N)</match>
+			<match id="2">oxygen (O)</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="373" y="183" />
+			<drop correct="1" x="373" y="275" />
+         </drops>
+         <image>bio_m5-3_s11.jpg</image>
+      </matching>
+      <instructions><![CDATA[If you need to review the Electronegativity table to help you answer this question, go to slide 4.<br/><br/>When you are done, check your results by clicking 'Check Answers.']]></instructions>
+      <audio>bio_m5-3_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_03_05P.mp4</url>
+      <image>bio_m5-3_s12.jpg</image>
+      <audio>bio_m5-3_s12</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>In a covalent bond, atoms share electrons.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Electrons are shared equally in polar covalent bonds.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>In carbon dioxide, carbon has a higher electronegativity value than oxygen.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Electronegativity is a measure of the ability of an atom in a compound to attract shared electrons.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An electronegativity difference of 0.5-2.1 indicates a nonpolar covalent bond.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An atom of gold has an electronegativity value of 2.4. An atom of silver has less attraction for shared electrons in a chemical bond than an atom of gold. What is the electronegativity value of silver?</question>
+            <answers>
+               <answer>4.0</answer>
+			   <answer>2.6</answer>
+			   <answer>2.4</answer>
+               <answer correct="true">1.9</answer>
+			   <answer>0</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What can happen when the electronegativity difference between two atoms is 0?</question>
+            <answers>
+               <answer correct="true">They can form a nonpolar covalent bond.</answer>
+			   <answer>They can form a polar covalent bond.</answer>
+			   <answer>They can form an ionic bond.</answer>
+			   <answer>They cannot form a chemical bond.</answer>
+			   <answer>They cannot share electrons.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Sodium has an electronegativity value of 0.9. Look closely at the following list of elements and their electronegativity values. Which element would most likely form an ionic bond with sodium based on their difference in electronegativity values?</question>
+            <answers>
+               <answer>Phosphorus: 2.1</answer>
+			   <answer>Neon: 0</answer>
+               <answer correct="true">Oxygen: 3.5</answer>
+			   <answer>Lithium: 1.0</answer>
+			   <answer>Iron: 1.8</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which statement is true about an element that has a high electronegativity value?</question>
+            <answers>
+               <answer>The element will form only ionic bonds.</answer>
+			   <answer>The element will form only nonpolar covalent bonds.</answer>
+			   <answer>The element will form only polar covalent bonds.</answer>
+			   <answer>The element will not share electrons with another element.</answer>
+               <answer correct="true">The element exerts a strong attractive force on shared electrons.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>How could you tell that two nitrogen atoms form nonpolar covalent bonds?</question>
+            <answers>
+               <answer>Each nitrogen atom has an electronegativity value of 0.</answer>
+			   <answer>They share electrons unequally.</answer>
+			   <answer correct="true">Their electronegativity difference is 0.</answer>
+			   <answer>Both nitrogen atoms have an electronegativity value greater than that of fluorine.</answer>
+			   <answer>Nitrogen is located on the right side of a periodic table.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m5-3_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

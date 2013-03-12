@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Hypothesis">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m2-3_s1</video>
+      <credits>(cl)Ingram Publishing, (cr)NASA, ESA, and the Hubble SM4 ERO Team, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Noel Hendrickson/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Randy Faris/Fuse/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)D. Hurst/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s5</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Datacraft Co Ltd/imagenavi/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Noel Hendrickson/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Click to Explore</header>
+         <instruction>Click on the 'hot spots' to view additional information.</instruction>
+      </content>
+      <activity type="text">
+         <text><![CDATA[
+		 	<p style="font-size:180%;"><strong>Characteristics of a Good Hypothesis</strong></p>
+			<p style="font-size:180%;"><strong>Hypothesis:</strong> If the <a href="#" data-id="0" class="hotspot">temperature</a> is increased, then Species B will <a href="#" data-id="1" class="hotspot">grow</a> taller than Species A.</p>
+		 ]]></text>
+         <hotspots>
+            <hotspot><![CDATA[<h1></h1><p>The investigator can test how temperature affects the growth of the plants.</p>]]></hotspot>
+			<hotspot><![CDATA[<h1></h1><p>The investigator can measure how the plants grow under different conditions.</p>]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m2-3_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Randy Faris/Fuse/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Noel Hendrickson/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Click to Explore</header>
+         <instruction>Click on the 'hot spots' to view additional information.</instruction>
+      </content>
+      <activity type="text">
+         <text><![CDATA[
+		 	<p style="font-size:125%;"><a href="#" data-id="0" class="hotspot"><strong>A.</strong></a> If conditions are hot and dry, then species A will<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grow taller.</p>
+			<p style="font-size:125%;"><a href="#" data-id="1" class="hotspot"><strong>B.</strong></a> If the temperature is decreased, then fewer moths<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will hatch.</p>
+			<p style="font-size:125%;"><a href="#" data-id="2" class="hotspot"><strong>C.</strong></a> If the <em>Pax6</em> gene is present, then ribbon worms can<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regenerate eyespots.</p>
+			<p style="font-size:125%;"><a href="#" data-id="3" class="hotspot"><strong>D.</strong></a> If a rat is exposed to the SARS virus, then it will<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop scarring in the lungs and be unable to<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reproduce.</p>
+		 ]]></text>
+         <hotspots>
+            <hotspot audio="bio_m2-3_s11_A"><![CDATA[<h1></h1><p>If conditions are hot and dry, then species A will grow taller.</p>]]></hotspot>
+			<hotspot audio="bio_m2-3_s11_B"><![CDATA[<h1></h1><p>If the temperature is decreased, then fewer moths will hatch.</p>]]></hotspot>
+			<hotspot audio="bio_m2-3_s11_C"><![CDATA[<h1></h1><p>If the <em>Pax6</em> gene is present, then ribbon worms can regenerate eyespots.</p>]]></hotspot>
+			<hotspot audio="bio_m2-3_s11_D"><![CDATA[<h1></h1><p>If a rat is exposed to the SARS virus, then it will develop scarring in the lungs and be unable to reproduce.</p>]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m2-3_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s12</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Characteristics of a Good Hypothesis</header>
+         <instruction>If the temperature is decreased, then fewer moths will hatch.</instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m2-3_s13.jpg</image>
+         <hotspots>
+            <hotspot audio="bio_m2-3_s13_A" dynamic="true" x="15" y="124" title="If"><![CDATA[
+				<h1>IF</h1>
+				<p><em>If</em> = Independent variable</p>
+			]]></hotspot>
+			<hotspot audio="bio_m2-3_s13_B" dynamic="true" x="403" y="200" title="Then"><![CDATA[
+				<h1>THEN</h1>
+				<p><em>Then</em> = Dependent variable</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m2-3_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)baobao ou/Flickr/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s14</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Randy Faris/Fuse/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s15</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Noel Hendrickson/Digital Vision/Getty Images, (2)Scott Markewitz/Photographer's Choice RF/Getty Images, (bkgd)Images Source/Getty Images</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>
+         <![CDATA[
+            <h1>Characteristics of a Good Hypothesis</h1>
+         ]]>
+         Match the items on the left to the correct areas on the right.
+      </matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="4">Testable</match>
+			<match id="3">Two Variables</match>
+			<match id="2">If/Then Statement</match>
+			<match id="1">Logical</match>
+         </matches>
+         <drops title="Characteristics of a Good Hypothesis" children-styles="margin-bottom: 3em;">
+            <drop correct="1"><![CDATA[1. If the plants carry out photosynthesis, then they must have<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;underground roots.]]></drop>
+			<drop correct="2"><![CDATA[2. A decrease in the amount of nitrogen in the soil will lead to<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;an increase in the rate of photosynthesis in Brassica rapa<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plants.]]></drop>
+			<drop correct="3"><![CDATA[3. If you increase the temperature and the concentration of<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;carbon dioxide, then the rate of photosynthesis will<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;increase.]]></drop>
+			<drop correct="4"><![CDATA[4. If you increase the intensity of the sun, then the rate of<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;photosynthesis in all plants will increase.]]></drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m2-3_s16</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s17</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Randy Faris/Fuse/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s18</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>bio_m2-3_s19</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Based on the data, which of the following is the best way to revise the original hypothesis?</question>
+            <answers>
+               <answer>If the concentration of carbon dioxide is increased, then the rate of photosynthesis will decrease.</answer>
+               <answer correct="true">If the rate of carbon dioxide is increased, then the rate of photosynthesis will increase up to a certain point.</answer>
+            </answers>
+            <figure verticalAlign="center">bio_m2-3_s20_view.jpg</figure>
+            <feedbackAudio>bio_m2-3_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Having a good hypothesis is the first step in the design of a good experiment.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A scientific hypothesis is the same as an educated guess.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A good hypothesis can have as many variables as are testable.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A good hypothesis shows a cause and effect relationship between the two variables.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Data can only prove a hypothesis to be true.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[What is the flaw in this hypothesis? <em>If the number of swimmers attending pools during the summer increases, then the temperature outside will increase.</em>]]></question>
+            <answers>
+               <answer>It is not testable.</answer>
+               <answer correct="true">It is not logical.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[What is the flaw in this hypothesis? <em>A reaction takes place faster when you heat the solution.</em>]]></question>
+            <answers>
+               <answer>It does not include two variables.</answer>
+               <answer correct="true">It is not stated using the "If-then" format.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[In this hypothesis, which statement correctly describes the variables?<em> If you increase the amount of sunlight a bean plant receives, then the plant will grow taller. </em>]]></question>
+            <answers>
+               <answer correct="true">The height of the bean plant is the only dependent variable.</answer>
+               <answer>The height of the bean plant and the amount of sunlight are both dependent variables.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which statement shows a cause-effect relationship?</question>
+            <answers>
+               <answer>Blue flowers and white flowers appear at the same ratio in the tested area of the meadow.</answer>
+               <answer correct="true">If the bean plants receive fertilizer, then they will produce more beans.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A student measures the mass of four potato cores before placing them each in beakers of solutions with increasing sucrose concentrations. The potatoes remain in the sucrose solutions for 24 hours and then their mass is measured again to determine the percent change in mass. Which of the following hypotheses is being tested?</question>
+            <answers>
+               <answer correct="true">If you increase the sucrose concentration in each of the beakers, then the percent mass change in the potatoes will go down.</answer>
+               <answer>If you decrease the sucrose concentration and change the shape of the potatoes, then the percent mass change in the potatoes will go down.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-3_s21</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,66 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[Rebuttal or Refutation]]></title>
+		<info></info>
+		<image>images/eng_m3-6_s34.jpg</image>
+		<audio>audio/eng_m3-6_s34.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name><![CDATA[Anticipate Opposition]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>699.7</xCord>
+			<yCord>224.35</yCord>
+			<width>170</width>
+			<popTitle><![CDATA[Anticipate opposing claims]]></popTitle>
+			<popInfo><![CDATA[ A rebuttal or refutation is most effective if you have done research and can anticipate the opposing arguments. Then you will be ready to disprove those opposing claims. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[Counter Opposition]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>699.7</xCord>
+			<yCord>102.35</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Counter opposing claims]]></popTitle>
+			<popInfo><![CDATA[In writing the argument essay, you cannot just give evidence without taking into account how your claims will be criticized. You need to be prepared to counter those criticisms by showing that those opposing claims are either unacceptable or insignificant.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[Appeal to reason]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>567.9</xCord>
+			<yCord>379.15</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Appeal to reason]]></popTitle>
+			<popInfo><![CDATA[First and foremost, you must appeal to reason. The best way to refute an opposition to your position is to show your audience the logical fallacies of the opponent’s statements.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name><![CDATA[Appeal to ethics]]></Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>839.55</xCord>
+			<yCord>379.15</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[Appeal to ethics]]></popTitle>
+			<popInfo><![CDATA[You can refute the opponent’s claims with an ethical appeal. By reminding the audience of your shared beliefs, values, and morals, you can counter some opposing claims.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[Appeal to emotions]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>567.9</xCord>
+			<yCord>436.9</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[Appeal to emotions]]></popTitle>
+			<popInfo><![CDATA[You can present an emotional scenario to make the audience feel your cause.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name><![CDATA[Present an analogy]]></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>839.55</xCord>
+			<yCord>436.9</yCord>
+			<width>92</width>
+			<popTitle><![CDATA[Present an analogy]]></popTitle>
+			<popInfo><![CDATA[You could present an analogy, or a comparison of the controversial situation in relation to another situation that is widely accepted. You could also present an analogy to show the absurdity of the opposition’s claim.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

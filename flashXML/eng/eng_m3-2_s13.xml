@@ -1,0 +1,59 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-2_s13.jpg</image>
+		<audio>audio/eng_m3-2_s13.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[outraged]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[skeptical]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[furious]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[bitter]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[doubtful]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[fanciful]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[questioning]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[unsure]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[sympathetic ]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="570" yCord="163.65" spotScale="75" spotNum="1"/>
+		<dSpot xCord="570" yCord="227.6" spotScale="75" spotNum="1"/>
+		<dSpot xCord="570" yCord="291.55" spotScale="75" spotNum="1"/>
+		<dSpot xCord="570" yCord="355.5" spotScale="75" spotNum="1"/>
+		<dSpot xCord="570" yCord="419.6" spotScale="75" spotNum="1"/>
+		
+		<dSpot xCord="860" yCord="163.65" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860" yCord="227.6" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860" yCord="291.55" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860" yCord="355.5" spotScale="75" spotNum="2"/>
+		<dSpot xCord="860" yCord="419.6" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

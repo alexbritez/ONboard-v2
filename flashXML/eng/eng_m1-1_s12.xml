@@ -1,0 +1,44 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-1_s12.jpg</image>
+		<audio>audio/eng_m1-1_s12.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>War</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Dread</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Hope</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Anxiety</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>Divine</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>Trust</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="566.95" yCord="175" spotScale="100" spotNum="1"/>
+		<dSpot xCord="566.95" yCord="253.65" spotScale="100" spotNum="1"/>
+		<dSpot xCord="566.95" yCord="332.3" spotScale="100" spotNum="1"/>
+		<dSpot xCord="566.95" yCord="410.95" spotScale="100" spotNum="1"/>
+		<dSpot xCord="873.95" yCord="175" spotScale="100" spotNum="2"/>
+		<dSpot xCord="873.95" yCord="253.65" spotScale="100" spotNum="2"/>
+		<dSpot xCord="873.95" yCord="332.3" spotScale="100" spotNum="2"/>
+		<dSpot xCord="873.95" yCord="410.95" spotScale="100" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

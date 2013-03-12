@@ -1,0 +1,97 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-3_s33.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+//1	
+
+	<question>
+		<qText>"Writing a book of poetry is like dropping a rose petal down the Grand Canyon and waiting for the echo." — Don Marquis</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Allusion</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Analogy </aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Hyperbole</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Understatement</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>This biscuit is so hard, you could use it as a weapon.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Hyperbole</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Understatement</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Metaphor</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Simile</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+//3
+	<question>
+		<qText>If it continues to rain, we might as well start building an ark.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Allusion</aText> 
+				 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Analogy </aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Metaphor</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Simile</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+	
+</MultipleChoice>

@@ -1,0 +1,47 @@
+div.txt_img_reading {
+  position: relative;
+  color: black;
+  width: 1024px;
+  height: 610px;
+  background: transparent url(../ui/3_txt_img_reading/reading_bg_panel.png) 0 0 no-repeat;
+
+  div#content, div.content {
+    position: absolute;
+    top: 125px;
+    left: 225px;
+    width: 580px;
+    height: 300px;
+    overflow: scroll;
+    border: none;
+    outline: none;
+    h1 {
+      display: block;
+      width: 100%;
+      font-size: 20px;
+      font-weight: bold;
+      font-style: italic;
+      margin-top: 0.1em;
+      margin-bottom: 1em;
+      text-align: center;
+      &.normal {
+        font-style: normal;
+      }
+      &.bold {
+        font-family: 'MyriadPro-SemiBold';
+      }
+    }
+    p, ul, li {
+      font-size: 14px;
+      line-height: 18px;
+    }
+    ul {
+      margin-bottom: 1em;
+      margin-left: 2em;
+      list-style: disc;
+      li {
+        margin-left: 1em;
+      }
+    }
+  }
+
+}

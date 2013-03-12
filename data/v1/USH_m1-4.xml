@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Gathering and Organizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m1-4_s1</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1-tc)Archive Holdings Inc./Archive Photos/Getty Images, (1-bc)Appleping/Getty Images, (2)Bettman/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m1-4_s2</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Lori Adamski Peek/Stone/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="1_Module_Intro">
+      <video>USH_m1-4_s3</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Image Source/Punchstock/Getty Images, (cl)Archive Holdings Inc./Archive Photos/Getty Images, (cr)Courtesy of the Massachusetts Historical Society., (r)Gilbert Stuart/The Bridgeman Art Library/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_m1-4_s4</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Image Source/Punchstock/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Making Inferences</header>
+         <instruction></instruction>
+      </content>
+      <activity type="text">
+         <text><![CDATA[
+         <p style="text-align: center;">
+            <strong>Making Inferences</strong>
+         </p>
+		 	<p style="font-size: 80%">Peyton Farquhar was a well-to-do planter, of an old and highly respected <a href="#" data-id="0" class="hotspot"><strong>Alabama family. Being a slave owner, and like other slave owners a politician, he was naturally an original secessionist and ardently devoted to the Southern cause.</strong></a> <a href="#" data-id="1" class="hotspot"><strong>Circumstances of an imperious nature, which it is unnecessary to relate here, had prevented him from taking service</strong></a> with <a href="#" data-id="2" class="hotspot"><strong>that gallant army which had fought the disastrous campaigns ending with the fall of Corinth</strong></a>, and he chafed under the inglorious restraint, longing for the release of his energies, the larger life of the soldier, the <a href="#" data-id="3" class="hotspot"><strong>opportunity for distinction</strong></a>. That opportunity, he felt, would come, as it comes to all in wartime. Meanwhile he did what he could. <a href="#" data-id="4" class="hotspot"><strong>No service was too humble for him to perform in the aid of the South, no adventure too perilous for him to undertake if consistent with the character of a civilian who was at heart a soldier, and who in good faith and without too much qualification assented to at least a part of the frankly villainous dictum that all is fair in love and war.</strong></a></p>
+			<p style="font-size:80%;">Source: Ambrose Bierce,  &quot;An Occurrence at Owl Creek Bridge,&quot; 1890</p>
+		 ]]></text>
+         <hotspots>
+            <hotspot><![CDATA[
+				<h1>Inference</h1>
+				<p>The story takes place during the American Civil War Era.</p>
+			]]></hotspot>
+			<hotspot><![CDATA[
+				<h1>Inference</h1>
+				<p>He regrets not having served in the Confederate Army.</p>
+			]]></hotspot>
+			<hotspot><![CDATA[
+				<h1>Inference</h1>
+				<p>The Confederate States of America are losing the war.</p>
+			]]></hotspot>
+			<hotspot><![CDATA[
+				<h1>Inference</h1>
+				<p>Farquhar seeks glory for helping the Southern cause.</p>
+			]]></hotspot>
+			<hotspot><![CDATA[
+				<h1>Inference</h1>
+				<p>Apparently, Farquhar had done a number of things to help the Confederate cause.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m1-4_s5</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_m1-4_s6</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Archive Holdings Inc./Archive Photos/Getty Images, (bc)Appleping/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m1-4_s7</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="8" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Responses to Independence</header>
+         <text><![CDATA[
+		 	<p>At the news of the Declaration of Independence, crowds in Philadelphia, Boston, and other places gathered to cheer, fire guns and cannons, and ring church bells. But there were many in America who did not rejoice. Some had disapproved of the war from the beginning. Others had been willing to support it only so long as its aims did not conflict with their basic loyalty to the king. Such people were a minority, but a substantial one. They called themselves Loyalists; supporters of independence called them Tories.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-4_s8</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these statements forms the best inference from the preceding paragraph?</question>
+            <answers>
+               <answer>Nearly all Americans favored independence from Britain.</answer>
+               <answer correct="true">American colonists would fight each other during the war.</answer>
+			   <answer>The Tories would probably win the war.</answer>
+			   <answer>A strong national government would need to replace the state governments.</answer>
+			   <answer>Those who opposed independence were in the majority.</answer>
+            </answers>
+            <figure>
+				<header italic="false">Responses to Independence</header>
+				<text><![CDATA[
+					<p>At the news of the Declaration of Independence, crowds in Philadelphia, Boston, and other places gathered to cheer, fire guns and cannons, and ring church bells. But there were many in America who did not rejoice. Some had disapproved of the war from the beginning. Others had been willing to support it only so long as its aims did not conflict with their basic loyalty to the king. Such people were a minority, but a substantial one. They called themselves Loyalists; supporters of independence called them Tories.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-4_s9_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s9</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Slaves' Music</header>
+         <text><![CDATA[
+		 	<p>Indeed to white observers at least, nothing was more striking about slave life than the role music played within it. African Americans sang frequently, sometimes alone, even more often in groups. They sang while they worked together in the fields, as they shucked corn, slaughtered hogs, or repaired fences. They sang whenever they had social gatherings—on Sundays or on the rare other holidays from work. They sang when they gathered for chores in the evenings. They sang during their religious services. And they sang with a passion, at times even an ecstasy, that was completely unfamiliar to whites—and sometimes troubling to them.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-4_s10</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these statements forms the best inference from the preceding paragraph?</question>
+            <answers>
+               <answer>Whites sought to learn slave musical practices.</answer>
+			   <answer>Music served as a light form of entertainment for slaves.</answer>
+               <answer correct="true">Music served as an escape from the drudgery of slave life.</answer>
+			   <answer>Slave music was exclusively African in its influences and practices.</answer>
+			   <answer>Slave music was exclusively religious.</answer>
+            </answers>
+            <figure>
+				<header italic="false">The Slaves' Music</header>
+				 <text><![CDATA[
+					<p>Indeed to white observers at least, nothing was more striking about slave life than the role music played within it. African Americans sang frequently, sometimes alone, even more often in groups. They sang while they worked together in the fields, as they shucked corn, slaughtered hogs, or repaired fences. They sang whenever they had social gatherings—on Sundays or on the rare other holidays from work. They sang when they gathered for chores in the evenings. They sang during their religious services. And they sang with a passion, at times even an ecstasy, that was completely unfamiliar to whites—and sometimes troubling to them.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-4_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s11</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="3_txt_img_reading">
+      <content>
+         <header italic="false"><![CDATA[
+		 	<p style="font-size:120%;">I Will Fight No More Forever</p>
+			<p>Surrender Speech by Chief Joseph of the Nez Perc&eacute;</p>
+			<p>October 5, 1877</p>
+		 ]]></header>
+         <text><![CDATA[
+		 	<p>I am tired of fighting. Our chiefs are killed. Looking Glass is dead.  Toohulhulsate is dead. The old men are all dead. It is the young men who say yes or no. He who led the young men is dead. </p>
+			<p>It is cold and we have no blankets. The little children are freezing to death. My people, some of them, have run away to the hills and have no blankets, no food. No one knows where they are—perhaps freezing to death. I want to have time to look for my children and see how many
+I can find. Maybe I shall find them among the dead.</p>
+			<p>Hear me, my chiefs. I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-4_s12</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[Given the date of the document (1877), the Nez Perc&eacute; would most likely have been defeated by which of the following?]]></question>
+            <answers>
+               <answer>A stronger Native American tribe</answer>
+			   <answer>The Spanish colonial government</answer>
+			   <answer>The French colonial government</answer>
+               <answer correct="true">The United States government</answer>
+			   <answer>The Washington State National Guard</answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[
+					<p style="font-size:120%;">I Will Fight No More Forever</p>
+					<p>Surrender Speech by Chief Joseph of the Nez Perc&eacute;</p>
+					<p>October 5, 1877</p>
+				 ]]></header>
+				 <text><![CDATA[
+					<p>I am tired of fighting. Our chiefs are killed. Looking Glass is dead.  Toohulhulsate is dead. The old men are all dead. It is the young men who say yes or no. He who led the young men is dead. </p>
+					<p>It is cold and we have no blankets. The little children are freezing to death. My people, some of them, have run away to the hills and have no blankets, no food. No one knows where they are—perhaps freezing to death. I want to have time to look for my children and see how many
+	I can find. Maybe I shall find them among the dead.</p>
+					<p>Hear me, my chiefs. I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-4_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s13</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following events would you predict occurred after the surrender speech was written?</question>
+            <answers>
+			   <answer correct="true"><![CDATA[The Nez Perc&eacute; were forced to move to a reservation.]]></answer>
+			   <answer><![CDATA[The Nez Perc&eacute; relocated to Canada.]]></answer>
+               <answer><![CDATA[The Nez Perc&eacute; were given large amounts of money by the U.S. government.]]></answer>
+			   <answer><![CDATA[The Nez Perc&eacute; joined another Amerindian tribe.]]></answer>
+			   <answer><![CDATA[The Nez Perc&eacute; ceased to exist.]]></answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[
+					<p style="font-size:120%;">I Will Fight No More Forever</p>
+					<p>Surrender Speech by Chief Joseph of the Nez Perc&eacute;</p>
+					<p>October 5, 1877</p>
+				 ]]></header>
+				 <text><![CDATA[
+					<p>I am tired of fighting. Our chiefs are killed. Looking Glass is dead.  Toohulhulsate is dead. The old men are all dead. It is the young men who say yes or no. He who led the young men is dead. </p>
+					<p>It is cold and we have no blankets. The little children are freezing to death. My people, some of them, have run away to the hills and have no blankets, no food. No one knows where they are—perhaps freezing to death. I want to have time to look for my children and see how many
+	I can find. Maybe I shall find them among the dead.</p>
+					<p>Hear me, my chiefs. I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-4_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What was most likely Chief Joseph's purpose for mentioning those who died?</question>
+            <answers>
+               <answer correct="true"><![CDATA[He believed the Nez Perc&eacute; no longer had enough strong leaders to survive independently.]]></answer>
+			   <answer>He was bragging about those he had defeated in battle.</answer>
+			   <answer>He believed those who had died fighting the U.S. needed to be recognized for their valor.</answer>
+               <answer>He wanted to blame the U.S. government for atrocities committed against his people.</answer>
+			   <answer>He wanted to inform their families that those men had been killed.</answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[
+					<p style="font-size:120%;">I Will Fight No More Forever</p>
+					<p>Surrender Speech by Chief Joseph of the Nez Perc&eacute;</p>
+					<p>October 5, 1877</p>
+				 ]]></header>
+				 <text><![CDATA[
+					<p>I am tired of fighting. Our chiefs are killed. Looking Glass is dead.  Toohulhulsate is dead. The old men are all dead. It is the young men who say yes or no. He who led the young men is dead. </p>
+					<p>It is cold and we have no blankets. The little children are freezing to death. My people, some of them, have run away to the hills and have no blankets, no food. No one knows where they are—perhaps freezing to death. I want to have time to look for my children and see how many
+	I can find. Maybe I shall find them among the dead.</p>
+					<p>Hear me, my chiefs. I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-4_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>USH_m1-4_s16</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these statements forms the best inference regarding the map on the previous slide?</question>
+            <answers>
+               <answer>Native Americans received more land as a result of U.S. government policy.</answer>
+			   <answer>Native Americans were given the best lands in the West as compensation for other losses.</answer>
+               <answer correct="true">Native Americans lived on lands far smaller than those they had inhabited before.</answer>
+			   <answer>Native Americans increased sovereignty over their own lands.</answer>
+			   <answer>Native Americans were given the entire present-day state of Oklahoma in which to live.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m1-4_s17_view.jpg</figure>
+            <feedbackAudio>USH_m1-4_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of the following can be inferred based on the information on the map?</question>
+            <answers>
+               <answer>The majority of Native American land had been ceded to the U.S. by 1850.</answer>
+               <answer correct="true">Many Native American groups actively resisted moving off their ancestral lands.</answer>
+			   <answer>All Native American groups were resettled in "Indian Territory."</answer>
+			   <answer><![CDATA[The Nez Perc&eacute; were from Canada.]]></answer>
+			   <answer>The land in Missouri was among the last to be ceded.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m1-4_s17_view.jpg</figure>
+            <feedbackAudio>USH_m1-4_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s18</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="3_txt_img_reading">
+      <content>
+         <header italic="false">President Dwight D. Eisenhower, three days before his term expires, 1961</header>
+         <text><![CDATA[
+		 	<p>Until the latest of our world conflicts, the United States had no armaments industry. American makers of plowshares could, with time and as required, make swords as well. But now we can no longer risk emergency improvisation of national defense; we have been compelled to create a permanent armaments industry of vast proportions. Added to this, three and a half million men and women are directly engaged in the defense establishment. We annually spend on military security more than the net income of all United States corporations.</p>
+			<p>This conjunction of an immense military establishment and a large arms industry is new in the American experience. The total influence—economic, political, even spiritual—is felt in every city, every State house, every office of the federal government. We recognize the imperative need for this development. Yet we must not fail to comprehend its grave implications. Our toil, resources and livelihood are all involved; so is the very structure of our society.</p>
+			<p>In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.</p>
+			<p>We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing for granted. Only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together.</p>
+			<p style="font-size:90%;">Public Papers of the Presidents, Dwight D. Eisenhower, 1960, p. 1035- 1040</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-4_s19</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What was most likely Eisenhower's main purpose in this part of the speech.?</question>
+            <answers>
+               <answer>To show his support for companies who created weapons and other military supplies</answer>
+			   <answer>To provide information about the state of the military</answer>
+			   <answer>To share his fears about the military and the Cold War</answer>
+			   <answer>To admonish American citizens for supporting the influence of corporations in their spiritual affairs</answer>
+               <answer correct="true">To warn the citizens of the United States about forces that may seek to limit their liberties or democratic processes</answer>
+            </answers>
+            <figure>
+				<header italic="false">President Dwight D. Eisenhower, three days before his term expires, 1961</header>
+         		<text><![CDATA[
+		 			<p>Until the latest of our world conflicts, the United States had no armaments industry. American makers of plowshares could, with time and as required, make swords as well. But now we can no longer risk emergency improvisation of national defense; we have been compelled to create a permanent armaments industry of vast proportions. Added to this, three and a half million men and women are directly engaged in the defense establishment. We annually spend on military security more than the net income of all United States corporations.</p>
+					<p>This conjunction of an immense military establishment and a large arms industry is new in the American experience. The total influence—economic, political, even spiritual—is felt in every city, every State house, every office of the federal government. We recognize the imperative need for this development. Yet we must not fail to comprehend its grave implications. Our toil, resources and livelihood are all involved; so is the very structure of our society.</p>
+					<p>In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.</p>
+					<p>We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing for granted. Only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together.</p>
+					<p style="font-size:90%;">Public Papers of the Presidents, Dwight D. Eisenhower, 1960, p. 1035- 1040</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-4_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s20</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height: 100px;" dropStyle="height: 88px;">
+         <matches title="">
+            <match id="1"><![CDATA[<span style="font-size:90%; line-height: 90%;">Eisenhower was very worried that the fear of Communism would cause military contractors to gain power and influence.</span>]]></match>
+			<match id="2"><![CDATA[<span style="font-size:100%;">Eisenhower no longer supported the military and worked to cut military spending.</span>]]></match>
+			<match id="3"><![CDATA[<span style="font-size:100%;">Eisenhower supported an anti-business agenda.</span>]]></match>
+			<match id="4"><![CDATA[<span style="font-size:100%; line-height: 100%;">Eisenhower believed the nuclear arms race was not in the country's best interest.</span>]]></match>
+         </matches>
+         <drops title="Logical Inference">1,4</drops>
+		 <drops title="Faulty Conclusion">2,3</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>USH_m1-4_s21</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>USH_m1-4_s22</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What issue is most likely the focus of the political cartoon?</question>
+            <answers>
+               <answer>Reformers who ruin elections</answer>
+			   <answer>Boss Tweed's campaign for President</answer>
+			   <answer>American democracy is a powerful force for the people.</answer>
+               <answer correct="true">Corruption in city politics</answer>
+			   <answer>The power of the ballot box</answer>
+            </answers>
+            <figure>USH_m1-4_s23_view.jpg</figure>
+            <feedbackAudio>USH_m1-4_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s23</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What can we infer is the main message of Joseph Keppler's political cartoon?</question>
+            <answers>
+               <answer>America is haunted by its immigrant past.</answer>
+               <answer correct="true">Those who descended from immigrants now hold anti-immigrant views.</answer>
+            </answers>
+            <figure>USH_m1-4_s24_view.jpg</figure>
+            <feedbackAudio>USH_m1-4_s24_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s24</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What problems do the political cartoons in the previous slides seem to identify?</question>
+            <answers>
+               <answer>The number of people involved in business and politics is growing.</answer>
+               <answer correct="true">Wealth and corruption are negatively influencing the American way of life.</answer>
+            </answers>
+            <feedbackAudio>USH_m1-4_s25_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s25</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Peoples of the Precontact Americas</header>
+         <text><![CDATA[
+		 	<p>For many decades, scholars believed that all early migrations into the Americas came from humans crossing an ancient land bridge over the Bering Strait into what is now Alaska, approximately 11,000 years ago. These migrants then traveled from the glacial north, through an unfrozen corridor between two great ice sheets, until they reached the nonglacial lands to the south. The migrations were probably a result of the development of new stone tools—spears and other hunting implements—with which it became possible to pursue the large animals that regularly crossed between Asia and North America. All of these land-based migrants are thought to have come from a Mongolian stock related to that of modern-day Siberia. They are known to scholars as the &quot;Clovis&quot; people, named for a town in New Mexico where archaeologists first discovered evidence of their tools and weapons in the 1930s.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>]]>
+		 </text>
+      </content>
+      <audio>USH_m1-4_s26</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Peoples of the Precontact Americas</header>
+         <text><![CDATA[
+		 	<p>More recent archaeological evidence, however, suggests that not all the early migrants came across the Bering Strait. Some migrants from Asia appear to have settled as far south as Chile and Peru even before people began moving into North America by land. This suggests that these first South Americans may have come not by land but by sea, using boats. Other discoveries on other continents have made clear that migrants had traveled by water much earlier to populate Japan, Australia, and other areas of the Pacific. Those discoveries suggest that migrants were capable of making long ocean voyages—long enough perhaps to bring them to the American coasts.</p>
+			<p>This new evidence suggests, therefore, that the early population of the Americas was much more diverse and more scattered than scholars used to believe. Some people came to the Americas from farther south in Asia than Mongolia—perhaps Polynesia and Japan. Recent DNA evidence has identified what may have been yet another population group that, unlike most other American groups, does not seem to have Asian characteristics. Thus it is also possible that, thousands of years before Columbus, there may have been some migration from Europe or Africa.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-4_s27</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height: 60px" dropStyle="height: 48px">
+         <matches title="">
+            <match id="1">The first South Americans may have come by boat.</match>
+			<match id="2">The population of the Americas was quite diverse.</match>
+			<match id="3">The first Americans came across the Bering Land Bridge</match>
+			<match id="4">Migrants traveled to South America by land.</match>
+			<match id="5">The first Americans may have arrived earlier than 11,000 years ago.</match>
+			<match id="6">Migrants to Pacific destinations were capable of making long voyages.</match>
+			<match id="7">The "Clovis people" came from Mongolian stock.</match>
+			<match id="8">The first Americans arrived in North America around 11,000 years ago.</match>
+         </matches>
+         <drops title="Inferences based on &lt;br/&gt; old theories">3,4,7,8</drops>
+		 <drops title="Conclusions based on &lt;br/&gt; new discoveries">1,2,5,6</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>USH_m1-4_s28</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Inferences almost always become facts.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Understanding what we read means we must "read between the lines."</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The main idea or goal in a paragraph is always clearly stated by the author.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Historians must prove their conclusions that are drawn from inferences.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Making inferences requires that you use prior knowledge, logic and common sense.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Based on the information in the graph, the population of the United States grew slowly in the years following the Civil War.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <figure>USH_m1-4_s29_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>It is likely that immigration to the United States played a role in the growth of the population during this period.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <figure>USH_m1-4_s29_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Which of the following is a logical inference based on the information in the passage?</question>
+            <answers>
+               <answer correct="true">During this time, more Americans wanted access to printed news.</answer>
+               <answer>Americans in small towns cared little about reading a printed newspaper.</answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[<span style="color:#000000;">The Penny Press (circa 1833)</span>]]></header>
+				<text><![CDATA[
+		 			<p>Before the advent of the penny press, newspapers in America were far too expensive for most ordinary citizens to buy. But several important changes in the business of journalism and the character of American society paved the way for Benjamin Day and others to challenge the established press. New technologies—the steam-powered cylinder printing press, new machines for making paper, railroads and canals for distributing issues to a larger market—made it possible to publish newspapers inexpensively and to sell them widely. A rising popular literacy rate, a result in part of the spread of public education, created a bigger reading public.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Which of the following is a logical inference based on the information in the passage?</question>
+            <answers>
+               <answer>Ultimately, the penny press could not find readers and was unsuccessful.</answer>
+               <answer correct="true">Before the penny press, newspapers needed to satisfy only a much smaller reading audience.</answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[<span style="color:#000000;">The Penny Press (circa 1833)</span>]]></header>
+				<text><![CDATA[
+		 			<p>Before the advent of the penny press, newspapers in America were far too expensive for most ordinary citizens to buy. But several important changes in the business of journalism and the character of American society paved the way for Benjamin Day and others to challenge the established press. New technologies—the steam-powered cylinder printing press, new machines for making paper, railroads and canals for distributing issues to a larger market—made it possible to publish newspapers inexpensively and to sell them widely. A rising popular literacy rate, a result in part of the spread of public education, created a bigger reading public.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Which of the following is a logical inference based on the information in the passage?</question>
+            <answers>
+               <answer>The rise of the penny press is linked to decreased urbanization.</answer>
+               <answer correct="true">The rise of the penny press is linked to increased urbanization.</answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[<span style="color:#000000;">The Penny Press (circa 1833)</span>]]></header>
+				<text><![CDATA[
+		 			<p>Before the advent of the penny press, newspapers in America were far too expensive for most ordinary citizens to buy. But several important changes in the business of journalism and the character of American society paved the way for Benjamin Day and others to challenge the established press. New technologies—the steam-powered cylinder printing press, new machines for making paper, railroads and canals for distributing issues to a larger market—made it possible to publish newspapers inexpensively and to sell them widely. A rising popular literacy rate, a result in part of the spread of public education, created a bigger reading public.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-4_s29</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

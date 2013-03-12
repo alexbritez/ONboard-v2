@@ -1,0 +1,11 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Estimation with Gases</p>]]></hText>
+		<fraction>answer</fraction>
+		<qText><![CDATA[<p>Convert 400,253 Pa to mm Hg.</p>]]></qText>
+		<correctText><![CDATA[<p><font face='lc-Bold'>Answer:</font><br/><br/>3000 to 3200 would be a reasonable answer depending <br/><br/>on which of the following conversion equations you used.<br/><br/>                             750 mm Hg<br/>400,000 Pa × <font face='SuperScript'>____________________</font>  =<br/>                             100,000 Pa<br/><br/>or<br/>                             800 mm Hg<br/>400,000 Pa × <font face='SuperScript'>____________________</font>  =<br/>                             100,000 Pa</p>]]></correctText>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-6_s17.swf" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s17.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

@@ -1,0 +1,180 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m1-4_s15.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+//1
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//2
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//3
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//4
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//5
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+
+	</slideInfo>
+	
+//1
+	<question>
+		<qText>Which of the following terms is most associated with skilled craftsmen?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Guild</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Usury</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Tax</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Currency</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Mercantilism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>The process by which a country moves from growing crops to manufacturing goods is called</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>joint-stock company</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>supply and demand</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>mercantilism</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>industrialization</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>market</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//3
+	<question>
+		<qText>What type of government would impose tariffs on imports and discourage its colonies from developing manufacturing?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p><font face='c-Italic'>Laissez-faire</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Usury-based</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Currency-based</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Industrial</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Mercantile</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+		
+//4
+	<question>
+		<qText>According to Adam Smith, if people in Madrid wanted to purchase more candlesticks, what would happen?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>They would form a joint-stock company.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The government would increase taxes on candlesticks. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Businesses in Madrid would produce more candlesticks.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p><font face='c-Italic'>Laissez-faire</font> policies would be taking over.</p>]]></aText>
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Companies would allow usury to support the ability of the others to make purchases. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//5
+	<question>
+		<qText>What form of currency is (and was) used in the United Kingdom?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Guild</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Euro</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Lira</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Pound</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Mark</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+</MultipleChoice>

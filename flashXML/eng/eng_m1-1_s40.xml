@@ -1,0 +1,41 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-1_s40.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/eng_m1-1_s40.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>What is the message of the visual?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Everyone needs to eat a hearty breakfast every day.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Everyone should question their knowledge of what eating healthy actually means.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Food was much healthier and more substantial in the past than it is today.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Food only tastes good when someone else is paying for it.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Fast food restaurants have grown rapidly in the past decades, ruining Americans’ health.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m1-1_s40_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

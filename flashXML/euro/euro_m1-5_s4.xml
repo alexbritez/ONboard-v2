@@ -1,0 +1,65 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Italian Humanism</title>
+		<info></info>
+		<image>images/euro_m1-5_s4.jpg</image>
+		<audio>audio/euro_m1-5_s4.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>SECULARISM</Name>   
+			<audio enable="true" url="audio/euro_m1-5_s4_secularism.mp3"/>
+			<xCord>831.45</xCord>
+			<yCord>115</yCord>
+			<width>134</width>
+			<popTitle>Secularism</popTitle>
+			<popInfo><![CDATA[Secularism became dominant, encouraging people to be less concerned with the afterlife and to focus instead on the present and the worldly rewards of life on Earth.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>URBAN GROWTH</Name>
+			<audio enable="true" url="audio/euro_m1-5_s4_urban.mp3"/>
+			<xCord>831.45</xCord>
+			<yCord>170</yCord>
+			<width>85</width>
+			<popTitle>Urban Growth</popTitle>
+			<popInfo><![CDATA[Merchants in the Italian city states had made fortunes in commerce dominating trade routes between Europe and the Mid-East. This marks the growth of a large powerful urban, middle class who rejoiced in beautiful things that their money could buy.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>PATRONAGE</Name>
+			<audio enable="true" url="audio/euro_m1-5_s4_patronage.mp3"/>
+			<xCord>831.45</xCord>
+			<yCord>225</yCord>
+			<width>92</width>
+			<popTitle>Patronage</popTitle>
+			<popInfo><![CDATA[With large sums of available cash, wealthy citizens became patrons of art.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ARTISTS</Name>
+			<audio enable="true" url="audio/euro_m1-5_s4_artists.mp3"/>
+			<xCord>831.45</xCord>
+			<yCord>280</yCord>
+			<width>52</width>
+			<popTitle>Artists</popTitle>
+			<popInfo><![CDATA[Artists were no longer craftsmen who followed long established rules in the creation of religious paintings and sculptures, but became innovators. While religious themes remained popular, there was a new emphasis on the human form, pagan or mythological gods and stories, peasant scenes, portraits, and landscapes.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>LITERATURE</Name>
+			<audio enable="true" url="audio/euro_m1-5_s4_lit.mp3"/>
+			<xCord>831.45</xCord>
+			<yCord>335</yCord>
+			<width>87</width>
+			<popTitle>Literature</popTitle>
+			<popInfo><![CDATA[Literature was no longer only about saints and morality tales, written in Latin but became stories and poems about all aspects of mankind, written in the vernacular, or commonly spoken language.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ARCHITECTURE</Name>
+			<audio enable="true" url="audio/euro_m1-5_s4_arch.mp3"/>
+			<xCord>831.45</xCord>
+			<yCord>390</yCord>
+			<width>74</width>
+			<popTitle>Architecture</popTitle>
+			<popInfo><![CDATA[Gothic cathedrals were replaced by smaller, human-scaled churches which redefined God’s relationship with man.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

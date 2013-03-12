@@ -1,0 +1,119 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Avoid Hyperbolic Language</title>
+		<info>Which of these items belong in the writer’s trash can?</info>
+		<image>images/eng_m3-5_s9.jpg</image>
+		<audio>audio/eng_m3-5_s9.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>92.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>144.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is a hyperbolic statement and is not acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+			
+		<pButton> 
+			<Name>3</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>206.6</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>4</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>261.6</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is a hyperbolic statement and is not acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>5</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>300.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is a hyperbolic statement and is not acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>6</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>339</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>7</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>377.7</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>8</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>416.4</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is a hyperbolic statement and is not acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>9</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>416.35</xCord>
+			<yCord>455.1</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>This sentence is a hyperbolic statement and is not acceptable for a conclusion paragraph.</popInfo>
+		</pButton>
+		
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

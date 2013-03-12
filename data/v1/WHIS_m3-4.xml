@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Skills">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m3-4_s1</video>
+      <credits>(tr b)Tetra Images/Getty Images, (center l to r)Edwin Levick/FPG/Archive Photos/Getty Images, The Natural History Museum/The Image Works, Keystone/Hulton Archive/Getty Images, Georges Gobet/AFP/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s2</video>
+      <credits>(tr) Tetra Images/Getty Images, (c)Edwin Levick/FPG/Archive Photos/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (c1)Urbano Delvalle/Time Life Pictures/Getty Images, (c2)McGraw-Hill Companies, Inc., Jill Braaten, photographer, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s4</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m3-4_s5.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="84" y="345"><![CDATA[
+				<h1>Secondary Source</h1>
+				<p>This excerpt is from a history book about the United States. Although the writers may have been in New York for the first Columbus Day holiday, the reader cannot know for sure.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="293" y="345"><![CDATA[
+				<h1>Primary Source</h1>
+				<p>A letter is considered a primary source because it contains first-hand knowledge. Facts in a letter may be wrong, but the letter itself is a primary source.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="502" y="345"><![CDATA[
+				<h1>Secondary Source</h1>
+				<p>Although the writer is describing Iron Age artifacts, which are primary sources, this excerpt is from a history book, so it is a secondary source.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m3-4_s5</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following is a secondary source?</question>
+            <answers>
+				<answer correct="true">Biography of Joseph Stalin</answer>
+				<answer>Autobiography of Harry Truman</answer>
+				<answer>Photograph of Hiroshima</answer>
+				<answer>Diary entry of World War II soldier</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Biography of a child star</match>
+			<match id="2">Photo of a father and baby</match>
+			<match id="3">Newspaper announcement of baby's birth</match>
+			<match id="4">Documentary film about a child's life</match>
+			<match id="5">Baby's birth certificate</match>
+			<match id="6">Encyclopedia entry "Children"</match>
+         </matches>
+         <drops title="PRIMARY SOURCES">2,3,5</drops>
+		 <drops title="SECONDARY SOURCES">1,4,6</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-4_s7</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Determine the Validity of a Source</header>
+         <instruction><![CDATA[<ul>
+		 	<li><strong>Is</strong> the primary source authentic?</li>
+			<li>Or is it a hoax or forgery?</li>
+		 </ul>]]></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m3-4_s8.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="145" y="335"><![CDATA[
+				<h1>The Missing Link?</h1>
+				<p>In 1912 a skull was found in a peat bog near Sussex, England. The skull was thought by some to be the missing link between primates and the first human. Forty years later, aided by new technology, the artifact was judged to be a hoax.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="468" y="335"><![CDATA[
+				<h1>Hitler's Diary?</h1>
+				<p>In the mid-1980s, the German magazine <em>Stern</em> published excerpts it claimed came from newly discovered diaries of Adolf Hitler. Initial investigations by respected historians judged the diaries to be legitimate. Later investigations showed that the ink and paper were of recent origin. The diaries were forgeries.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m3-4_s8</audio>
+      <credits>(tr)Tetra Images/Getty Images, (cl)The Natural History Museum/The Image Works, (cr)Ingram Publishing, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s9</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="6">Enlist for revenge</match>
+			<match id="2">Japanese</match>
+			<match id="4">Victim of Kamikaze</match>
+			<match id="1">Kamikaze pilots</match>
+			<match id="5">American</match>
+			<match id="3">Enlist for honor to empire</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="200" y="245" />
+			<drop correct="2" x="200" y="297" />
+			<drop correct="3" x="200" y="348" />
+			<drop correct="4" x="490" y="245" />
+			<drop correct="5" x="490" y="297" />
+			<drop correct="6" x="490" y="348" />
+         </drops>
+         <image>WHIS_m3-4_s10.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-4_s10</audio>
+      <credits>(tr)Tetra Images/Getty Images, (cl)Keystone/Hulton Archive/Getty Images, (cr)US Navy/Time &amp; Life Pictures/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s11</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Georges Gobet/AFP/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p><strong>Narrative of Events [on May 2, 1992, in the city of Sarajevo]:</strong> Fighting erupted in the morning after Serb mortar shells began falling near the city's old Muslim quarter. A major artillery attack began soon after 1:00 P.M. and fighting continued well into the night. Mortar and tank shells were fired for hours directly into the main business and shopping district. . . . Hundreds of people walking in the downtown area were caught in the streets when the attack began. They ran for shelter into bars, basements, and entrance halls. . . . At dusk, with the fighting continuing, reporters on the scene described blazing government buildings, bodies of fighters and civilians lying on the street for hours after the fighting began, artillery and mortar shells coming from the hills, and of close-range fighting in the narrow alleys of . . . the old Muslim city.</p>
+			<p style="font-size:90%;">Credit: &quot;Annex VI: Study of the Battle and Siege of Sarajevo,&quot; <em>Final Report of the United Nations Commission of Experts Established Pursuant to Security Council Resolution 780 (1992)</em>. (United Nations document S/1994/674/Add.2 (Vol. II), 28 December 1994).</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m3-4_s12</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>How do we know that this excerpt is a secondary source?</question>
+            <answers>
+				<answer>It was written by someone at the scene.</answer>
+				<answer>It was relayed to the writer by a person at the scene.</answer>
+				<answer correct="true">It is a summary found in a UN document.</answer>
+				<answer>It supports what is viewed in the photograph.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s13_FB</feedbackAudio>
+			<figure>
+				<text><![CDATA[
+					<p><strong>Narrative of Events [on May 2, 1992, in the city of Sarajevo]:</strong> Fighting erupted in the morning after Serb mortar shells began falling near the city's old Muslim quarter. A major artillery attack began soon after 1:00 P.M. and fighting continued well into the night. Mortar and tank shells were fired for hours directly into the main business and shopping district. . . . Hundreds of people walking in the downtown area were caught in the streets when the attack began. They ran for shelter into bars, basements, and entrance halls. . . . At dusk, with the fighting continuing, reporters on the scene described blazing government buildings, bodies of fighters and civilians lying on the street for hours after the fighting began, artillery and mortar shells coming from the hills, and of close-range fighting in the narrow alleys of . . . the old Muslim city.</p>
+					<p style="font-size:90%;">Credit: &quot;Annex VI: Study of the Battle and Siege of Sarajevo,&quot; <em>Final Report of the United Nations Commission of Experts Established Pursuant to Security Council Resolution 780 (1992)</em>. (United Nations document S/1994/674/Add.2 (Vol. II), 28 December 1994).</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>&quot;Dear Mimmy, [Saturday, May 2, 1992]<br/>
+Today was truly, absolutely the worse day ever in Sarajevo. The shelling started around noon. Mommy and I moved into the hall. Daddy was in his office, under our apartment, at the time. We told him on the intercom to run quickly to the downstairs lobby where we'd meet him. . . . The gunfire was getting worse, and we couldn't get over the wall to the Bobars', so we ran down to our own cellar.<br/>
+. . . We listened to the pounding shells, the shooting, the thundering noise overhead. . . . We heard glass shattering in our street. Horrible. I put my fingers in my ears to block out the terrible sounds. . . . At around 8:00 we went back up to our apartment. Almost every window in our street was broken. Ours were all right, thank God. I saw the post office in flames. A terrible sight. . . . The whole apartment smelled of the burning fire. . . . &quot;</p>
+			<p style="font-size:90%;">Credit: "Dear Mimmy, [Saturday, May 2, 1992]", from ZLATA'S DIARY by Zlata Filipovic, copyright &copy; 1994 Editions Robert Laffont/Fixot. Used by permission of Viking Penguin, A Division of Penguin Young Readers Group, A Memebr of Penguin Group (USA) Inc., 345 Hudson Street, New York, NY 10014. All rights reserved.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m3-4_s14</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>How does this excerpt support the previous two sources about Sarajevo?</question>
+            <answers>
+				<answer>All three sources discuss or show government buildings in flames.</answer>
+				<answer>All three sources note the time that the shelling began.</answer>
+				<answer>All three sources blame the Serbs for initiating the attack.</answer>
+				<answer correct="true">All three sources discuss or show the results of mortar shelling.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s15_FB</feedbackAudio>
+			<figure>
+				<text><![CDATA[
+					<p>&quot;Dear Mimmy, [Saturday, May 2, 1992]<br/>
+		Today was truly, absolutely the worse day ever in Sarajevo. The shelling started around noon. Mommy and I moved into the hall. Daddy was in his office, under our apartment, at the time. We told him on the intercom to run quickly to the downstairs lobby where we'd meet him. . . . The gunfire was getting worse, and we couldn't get over the wall to the Bobars', so we ran down to our own cellar.<br/>
+		. . . We listened to the pounding shells, the shooting, the thundering noise overhead. . . . We heard glass shattering in our street. Horrible. I put my fingers in my ears to block out the terrible <br/>sounds. . . . At around 8:00 we went back up to our apartment. Almost every window in our street was broken. Ours were all right, thank God. I saw the post office in flames. A terrible <br/>sight. . . . The whole apartment smelled of the burning fire. . . . &quot;</p>
+					<p style="font-size:90%;">Credit: "Dear Mimmy, [Saturday, May 2, 1992]", from ZLATA'S DIARY by Zlata Filipovic, copyright &copy; 1994 Editions Robert Laffont/Fixot. Used by permission of Viking Penguin, A Division of Penguin Young Readers Group, A Memebr of Penguin Group (USA) Inc., 345 Hudson Street, New York, NY 10014. All rights reserved.</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="3_txt_img_reading">
+      <content>
+         <header>Of the Buildings of Justinian</header>
+         <text><![CDATA[
+		 	<p>The Emperor Justinian was born in our time, and succeeding to the throne when the state was decayed, added greatly to its extent and glory by driving out from it the barbarians, who for so long a time had forced their way into it . . . .  He has annexed to the Roman Empire many other states which at his accession were independent and has founded innumerable cities which had no previous existence. As for religion, which he found uncertain and torn by various heresies, he destroyed everything which could lead to error, and securely established the true faith upon one solid foundation. Moreover, finding the laws obscure through their unnecessary <br/>multitude, . . . he firmly established them by reducing the number of those which were unnecessary, and in those that were contradictory, by confirming the better ones. He forgave of his own accord those who plotted against him, and by loading with wealth those who were in want, and relieving them from the misfortunes which had afflicted them, he rendered the empire stable and its members happy.</p>
+			<p style="font-size:90%;">Source: Procopius, <em>Of The Buildings of Justinian</em>, translated by Aubrey Stewart (London: Palestine Pilgrims Text Society, 1888)</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m3-4_s16</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>The author of this passage was most likely which of the following?</question>
+            <answers>
+				<answer>A critic of Justinian's rule</answer>
+				<answer correct="true">An official historian in Justinian's court</answer>
+				<answer>A peasant living in the empire</answer>
+				<answer>A citizen of another country who traveled to Justinian's court</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s17_FB</feedbackAudio>
+			<figure>
+				<header>Of the Buildings of Justinian</header>
+				<text><![CDATA[
+					<p>The Emperor Justinian was born in our time, and succeeding to the throne when the state was decayed, added greatly to its extent and glory by driving out from it the barbarians, who for so long a time had forced their way into it . . . .  He has annexed to the Roman Empire many other states which at his accession were independent and has founded innumerable cities which had no previous existence. As for religion, which he found uncertain and torn by various heresies, he destroyed everything which could lead to error, and securely established the true faith upon one solid foundation. Moreover, finding the laws obscure through their unnecessary <br/>multitude, . . . he firmly established them by reducing the number of those which were unnecessary, and in those that were contradictory, by confirming the better ones. He forgave of his own accord those who plotted against him, and by loading with wealth those who were in want, and relieving them from the misfortunes which had afflicted them, he rendered the empire stable and its members happy.</p>
+					<p style="font-size:90%;">Source: Procopius, <em>Of The Buildings of Justinian</em>, translated by Aubrey Stewart (London: Palestine Pilgrims Text Society, 1888)</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-4_s17</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What type of document does this appear to be?</question>
+            <answers>
+				<answer correct="true">Official court account of the emperor's rule</answer>
+				<answer>Document written by an enemy of Justinian</answer>
+				<answer>History written many years after Justinian's death</answer>
+				<answer>An autobiography of Justinian</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s18_FB</feedbackAudio>
+			<figure>
+				<header>Of the Buildings of Justinian</header>
+				<text><![CDATA[
+					<p>The Emperor Justinian was born in our time, and succeeding to the throne when the state was decayed, added greatly to its extent and glory by driving out from it the barbarians, who for so long a time had forced their way into it . . . .  He has annexed to the Roman Empire many other states which at his accession were independent and has founded innumerable cities which had no previous existence. As for religion, which he found uncertain and torn by various heresies, he destroyed everything which could lead to error, and securely established the true faith upon one solid foundation. Moreover, finding the laws obscure through their unnecessary <br/>multitude, . . . he firmly established them by reducing the number of those which were unnecessary, and in those that were contradictory, by confirming the better ones. He forgave of his own accord those who plotted against him, and by loading with wealth those who were in want, and relieving them from the misfortunes which had afflicted them, he rendered the empire stable and its members happy.</p>
+					<p style="font-size:90%;">Source: Procopius, <em>Of The Buildings of Justinian</em>, translated by Aubrey Stewart (London: Palestine Pilgrims Text Society, 1888)</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>The contents of the document </question>
+            <answers>
+				<answer>offer an objective look at Justinian's rule.</answer>
+				<answer correct="true">emphasize Justinian's accomplishments.</answer>
+				<answer>praise Justinian's political rule but are critical of his religious accomplishments.</answer>
+				<answer>indicate that the empire shrank under Justinian's rule.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s19_FB</feedbackAudio>
+			<figure>
+				<header>Of the Buildings of Justinian</header>
+				<text><![CDATA[
+					<p>The Emperor Justinian was born in our time, and succeeding to the throne when the state was decayed, added greatly to its extent and glory by driving out from it the barbarians, who for so long a time had forced their way into it . . . .  He has annexed to the Roman Empire many other states which at his accession were independent and has founded innumerable cities which had no previous existence. As for religion, which he found uncertain and torn by various heresies, he destroyed everything which could lead to error, and securely established the true faith upon one solid foundation. Moreover, finding the laws obscure through their unnecessary <br/>multitude, . . . he firmly established them by reducing the number of those which were unnecessary, and in those that were contradictory, by confirming the better ones. He forgave of his own accord those who plotted against him, and by loading with wealth those who were in want, and relieving them from the misfortunes which had afflicted them, he rendered the empire stable and its members happy.</p>
+					<p style="font-size:90%;">Source: Procopius, <em>Of The Buildings of Justinian</em>, translated by Aubrey Stewart (London: Palestine Pilgrims Text Society, 1888)</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Who was expected to read this document?</question>
+            <answers>
+				<answer correct="true">People who supported the rule of Justinian</answer>
+				<answer>People who criticized the rule of Justinian</answer>
+				<answer>Peasants alive during Justinian's rule</answer>
+				<answer>Justinian's subjects in conquered territories</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s20_FB</feedbackAudio>
+			<figure>
+				<header>Of the Buildings of Justinian</header>
+				<text><![CDATA[
+					<p>The Emperor Justinian was born in our time, and succeeding to the throne when the state was decayed, added greatly to its extent and glory by driving out from it the barbarians, who for so long a time had forced their way into it . . . .  He has annexed to the Roman Empire many other states which at his accession were independent and has founded innumerable cities which had no previous existence. As for religion, which he found uncertain and torn by various heresies, he destroyed everything which could lead to error, and securely established the true faith upon one solid foundation. Moreover, finding the laws obscure through their unnecessary <br/>multitude, . . . he firmly established them by reducing the number of those which were unnecessary, and in those that were contradictory, by confirming the better ones. He forgave of his own accord those who plotted against him, and by loading with wealth those who were in want, and relieving them from the misfortunes which had afflicted them, he rendered the empire stable and its members happy.</p>
+					<p style="font-size:90%;">Source: Procopius, <em>Of The Buildings of Justinian</em>, translated by Aubrey Stewart (London: Palestine Pilgrims Text Society, 1888)</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What do you suppose was the intended purpose of the document?</question>
+            <answers>
+				<answer>To gain Justinian's favor</answer>
+				<answer>To insure that future generations would respect Justinian's reign</answer>
+				<answer>To encourage Justinian's subjects to view him favorably</answer>
+				<answer correct="true">All of the above</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s21_FB</feedbackAudio>
+			<figure>
+				<header>Of the Buildings of Justinian</header>
+				<text><![CDATA[
+					<p>The Emperor Justinian was born in our time, and succeeding to the throne when the state was decayed, added greatly to its extent and glory by driving out from it the barbarians, who for so long a time had forced their way into it . . . .  He has annexed to the Roman Empire many other states which at his accession were independent and has founded innumerable cities which had no previous existence. As for religion, which he found uncertain and torn by various heresies, he destroyed everything which could lead to error, and securely established the true faith upon one solid foundation. Moreover, finding the laws obscure through their unnecessary <br/>multitude, . . . he firmly established them by reducing the number of those which were unnecessary, and in those that were contradictory, by confirming the better ones. He forgave of his own accord those who plotted against him, and by loading with wealth those who were in want, and relieving them from the misfortunes which had afflicted them, he rendered the empire stable and its members happy.</p>
+					<p style="font-size:90%;">Source: Procopius, <em>Of The Buildings of Justinian</em>, translated by Aubrey Stewart (London: Palestine Pilgrims Text Society, 1888)</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="3_txt_img_reading">
+      <content>
+         <header>The Secret History</header>
+         <text><![CDATA[
+		 	<p>Justinian brought on the Roman disasters which surely surpassed both in gravity and in number all that had ever been heard of in any period of history. For without the slightest hesitation he used to embark on the inexcusable murdering of his fellowmen and the plundering of other people's property; and it did not matter to him how many thousands lost their lives, although they had given him no provocation whatsoever. The maintenance of established institutions meant nothing to him; endless innovations were his constant preoccupation. In a word, he was a unique destroyer of valuable institutions. . . . </p>
+			<p>He seemed to be a convinced believer in Christ, but this too meant ruin for his subjects; for he allowed the priests to use violence against their neighbors almost with impunity, and when they looted the estates next to their own he wished them joy, thinking in doing so he was honoring the Almighty.</p>
+			<br/><br/><br/>
+			<p style="font-size:90%;">Credit: From THE SECRET HISTORY by Procopius, translated with an introduction by G.A. Williamson (Penguin Classics, 1966), pages 70-71. Copyright &copy; G.A. Williamson, 1966. Reproduced by permission of Penguin Books Ltd.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m3-4_s22</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s23</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Christel Gerstenberg/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s24</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s25</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Christel Gerstenberg/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s26</video>
+      <credits>(bkgd) Kathy Collins/Photographer's Choice RF/Getty Images, (others) Tetra Images/Getty Images</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s27</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)National Geographic Society/CORBIS, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="3_txt_img_reading">
+      <content>
+         <header>The Outline of History</header>
+         <text><![CDATA[
+		 	<p>[The Agricultural Revolution] represents a profound change in human conditions. It developed slowly and with much variation in human life during several thousand years between, at earliest 20,000 years ago, and, at latest, 8,000 years ago.</p>
+			<p>Before that time, man was a comparatively rare animal. He was a wandering, implement-using beast of prey, a savage. He lived in small communities; his speech was probably still largely undeveloped. His only possessions were portable possessions. His whole life was spent in a food hunt, and he alternated between long stretches of hunger and spells of plenty and repletion. He followed animals as they followed their food and the seasons. He was free and needy and his life was incessantly dangerous.</p>
+			<p>Then began this business of deliberate food-growing and of food preservation. He began to herd the beasts he had hunted and to heed where he found the seeds and roots and fruits that supplemented his meat. His hunter's prowling were restricted by the grazing of his half-domesticated cattle and by his expectation of crops where he had sown.</p>
+			<p>His implements multiplied. By 8,000 years ago man had become in some regions an extremely numerous animal. He had made houses and acquired possessions; in the place of a mere food hunt he had settled down to regular periodic work to get food. He stored food. Labour had begun for him. From meals that were happy finds and adventures, he had achieved meal-times. He had ceased to be a haphazard animal and he had become an economic animal.</p>
+			<p style="font-size:90%;">Credit: From THE OUTLINE OF HISTORY by H.G. Wells. Reprinted by permission of A.P. Watt Ltd. on behalf of The Trustees of G.P. Wells deceased.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m3-4_s28</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-4_s29</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Library of Congress Prints &amp;Photographs Division [LC-DIG-ggbain-21351], (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images. </credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What conclusion did H.G. Wells want the reader to draw from his book?</question>
+            <answers>
+				<answer>Humans were better off before agriculture was developed.</answer>
+				<answer>Humans were freer before the coming of agriculture.</answer>
+				<answer>Humans would have been exterminated by other animals had they not developed agriculture.</answer>
+				<answer correct="true">Humans were better off after agriculture had developed.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s30_FB</feedbackAudio>
+			<figure>
+				<header>The Outline of History</header>
+				<text><![CDATA[
+					<p>[The Agricultural Revolution] represents a profound change in human conditions. It developed slowly and with much variation in human life during several thousand years between, at earliest 20,000 years ago, and, at latest, 8,000 years ago.</p>
+					<p>Before that time, man was a comparatively rare animal. He was a wandering, implement-using beast of prey, a savage. He lived in small communities; his speech was probably still largely undeveloped. His only possessions were portable possessions. His whole life was spent in a food hunt, and he alternated between long stretches of hunger and spells of plenty and repletion. He followed animals as they followed their food and the seasons. He was free and needy and his life was incessantly dangerous.</p>
+					<p>Then began this business of deliberate food-growing and of food preservation. He began to herd the beasts he had hunted and to heed where he found the seeds and roots and fruits that supplemented his meat. His hunter's prowling were restricted by the grazing of his half-domesticated cattle and by his expectation of crops where he had sown.</p>
+					<p>His implements multiplied. By 8,000 years ago man had become in some regions an extremely numerous animal. He had made houses and acquired possessions; in the place of a mere food hunt he had settled down to regular periodic work to get food. He stored food. Labour had begun for him. From meals that were happy finds and adventures, he had achieved meal-times. He had ceased to be a haphazard animal and he had become an economic animal.</p>
+					<p style="font-size:90%;">Credit: From THE OUTLINE OF HISTORY by H.G. Wells. Reprinted by permission of A.P. Watt Ltd. on behalf of The Trustees of G.P. Wells deceased.</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-4_s30</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:115px" dropStyle="height:103px">
+         <matches title="">
+            <match id="1">A. [Human] speech was probably still largely undeveloped.</match>
+			<match id="2">B. [The Agricultural Revolution] represents a profound change in human conditions.</match>
+			<match id="3">C. His only possessions were portable possessions.</match>
+			<match id="4">D. By 8,000 years ago man had become in some regions an extremely numerous animal.</match>
+			<match id="5">E. His hunter's prowling were restricted by the grazing of his half-domesticated cattle.</match>
+			<match id="6">F. [Humans] alternated between long stretches of hunger and spells of plenty and repletion.</match>
+         </matches>
+         <drops title="Fact">2,4,5</drops>
+		 <drops title="Assumption">1,3,6</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-4_s31</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="3_txt_img_reading">
+      <content>
+         <header>Traditions and Encounters</header>
+         <text><![CDATA[
+		 	<p>In many ways, the world of prehistoric human beings seems remote and even alien. Yet the evolution of the human species and the development of human society during the Paleolithic and Neolithic eras have profoundly influenced the lives of all the world's peoples during the past six millennia.  Paleolithic peoples enjoyed levels of intelligence that far exceeded those of other animals, and they invented tools and languages that enabled them to flourish in all regions of the world. Indeed, they thrived so well that they threatened their sources of food. Their Neolithic descendants began to cultivate food to sustain their communities, and the agricultural societies that they built transformed the world. Human population rose dramatically, and human groups congregated in villages, towns, and eventually cities. There they engaged in specialized labor and launched industries that produced pottery, metal goods, and textiles as well as tools and decorative items. Thus intelligence, language, reflective thought, agriculture, urban settlements, and craft industries all figure in the legacy that prehistoric human beings left for their descendants.</p>
+			<p style="font-size:90%;">Source: <em>Traditions and Encounters</em> by Jerry Bentley and Herbert Ziegler, McGraw-Hill &copy;2011</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m3-4_s32</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="33" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What conclusion do the authors of the textbook want the reader to draw from this passage?</question>
+            <answers>
+				<answer>Humans were better off before agriculture was developed.</answer>
+				<answer>Humans were freer before the coming of agriculture.</answer>
+				<answer>Humans would have been exterminated by other animals had they not developed agriculture.</answer>
+				<answer correct="true">Humans were better off after agriculture had developed.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s33_FB</feedbackAudio>
+			<figure>
+				<header>Traditions and Encounters</header>
+				<text><![CDATA[
+					<p>In many ways, the world of prehistoric human beings seems remote and even alien. Yet the evolution of the human species and the development of human society during the Paleolithic and Neolithic eras have profoundly influenced the lives of all the world's peoples during the past six millennia.  Paleolithic peoples enjoyed levels of intelligence that far exceeded those of other animals, and they invented tools and languages that enabled them to flourish in all regions of the world. Indeed, they thrived so well that they threatened their sources of food. Their Neolithic descendants began to cultivate food to sustain their communities, and the agricultural societies that they built transformed the world. Human population rose dramatically, and human groups congregated in villages, towns, and eventually cities. There they engaged in specialized labor and launched industries that produced pottery, metal goods, and textiles as well as tools and decorative items. Thus intelligence, language, reflective thought, agriculture, urban settlements, and craft industries all figure in the legacy that prehistoric human beings left for their descendants.</p>
+					<p style="font-size:90%;">Source: <em>Traditions and Encounters</em> by Jerry Bentley and Herbert Ziegler, McGraw-Hill &copy;2011</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="34" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>Click to Explore</header>
+			<instruction>Click on the 'hot spots' to view additional information.</instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+				<p style="font-size:90%"><a href="#" data-id="0" class="hotspot"><strong>In many ways, the world of prehistoric human beings seems remote and even alien.</strong></a> Yet the evolution of the human species and the development of human society during the Paleolithic and Neolithic eras have profoundly influenced the lives of all the world's peoples during the past six millennia. <a href="#" data-id="1" class="hotspot"><strong>Paleolithic peoples enjoyed levels of intelligence that far exceeded those of other animals, and they invented tools and languages that enabled them to flourish in all regions of the world.</strong></a> Indeed, they thrived so well that they threatened their sources of food. Their Neolithic descendants began to cultivate food to sustain their communities, and the agricultural societies that they built transformed the world. Human population rose dramatically, and human groups congregated in villages, towns, and eventually cities. <a href="#" data-id="2" class="hotspot"><strong>There they engaged in specialized labor and launched industries that produced pottery, metal goods, and textiles as well as tools and decorative items.</strong></a> Thus intelligence, language, reflective thought, agriculture, urban settlements, and craft industries all figure in the legacy that prehistoric human beings left for their descendants.</p>
+			]]></text>
+			<hotspots>
+				<hotspot>
+					<![CDATA[
+					<p>The introductory sentence is an opinion, but the authors use it to set the stage for the rest of the paragraph.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<p>This statement is factual. Historians have plenty of evidence to support these conclusions by the authors.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<p>This statement is factual. Historians have plenty of evidence to support these conclusions by the authors.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>WHIS_m3-4_s34</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="35" type="3_txt_img_reading">
+      <content>
+		<header italic="false">"The Worst Mistake In The History of The Human Race"</header>
+		<text><![CDATA[
+			<p>[R]ecent discoveries suggest that the adoption of agriculture, supposedly our most decisive step toward a better life, was in many ways a catastrophe from which we have never recovered. With agriculture came the gross social and sexual inequality, the disease and despotism that curse our existence. . . .</p>
+			<p>Skeletons from Greece and Turkey show that the average height of hunter-gatherers was 5'9" for men, 5'5" for women. With the adoption of agriculture, height crashed to 5'3" for men and 5' for women. Studies by George Armelagos show these early farmers paid a price for their new-found livelihood. "Life expectancy at birth in the pre-agricultural community was about 26 years," says Armelagos, "but in the post-agricultural community it was nineteen years."</p>
+			<p>Besides malnutrition, starvation, and epidemic diseases, farming helped bring another curse upon humanity: deep class divisions.  Hunter-gatherers have little or no stored food. Therefore, there can be no kings, no class of social parasites who grow fat on food seized from others. Farming may have encouraged inequality between the sexes, as well. Freed from the need to transport their babies during nomadic existence, and under pressure to produce more hands to till the fields, farming women tended to have more pregnancies than their hunter-gatherer counterparts—with consequent drains on their health.</p>
+			<p>Hunter-gatherers practiced the most successful and longest-lasting lifestyle in human history. In contrast, we're still struggling with the mess into which agriculture has tumbled us.</p>
+			<p style="font-size:90%;">Credit: Reprinted by permission of Jared Diamond.</p>
+		]]></text>
+      </content>
+      <audio>WHIS_m3-4_s35</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="36" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What conclusion do you think the author wanted the reader to draw from the excerpt?</question>
+            <answers>
+				<answer correct="true">Humans were better off before agriculture was developed.</answer>
+				<answer>Humans were freer before the coming of agriculture.</answer>
+				<answer>Humans would have been exterminated by other animals had they not developed agriculture.</answer>
+				<answer>Humans were better off after agriculture had developed.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-4_s36_FB</feedbackAudio>
+			<figure>
+				<header italic="false">"The Worst Mistake In The History of The Human Race"</header>
+				<text><![CDATA[
+					<p>[R]ecent discoveries suggest that the adoption of agriculture, supposedly our most decisive step toward a better life, was in many ways a catastrophe from which we have never recovered. With agriculture came the gross social and sexual inequality, the disease and despotism that curse our existence. . . .</p>
+					<p>Skeletons from Greece and Turkey show that the average height of hunter-gatherers was 5'9" for men, 5'5" for women. With the adoption of agriculture, height crashed to 5'3" for men and 5' for women. Studies by George Armelagos show these early farmers paid a price for their new-found livelihood. "Life expectancy at birth in the pre-agricultural community was about 26 years," says Armelagos, "but in the post-agricultural community it was nineteen years."</p>
+					<p>Besides malnutrition, starvation, and epidemic diseases, farming helped bring another curse upon humanity: deep class divisions.  Hunter-gatherers have little or no stored food. Therefore, there can be no kings, no class of social parasites who grow fat on food seized from others. Farming may have encouraged inequality between the sexes, as well. Freed from the need to transport their babies during nomadic existence, and under pressure to produce more hands to till the fields, farming women tended to have more pregnancies than their hunter-gatherer counterparts—with consequent drains on their health.</p>
+					<p>Hunter-gatherers practiced the most successful and longest-lasting lifestyle in human history. In contrast, we're still struggling with the mess into which agriculture has tumbled us.</p>
+					<p style="font-size:90%;">Credit: Reprinted by permission of Jared Diamond.</p>
+				]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="37" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height: 130px" dropStyle="height:118px">
+         <matches title="">
+            <match id="1">A. With agriculture came the gross social and sexual inequality, the disease and despotism that curse our existence.</match>
+			<match id="2">B. Skeletons from Greece and Turkey show that the average height of hunter-gatherers was 5'9" for men, 5'5" for women.</match>
+			<match id="3">C. Life expectancy at birth in the pre-agricultural community was about 26 years, but in the post-agricultural community it was nineteen years.</match>
+			<match id="4">D. Hunter-gatherers have little or no stored food. Therefore, there can be no kings, no class of social parasites who grow fat on food seized from others.</match>
+         </matches>
+         <drops title="Fact">2,3</drops>
+		 <drops title="Opinion">1,4</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-4_s37</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="38" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>A primary source is</question>
+            <answers>
+				<answer>a rumor.</answer>
+				<answer correct="true">an eyewitness account.</answer>
+				<answer>a reflection or assessment of the past.</answer>
+				<answer>a textbook.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A secondary source is</question>
+            <answers>
+				<answer>an eyewitness account.</answer>
+				<answer>usually wrong.</answer>
+				<answer correct="true">an interpretation of a past event.</answer>
+				<answer>a less important piece of evidence.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of these is an example of a primary source?</question>
+            <answers>
+				<answer correct="true">Mao Zedong's writings on the Chinese Communist revolution</answer>
+				<answer>Modern historian's essays on the Mongols</answer>
+				<answer>President Barack Obama's reflections on George Washington</answer>
+				<answer>A textbook on Chinese communism</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of these is an example of a secondary source?</question>
+            <answers>
+				<answer correct="true">A modern historian's article on gender inequality in ancient India</answer>
+				<answer><![CDATA[<em>The Analects</em> of Confucius]]></answer>
+				<answer>An audio recording of an earthquake survivor</answer>
+				<answer>A photograph of the Taj Mahal</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of these is the best way to verify a primary source?</question>
+            <answers>
+				<answer>Determine if the author is a man or a woman</answer>
+				<answer>Make sure the source comes from the Internet</answer>
+				<answer>Find a secondary source with the same information</answer>
+				<answer correct="true">Cross-reference one primary source with others</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-4_s38</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

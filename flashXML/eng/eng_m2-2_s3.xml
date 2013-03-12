@@ -1,0 +1,74 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Rules for Academic Writing</title>
+		<info></info>
+		<image>images/eng_m2-2_s3.jpg</image>
+		<audio>audio/eng_m2-2_s3.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Don’t</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>499.3</xCord>
+			<yCord>110.55</yCord>
+			<width>134</width>
+			<popTitle>Don’t</popTitle>
+			<popInfo><![CDATA[Do not use contractions in academic writing. Spell out every word.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Don’t</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>757.55</xCord>
+			<yCord>110.55</yCord>
+			<width>85</width>
+			<popTitle>Don’t</popTitle>
+			<popInfo><![CDATA[Do not use familiar address, such as “you,” “we,” “I,” “me,” “us,” and “our.”]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Don’t</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>907.55</xCord>
+			<yCord>110.55</yCord>
+			<width>92</width>
+			<popTitle>Don’t</popTitle>
+			<popInfo><![CDATA[Do not be sloppy by using the word “their” when you mean “there,” or using “then” when you mean “than.”]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>DO</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>499.3</xCord>
+			<yCord>170.55</yCord>
+			<width>52</width>
+			<popTitle>DO</popTitle>
+			<popInfo><![CDATA[Use the third-person “he” or “she,” or even “one.” For example, “Writing may be difficult if one has not mastered words effectively.”]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>DO</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>907.55</xCord>
+			<yCord>170.55</yCord>
+			<width>87</width>
+			<popTitle>DO</popTitle>
+			<popInfo><![CDATA[If you are writing about specific people, use their whole name or just their last name. For example, “Miller wrote the play after being questioned by the House Un-American Activities Committee.”]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Don’t</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>499.3</xCord>
+			<yCord>405.55</yCord>
+			<width>74</width>
+			<popTitle>Don’t</popTitle>
+			<popInfo><![CDATA[Do not use slang or colloquialisms. For example, write &quot;children&quot; rather than &quot;kids,&quot; and use &quot;police officer&quot; rather than &quot;cop.&quot;]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Don’t</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>907.55</xCord>
+			<yCord>405.55</yCord>
+			<width>74</width>
+			<popTitle>Don’t</popTitle>
+			<popInfo><![CDATA[Do not use words such as “never” and “always” unless you have a citation for confirmation.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

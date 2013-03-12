@@ -1,0 +1,42 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m3-3_s18.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-3_s18.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Condensation]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Deposition]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Freezing]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Melting]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Sublimation]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Vaporization]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="520" yCord="168.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="520" yCord="222.55" spotScale="75" spotNum="2"/>
+		<dSpot xCord="520" yCord="276.9" spotScale="75" spotNum="3"/>
+		<dSpot xCord="520" yCord="331.25" spotScale="75" spotNum="4"/>
+		<dSpot xCord="520" yCord="385.6" spotScale="75" spotNum="5"/>
+		<dSpot xCord="520" yCord="439.95" spotScale="75" spotNum="6"/>
+	</dropSpots>
+</DragDrop>

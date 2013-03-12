@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Circular Flow">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-4_s1</video>
+    <credits>(l)Blend Images/SuperStock, (cl)Andersen Ross/Digital Vision/Getty Images, (cr)moodboard/Corbis, (r)Ryan McVay/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-4_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-4_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Blend Images/SuperStock, (2)Ryan McVay/Photodisc/Getty Images, (3)moodboard/Corbis, (4)Andersen Ross/Digital Vision/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="6_Activity_Interactivity">
+    <content>
+      <header>Factor and Product Markets</header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M05_04_06P.swf</url>
+    <image>econ_m5-4_s4.jpg</image>
+    <audio>econ_m5-4_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-4_s5.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="378" y="173" audio="econ_m5-4_s5_1">
+          <![CDATA[
+		  	<h1>Households</h1>
+			<p>Households or individuals are the owners of all resources, such as labor and land. They sell their resources to businesses, receive income, and use that income to buy goods and services.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="379" y="90" audio="econ_m5-4_s5_2">
+          <![CDATA[
+		  	<h1>Land, labor, capital, entrepreneurial ability</h1>
+			<p>Land, labor, capital, and entrepreneurship are the four resources owned by households. Businesses buy and use these resources to create products.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="94" y="93" audio="econ_m5-4_s5_3">
+          <![CDATA[
+		  	<h1>Costs</h1>
+			<p>Costs, or payments for resources, flow from businesses to households. These include wages.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="182" y="266" audio="econ_m5-4_s5_4">
+          <![CDATA[
+		  	<h1>Goods and services</h1>
+			<p>Goods and services are all of the items that businesses produce and consumers buy—everything from shampoo and tomato soup to cars and computers.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="206" y="173" audio="econ_m5-4_s5_5">
+          <![CDATA[
+		  	<h1>Businesses</h1>
+			<p>Businesses buy resources from individuals and use those resources to create goods and services. Businesses then sell the goods and services to consumers.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="367" y="0" audio="econ_m5-4_s5_6">
+          <![CDATA[
+		  	<h1>Money income</h1>
+			<p>Money, or consumer income, is earned by selling resources to businesses. Consumers then spend most of their income to purchase those goods and services.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="97" y="258" audio="econ_m5-4_s5_7">
+          <![CDATA[
+		  	<h1>Revenue</h1>
+			<p>Business income is called revenue. This is the money that businesses earn from selling their goods and services to consumers.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="290" y="251" audio="econ_m5-4_s5_8">
+          <![CDATA[
+		  	<h1>Product Market</h1>
+			<p>The &quot;product market&quot; is where consumers buy goods and services from businesses. These markets include the stores where you shop—the grocery store, an electronics store, and the gas station, for example.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="290" y="87" audio="econ_m5-4_s5_9">
+          <![CDATA[
+		  	<h1>Resource Market</h1>
+			<p>The &quot;resource (or factor) market&quot; is where businesses buy the factors of production—land, labor, and capital—from individuals. For many individuals, the resource market is their workplace, such as an office, a restaurant, a laboratory, or a warehouse.</p>
+		  ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="482" y="249" audio="econ_m5-4_s5_10">
+          <![CDATA[
+		  	<h1>Consumption Expenditures</h1>
+			<p>Consumer spending is the portion of consumer income that is spent to purchase goods and services. Consumers also save some of their income, and that money leaves the circular flow.</p>
+		  ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-4_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is true in the circular flow diagram?</question>
+        <answers>
+          <answer>Households buy resources and sell goods and services.</answer>
+		  <answer>Businesses buy resources and goods and services.</answer>
+		  <answer>Businesses buy goods and services and sell resources.</answer>
+          <answer correct="true">Businesses buy resources and sell goods and services.</answer>
+		  <answer>Businesses receive income from resources.</answer>
+        </answers>
+        <feedbackAudio>econ_m5-4_s6_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-4_s6</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Households play two roles in the circular flow diagram. These roles are:</question>
+        <answers>
+          <answer>Sell goods and services; buy resources</answer>
+          <answer correct="true">Buy goods and services; sell resources</answer>
+		  <answer>Buy goods and services; buy resources</answer>
+		  <answer>Sell goods and services; sell resources</answer>
+		  <answer>Buy resources; produce goods</answer>
+        </answers>
+        <feedbackAudio>econ_m5-4_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-4_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Households or individuals are the owners of all resources.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Costs, or payments for resources, flow from households to businesses.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>When consumers save some of their income, that money leaves the circular flow.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Revenue is the income that businesses earn from selling their goods and services to consumers.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The resource market is where consumers buy goods and services.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The product market is where businesses buy the factors of production.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>For many individuals, the resource market is their workplace.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Goods and services are all of the items that businesses produce and consumers buy.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Businesses are the owners of resources such as labor and land.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The circular flow model is a diagram of how people behave every day.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-4_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

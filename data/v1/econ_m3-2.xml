@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Dividing by Decimals">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m3-2_s1</video>
+    <credits>(c)Creatas/SuperStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, others)Don Bishop/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m3-2_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m3-2_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_02_05P.mp4</url>
+    <image>econ_m3-2_s4.jpg</image>
+    <audio>econ_m3-2_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_02_06P.mp4</url>
+    <image>econ_m3-2_s5.jpg</image>
+    <audio>econ_m3-2_s5</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m3-2_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="4">22.64</match>
+		<match id="3">13</match>
+		<match id="2">4.5</match>
+		<match id="1">1500</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="305" y="47"></drop>
+		<drop correct="2" x="295" y="130"></drop>
+		<drop correct="3" x="295" y="213"></drop>
+		<drop correct="4" x="377" y="296"></drop>
+      </drops>
+      <image>econ_m3-2_s7.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m3-2_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m3-2_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M03_02_07P.mp4</url>
+    <image>econ_m3-2_s9.jpg</image>
+    <audio>econ_m3-2_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question><![CDATA[12.6 &divide; 0.7 =]]></question>
+        <answers>
+          <answer>0.018</answer>
+		  <answer>0.18</answer>
+		  <answer>1.8</answer>
+          <answer correct="true">18</answer>
+		  <answer>180</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question><![CDATA[16.896 &divide; 0.48 =]]></question>
+        <answers>
+          <answer>0.352</answer>
+		  <answer>3.52</answer>
+          <answer correct="true">35.2</answer>
+		  <answer>352</answer>
+		  <answer>3,520</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Marie paid $1.88 for 4 apples. What was the price per apple?</question>
+        <answers>
+          <answer>$0.35</answer>
+		  <answer>$0.38</answer>
+		  <answer>$0.42</answer>
+          <answer correct="true">$0.47</answer>
+		  <answer>$0.49</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Devon paid $28.73 for 8.5 gallons of gas. What was the price per gallon?</question>
+        <answers>
+          <answer>$3.32</answer>
+          <answer correct="true">$3.38</answer>
+		  <answer>$3.41</answer>
+		  <answer>$3.44</answer>
+		  <answer>$3.48</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Assume that the percent change in quantity demanded drops by 23.4% as a result of a 7.2% increase in the price of the product. Calculate the price elasticity for this product.</question>
+        <answers>
+          <answer correct="true">3.25</answer>
+		  <answer>3.27</answer>
+		  <answer>3.29</answer>
+		  <answer>3.31</answer>
+		  <answer>3.33</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m3-2_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

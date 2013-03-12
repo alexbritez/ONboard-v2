@@ -1,0 +1,11 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Molarity]]></hText>
+		<qText><![CDATA[What is the molarity of a solution of NaOH produced when 20. g of NaOH are dissolved in 250 mL of water?]]></qText>
+		<fraction>answer</fraction>
+		<correctText><![CDATA[<font face='c-Bold'>The correct answer is: </font><br/><br/>                                mol<br/>2.0 <font face='c-Italic'>M</font>   or   2.0  <font face='chemNums'>_________</font><br/>                                  L]]></correctText>
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-3_s7.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-3_s7_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>

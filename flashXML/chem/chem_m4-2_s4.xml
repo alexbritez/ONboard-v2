@@ -1,0 +1,29 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Which is Larger?</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m4-2_s4.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s4.mp3</audio>
+		<popType>4</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Silicon</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s4_b1.mp3"/>
+			<xCord>835</xCord>
+			<yCord>184.75</yCord>
+			<width>25</width>
+			<popTitle>Silicon</popTitle>
+			<popInfo><![CDATA[Correct!]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Phosphorus</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-2_s4_b2.mp3"/>
+			<xCord>865</xCord>
+			<yCord>184.75</yCord>
+			<width>25</width>
+			<popTitle>Phosphorus</popTitle>
+			<popInfo><![CDATA[Wrong]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

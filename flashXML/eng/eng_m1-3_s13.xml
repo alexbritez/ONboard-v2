@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing President Roosevelt’s Speech</title>
+		<info></info>
+		<image>images/eng_m1-3_s13.jpg</image>
+		<audio>audio/eng_m1-3_s13.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>700.85</xCord>
+			<yCord>178.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Speaker (Persona)</popTitle>
+			<popInfo><![CDATA[<p>At the top of the pyramid we have the speaker. In this case, the speaker is President Roosevelt. It is important that we think of the speaker as President Roosevelt instead of the man, Franklin D. Roosevelt, because he is speaking in his publicly elected persona. Sometimes the speaker is the same as the persona, but often there is a subtle distinction.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>488.85</xCord>
+			<yCord>402.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Audience</popTitle>
+			<popInfo><![CDATA[<p>The audience for this speech is twofold. President Roosevelt is addressing Congress directly. However, President Roosevelt would have expected that his speech would also be relayed to the American public—either by radio or newspaper. Therefore, the speech has two audiences—Congress and the American people.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>909.85</xCord>
+			<yCord>402.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Subject</popTitle>
+			<popInfo><![CDATA[<p>The subject of the speech is more complicated than one might originally think. President Roosevelt is speaking on the occasion of the bombing of Pearl Harbor. This event provides the purpose for the speech. But in this case, the true subject of the speech is declaring war.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

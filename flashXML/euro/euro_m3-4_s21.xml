@@ -1,0 +1,90 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing Political Portraits</title>
+		<info></info>
+		<image>images/euro_m3-4_s21.jpg</image>
+		<audio>audio/euro_m3-4_s21.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>593.85</xCord>
+			<yCord>426.05</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The eyes and ears on Elizabeth’s cloak imply that she is able to see and hear all in her kingdom.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>641.8</xCord>
+			<yCord>121.95</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Her elaborate headdress is richly decorated with pearls and rubies and on top is her royal crown. The pearls, also seen on the veil hanging over her shoulders, were a symbol of virginity. Wearing hair down on the shoulders was the sign of an unmarried woman.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>781.8</xCord>
+			<yCord>97.05</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Another symbol of her virginity is the jewel above her Crown. Its crescent shape suggests the moon, which was the symbol of the Greek goddess Diana, who was a virgin huntress and symbolized chastity.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>806.5</xCord>
+			<yCord>293.25</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>A jewelled snake winds up her left sleeve and has a heart-shaped ruby in its mouth. Snakes were symbols of wisdom, and in this case, the ruby represents the Queen’s heart, The meaning of this symbol is that the Queen's wisdom (the snake) controls her passions (the heart). Another symbol of wisdom is globe above the snake’s head, which shows the Queen's dominance over nature.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>E</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>558.8</xCord>
+			<yCord>227.45</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Elizabeth's right hand holds a rainbow which says in Latin 'Non sine sole iris' ('No rainbow without the sun'). A rainbow was a symbol of peace and the Latin phrase lets viewers know that without their Queen, her subjects would not have peace and prosperity. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>F</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>720.6</xCord>
+			<yCord>389.25</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The queen was proud of her beautiful hands. She took great pains to show them of in all her portraits She was also very proud of her milky white skin and flaming red hair. Later in life she powered her skin and wore a red wig to retain the appearance of her youth.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>G</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>770</xCord>
+			<yCord>170</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Elizabeth was 67 when this portrait was made, but the portrait shows a more youthful woman at the height of her beauty.</p>]]></popInfo>
+		</pButton>		
+		
+		<pButton> 
+			<Name>H</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>837.65</xCord>
+			<yCord>423.15</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Elizabeth fills the frame, and there is nothing in the background to distract the viewer from the queen, reinforcing her power and authority.</p>]]></popInfo>
+		</pButton>		
+		
+	</popButtons>
+</PopUp>

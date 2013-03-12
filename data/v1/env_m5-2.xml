@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Plate Tectonics">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m5-2_s1</video>
+      <credits>(l)USGS photo by Walter D. Mooney, (r)Roy Garner/Alamy, (bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m5-2_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)USGS photo by Walter D. Mooney, (r)Roy Garner/Alamy, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m5-2_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m5-2_s4.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="env_m5-2_s2_crust" x="336" y="33"><![CDATA[
+				<h1>Crust</h1>
+				<p>The crust is the thinnest of Earth's layers. The crust that makes up Earth's continents is called continental crust. The crust that makes up the ocean bottom is called oceanic crust. Oceanic crust is denser than continental crust.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m5-2_s2_mantle" x="361" y="90"><![CDATA[
+				<h1>Mantle</h1>
+				<p>Below the crust is the mantle, Earth's thickest layer. It is made of hot rock. Rocks in the upper mantle are cool and brittle, but those in the lower part of the mantle are soft. These soft rocks flow under pressure. Earth's crust floats on this layer.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m5-2_s2_outercore" x="326" y="138"><![CDATA[
+				<h1>Outer core</h1>
+				<p>No one has seen Earth's core, but it is thought to be composed of iron and nickel. The outer core is liquid because temperatures are hot enough to melt the metals.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="env_m5-2_s2_innercore" x="289" y="172"><![CDATA[
+				<h1>Inner core</h1>
+				<p>Earth's densest part is its inner core. Tremendous pressure produced by the weight of the overlying rock is strong enough to keep the metals there solid.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m5-2_s4</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m5-2_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Asthenosphere</match>
+			<match id="2">Lithosphere</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="414" y="135"/>
+			<drop correct="1" x="414" y="193"/>
+         </drops>
+         <image>env_m5-2_s6.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m5-2_s6</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="inside" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="width:120px !important;">
+            <match id="3">Mantle</match>
+			<match id="2">Continental Crust</match>
+			<match id="7">Oceanic Crust</match>
+			<match id="1">Outer Core</match>
+			<match id="5">Inner Core</match>
+			<match id="6">Asthenosphere</match>
+			<match id="4">Lithosphere</match>
+			<match id="8">Crust</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;" dropzone-styles="width:108px !important;">
+            <drop correct="1" x="445" y="25"/>
+			<drop correct="2" x="445" y="71"/>
+			<drop correct="3" x="445" y="117"/>
+			<drop correct="4" x="445" y="163"/>
+			<drop correct="5" x="445" y="209"/>
+			<drop correct="6" x="445" y="255"/>
+			<drop correct="7" x="445" y="301"/>
+			<drop correct="8" x="445" y="346"/>
+         </drops>
+         <image>env_m5-2_s7.jpg</image>
+		 <feedbackAudio>env_m5-2_s7_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m5-2_s7</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m5-2_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)Images of Africa Photobank/Alamy, (2)Imageshop/Alamy, (3)Brand X Pictures/PunchStock, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M05_02_09P.mp4</url>
+      <image>env_m5-2_s9.jpg</image>
+      <audio>env_m5-2_s9</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Plate Boundaries</header>
+         <instruction><![CDATA[
+		 <li>Divergent</li>
+		 <li>Convergent</li>
+		 <li>Transform</li>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m5-2_s10.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" audio="" x="84" y="337"><![CDATA[
+				<h1>Divergent Boundaries</h1>
+				<p>Great Rift Valley</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="295" y="337"><![CDATA[
+				<h1>Convergent Boundaries</h1>
+				<p>The Himalaya Mountains</p>
+			]]></hotspot>
+			<hotspot dynamic="true" audio="" x="500" y="337"><![CDATA[
+				<h1>Transform Boundaries</h1>
+				<p>San Andreas Fault</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m5-2_s10</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)Images of Africa Photobank/Alamy, (c)Imageshop/Alamy, (r)Brand X Pictures/PunchStock, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="6_Activity_Interactivity">
+      <content>
+         <header>Divergent Boundaries</header>
+         <instruction><![CDATA[
+		 <ul>
+		 	<li>Plates move away from one another</li>
+		 	<li>Most are found on the ocean floor</li>
+		</ul>
+		 ]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M05_02_14P.mp4</url>
+      <image>env_m5-2_s11.jpg</image>
+      <audio>env_m5-2_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Images of Africa Photobank/Alamy, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="6_Activity_Interactivity">
+      <content>
+         <header>Convergent Boundaries</header>
+         <instruction><![CDATA[
+		 <ul>
+		 	<li>Two plates come together</li>
+		 	<li>Can be formed by two oceanic or two continental plates OR by one oceanic and one continental plate</li>
+		</ul>
+		 ]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M05_02_16P.mp4</url>
+      <image>env_m5-2_s12.jpg</image>
+      <audio>env_m5-2_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Imageshop/Alamy, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="6_Activity_Interactivity">
+      <content>
+         <header>Transform Boundaries</header>
+         <instruction><![CDATA[
+		 <ul>
+		 	<li>Two plates slide past each other</li>
+		 	<li>Most are located on the ocean floor</li>
+		 </ul>
+		 ]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M05_02_18P.mp4</url>
+      <image>env_m5-2_s13.jpg</image>
+      <audio>env_m5-2_s13</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Brand X Pictures/PunchStock, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m5-2_s14</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)G.E. Ulrich/HVO/USGS, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>env_m5-2_s15</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)USGS photo by Walter D. Mooney, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Convergent, Divergent, and Transform</match>
+			<match id="2">Convergent and Transform</match>
+			<match id="3">Divergent and Transform</match>
+			<match id="4">Convergent and Divergent</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4" x="99" y="335"/>
+			<drop correct="1" x="388" y="335"/>
+         </drops>
+         <image>env_m5-2_s16.jpg</image>
+		 <feedbackAudio>env_m5-2_s16_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m5-2_s16</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (l)G.E. Ulrich/HVO/USGS, (r)USGS photo by Walter D. Mooney, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Earth's inner core is molten.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Volcanic activity occurs along all three plate boundaries.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The Asthenosphere is part of Earth's crust.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Earth's lithosphere is composed of the crust and rigid part of the mantle.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Transform boundaries occur when two plates slide past each other.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Earth's crust is the thickest of Earth's layers.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The supercontinent, Pangaea, split into two massive continents that eventually formed the continents we know today.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The San Andreas fault is a transform boundary.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Divergent boundaries occur when two oceanic plates come together.</question>
+            <answers>
+				<answer>True</answer>
+				<answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Earthquakes and volcanoes can be explained by plate tectonics.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m5-2_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

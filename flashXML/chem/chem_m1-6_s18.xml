@@ -1,0 +1,11 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Estimation with Gases]]></hText>
+		<qText>Convert 1500 torr to psi.</qText>
+		<fraction>answer</fraction>
+		<correctText><![CDATA[<p><font face='lc-Bold'>Answer:</font><br/><br/>30 psi would be a reasonable answer.<br/><br/><br/>750 torr was chosen since it goes evenly into 1500 torr. <br/><br/>Below is the conversion equation you should have used to <br/><br/>determine your answer.<br/><br/>                          15 psi<br/>1500 torr × <font face='SuperScript'>______________</font>  =<br/>                         750 torr</p>]]></correctText>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-6_s17.swf" />
+		<audio></audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

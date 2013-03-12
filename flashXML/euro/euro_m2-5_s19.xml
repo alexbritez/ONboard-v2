@@ -1,0 +1,30 @@
+<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p align="center"><font face='c-Bold'>The Opening of the Atlantic</font><p>]]></hText>
+		<image></image>
+		<audio>audio/euro_m2-5_s19.mp3</audio>
+		<mainText><![CDATA[Always until about 1500 the Atlantic Ocean had been a barrier, an end. About 1500 it became a bridge, a starting place. The consequences were enormous for all concerned. In general, they were favorable for Europeans but devastating for peoples elsewhere—in America through massive depopulation by diseases such as smallpox brought from Europe, in Africa through the transatlantic slave trade, and ultimately in places as far away as Australia through the destruction of long-existing cultures or languages. Older, celebratory accounts of Europe’s “overseas discoveries” have therefore been widely challenged in recent decades by historians who approach the story of European expansion from the perspective of Native Americans or African Americans. Viewed from these perspectives, Columbus’s first voyage to America in 1492 launched a history of terrible losses rather than a story of heroic European explorations and conquests. 
+		
+But few would deny that the new, complex association of Old and New Worlds, as Europeans called them, became a momentous event in human history. The endless migration of people, the worldwide movement of trade, and the disorientating experiences of cross-cultural encounters marked the true beginning of modern global history. Europeans transformed or even destroyed numerous other cultures, but their own culture was also transformed through steadily expanding contacts with other peoples, social traditions, and religions in every part of the world.  A new wealthy commercial class grew up in cities along Europe’s Atlantic coast. Naval power became decisive. European populations grew with the adoption of the American potato, and people in Europe became dependent on imported commodities such as sugar and tobacco. European writers took increasing pride in their understanding of the world and in what they regarded as the superiority of their own cultural or religious traditions. There was also much speculation on the diversity of the human races and cultures, which sometimes led to a new kind of race consciousness on the part of Europeans and sometimes to a cultural relativism in which European customs were seen as only one variant of human behavior as a whole. Meanwhile, people in the Americas and Africa struggled to defend their own evolving cultures and institutions as European soldiers, traders, and missionaries entered the various civilizations of an increasingly interconnected transatlantic economic system.  
+
+<font size='8'>From A HISTORY OF THE MODERN WORLD, 10th edition, by R.R. Palmer et al., copyright © 2007 The McGraw-Hill Companies, Inc.</font>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

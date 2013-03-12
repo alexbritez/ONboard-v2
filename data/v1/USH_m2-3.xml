@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Primary Sources">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m2-3_s1</video>
+      <credits>(l)Corbis, (cl)Courtesy of the Massachusetts Historical Society., (c)Bettmann/Corbis, (cr)Bettmann/Corbis, (r)Hulton Archive/Getty Images, (bkgd) Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m2-3_s2</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>USH_m2-3_s3</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="1_Module_Intro">
+      <video>USH_m2-3_s4</video>
+      <credits>(l)Courtesy of the Massachusetts Historical Society., (c r)Bettmann/Corbis, (bkgd) Comstock/PunchStock, (others) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_m2-3_s6</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-3_s7.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-3_s7_A" dynamic="true" x="374" y="119"><![CDATA[
+				<h1></h1>
+				<p>Because the printer is using an older spelling style (the long 's' symbol=&#402;), Invisible looks like it is spelled with an f instead of an s.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-3_s7</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-3_s8.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-3_s8_A" dynamic="true" x="14" y="141"><![CDATA[
+				<h1></h1>
+				<p><em>Tryals</em> is spelled with a <em>y</em> instead of an <em>i</em>. In some sources, <em>(sic)</em> appears to show that a mistake was part of the original document and not made in the translation.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s8_B" dynamic="true" x="412" y="64"><![CDATA[
+				<h1></h1>
+				<p>Why was this source written? Part of the purpose is to inform about the witch trials.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-3_s9.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-3_s9_A" dynamic="true" x="14" y="109"><![CDATA[
+				<h1></h1>
+				<p>If difficult to understand, break the sentence into parts. For example: Together with /  Observations / upon the Nature / the Number / and the Operations / of the Devils.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s9_B" dynamic="true" x="572" y="176"><![CDATA[
+				<h1></h1>
+				<p>What is the author's point of view? The author's language shows that he believed witches were real and those tried were guilty.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s9_C" dynamic="true" x="14" y="251"><![CDATA[
+				<h1></h1>
+				<p>What information is missing or mistaken, and why? The author does not suggest that the defense of those tried will be examined.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+	<scene id="9" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-3_s10.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-3_s10_A" dynamic="true" x="14" y="161"><![CDATA[
+				<h1></h1>
+				<p>This text tells you that the governor of the colony ordered the publication of this book.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s10_B" dynamic="true" x="572" y="161"><![CDATA[
+				<h1></h1>
+				<p>The intended and most probable impact of the document was to persuade other people of the guilt of those tried and of the need for the witch trials.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s10_C" dynamic="true" x="14" y="214"><![CDATA[
+				<h1></h1>
+				<p>Who is the audience for this source? The audience was likely learned people and people of power in New England and London.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s10_D" dynamic="true" x="572" y="214"><![CDATA[
+				<h1></h1>
+				<p>This text tells you that this book is a second edition, printed in London, England. The first edition was printed in New England.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>USH_m2-3_s11</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction>Learn more about the author.</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-3_s12.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-3_s12_B" title="Gender" dynamic="true" x="14" y="56"><![CDATA[
+				<h1>Gender</h1>
+				<p>Mather was a man. The Puritans were a patriarchic society, in which men held supreme authority over women and children. It is also significant to note that most of those accused of and executed for witchcraft were women.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s12_D" title="Ethnicity or nationality" dynamic="true" x="14" y="148"><![CDATA[
+				<h1>Ethnicity or nationality</h1>
+				<p>A white American colonist who lived his life in Boston</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s12_H" title="Knowledge" dynamic="true" x="14" y="240"><![CDATA[
+				<h1>Knowledge</h1>
+				<p>First-hand knowledge as an observer of the witch trials and as a friend of several of the judges</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s12_F" title="Background" dynamic="true" x="14" y="334"><![CDATA[
+				<h1>Background</h1>
+				<p>Well educated with two degrees from Harvard College and an interest in philosophy, religion, and medicine</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s12_C" title="Age" dynamic="true" x="469" y="148"><![CDATA[
+				<h1>Age</h1>
+				<p>29 years old when he wrote this book</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s12_E" title="Occupation" dynamic="true" x="469" y="240"><![CDATA[
+				<h1>Occupation</h1>
+				<p>A Congregational minister who enjoyed great influence in society</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-3_s12_G" title="Beliefs" dynamic="true" x="469" y="334"><![CDATA[
+				<h1>Beliefs</h1>
+				<p>A Puritan who belonged to the Congregationalist Church and believed in the existence of the Devil and witchcraft</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-3_s12</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>USH_m2-3_s13</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Bettmann/Corbis, (2)Louis Turner/cultura/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>USH_m2-3_s14</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[Based on what you've read, which of the following do you think best represents the main idea of Cotton Mather's <em>Invisible World</em>?]]></question>
+            <answers>
+               <answer>Innocent people died during the New England witch trials.</answer>
+			   <answer>Belief in the Devil and witchcraft is just superstition.</answer>
+               <answer correct="true">Witchcraft is a threat to New England and must be eliminated.</answer>
+			   <answer>The witch trials in New England were ineffective and a waste of time.</answer>
+			   <answer>Witchcraft was considered a curiosity in the New England colonies.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m2-3_s15_view.jpg</figure>
+            <feedbackAudio>USH_m2-3_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-3_s15</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What inference can you draw about the society and time in which Cotton Mather lived?</question>
+            <answers>
+               <answer>Most people in 17th century New England were well educated and interested in legal matters.</answer>
+               <answer correct="true">Many people in 17th century New England were superstitious and feared the unknown.</answer>
+			   <answer>Few people in 17th century New England believed in witches and witchcraft.</answer>
+			   <answer>Few people in 17th century New England attended church, leading to widespread criminal activity</answer>
+			   <answer>No one in 17th century New England took seriously the unfounded fears of religious zealots.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m2-3_s15_view.jpg</figure>
+            <feedbackAudio>USH_m2-3_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What does this primary source reveal about the New England witch trials?</question>
+            <answers>
+               <answer correct="true">People were tried, convicted and executed for being witches out of fear.</answer>
+			   <answer>Powerful ministers decided the guilt and innocence of the accused.</answer>
+			   <answer>Democratic juries acquitted many accused witches for lack of evidence.</answer>
+			   <answer>The trials distracted New England colonists from greater concerns like conflict with Native Americans.</answer>
+			   <answer>Those accusing people of witchcraft were suffering from a disease.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m2-3_s15_view.jpg</figure>
+            <feedbackAudio>USH_m2-3_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What does the fact that people were tried and executed as witches tell you about the influence of fear in society?</question>
+            <answers>
+               <answer>Fear causes people in society to commit crimes.</answer>
+			   <answer>Fear encourages more people in society to attend church.</answer>
+			   <answer>Fear has little or no influence on society.</answer>
+			   <answer>Fear causes people to abandon jury trials.</answer>
+               <answer correct="true">Fear can be used by people in power to make others conform.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m2-3_s15_view.jpg</figure>
+            <feedbackAudio>USH_m2-3_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Primary sources written by modern authors are more reliable than those written by authors in the 1700s.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Analyzing a primary source means reading the source and accepting its content as fact.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Primary sources can be first-hand accounts as well as accounts written long after events by historians.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Primary sources can be difficult to interpret because of author mistakes and archaic language.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The purpose of a primary source directly relates to the audience.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-3_s19</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+</shell>

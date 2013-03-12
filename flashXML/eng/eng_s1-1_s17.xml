@@ -1,0 +1,65 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>How to Start the Essay?</title>
+		<info></info>
+		<image>images/eng_s1-1_s17.jpg</image>
+		<audio>audio/eng_s1-1_s17.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Description</Name>
+			<audio enable="true" url="audio/eng_m3-3_s3_description.mp3"/>
+			<xCord>628.8</xCord>
+			<yCord>117.2</yCord>
+			<width>134</width>
+			<popTitle>Description</popTitle>
+			<popInfo><![CDATA[If your purpose is to describe something in your essay, your introduction might include vivid imagery with interesting details or ideas to engage the reader to the subject.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Define / Explain</Name>
+			<audio enable="true" url="audio/eng_m3-3_s3_define.mp3"/>
+			<xCord>768.8</xCord>
+			<yCord>117.2</yCord>
+			<width>85</width>
+			<popTitle>Define/Explain</popTitle>
+			<popInfo><![CDATA[If your essay’s purpose is to define or explain what a concept is, you might want to define key terms in your introduction.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Analyze</Name>
+			<audio enable="true" url="audio/eng_m3-3_s3_analyze.mp3"/>
+			<xCord>768.8</xCord>
+			<yCord>223</yCord>
+			<width>92</width>
+			<popTitle>Analyze</popTitle>
+			<popInfo><![CDATA[If you are going to analyze a topic in your essay, you may want to place the subject in context in the introduction. Recall that this means identifying the time and place, historically and geographically.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Cause and Effect</Name>
+			<audio enable="true" url="audio/eng_m3-3_s3_cause.mp3"/>
+			<xCord>768.8</xCord>
+			<yCord>328.8</yCord>
+			<width>60</width>
+			<popTitle>Cause and Effect</popTitle>
+			<popInfo><![CDATA[If your purpose is to write a cause and effect essay, you could begin the introduction with essential background information.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Argumentation</Name>
+			<audio enable="true" url="audio/eng_m3-3_s3_argumentation.mp3"/>
+			<xCord>628.8</xCord>
+			<yCord>434.65</yCord>
+			<width>87</width>
+			<popTitle>Argumentation</popTitle>
+			<popInfo><![CDATA[If you are going to take a position and write an argumentation or persuasive essay, your introduction might identify the controversial issue.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Narration</Name>
+			<audio enable="true" url="audio/eng_m3-3_s3_narration.mp3"/>
+			<xCord>768.8</xCord>
+			<yCord>434.65</yCord>
+			<width>74</width>
+			<popTitle>Narration</popTitle>
+			<popInfo><![CDATA[If you are writing a narration and telling a story, you may want to describe the location, characters, or initial problem in the introduction.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

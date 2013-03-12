@@ -1,0 +1,42 @@
+<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-3_s5.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-3_s5.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>82</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>−2</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>−1</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>0</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>+1</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>+1</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>+5</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="535" yCord="268" spotScale="75" spotNum="1"/>
+		<dSpot xCord="737" yCord="268" spotScale="75" spotNum="2"/>
+		<dSpot xCord="932" yCord="268" spotScale="75" spotNum="3"/>
+		<dSpot xCord="535" yCord="407" spotScale="75" spotNum="1"/>
+		<dSpot xCord="737" yCord="407" spotScale="75" spotNum="4"/>
+		<dSpot xCord="932" yCord="407" spotScale="75" spotNum="5"/>
+	</dropSpots>
+</DragDrop>

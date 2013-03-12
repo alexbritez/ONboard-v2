@@ -1,0 +1,11 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Molarity]]></hText>
+		<qText><![CDATA[How much of a 12.0 <font face='lc-Italic'>M</font> solution of sulfuric acid will be needed to make a 400.0 mL solution of 3.00 <font face='lc-Italic'>M</font> sulfuric acid?]]></qText>
+
+		<correctText><![CDATA[<font face='c-Bold'>Answer:  </font><br/>100. mL (3 significant digits)]]></correctText>
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/sourcefpo.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-3_s14.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

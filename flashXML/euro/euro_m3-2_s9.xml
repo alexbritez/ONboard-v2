@@ -1,0 +1,65 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Which of the following ideas can be inferred from the excerpt from Bismarck's Memoirs?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Bismarck was a personal enemy of the French emperor.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Bismarck believed that Prussia lacked power and honor.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Bismarck believed that Prussia should be seen as an aggressive nation.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[The French emperor had a hot temper and was easily aggravated.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[The French emperor didn't want a war with Prussia.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-2_s9_FB.mp3" />
+	</question>
+	
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

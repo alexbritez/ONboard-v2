@@ -1,0 +1,55 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing  Art with Common Theme</title>
+		<info></info>
+		<image>images/euro_m3-4_s5.jpg</image>
+		<audio>audio/euro_m3-4_s5.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>CONTEXT</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>612.75</xCord>
+			<yCord>100.7</yCord>
+			<width>134</width>
+			<popTitle>Historical Context</popTitle>
+			<popInfo><![CDATA[<p>The Christians who commissioned these works considered Jesus the son of God and so believed he had been born perfect, infallible, and all knowing. It would have been inconsistent with such a belief to depict Jesus as a helpless, vulnerable infant dependent upon an earthly mother. To the Christians in the 9th century, these were not a human mother and her child but the risen King and Queen of Heaven. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>SIGNIFICANCE</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>784.1</xCord>
+			<yCord>100.7</yCord>
+			<width>85</width>
+
+			<popTitle>Meaning and Significance</popTitle>
+			<popInfo><![CDATA[<p>Art like this served as symbolic shorthand for Christian belief. The imagined settings, lack of spatial depth and disproportions, and formal poses combine to reinforce a set of religious beliefs. Works such as these were meant to teach and to inspire religious piety and reverence, not simply to be enjoyed in the pleasurable way we may think of art today. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>POINT OF VIEW</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>698.4</xCord>
+			<yCord>450.1</yCord>
+			<width>85</width>
+			<popTitle>Point of View</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>Although the name is not recorded, this artist was most likely commissioned by Church officials or wealthy believers to create art that conformed to accepted theology. Therefore, the point of view of the patrons is reflected in these artworks. The patrons wanted art that glorified Christianity and the Catholic Church. The dominance of the Catholic Church is one reason why artistic styles and iconography changed relatively little between the 9th and 14th centuries. But with the coming of Humanist thought in the early 14th century all of that began to change.</font></p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

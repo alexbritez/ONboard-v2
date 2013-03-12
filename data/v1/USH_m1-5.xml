@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Gathering and Organizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m1-5_s1</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Kristy-Anne Glubish/Design Pics, (2)Fuse/Getty Images, (3)Erik Isakson/Tetra Images/Getty Images, (4)Art Vandalay/Digital Vision/Getty Images, (5)Scott Markewitz/Photographer's Choice/Getty Images, (6)Ingram Publishing, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s2</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Comstock/PunchStock/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s3</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s4</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s5</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Polka Dot Images/Jupiterimages, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="End_Multiple_Choice">
+      <instruction>Answer the following True/False questions.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The most important cause for the Civil War was the disagreement over federal taxation.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>All of the Southern states were major producers of cotton.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>There was relatively little cotton produced in the South prior to 1800.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The percentage of northerners who wanted to abolish slavery in the South was small.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>During the election of 1860, Abraham Lincoln promised he would wage war against the South if it tried to leave the Union.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <resultsAudio>USH_m1-5_s6_FB</resultsAudio>
+      <resultsText>If you got 4 or 5 of the questions correct, that means you have good prior knowledge of the Civil War era. If you got fewer than 4 questions right, you will probably need new information to fill in the gaps.</resultsText>
+      <audio>USH_m1-5_s6</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s7</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s8</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="6_Activity_Interactivity">
+      <content>
+         <header>Slavery and Cotton in the South, 1820 and 1860</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USH_M01_05_03A.jpg</url>
+      <image>USH_m1-5_s9.jpg</image>
+      <audio>USH_m1-5_s9</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which states had emerged as centers of cotton production by 1860?</question>
+            <answers>
+               <answer>Virginia and North Carolina</answer>
+               <answer correct="true">Mississippi, Alabama, and Louisiana</answer>
+			   <answer>Florida and Texas</answer>
+			   <answer>North Carolina and South Carolina</answer>
+			   <answer>Georgia and Virginia</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m1-5_s10_view.jpg</figure>
+            <feedbackAudio>USH_m1-5_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-5_s10</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s11</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which grouping of states was among the first to secede from the Union?</question>
+            <answers>
+               <answer>South Carolina, Virginia, North Carolina</answer>
+			   <answer>Arkansas, Georgia, Kentucky</answer>
+			   <answer>Texas, Alabama, Missouri</answer>
+               <answer correct="true">Mississippi, Alabama, South Carolina</answer>
+			   <answer>Tennessee, North Carolina, Virginia</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m1-5_s12_view.jpg</figure>
+            <feedbackAudio>USH_m1-5_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-5_s12</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>There seems to be a connection between states that first seceded from the Union and the level of cotton production in those states.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio>USH_m1-5_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-5_s13</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s14</video>
+      <credits><![CDATA[<span style="font-size:7px">(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-7823], (2)National Archives ﹠ Records Administration, (3)The Library of Congress, Prints ﹠ Photographs Division [LC-DIG-pga-00352], (4)The Library of Congress, Prints ﹠ Photographs Division [LC-DIG-ppmsca-19520], (bkgd)Comstock/PunchStock</span>]]></credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s15</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What caused states to secede from the Union?</question>
+            <answers>
+               <answer correct="true">economics</answer>
+               <answer>politics</answer>
+			   <answer>progressive reform</answer>
+			   <answer>unions</answer>
+			   <answer>geography</answer>
+            </answers>
+            <feedbackAudio>USH_m1-5_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-5_s16</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">16th Amendment</match>
+			<match id="2">Seneca Falls Conference, 1848</match>
+			<match id="3">19th Amendment</match>
+			<match id="4">Separate spheres</match>
+			<match id="5">Nativism</match>
+			<match id="6">Elizabeth Cady Stanton</match>
+			<match id="7">Mary Cassatt</match>
+         </matches>
+         <drops title="Related">3,2,4,6</drops>
+		 <drops title="Unrelated">1,5,7</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m1-5_s17</audio>
+      <feedbackAudio>USH_m1-5_s17_FB</feedbackAudio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="3_txt_img_reading">
+      <content>
+         <header italic="false">Woman Suffrage</header>
+         <text><![CDATA[
+		 	<p>It is sometimes difficult for today's Americans to understand why the suffrage issue could have become the source of such enormous controversy. But at the time, suffrage seemed to many of its critics a very radical demand, in part because of the rationale some of its early supporters used to advance it. Throughout the late nineteenth century, many suffrage advocates presented their view in terms of "natural rights," arguing that women deserved the same rights as men – including, first and foremost, the right to vote. Elizabeth Cady Stanton, for example, wrote in 1892 of woman as &quot;the arbiter of her own destiny . . . if we are to consider her as a citizen, as a member of a great nation, she must have the same rights as all other members.&quot; This was an argument that boldly challenged the views of many men and women who believed that society required a distinctive female &quot;sphere&quot; in which women would serve first and foremost as wives and mothers. And so a powerful antisuffrage movement emerged, dominated by men but with the active support of many women. Opponents railed against the threats suffrage posed to the &quot;natural order&quot; of civilization. Antisuffragists, many of them women, associated suffrage with divorce (not without some reason, since many suffrage advocates also supported making it easier for women to obtain a divorce). They linked suffrage with promiscuity, looseness, and neglect of children.</p>
+			<p>From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		 ]]></text>
+      </content>
+      <audio>USH_m1-5_s18</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>USH_m1-5_s19</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Both men and women in the late nineteenth century supported the idea of "separate spheres" for women.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio>USH_m1-5_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-5_s20</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The Woman Suffrage movement was opposed by a majority of people and institutions right up until the ratification of the Nineteenth Amendment.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio>USH_m1-5_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>It took the Woman Suffrage movement a long time to achieve their goal.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio>USH_m1-5_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>You can synthesize information from your prior knowledge, what you read, and from your lecture notes.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Synthesizing information is not common outside of school.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The Cornell note-taking system includes areas on the page for cues, notes, and a summary.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Synthesize what you've learned about the Civil War, and determine which of the following statements is true.</question>
+            <answers>
+               <answer correct="true">Mississippi farmers depended on slave labor and the value of cotton for economic survival before the Civil War.</answer>
+               <answer>Missouri seceded from the Union because the people in that state were afraid that Lincoln would end slavery.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Synthesize what you've learned about the Woman Suffrage movement, and determine which of the following statements is true.</question>
+            <answers>
+               <answer>Most suffragists were radical women.</answer>
+               <answer correct="true">There were both men and women on the side of the suffragists and the antisuffragists.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-5_s23</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

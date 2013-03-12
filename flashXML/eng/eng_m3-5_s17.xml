@@ -1,0 +1,69 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Restate the thesis by changing the diction.</title>
+		<info></info>
+		<image>images/eng_m3-5_s17.jpg</image>
+		<audio>audio/eng_m3-5_s17.mp3</audio>
+		<popType>4</popType>
+	</slideInfo>
+	<popButtons>
+		
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>582.4</xCord>
+			<yCord>154.55</yCord>
+			<width>150.2</width>
+			<popTitle><![CDATA[<font face='lc-Bold'>Synonym for “an eerie scene”:</font> ]]></popTitle>
+			<popInfo>unnatural conditions</popInfo>
+		</pButton>	
+		
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>878.4</xCord>
+			<yCord>154.55</yCord>
+			<width>220</width>
+			<popTitle><![CDATA[<font face='lc-Bold'>Synonym for “protagonist doubtful”:</font> ]]></popTitle>
+			<popInfo>main character uncertain</popInfo>
+		</pButton>	
+		
+		<pButton> 
+			<Name>3</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>539.85</xCord>
+			<yCord>187.55</yCord>
+			<width>201.9</width>
+			<popTitle><![CDATA[<font face='lc-Bold'>Synonym for “ending the passage”:</font> ]]></popTitle>
+			<popInfo>concluding</popInfo>
+		</pButton>	
+		
+		<pButton> 
+			<Name>4</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>590.8</xCord>
+			<yCord>221.55</yCord>
+			<width>182</width>
+			<popTitle><![CDATA[<font face='lc-Bold'>Synonym for “skeptical attitude”:</font> ]]></popTitle>
+			<popInfo>suspicious feelings</popInfo>
+		</pButton>	
+		
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

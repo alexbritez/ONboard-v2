@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Science Practices">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m2-2_s1</video>
+      <credits>(c)Randy Faris/Fuse/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Randy Faris/Fuse/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s8</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)NRC File Photo, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)S. Alden/PhotoLink/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m2-2_s11.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="39" y="297"><![CDATA[
+				<h1></h1>
+				<p>Where does the carbon dioxide gas in the atmosphere come from?</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="290" y="226"><![CDATA[
+				<h1></h1>
+				<p>How does the amount of carbon dioxide in the atmosphere today compare to what it was in the past?</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="445" y="332"><![CDATA[
+				<h1></h1>
+				<p>What effect will the carbon dioxide have on living things?</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m2-2_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m2-2_s13.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="535" y="206"><![CDATA[
+				<h1>Conclusion</h1>
+				<p>Level of carbon dioxide in the atmosphere has increased over the past three years</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m2-2_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">Data collection</match>
+			<match id="3">Questioning</match>
+			<match id="4">Data analysis</match>
+			<match id="1">Representations and models</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="144" y="163" />
+			<drop correct="2" x="144" y="296" />
+			<drop correct="3" x="335" y="163" />
+			<drop correct="4" x="335" y="296" />
+         </drops>
+         <image>bio_m2-2_s14.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m2-2_s14</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s15</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>bio_m2-2_s16</video>
+      <credits>(tr)Fotosearch/Getty Images, (cr)Livio Sinibaldi/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which core scientific practice does a graph represent?</question>
+            <answers>
+               <answer>Connections</answer>
+			   <answer>Explanations and Theories</answer>
+			   <answer>Scientific Questioning</answer>
+               <answer correct="true">Data Collection</answer>
+			   <answer>Data Analysis</answer>
+            </answers>
+            <feedbackAudio>bio_m2-2_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-2_s17</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which core scientific practice usually involves the core practice of math?</question>
+            <answers>
+               <answer correct="true">Data Analysis</answer>
+			   <answer>Explanations and Theories</answer>
+			   <answer>Scientific Questioning</answer>
+			   <answer>Representations and Models</answer>
+			   <answer>Connections</answer>
+            </answers>
+            <feedbackAudio>bio_m2-2_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following is an example of the core scientific practice of Connections?</question>
+            <answers>
+               <answer>The periodic table that lists all the known elements</answer>
+			   <answer>The development of the cell theory</answer>
+			   <answer>The conclusion that the level of atmospheric carbon dioxide has increased</answer>
+               <answer correct="true">The development of sun screen to block harmful solar radiation</answer>
+			   <answer>The creation of a classification system for all living things</answer>
+            </answers>
+            <feedbackAudio>bio_m2-2_s19_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following best describes the scientific practice of Explanations and Theories?</question>
+            <answers>
+               <answer>Scientists observe the natural world and then ask questions.</answer>
+               <answer correct="true">Scientists explain what they observed and the information from their data.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following best illustrates the findings of scientists?</question>
+            <answers>
+               <answer correct="true">Representations and Models</answer>
+               <answer>Connections</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What does Data Analysis often lead to?</question>
+            <answers>
+               <answer correct="true">a conclusion</answer>
+               <answer>equations</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the science practices is most closely related to technology?</question>
+            <answers>
+               <answer correct="true">Connections</answer>
+               <answer>Math</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which science practice has the most effect on the way we live our lives?</question>
+            <answers>
+               <answer>Scientific Questioning</answer>
+               <answer correct="true">Connections</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-2_s20</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

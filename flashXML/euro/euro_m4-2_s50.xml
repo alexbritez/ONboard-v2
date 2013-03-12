@@ -1,0 +1,200 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m4-2_s50.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[This nineteenth-century myth of the Renaissance is still taken seriously by many people. Television companies and organisers of package tours still make money out of it. However, professional historians have become dissatisfied with this version of the Renaissance, even if they continue to admire Michelangelo (say), and to find the period and the movement extremely attractive. The point is that the grand edifice erected by Burckhardt and his contemporaries has not stood the test of time. More exactly, it has been undermined by the researches of the medievalists in particular. Their arguments depend on innumerable points of detail, but they are of two main kinds.<br /><br />     In the first place, there are arguments to the effect that so-called ‘Renaissance men’ were really rather medieval. They were more traditional in their behaviour, assumptions and ideals that we tend to think—and also more traditional than they saw themselves. Hindsight suggests that even Petrarch, ‘one of the first truly modern men’, according to Burckhardt, . . .  shared many attitudes with the centuries he described as ‘dark’….<br /><br />    In the second place, the medievalists have accumulated arguments to the effect that the Renaissance was not such a singular event as Burckhardt and his contemporaries once thought and that the term should really be used in the plural. There were various ‘renascences’ in the Middle Ages, notably in the twelfth century and in the age of Charlemagne. In both cases there was a combination of literary and artistic achievements with a revival of interest in classical learning, and in both cases contemporaries described their age as one of restoration, rebirth or renewal.<br /><br /><font size='8'>Peter Burke, THE RENAISSANCE, Second Edition, 1997, Macmillan Press Limited. Reproduced with permission of Palgrave Macmillan.</font>
+]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[This nineteenth-century myth of the Renaissance is still taken seriously by many people. Television companies and organisers of package tours still make money out of it. However, professional historians have become dissatisfied with this version of the Renaissance, even if they continue to admire Michelangelo (say), and to find the period and the movement extremely attractive. The point is that the grand edifice erected by Burckhardt and his contemporaries has not stood the test of time. More exactly, it has been undermined by the researches of the medievalists in particular. Their arguments depend on innumerable points of detail, but they are of two main kinds.<br /><br />     In the first place, there are arguments to the effect that so-called ‘Renaissance men’ were really rather medieval. They were more traditional in their behaviour, assumptions and ideals that we tend to think—and also more traditional than they saw themselves. Hindsight suggests that even Petrarch, ‘one of the first truly modern men’, according to Burckhardt, . . .  shared many attitudes with the centuries he described as ‘dark’….<br /><br />    In the second place, the medievalists have accumulated arguments to the effect that the Renaissance was not such a singular event as Burckhardt and his contemporaries once thought and that the term should really be used in the plural. There were various ‘renascences’ in the Middle Ages, notably in the twelfth century and in the age of Charlemagne. In both cases there was a combination of literary and artistic achievements with a revival of interest in classical learning, and in both cases contemporaries described their age as one of restoration, rebirth or renewal.<br /><br /><font size='8'>Peter Burke, THE RENAISSANCE, Second Edition, 1997, Macmillan Press Limited. Reproduced with permission of Palgrave Macmillan.</font>
+]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m4-2_s50a.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m4-2_s50a.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m4-2_s50b.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m4-2_s50b.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[A Venn diagram can only be used to compare and contrast information from two sources.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>True</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>False</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[All AP European History Exam questions that require you to compare or contrast feature those specific clue words. ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>True</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>False</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[You can compare and contrast information in text, images, tables, maps, or graphs.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>True</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>False</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Writing a block-format essay is not incorrect, but it may cause you to lose some points on the AP European History exam.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>True</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>False</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Which of the following illustrates a way in which the Renaissance and Later Middle Ages were similar?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>Major figures of the Renaissance contained many characteristics of medieval men.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>Burckhardt theorized that Renaissance writers built on the literature of the Middle Ages.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Which of the following illustrates a way in which the Later Middle Ages and the Renaissance differed?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>The literature of the Later Middle Ages was more secular and worldly.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>The literature of the Renaissance was written a few centuries later than the earlier renaissances.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[In what way are these two images similar? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>They both portray leaders in a way that reflects nationalism in each nation.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>The symbols evident in both images convey religious values and motives.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[In what way do these two images differ?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>Only Hitler’s image conveys militaristic values. </font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>Only Napoleon’s image is highly idealized.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Based on the map, which of the following statements is true? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>Population growth patterns in northern Italy were very similar to those in England. </font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>Population growth in eastern Europe was less dramatic than that of western Europe. </font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Based on the map, which of the following statements is true?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font>Compared to previous centuries, Europe’s largest cities peaked in population during the 19th century. </font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font>Europe's three largest cities enjoyed uninterrupted population growth between 1500 and 1800.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-2_s42_FB.mp3" />
+	</question>
+</MultipleChoice>

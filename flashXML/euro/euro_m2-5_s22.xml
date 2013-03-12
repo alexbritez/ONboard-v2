@@ -1,0 +1,31 @@
+﻿<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p align="center"><font face='lc-Bold'>from </font><font face='t-Italic'><font face='lc-Bold'>The Freedom of the Seas</font></font> <font face='lc-Bold'>by Hugh Grotius, 1609</font></font></p>]]></hText>
+		<image></image>
+		<audio>audio/euro_m2-5_s22.mp3</audio>
+		<mainText><![CDATA[<p align="center"><font face='lc-Italic'>By the Law of Nations navigation is free to all persons whatsoever</font></p><br/>My intention is to demonstrate briefly and clearly that the Dutch—that is to say, the subjects of the United Netherlands—have the right to sail to the East Indies, as they are now doing, and to engage in trade with the people there. I shall base my argument on the following most specific and unimpeachable axiom of the Law of Nations, called a primary rule or first principle, the spirit of which is self-evident and immutable, to wit: Every nation is free to travel to every other nation, and to trade with it. <br/><br/>God Himself says this speaking through the voice of nature; and inasmuch as it is not His will to have Nature supply every place with all the necessaries of life, He ordains that some nations excel in one art and others in another. Why is this His will, except it be that He wished human friendships to be engendered by mutual needs and resources, lest individuals deeming themselves entirely sufficient unto themselves should for that very reason be rendered unsociable? So by the decree of divine justice it was brought about that one people should supply the needs of another, in order, as Pliny the Roman writer says, that in this way, whatever has been produced anywhere should seem to have been destined for all. Vergil also sings in this wise: <font face='lc-Italic'>“Not every plant on every soil will grow.”</font> 
+
+And in another place: 
+<font face='lc-Italic'>“Let others better mould the running mass Of metals,” etc. </font> 
+Those therefore who deny this law, destroy this most praiseworthy bond of human fellowship, remove the opportunities for doing mutual service, in a word do violence to Nature herself. For do not the ocean, navigable in every directions with which God has encompassed all the earth, and the regular and the occasional winds which blow now from one quarter and now from another, offer sufficient proof that Nature has given to all peoples a right of access to all other peoples? Seneca thinks this is Nature’s greatest service, that by the wind she united a widely scattered peoples, and yet did so distribute all her products over the earth that commercial intercourse was a necessity to mankind. Therefore this right belongs equally to all nations. 
+]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

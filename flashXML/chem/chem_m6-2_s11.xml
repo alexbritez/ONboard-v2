@@ -1,0 +1,32 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-2_s11.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-2_s11.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[ <font size='18'>+1</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[ <font size='18'>zero</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[ <font size='18'>sum</font>]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[ <font size='18'>electronegative</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="698.95" yCord="148" spotScale="50" spotNum="1"/>
+		<dSpot xCord="813.95" yCord="249" spotScale="50" spotNum="2"/>
+		<dSpot xCord="838.95" yCord="349" spotScale="50" spotNum="3"/>
+		<dSpot xCord="538.95" yCord="424.1" spotScale="50" spotNum="4"/>
+	</dropSpots>
+</DragDrop>

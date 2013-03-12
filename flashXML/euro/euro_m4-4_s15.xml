@@ -1,0 +1,40 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m4-4_s15.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m4-4_s15.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Which of the following does NOT explain Ottoman expansion shown on the map?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>European states were tolerant regarding Islamic expansion into southeastern Europe.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The Holy Roman Empire was preoccupied with religious wars against Protestants.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The Italian city-states had weakened considerably by the mid-16th century.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>European states were unable to pose a united front against Ottoman expansion.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Religious toleration within Ottoman-conquered territories limited anti-Turkish rebellions.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-4_s15_FB.mp3" />
+	</question>
+
+</MultipleChoice>

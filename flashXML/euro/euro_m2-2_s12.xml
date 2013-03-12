@@ -1,0 +1,111 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>“Must Know” Dates</title>
+		<info>1450 to 1600</info>
+		<image>images/euro_m2-2_s12.jpg</image>
+		<audio>audio/euro_m2-2_s12.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>1453</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>430.15</xCord>
+			<yCord>327.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1453</popTitle>
+			<popInfo>Fall of Constantinople – Ottoman Turks rename the city Istanbul and begin Muslim invasion into the Balkans. The Hundred Years' War ends.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1455</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>467.15</xCord>
+			<yCord>327.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1455</popTitle>
+			<popInfo>Gutenberg Bible printed in Mainz, Germany.  Johann Gutenberg had perfected movable type over the previous five years.  This revolution in printing makes books affordable and portable.
+</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1492</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>577.05</xCord>
+			<yCord>327.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1492</popTitle>
+			<popInfo><![CDATA[Isabella and Ferdinand completed the unification of Spain; Islam is pushed out of Granada concluding the <font face='c-Italic'>Reconquista</font>; Admiral Columbus sets sail on his first voyage.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1517</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>646.05</xCord>
+			<yCord>293.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1517</popTitle>
+			<popInfo>Martin Luther posts his 95 Theses in Wittenberg triggering the Protestant Reformation against the Catholic Church.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1519</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>654</xCord>
+			<yCord>344.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1519</popTitle>
+			<popInfo><![CDATA[Magellan sets sail; Cortez conquers the Aztec Empire; Charles V (House of Hapsburg), already King of Spain as <font face='c-Italic'>Carlos I</font>, is elected Holy Roman Emperor as Charles V.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1520</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>688.95</xCord>
+			<yCord>344.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1520</popTitle>
+			<popInfo>Suleiman “the Magnificent” begins rule as tenth Ottoman Sultan and will expand the Turkish-Islamic Empire deeper into Europe.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1545</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>755.85</xCord>
+			<yCord>327.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1545</popTitle>
+			<popInfo>Council of Trent is convened by Pope Paul III to correct shortcomings in Catholicism (over the next eighteen years).</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1588</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>896.65</xCord>
+			<yCord>327.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1588</popTitle>
+			<popInfo>England under Queen Elizabeth I defeats the Spanish Armada under Philip II.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1598</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>939.6</xCord>
+			<yCord>327.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1598</popTitle>
+			<popInfo>King Henry IV (House of Bourbon) issues Edict of Nantes allowing religious freedom in France.</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

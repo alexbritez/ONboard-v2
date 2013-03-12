@@ -1,0 +1,70 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Use specific, descriptive words.</title>
+		<info></info>
+		<image>images/eng_s1-1_s22.jpg</image>
+		<audio>audio/eng_s1-1_s22.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>428.85</xCord>
+			<yCord>135</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Hungry lions padded silently into the sawdust-covered arena.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>428.85</xCord>
+			<yCord>228.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The biology teacher hastily scribbled his name on the course withdrawal slip.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>3</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>428.85</xCord>
+			<yCord>321.6</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>A heavyset, perspiring man strained to lift the heavy wooden crate.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>4</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>428.85</xCord>
+			<yCord>414.9</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The happy yet weary tourists enjoyed a picnic lunch of sharp cheese, crusty bread, and spicy olives.</p>]]></popInfo>
+		</pButton>
+				
+	</popButtons>
+</PopUp>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

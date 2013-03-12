@@ -1,0 +1,14 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p></p>]]></hText>
+		<qText><![CDATA[<p>Write your own descriptive sentences about a personal hero.</p>]]></qText>
+		
+		<correctText><![CDATA[<p><font face='c-Bold'>Check your description mode:</font>
+Have you engaged at least two of the readers’ senses, if not more?<br />Have you organized details spatially?<br />Have you focused on the mood?<br />
+                            </p>]]></correctText>
+
+		<haveSource enable="false"/>
+		<audio>audio/eng_m2-3_s12.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

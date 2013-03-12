@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Big Idea 1: Evolution">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m1-2_s1</video>
+      <credits>(1)Purestock/SuperStock, (2)Robert Marien/Corbis, (3)Darrell Gulin/Photodisc/Getty Images, (4)Dominic Cram/Flickr RF/Getty Images, (5)Kristy-Anne Glubish/Design Pics/Corbis, (6)Brand X Pictures/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m1-2_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Purestock/SuperStock, (2)Steve Gschmeissner/Science Photo Library RF/Getty Images, (3)Federico Veronesi/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="1_Module_Intro">
+      <video>bio_m1-2_s3</video>
+      <credits>(l)Robert Marien/Corbis, (cl)Darrell Gulin/Photodisc/Getty Images, (cr)Kristy-Anne Glubish/Design Pics/Corbis, (r)Brand X Pictures/Getty Images, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m1-2_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m1-2_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Goodshoot/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which is NOT a common feature of life on Earth?</question>
+            <answers>
+               <answer>All life is made of cells.</answer>
+			   <answer>All life uses ATP.</answer>
+               <answer correct="true">All life has different genetic codes.</answer>
+			   <answer>All life interacts with other organisms.</answer>
+            </answers>
+            <feedbackAudio>bio_m1-2_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m1-2_s6</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Evolution is the Big Idea that will tie all of the other content areas of AP Biology together.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio>bio_m1-2_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following is the best definition of evolution?</question>
+            <answers>
+               <answer>A change in genetic make up of individuals over time</answer>
+               <answer correct="true">A change in the genetic make up of a population over time</answer>
+            </answers>
+            <feedbackAudio>bio_m1-2_s8_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m1-2_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Brand X Pictures/Getty Images, (2)Merilee Phillips/Flickr/Getty Images, (3)Kristy-Anne Glubish/Design Pics/Corbis, (4)Corey Hochachka/Design Pics, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m1-2_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Federico Veronesi/Getty Images, (2)Brand X Pictures/PunchStock, (3)Photos.com/Jupiterimages, (4)Design Pics Inc./age footstock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Cat with kittens</match>
+			<match id="2">Spayed or neutered cat</match>
+			<match id="3">Seedless watermelon</match>
+			<match id="4">Pumpkin with seeds</match>
+         </matches>
+         <drops title="Evolution Successful">1,4</drops>
+		 <drops title="Evolution Failure">2,3</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m1-2_s11</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m1-2_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What property does all life have in common?</question>
+            <answers>
+               <answer correct="true">Made of cells.</answer>
+			   <answer>Uses light for energy.</answer>
+			   <answer>Breathes air.</answer>
+			   <answer>Reproduces sexually.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which organism is an Evolution "success"?</question>
+            <answers>
+               <answer>A tree that lives for many years.</answer>
+			   <answer>A pet that has been spayed or neutered.</answer>
+			   <answer>A bachelor that has never married or had children.</answer>
+               <answer correct="true">A dandelion plant in your lawn that produces many seeds each year.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which answer is NOT a topic that fits under Big Idea 1?</question>
+            <answers>
+               <answer>The origin of species.</answer>
+			   <answer>How birds originated from dinosaur-like ancestors.</answer>
+               <answer correct="true">The Big Bang Theory.</answer>
+			   <answer>The Origin of Life.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Where do we find life on planet Earth?</question>
+            <answers>
+               <answer>In oceans.</answer>
+			   <answer>In deserts.</answer>
+			   <answer>At the poles.</answer>
+               <answer correct="true">All the above.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is a topic or question that can be studied under Big Idea 1?</question>
+            <answers>
+               <answer>Why life is based on silicon molecules.</answer>
+               <answer correct="true">How life has changed over time.</answer>
+			   <answer>How matter is converted into energy.</answer>
+			   <answer>What happens after humans die.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m1-2_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

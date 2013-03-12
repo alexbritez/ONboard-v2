@@ -1,0 +1,74 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Reaction Stoichiometry </title>
+		<info><![CDATA[<font face='c-Bold'>Limiting Reactants</font>: A solution is prepared by adding 0.20 moles of NaOH (<font face='c-Italic' >s</font>) to 1.00 liter of 0.25 <font face='c-Italic' >M</font> HNO<font face='SubScript'>3</font> (<font face='c-Italic' >aq</font>). What is the pH of the final solution after mixing?]]></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m6-5_s19.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19_a1.mp3"/>
+			<xCord>570.65</xCord>
+			<yCord>276.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[ – 0.20 <font face='c-Italic' >M</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19_a2.mp3"/>
+			<xCord>695.65</xCord>
+			<yCord>276.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[ – 0.20 <font face='c-Italic' >M</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19_a3.mp3"/>
+			<xCord>820.65</xCord>
+			<yCord>276.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[ + 0.20 <font face='c-Italic' >M</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19_a4.mp3"/>
+			<xCord>570.65</xCord>
+			<yCord>326.3</yCord>
+			<width>144</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[ 0 <font face='c-Italic' >M</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19_a5.mp3"/>
+			<xCord>695.65</xCord>
+			<yCord>326.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[ 0.05 <font face='c-Italic' >M</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19_a6.mp3"/>
+			<xCord>820.65</xCord>
+			<yCord>326.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[ 0.20 <font face='c-Italic' >M</font>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-5_s19_a7.mp3"/>
+			<xCord>750</xCord>
+			<yCord>375</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[ pH = 1.30]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

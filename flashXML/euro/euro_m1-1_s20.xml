@@ -1,0 +1,52 @@
+<PopUp>
+	<slideInfo>
+		<title>Geographic Features of Europe: Bodies of Water</title>
+		<info></info>
+		<image>images/euro_m1-1_s20.jpg</image>
+		<audio>audio/euro_m1-1_s20.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Mediterranean Sea</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>623.1</xCord>
+			<yCord>434.35</yCord>
+			<width>134</width>
+			<popTitle>Mediterranean Sea</popTitle>
+			<popInfo><![CDATA[The Mediterranean Sea has a large coastline and extends across three continents.  Some of the major nations lying along the coast of the Mediterranean Sea include France, Spain, Croatia, Italy, Egypt, Greece, Turkey, Israel, Algeria, Morocco and Cyprus.  It is connected to the Atlantic Ocean and the Suez Canal, making it very important for trade.  It also has several important islands, such as Cyprus, Sicily, and Malta, among others.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Atlantic Ocean</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>493.7</xCord>
+			<yCord>232.4</yCord>
+			<width>85</width>
+			<popTitle>Atlantic Ocean</popTitle>
+			<popInfo><![CDATA[The Atlantic Ocean is considered the gateway to Europe. It was and is important for many reasons including exploration, trade, and transportation.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>English Channel</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>633.7</xCord>
+			<yCord>328.4</yCord>
+			<width>92</width>
+			<popTitle>English Channel</popTitle>
+			<popInfo><![CDATA[The English Channel separates England from France and connects the North Sea to the Atlantic Ocean. This body of water is notoriously difficult to navigate and has saved Britain from invasion on numerous occasions. ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Baltic Sea</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>724.95</xCord>
+			<yCord>196.4</yCord>
+			<width>52</width>
+			<popTitle>Baltic Sea</popTitle>
+			<popInfo><![CDATA[The Baltic Sea is a very important trade link between Eastern and Western Europe. Many European countries, from Germany to Russia, fought to have a harbor and a port on the Baltic sea.]]></popInfo>
+		</pButton>		
+	</popButtons>
+</PopUp>

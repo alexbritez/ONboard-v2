@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Critical Thinking">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m2-4_s1</video>
+      <credits>(cl)Darren Greenwood/Design Pics, (c)Hill Street Studios/Blend Images LLC, (cr) Purestock/Getty Images, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s2</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Hill Street Studios/Blend Images LLC, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s3</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Reed Richards/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="3_txt_img_reading">
+          <content>
+        <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">The List Pattern</span>]]></header>
+        <text>
+            <![CDATA[
+            <p>Pavlov wanted to know why the dog salivated in reaction to various sights and sounds before eating the meat powder. He observed that the dog's behavior included both unlearned and learned components</p>
+			<p>The unlearned part of classical conditioning is based on the fact that some stimuli automatically produce certain responses apart from any prior learning; in other words, they are inborn (innate).</p>
+			<p><em>Reflexes</em> are such automatic stimulus–response connections. They include salivation in response to food, nausea in response to spoiled food, shivering in response to low temperature, coughing in response to throat congestion, pupil constriction in response to light, and withdrawal in response to pain.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-4_s4</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s5</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+	<scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s6</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)David Riecks/age footstock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s7</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="8" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">examples</match>
+			<match id="2">five features</match>
+			<match id="3">five steps</match>
+			<match id="4">instructions</match>
+			<match id="5">stages of</match>
+			<match id="6">types of</match>
+			<match id="7">order does matter</match>
+			<match id="8">order does not matter</match>
+         </matches>
+         <drops title="List">1,2,6,8</drops>
+		 <drops title="Sequence">3,4,5,7</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m2-4_s8</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s9</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="10" type="3_txt_img_reading">
+          <content>
+        <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Learning Language</span>]]></header>
+        <text>
+            <![CDATA[
+            <p>American linguist Noam Chomsky (1975) has argued that humans come into the world biologically prewired to learn language at a certain time and in a certain way. According to Chomsky and many other language experts, the strongest evidence for language's biological basis is the fact that children all over the world reach language milestones at about the same time and in about the same order, despite vast variations in the language input they receive from their environment. For example, in some cultures, such as some Samoan tribes (Schieffelin & Ochs, 1986), parents snuggle their babies but rarely talk to infants under 1 year of age, yet these infants still acquire language (Sterponi, 2010).</p>
+			<p>Using brain-imaging techniques such as PET scans, researchers have found that when an infant is about 9 months old, the hippocampus, the part of the brain that stores and indexes many kinds of memory, becomes fully functional (Bauer, 2009). This is also the time at which infants appear to be able to attach meaning to words, for instance to look at the ball if someone says "ball"—suggesting links among language, cognition, and the development of the brain.</p>
+			<p>Decades ago, behaviorists opposed Chomsky's hypothesis and argued that language represents nothing more than chains of responses acquired through reinforcement (Skinner, 1957). A baby happens to babble "ma-ma," mama rewards the baby with hugs and smiles, the baby says "mama" more and more. Bit by bit, said the behaviorists, the baby's language is built up. According to behaviorists, language is a complex learned skill, much like playing the piano or dancing.</p>
+			<p>Such a view of language development is simply not tenable, however, given the rapid way children learn language, as well as the lack of evidence that social environments carefully reinforce language skills (R. Brown, 1973). This is not to say the environment has no role in language development. Many language experts argue that a child's experiences, the particular language to be learned, and the context in which learning takes place can strongly influence language acquisition (Berko Gleason, 2009; Goldfield & Snow, 2009).</p>
+			<p>In [one] study, researchers observed the language environments of children from two different backgrounds: middle-income professional families and welfare families (Hart & Risley, 1995; Risley & Hart, 2006). Then they examined the children's language development. All of the children developed normally in terms of learning to talk and acquiring the basic rules of English and a fundamental vocabulary. However, the researchers found enormous differences in the sheer amount of language to which the children were exposed and in the level of the children's language development. For example, in a typical hour, the middle-income professional parents spent almost twice as much time communicating with their children as did the welfare parents. The children from the middle-income professional families heard about 2,100 words an hour; their child counterparts in welfare families, only 600 words an hour. The researchers estimated that by 4 years of age, the average welfare-family child would have 13 million fewer words of cumulative language experience than the child in the average middle-income professional family. Amazingly, some of the 3-year-old children from middle-class professional families had a recorded vocabulary that exceeded the recorded vocabulary of some of the welfare parents.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-4_s10</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+	<scene id="11" type="9_Activity_Image_Rollclick">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m2-4_s11.jpg</image>
+			<hotspots>
+				<hotspot audio="" dynamic="true" x="55" y="147">
+					<![CDATA[
+					<h1></h1>
+					<p>This paragraph introduces the hypothesis that children are "biologically prewired to learn language" and provides evidence to support that hypothesis.</p>
+					]]>
+				</hotspot>
+
+				<hotspot audio="" dynamic="true" x="451" y="170">
+					<![CDATA[
+					<h1></h1>
+					<p>This paragraph introduces a contrasting point of view: the hypothesis of behaviorists that children learn language through reinforcement. Note the use of the words <em>opposed</em> and <em>argued</em>.</p>
+					]]>
+				</hotspot>
+
+				<hotspot audio="" dynamic="true" x="10" y="320">
+					<![CDATA[
+					<h1></h1>
+					<p>This paragraph compares the two views, giving some support to each.</p>
+					]]>
+				</hotspot>
+
+				<hotspot audio="" dynamic="true" x="451" y="321">
+					<![CDATA[
+					<h1></h1>
+					<p>This paragraph uses the compare and contrast pattern to explain a research study done that supports the influence of environment on learning language.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m2-4_s11</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which hypothesis on language development does the detail "the rapid way children learn language" support?</question>
+            <answers>
+				<answer correct="true">Noam Chomsky's view that babies are biologically prewired to learn language.</answer>
+				<answer>The behaviorists view that babies learn language through chains of responses acquired through reinforcement.</answer>
+            </answers>
+            <figure>
+            <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Learning Language</span>]]></header>
+        <text>
+            <![CDATA[
+            <p>American linguist Noam Chomsky (1975) has argued that humans come into the world biologically prewired to learn language at a certain time and in a certain way. According to Chomsky and many other language experts, the strongest evidence for language's biological basis is the fact that children all over the world reach language milestones at about the same time and in about the same order, despite vast variations in the language input they receive from their environment. For example, in some cultures, such as some Samoan tribes (Schieffelin & Ochs, 1986), parents snuggle their babies but rarely talk to infants under 1 year of age, yet these infants still acquire language (Sterponi, 2010).</p>
+			<p>Using brain-imaging techniques such as PET scans, researchers have found that when an infant is about 9 months old, the hippocampus, the part of the brain that stores and indexes many kinds of memory, becomes fully functional (Bauer, 2009). This is also the time at which infants appear to be able to attach meaning to words, for instance to look at the ball if someone says "ball"—suggesting links among language, cognition, and the development of the brain.</p>
+			<p>Decades ago, behaviorists opposed Chomsky's hypothesis and argued that language represents nothing more than chains of responses acquired through reinforcement (Skinner, 1957). A baby happens to babble "ma-ma," mama rewards the baby with hugs and smiles, the baby says "mama" more and more. Bit by bit, said the behaviorists, the baby's language is built up. According to behaviorists, language is a complex learned skill, much like playing the piano or dancing.</p>
+			<p>Such a view of language development is simply not tenable, however, given the rapid way children learn language, as well as the lack of evidence that social environments carefully reinforce language skills (R. Brown, 1973). This is not to say the environment has no role in language development. Many language experts argue that a child's experiences, the particular language to be learned, and the context in which learning takes place can strongly influence language acquisition (Berko Gleason, 2009; Goldfield & Snow, 2009).</p>
+			<p>In [one] study, researchers observed the language environments of children from two different backgrounds: middle-income professional families and welfare families (Hart & Risley, 1995; Risley & Hart, 2006). Then they examined the children's language development. All of the children developed normally in terms of learning to talk and acquiring the basic rules of English and a fundamental vocabulary. However, the researchers found enormous differences in the sheer amount of language to which the children were exposed and in the level of the children's language development. For example, in a typical hour, the middle-income professional parents spent almost twice as much time communicating with their children as did the welfare parents. The children from the middle-income professional families heard about 2,100 words an hour; their child counterparts in welfare families, only 600 words an hour. The researchers estimated that by 4 years of age, the average welfare-family child would have 13 million fewer words of cumulative language experience than the child in the average middle-income professional family. Amazingly, some of the 3-year-old children from middle-class professional families had a recorded vocabulary that exceeded the recorded vocabulary of some of the welfare parents.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+           </figure>
+            <feedbackAudio>psy_m2-4_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-4_s12</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>The final paragraph gives strong support to which hypothesis on language development?</question>
+            <answers>
+				<answer>Noam Chomsky's view that babies are biologically prewired to learn language.</answer>
+				<answer correct="true">The behaviorists view that babies learn language through chains of responses acquired through reinforcement.</answer>
+            </answers>
+            <figure>
+            <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Learning Language</span>]]></header>
+        <text>
+            <![CDATA[
+            <p>American linguist Noam Chomsky (1975) has argued that humans come into the world biologically prewired to learn language at a certain time and in a certain way. According to Chomsky and many other language experts, the strongest evidence for language's biological basis is the fact that children all over the world reach language milestones at about the same time and in about the same order, despite vast variations in the language input they receive from their environment. For example, in some cultures, such as some Samoan tribes (Schieffelin & Ochs, 1986), parents snuggle their babies but rarely talk to infants under 1 year of age, yet these infants still acquire language (Sterponi, 2010).</p>
+			<p>Using brain-imaging techniques such as PET scans, researchers have found that when an infant is about 9 months old, the hippocampus, the part of the brain that stores and indexes many kinds of memory, becomes fully functional (Bauer, 2009). This is also the time at which infants appear to be able to attach meaning to words, for instance to look at the ball if someone says "ball"—suggesting links among language, cognition, and the development of the brain.</p>
+			<p>Decades ago, behaviorists opposed Chomsky's hypothesis and argued that language represents nothing more than chains of responses acquired through reinforcement (Skinner, 1957). A baby happens to babble "ma-ma," mama rewards the baby with hugs and smiles, the baby says "mama" more and more. Bit by bit, said the behaviorists, the baby's language is built up. According to behaviorists, language is a complex learned skill, much like playing the piano or dancing.</p>
+			<p>Such a view of language development is simply not tenable, however, given the rapid way children learn language, as well as the lack of evidence that social environments carefully reinforce language skills (R. Brown, 1973). This is not to say the environment has no role in language development. Many language experts argue that a child's experiences, the particular language to be learned, and the context in which learning takes place can strongly influence language acquisition (Berko Gleason, 2009; Goldfield & Snow, 2009).</p>
+			<p>In [one] study, researchers observed the language environments of children from two different backgrounds: middle-income professional families and welfare families (Hart & Risley, 1995; Risley & Hart, 2006). Then they examined the children's language development. All of the children developed normally in terms of learning to talk and acquiring the basic rules of English and a fundamental vocabulary. However, the researchers found enormous differences in the sheer amount of language to which the children were exposed and in the level of the children's language development. For example, in a typical hour, the middle-income professional parents spent almost twice as much time communicating with their children as did the welfare parents. The children from the middle-income professional families heard about 2,100 words an hour; their child counterparts in welfare families, only 600 words an hour. The researchers estimated that by 4 years of age, the average welfare-family child would have 13 million fewer words of cumulative language experience than the child in the average middle-income professional family. Amazingly, some of the 3-year-old children from middle-class professional families had a recorded vocabulary that exceeded the recorded vocabulary of some of the welfare parents.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+           </figure>
+            <feedbackAudio>psy_m2-4_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s14</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Darren Greenwood/Design Pics, BananaStock/PunchStock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="3_txt_img_reading">
+          <content>
+			<header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Theories of Emotion</span>]]></header>
+        	<text>
+            <![CDATA[
+            <p>Imagine that you and your date are enjoying a picnic in the country. Suddenly, a bull runs across the field toward you. Why are you afraid? Two well-known theories of emotion that involve physiological processes provide answers to this question.</p>
+			<p>Common sense tells you that you are trembling and running away from the bull because you are afraid, but William James (1950) and Carl Lange (1922) said emotion works in the opposite way. According to the James-Lange theory, emotion results from physiological states triggered by stimuli in the environment: Emotion occurs after physiological reactions. Moreover, each emotion – from anger to rapture –has a distinct set of physiological changes, evident in changes in hear rate, breathing patterns, sweating, and other responses. Essentially, the James-Lange theory proposes that after the initial perception, the experience of emotion results from the perception of one's own physiological changes.</p>
+			<p>Let's see how the James-Lange theory would explain fear in the situation with the bull. You see the bull scratching its hoof on the ground, and you begin to run away. Your aroused body then sends sensory messages to your brain, at which point emotion is perceived. According to this theory, you do not run away because you are afraid; rather you are afraid because you are running away.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>
+			]]>
+        	</text>
+		</content>
+		<audio>psy_m2-4_s15</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="16" type="9_Activity_Image_Rollclick">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m2-4_s16.jpg</image>
+			<hotspots>
+				<hotspot audio="" dynamic="true" x="138" y="160">
+					<h1></h1>
+					<p>This sentence explains the "common sense" cause and effect relationship about fear – that your physical reactions (trembling and running away) are caused by seeing the bull. Cause: a large bull runs across a field at you. Effect: your body trembles and you run away.</p>
+				</hotspot>
+
+				<hotspot audio="" dynamic="true" x="451" y="184">
+					<![CDATA[
+					<h1></h1>
+					<p>In this sentence, the word "results" is your clue that emotion in the James-Lange theory is an effect. Think "this action results in this action."</p>
+					]]>
+				</hotspot>
+
+				<hotspot audio="" dynamic="true" x="138" y="324">
+					<![CDATA[
+					<h1></h1>
+					<p>Again, the author uses "results" as a clue word for effect. In explaining the theory, the author is saying that the emotion is caused by the perception of the body's physical changes. Cause: your body's physical changes (the trembling and running). Effect: the emotion of fear.</p>
+					]]>
+				</hotspot>
+
+				<hotspot audio="" dynamic="true" x="451" y="324">
+					<![CDATA[
+					<h1></h1>
+					<p>In this summary, the author is clearly stating a cause and effect relationship, but without using the words "cause" or "effect." </p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m2-4_s16</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[What does the author state is the most common effect of fear? ]]></question>
+            <answers>
+				<answer>emotionally, you feel afraid</answer>
+				<answer correct="true">the body trembles and you run away</answer>
+            </answers>
+            <figure>
+            <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Theories of Emotion</span>]]></header>
+        	<text>
+            <![CDATA[
+            <p>Imagine that you and your date are enjoying a picnic in the country. Suddenly, a bull runs across the field toward you. Why are you afraid? Two well-known theories of emotion that involve physiological processes provide answers to this question.</p>
+			<p>Common sense tells you that you are trembling and running away from the bull because you are afraid, but William James (1950) and Carl Lange (1922) said emotion works in the opposite way. According to the James-Lange theory, emotion results from physiological states triggered by stimuli in the environment: Emotion occurs after physiological reactions. Moreover, each emotion – from anger to rapture –has a distinct set of physiological changes, evident in changes in hear rate, breathing patterns, sweating, and other responses. Essentially, the James-Lange theory proposes that after the initial perception, the experience of emotion results from the perception of one's own physiological changes.</p>
+			<p>Let's see how the James-Lange theory would explain fear in the situation with the bull. You see the bull scratching its hoof on the ground, and you begin to run away. Your aroused body then sends sensory messages to your brain, at which point emotion is perceived. According to this theory, you do not run away because you are afraid; rather you are afraid because you are running away.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>
+			]]>
+        	</text>
+           </figure>
+            <feedbackAudio>psy_m2-4_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m2-4_s17</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>According to the James-Lange theory, what is the effect related to fear?</question>
+            <answers>
+				<answer correct="true">the emotion of feeling fearful or afraid</answer>
+				<answer>the physical reaction of the body</answer>
+            </answers>
+            <figure>
+            <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Theories of Emotion</span>]]></header>
+        	<text>
+            <![CDATA[
+            <p>Imagine that you and your date are enjoying a picnic in the country. Suddenly, a bull runs across the field toward you. Why are you afraid? Two well-known theories of emotion that involve physiological processes provide answers to this question.</p>
+			<p>Common sense tells you that you are trembling and running away from the bull because you are afraid, but William James (1950) and Carl Lange (1922) said emotion works in the opposite way. According to the James-Lange theory, emotion results from physiological states triggered by stimuli in the environment: Emotion occurs after physiological reactions. Moreover, each emotion – from anger to rapture –has a distinct set of physiological changes, evident in changes in hear rate, breathing patterns, sweating, and other responses. Essentially, the James-Lange theory proposes that after the initial perception, the experience of emotion results from the perception of one's own physiological changes.</p>
+			<p>Let's see how the James-Lange theory would explain fear in the situation with the bull. You see the bull scratching its hoof on the ground, and you begin to run away. Your aroused body then sends sensory messages to your brain, at which point emotion is perceived. According to this theory, you do not run away because you are afraid; rather you are afraid because you are running away.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>
+			]]>
+        	</text>
+           </figure>
+            <feedbackAudio>psy_m2-4_s18_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s19</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Wave Royalty Free/Alamy, Purestock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s20</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Randy Faris/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s21</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Wave Royalty Free/Alamy, (2)Purestock/Getty Images, (3)BananaStock/JupiterImages/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="3_txt_img_reading">
+          <content>
+        <header bold="true" normal="true"><![CDATA[<span style="font-style:normal; font-weight:bold;">Perception and Social Psychology: Was That a Gun or Car Keys?</span>]]></header>
+        <text>
+            <![CDATA[
+            <p>Consider the following cases:</p>
+			<ul>
+				<li>William J. Whitfield, 22, shot to death in a supermarket in 1997 while holding his car keys.</li>
+				<li>Julian Alexander, a 20-year-old newlywed, killed in front of his home in 2008 while holding a wooden stick he was using to fix curtains. </li>
+			</ul>
+<p>In both of these instances, the victims were Black men, shot by police officers who mistook the harmless object they were holding for a weapon. In those cases in which investigators have completed, the police officers were cleared of wrongdoing. Juries and judges concluded that they had made terrible but honest mistakes. These and similar cases have incited public interest. What role did race play in these &quot;honest&quot; perceptual mistakes?</p>
+<p>Social psychologist Keith Payne examined how race affects the tendency to misperceive harmless objects as handguns (Payne, 2001, 2010; Stokes &amp; Payne, 2010). Participants were told that they would see two pictures on a computer screen. Their job was to decide, very quickly, whether the second picture was a gun or a tool. The first picture—always a picture of an African American man or a White man—cued the participants that the judgment was coming. Participants were more likely to misperceive tools as guns when the tools were shown after a picture of an African American man.</p>
+<p style="font-size:90%">From <em>The Science of Psychology</em>, 2nd Edition, by Laura A. King, &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+    </content>
+    <audio>psy_m2-4_s22</audio>
+    <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits></scene>
+
+	<scene id="23" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>What Questions Do You Have?</header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m2-4_s23.jpg</image>
+			<hotspots>
+				<hotspot dynamic="true" x="173" y="26">
+					<![CDATA[
+					<h1></h1>
+					<p>What did the police suspect the men of doing?</p>
+					]]>
+				</hotspot>
+
+				<hotspot dynamic="true" x="123" y="131">
+					<![CDATA[
+					<h1></h1>
+					<p>What was the ethnicity of the police officers involved in these cases of misperception?</p>
+					]]>
+				</hotspot>
+
+				<hotspot  dynamic="true" x="171" y="260">
+					<![CDATA[
+					<h1></h1>
+					<p>What was the ethnicity of the people in Payne's study? Were their racial differences in their responses?</p>
+					]]>
+				</hotspot>
+
+				<hotspot dynamic="true" x="416" y="343">
+					<![CDATA[
+					<h1></h1>
+					<p>Were both men and women included in Payne's study? Were their gender differences in their responses?</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m2-4_s23</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (c)BananaStock/JupiterImages/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="24" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s24</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)BananaStock/PunchStock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>psy_m2-4_s25</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)BananaStock/JupiterImages/Getty Images, (2)Rachel Frank/Corbis, (3)Wave Royalty Free/Alamy, (4)James Woodson/Digital Vision/Getty Images, (5)Purestock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+	<scene id="26" type="End_Multiple_Choice">
+		<instruction>Click on the correct answer.</instruction>
+		<multiple_choice>
+			<multiple>
+				<question>Order is important in a list pattern of organization.</question>
+				<answers>
+					<answer>True</answer>
+					<answer correct="true">False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>In a cause and effect pattern of organization, the author always states the cause first.</question>
+				<answers>
+					<answer>True</answer>
+					<answer correct="true">False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>An experiment is an example of a sequence pattern of organization.</question>
+				<answers>
+					<answer correct="true">True</answer>
+					<answer>False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>A text always contains only one pattern of organization.</question>
+				<answers>
+					<answer>True</answer>
+					<answer correct="true">False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Critical thinking involves questioning and evaluating the strength of an author's argument.</question>
+				<answers>
+					<answer correct="true">True</answer>
+					<answer>False</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple hasTextFigure="true">
+            <question>Besides introducing two theories that show cause and effect, this paragraph also sets up a</question>
+            <answers>
+				<answer correct="true">comparison/contrast relationship</answer>
+				<answer>a list of three or more ideas</answer>
+            </answers>
+            <figure>
+            <header bold="true" normal="true" italic="false"><![CDATA[<span style="color:#000000">Theories of Emotion</span>]]></header>
+        	<text>
+            <![CDATA[
+            <p>Imagine that you and your date are enjoying a picnic in the country. Suddenly, a bull runs across the field toward you. Why are you afraid? Two well-known theories of emotion that involve physiological processes provide answers to this question.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>
+			]]>
+        	</text>
+           </figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>What is the main difference between the biological and behaviorists theories presented in these two paragraphs?</question>
+            <answers>
+				<answer correct="true">how infants acquire language</answer>
+				<answer>how children learn a foreign language</answer>
+            </answers>
+            <figure><header></header>
+        <text>
+            <![CDATA[
+            <p>American linguist Noam Chomsky (1975) has argued that humans come into the world biologically prewired to learn language at a certain time and in a certain way. According to Chomsky and many other language experts, the strongest evidence for language's biological basis is the fact that children all over the world reach language milestones at about the same time and in about the same order, despite vast variations in the language input they receive from their environment. For example, in some cultures, such as some Samoan tribes (Schieffelin & Ochs, 1986), parents snuggle their babies but rarely talk to infants under 1 year of age, yet these infants still acquire language (Sterponi, 2010).</p>
+			<p>Decades ago, behaviorists opposed Chomsky's hypothesis and argued that language represents nothing more than chains of responses acquired through reinforcement (Skinner, 1957). A baby happens to babble "ma-ma," mama rewards the baby with hugs and smiles, the baby says "mama" more and more. Bit by bit, said the behaviorists, the baby's language is built up. According to behaviorists, language is a complex learned skill, much like playing the piano or dancing.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+           </figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>What evidence is used to support Chomsky's theory of language development?</question>
+            <answers>
+				<answer>Babies who babble "ma-ma" receive reinforcement for this behavior because the parent smiles and hugs the baby.</answer>
+				<answer correct="true">In cultures where parents rarely talk to their infants under the age of 1, those infants still acquire language.</answer>
+            </answers>
+            <figure><header></header>
+        <text>
+            <![CDATA[
+            <p>American linguist Noam Chomsky (1975) has argued that humans come into the world biologically prewired to learn language at a certain time and in a certain way. According to Chomsky and many other language experts, the strongest evidence for language's biological basis is the fact that children all over the world reach language milestones at about the same time and in about the same order, despite vast variations in the language input they receive from their environment. For example, in some cultures, such as some Samoan tribes (Schieffelin & Ochs, 1986), parents snuggle their babies but rarely talk to infants under 1 year of age, yet these infants still acquire language (Sterponi, 2010).</p>
+			<p>Decades ago, behaviorists opposed Chomsky's hypothesis and argued that language represents nothing more than chains of responses acquired through reinforcement (Skinner, 1957). A baby happens to babble "ma-ma," mama rewards the baby with hugs and smiles, the baby says "mama" more and more. Bit by bit, said the behaviorists, the baby's language is built up. According to behaviorists, language is a complex learned skill, much like playing the piano or dancing.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>]]>
+        </text>
+           </figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Compare and contrast the two studies in this excerpt. What similarities exist between the two studies?</question>
+            <answers>
+				<answer correct="true">Both studies showed that the participants misperceived that African Americans were holding guns when they were holding other objects.</answer>
+				<answer>Both studies showed that African American and White participants both misperceived guns for tools.</answer>
+            </answers>
+            <figure><header></header>
+        	<text>
+            <![CDATA[
+            <p>Social psychologist Keith Payne examined how race affects the tendency to misperceive harmless objects as handguns (Payne, 2001, 2010; Stokes &amp; Payne, 2010). Participants were told that they would see two pictures on a computer screen. Their job was to decide, very quickly, whether the second picture was a gun or a tool. The first picture—always a picture of an African American man or a White man—cued the participants that the judgment was coming. Participants were more likely to misperceive tools as guns when the tools were shown after a picture of an African American man.</p>
+			<p>In another study, 48 police officers, Whiles and African Americans, played a video game in which they had to decide whether to shoot the suspects in the game (Plant &amp; Peruche, 2005). The suspects were African American or White and were holding guns or other objects. The researchers were interested in whether practice with the game—in which African American or White suspects were randomly determined to be holding a gun or another object—would help the officers become less biased in their perceptions.  . . . In the early trials the police officers, regardless of their own race, were more likely to mistakenly shoot an unarmed suspect when he was African American.  By the experiments end, however, this tendency had faded, and the officers treated African American and White suspects with equal levels of restraint.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>
+			]]>
+        	</text>
+           </figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Compare and contrast the two studies in this excerpt. Which of the following is an example of a difference between the two studies?</question>
+            <answers>
+				<answer>After a time, the participants in the first study had an automatic reaction to the photos of both African American and White men and thought all had guns.</answer>
+				<answer correct="true">With practice, the police officers of both races in the second study were able to treat African American and White suspects with more restraint.</answer>
+            </answers>
+            <figure><header></header>
+        	<text>
+            <![CDATA[
+            <p>Social psychologist Keith Payne examined how race affects the tendency to misperceive harmless objects as handguns (Payne, 2001, 2010; Stokes &amp; Payne, 2010). Participants were told that they would see two pictures on a computer screen. Their job was to decide, very quickly, whether the second picture was a gun or a tool. The first picture—always a picture of an African American man or a White man—cued the participants that the judgment was coming. Participants were more likely to misperceive tools as guns when the tools were shown after a picture of an African American man.</p>
+			<p>In another study, 48 police officers, Whiles and African Americans, played a video game in which they had to decide whether to shoot the suspects in the game (Plant &amp; Peruche, 2005). The suspects were African American or White and were holding guns or other objects. The researchers were interested in whether practice with the game—in which African American or White suspects were randomly determined to be holding a gun or another object—would help the officers become less biased in their perceptions.  . . . In the early trials the police officers, regardless of their own race, were more likely to mistakenly shoot an unarmed suspect when he was African American.  By the experiments end, however, this tendency had faded, and the officers treated African American and White suspects with equal levels of restraint.</p>
+			<p style="font-size:90%">From THE SCIENCE OF PSYCHOLOGY, 2nd edition, by Laura King, copyright &copy; 2011 The McGraw-Hill Companies, Inc.</p>
+			]]>
+        	</text>
+           </figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		</multiple_choice>
+		<audio>psy_m2-4_s26</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+</shell>

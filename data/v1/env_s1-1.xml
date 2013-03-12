@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to AP Environmental Science">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_s1-1_s1</video>
+      <credits>(l)Photodisc/Getty Images, (cl)Image Source/Getty Images, (cr)USGS photo by Walter D. Mooney, (r)Stephen Reynolds,(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s2</video>
+      <credits>(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s3</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (1)Keith Fergus/Alamy, (2)Beau Lark/Corbis, (3)Radius Images/Corbis,(bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s4</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+	<scene id="5" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>Click to Explore</header>
+			<instruction>Click on the 'hot spots' to view additional information.</instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+				<p><strong>Module 1: Math</strong></p>
+				<br/><br/><br/>
+				
+				<ul>
+					<li><a href="#" data-id="0" class="hotspot">Metric System</a></li>
+					<li><a href="#" data-id="1" class="hotspot">Percentages</a></li>
+					<li><a href="#" data-id="2" class="hotspot">Scientific Notation</a></li>
+					<li><a href="#" data-id="3" class="hotspot">Dimensional Analysis</a></li>
+					<li><a href="#" data-id="4" class="hotspot">Word Problems</a></li>
+				</ul>
+				
+			]]></text>
+			<hotspots>
+				<hotspot>
+					<![CDATA[
+					<h1>Metric System</h1>
+					<p>You will learn what the metric system is and how it will be used in your Environmental Science course. You will use metric units during laboratory experiments and they may appear in multiple-choice and free-response questions on the AP Exam.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Percentages</h1>
+					<p>Here you will be given step-by-step instruction on how to find a percent of a whole as well as how to find the part of the whole if given the percent. You will also be given instruction on how to find change in percent, an important skill for Environmental Science.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Scientific Notation</h1>
+					<p>Scientific notation allows for easier recording of very large and very small numbers. By the end of this submodule you will be able to convert numbers from standard notation to scientific notation.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Dimensional Analysis</h1>
+					<p>This math skill provides strategies for solving problems with different units.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Word Problem</h1>
+					<p>Word problems fluster most. This submodule will provide problem solving strategies to make solving easier.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>env_s1-1_s5</audio>
+		<credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+	</scene>
+	
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s6</video>
+      <credits>(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of the following countries has both the highest cultural diversity and the highest biological diversity of the countries listed in the diagram?</question>
+            <answers>
+               <answer>Ecuador</answer>
+			   <answer>Nepal</answer>
+               <answer>Congo</answer>
+			   <answer correct="true">Mexico</answer>
+			   <answer>Australia</answer>
+            </answers>
+			<figure>env_s1-1_s7_view.jpg</figure>
+            <feedbackAudio>env_s1-1_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_s1-1_s7</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s8</video>
+      <credits>(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+	<scene id="9" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="1">Producer</match>
+				<match id="2">Ecosystem</match>
+				<match id="3">Genetics</match>
+				<match id="4">Evolution</match>
+				<match id="5">Consumer</match>
+				<match id="6">Traits</match>
+			</matches>
+			<drops title="" children-styles="margin-bottom: 0.1em;">
+				<drop correct="2">All the organisms and the nonliving components found in a particular place.</drop>
+				<drop correct="5">An organism that depends on other organisms for its food.</drop>
+				<drop correct="1">An organism that makes its own food.</drop>
+				<drop correct="3">The scientific study of heredity.</drop>
+				<drop correct="6">The different forms of a characteristic.</drop>
+				<drop correct="4">The process by which living things change over time.</drop>
+			</drops>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+		<audio>env_s1-1_s9</audio>
+		<credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+	</scene>
+	
+	<scene id="10" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s10</video>
+      <credits>(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_intro_03P.mp4</url>
+      <image>env_s1-1_s11.jpg</image>
+      <audio>env_s1-1_s11</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s12</video>
+      <credits>(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s13</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (c)Fancy Photography/Veer,(bkgd) Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_s1-1_s14</video>
+      <credits>(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>AP Environmental Science encompasses a wide scope of topics including biology, chemistry, physics, earth science, and the social sciences by integrating history, economics, and politics.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The AP Environmental Science Exam is given each year in June.</question>
+            <answers>
+			   <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>There are 8 modules in On Board for Environmental Science.</question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Data Analysis is an important skill need to achieve success in AP Environmental Science. </question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>You may receive college credit if you perform well on the AP Exam.</question>
+            <answers>
+			   <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_s1-1_s15</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+</shell>

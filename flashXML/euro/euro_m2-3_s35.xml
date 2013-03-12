@@ -1,0 +1,253 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m2-3_s35.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>Prompt: For John Stuart Mill, what is the “peculiar evil of silencing the expression of an opinion,” however unpopular, and on what grounds would Mill permit society to restrict individual liberty?</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[                                           from <font face='lc-Italic'>On Liberty</font> by John Stuart Mill, 1869<br/>
+“The object of this essay is to assert one very simple principle, as entitled to govern absolutely the dealings of society with the individual …<br/><br/>The only part of the conduct of anyone for which he is amenable to society is that which concerns others.  In the part which merely concerns himself, his independence is, of right, absolute.  Over himself, over his<br/><br/>… The only freedom which deserves the name is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs or impede their efforts to obtain it.<br/><br/>… the peculiar evil of silencing the expression of an opinion is that it is robbing the human race, posterity as well as the existing generation – those who dissent from the opinion, still more than those who hold it.  If the opinion is right, they are deprived of the opportunity of exchanging error for truth; if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth produced by its collision with error.]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[                                           from <font face='lc-Italic'>On Liberty</font> by John Stuart Mill, 1869<br/>
+Secondly, the principle requires liberty of tastes and pursuits, of framing the plan of our life to suit our own character, of doing as we like, subject to such consequences as may follow, without impediment from our fellow creatures, so long as what we do does not harm them, …
+Thirdly, from this liberty of each individual follows the liberty, within the same limits, of combination among individuals; freedom to unite for any purpose not involving harm to others; the persons combining being supposed to be of full age and not forced or deceived.
+… The only freedom which deserves the name is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs or impede their efforts to obtain it.
+… the peculiar evil of silencing the expression of an opinion is that it is robbing the human race, posterity as well as the existing generation – those who dissent from the opinion, still more than those who hold it.  If the opinion is right, they are deprived of the opportunity of exchanging error for truth; if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth produced by its collision with error.]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[<p>Prompt: For John Stuart Mill, what is the “peculiar evil of silencing the expression of an opinion,” however unpopular, and on what grounds would Mill permit society to restrict individual liberty? <br/><br/>John Stuart Mill argues that silencing an opposing view is a mistake because it may subdue a better alternative or prevent the reinforcement of the superior option.  He feels that society should be able to restrict an individual’s liberty when it disrespects the rights of others or causes injury to them.</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+		<Source>
+			<Text>Prompt: What were the principal war aims of each of the major belligerents during World War I, and to what degree did they accomplish those war aims? </Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		
+		<Source>
+			<Text>Prompt: What did the Frankfurt Assembly hope to achieve and why did it fail? </Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>Prompt: Which had a greater impact on politics in the 18th century, the War of Austrian Succession or the Seven Years’ War?</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[A strong thesis statement must restate the question.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Your thesis statement discusses the main point of your essay and answers the historical question.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[This prompt is asking you to do all of the following EXCEPT]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[know who John Stuart Mill was]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[remember the name of Mill’s greatest works]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[understand what Mill believed was the “peculiar evil of silencing the expression of opinion” ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[explain why Mill supported free expression]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[describe a way in which Mill would permit society to restrict individual liberty]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[What does Mill believe about the ability of authority to suppress viewpoints or opinions?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[He believes that neither the state nor a majority has the right to suppress views or interfere with a person’s liberty. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[He believes that the state has the right to suppress views if the opinions differ from those of the government.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[When does Mill believe it is acceptable to restrict individual liberty? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Never]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[When its pursuit harms another]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[This is a strong thesis statement that directly addresses the prompt.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[The writer would receive a high score for this essay.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[True]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[This prompt is asking you to do all of the following EXCEPT]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[know who were the major countries involved in World War I]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[understand the war aims of many different countries]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[describe how the war affected the people on the home front in those countries]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[decide to what extent the war aims of those countries were met]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[determine to what extent the war aims of those countries were not met]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[How many parts does this prompt have that a student will have to specifically address in a thesis statement?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[five]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[four]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[three]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[two]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[one]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<p><font size='24'>Is this a strong thesis statement based on the prompt? <br/><br/>The War of Austrian Succession affected territory on the continent, whereas the Seven Year’s War affected imperialism.</font></p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[No, it does not relate to the prompt at all.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No, while it refers to the prompt, it does not answer the question of which had a greater impact on politics in the 18th century.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Yes, it provides specific details that address the prompt.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Yes, while it doesn’t address every incident mentioned in the prompt, it’s good enough for a high score.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Yes, it specifically states which conflict had a greater impact on politics in the 18th century. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

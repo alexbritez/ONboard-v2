@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s29.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>Based on the map, which of the following is a logical conclusion?</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>The Allies initially believed that central Europe was too heavily fortified for a direct attack to be successful. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>The Axis forces attacked the Soviet Union first, because they thought that country would be easy to conquer. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s29_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=0.975" />
+  <title>McGraw-Hill ONboard - HTML5 Alpha</title>
+  <link rel="stylesheet" href="app/css/app.css">
+  <script type="text/javascript" src="app/js/scorm.js"></script>
+  <script type="text/javascript" src="app/js/modernizr.js"></script>
+  <script type="text/javascript" src="app/js/jquery.js"></script>
+  <script type="text/javascript" src="app/js/jquery-ui.js"></script>
+  <script type="text/javascript" src="app/js/jquery.ui.touch-punch.min.js"></script>
+  <script type="text/javascript" src="app/js/underscore.js"></script>
+  <script type="text/javascript" src="app/js/lib/browserSelector.js"></script>
+  <script type="text/javascript" src="app/js/video.min.js"></script>
+  <script type="text/javascript" src="app/js/lib/mousewheel.js"></script>
+  <script type="text/javascript" src="app/js/lib/mwheelIntent.js"></script>
+  <script type="text/javascript" src="app/js/lib/jscrollpane.js"></script>
+  <script type="text/javascript" src="app/js/lib/iscroll.js"></script>
+  <script type="text/javascript" src="app/js/lib/jquery.hoverscroll.js"></script>
+  <script type="text/javascript" src="app/js/app.js"></script>
+  <script type="text/javascript" src="app/js/modules/intro.js"></script>
+  <script type="text/javascript" src="app/js/modules/text_img_animation.js"></script>
+  <script type="text/javascript" src="app/js/modules/activity_image_rollclick.js"></script>
+  <script type="text/javascript" src="app/js/modules/activity_drag_drop.js"></script>
+  <script type="text/javascript" src="app/js/modules/activity_drag_list.js"></script>
+  <script type="text/javascript" src="app/js/modules/txt_img_reading.js"></script>
+  <script type="text/javascript" src="app/js/modules/activity_multiple_choice.js"></script>
+  <script type="text/javascript" src="app/js/modules/activity_interactivity.js"></script>
+  <script type="text/javascript" src="app/js/modules/middle_multiple_choice.js"></script>
+  <script type="text/javascript" src="app/js/modules/end_multiple_choice.js"></script>
+  <script type="text/javascript" src="app/js/router.js"></script>
+  <script type="text/javascript" src="app/js/ui.js"></script>
+  <script type="text/javascript">
+    function getUrlVars() {
+        var vars = {};
+        var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+            vars[key] = value;
+        });
+        return vars;
+    }
+
+    ONboard.id = getUrlVars()['id'];
+    _V_.options.flash.swf = "video-js.swf";
+  </script>
+</head>
+<body onUnload="SCOFinish()" onbeforeunload="SCOFinish()">
+  <div id="container">
+    <div id="header">
+      <div id="logo">ONboard - AP U.S. Government and Politics</div>
+      <div id="title">Preview to Government and Politics</div>
+      <div id="topic_bg"></div>
+      <div id="numberPanel">
+        <a id="btn-saveAndExit" href="#">Save &amp; Exit</a>
+        <span class="divider"></span>
+        <div id="scene_select"></div>
+      </div>
+    </div>
+    <div id="main">
+      <div id="activity"></div>
+      <video id="video" class="video-js vjs-default-skin" width="100%" height="538"></video>
+    </div>
+    <div id="footer">
+      <div id="mgh_logo"></div>
+      <div id="controls">
+        <a href="#" id="prev">
+          <img src="app/ui/btn-prev.png" height="11" width="26" />
+          Previous
+        </a>
+        <img id="divider" src="app/ui/controls_divider.png" height="30" width="2" />
+        <a href="#" id="next">
+          Next
+          <span></span>
+        </a>
+      </div>
+      <div id="copyright">
+        <strong>PHOTO CREDITS</strong>
+        <br />
+        <div id="credits"></div>
+        <br />
+        <strong id="mgh-copyright">Copyright &copy; The McGraw-Hill Companies, Inc. All rights reserved.</strong>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

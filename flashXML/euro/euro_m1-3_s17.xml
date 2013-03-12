@@ -1,0 +1,64 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Marx’s Five Stages of History</title>
+		<info></info>
+		<image>images/euro_m1-3_s17.jpg</image>
+		<audio>audio/euro_m1-3_s17.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Primitive</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s17_primitive.mp3"/>
+			<xCord>549.65</xCord>
+			<yCord>115.45</yCord>
+			<width>134</width>
+			<popTitle>Primitive communal stage</popTitle>
+			<popInfo>There was no class struggle. Man was a nomadic herd follower with no sense of land ownership.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Slavery</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s17_slavery.mp3"/>
+			<xCord>549.65</xCord>
+			<yCord>196.15</yCord>
+			<width>134</width>
+			<popTitle>Slavery</popTitle>
+			<popInfo>As soon as mankind learned agricultural techniques and settled on a piece of land, he went to war with his neighbors in order to acquire more land and slaves to work the land. The class struggle was slave vs. master.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Feudalism </Name>   
+			<audio enable="true" url="audio/euro_m1-3_s17_feudalism.mp3"/>
+			<xCord>549.65</xCord>
+			<yCord>276.85</yCord>
+			<width>134</width>
+			<popTitle>Feudalism </popTitle>
+			<popInfo>An elevated form of slavery. People were not owned directly, but rather belonged to a piece of land which could be bought and sold. The class struggle was lord vs. serf.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Capitalism</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s17_capitalism.mp3"/>
+			<xCord>549.65</xCord>
+			<yCord>357.55</yCord>
+			<width>134</width>
+			<popTitle>Capitalism</popTitle>
+			<popInfo>The industrial revolution was the new corruptor. A new class struggle emerged; the Bourgeoisie (the middle class) versus the Proletariat (the working class). Since the greed of the bourgeoisie is limitless, he will make the lives of the proletariat more and more miserable until there is a bloody revolution in which all property is seized; church, government, and schools are overthrown.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Communism</Name>   
+			<audio enable="true" url="audio/euro_m1-3_s17_communism.mp3"/>
+			<xCord>549.65</xCord>
+			<yCord>438.25</yCord>
+			<width>134</width>
+			<popTitle>Communism</popTitle>
+			<popInfo>The last, inevitable stage is communism. This new society would have no social classes and no government. All of the people would work together to support one another; as Marx would say “From each according to his ability, to each according to his needs.” </popInfo>
+		</pButton>
+		
+	
+</popButtons>
+</PopUp>

@@ -1,0 +1,35 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[<font size='26'>How many liters of substance <font face='lc-Italic'>Z</font> (<font face='lc-Italic'>g</font>) would be produced at STP if 1.0 mole of substance <font face='lc-Italic'>X</font> (<font face='lc-Italic'>g</font>) reacts with 0.5 moles of substance <font face='lc-Italic'>Y</font> (<font face='lc-Italic'>g</font>)?<br/><br/>2<font face='lc-Italic'>X</font> (<font face='lc-Italic'>g</font>) + <font face='lc-Italic'>Y</font> (<font face='lc-Italic'>g</font>) <font face="CambriaMath">→</font> 3<font face='lc-Italic'>Z</font> (<font face='lc-Italic'>g</font>)</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>3 L</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>11.2 L</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>22.4 L</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>33.6 L</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-2_s5_FB.mp3" />
+	</question>
+</MultipleChoice>

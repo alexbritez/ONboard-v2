@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Charts and Diagrams">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m2-3_s1</video>
+      <credits>(bkgd) Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m2-3_s2</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m2-3_s3.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="152" y="7"><![CDATA[
+				<h1></h1>
+				<p>The title tells us what kind of information is being organized in the chart or diagram.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="298" y="228"><![CDATA[
+				<h1></h1>
+				<p>Information can be presented either with pictures, with words, or with a combination of the two. This diagram uses only images.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="180" y="326"><![CDATA[
+				<h1></h1>
+				<p>Arrows are often used to show how a process flows or the order of steps.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m2-3_s3</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="number" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[1. Is used to represent the important<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;steps or participants in the process.]]></match>
+			<match id="2"><![CDATA[2. Is used to show the flow or direction<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the process.]]></match>
+			<match id="3">3. Describes what the diagram is about.</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="3" x="109" y="18" />
+			<drop correct="1" x="285" y="238" />
+			<drop correct="2" x="134" y="326" />
+         </drops>
+         <image>env_m2-3_s4.jpg</image>
+		 <feedbackAudio>env_m2-3_s4_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m2-3_s4</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[According to the diagram, where does this simple ecosystem begin?]]></question>
+            <answers>
+               <answer correct="true">With the sun</answer>
+			   <answer>When the rabbit dies</answer>
+               <answer>With the cat</answer>
+			   <answer>With the plant</answer>
+			   <answer>When the cat dies</answer>
+            </answers>
+			<figure>env_m2-3_s5_view.jpg</figure>
+            <feedbackAudio>env_m2-3_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m2-3_s5</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[The death of both the rabbit and the cat has no direct effect on the cycle.]]></question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+			<figure>env_m2-3_s5_view.jpg</figure>
+            <feedbackAudio>env_m2-3_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[The sun makes the plants grow, and, in turn, the plants become food for the rabbit.]]></question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+			<figure>env_m2-3_s5_view.jpg</figure>
+            <feedbackAudio>env_m2-3_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m2-3_s8</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Interpret results</match>
+			<match id="2">Collect data to test hypothesis</match>
+			<match id="3">Report for peer review</match>
+			<match id="4">Identify question</match>
+			<match id="5">Form testable hypothesis</match>
+			<match id="6">Publish findings</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4" x="132" y="116" />
+			<drop correct="5" x="132" y="191" />
+			<drop correct="2" x="132" y="268" />
+			<drop correct="1" x="372" y="116" />
+			<drop correct="3" x="372" y="191" />
+			<drop correct="6" x="372" y="268" />
+         </drops>
+         <image>env_m2-3_s9.jpg</image>
+		 <feedbackAudio>env_m2-3_s9_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m2-3_s9</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[Once a hypothesis is rejected, the experiment is abandoned. There is no other choice according to the chart.]]></question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+			<figure>env_m2-3_s10_view.jpg</figure>
+            <feedbackAudio>env_m2-3_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m2-3_s10</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[Only identifying the question and interpreting the results require the investigator to consult prior knowledge.]]></question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+			<figure>env_m2-3_s10_view.jpg</figure>
+            <feedbackAudio>env_m2-3_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m2-3_s12.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="5" y="2"><![CDATA[
+				<h1></h1>
+				<p>The title helps to describe what the Venn diagram is comparing.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="287" y="70"><![CDATA[
+				<h1></h1>
+				<p>Labels like this indicate what each main section of the Venn diagram contains.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="341" y="219"><![CDATA[
+				<h1></h1>
+				<p>The place where the two circles overlap shows countries that have both the highest level of cultural diversity and the highest level of biological diversity.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m2-3_s12</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="number" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[1. The part of the Venn diagram that<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shows countries with both factors.]]></match>
+			<match id="2"><![CDATA[2. The part of the Venn diagram that<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shows the countries with the<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;highest level of biodiversity.]]></match>
+			<match id="3"><![CDATA[3. The part of the Venn diagram that<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shows the countries with cultural<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diversity.]]></match>
+			<match id="4"><![CDATA[4. Describes what the diagram is about.]]></match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4" x="95" y="11" />
+			<drop correct="3" x="7" y="231" />
+			<drop correct="1" x="335" y="231" />
+			<drop correct="2" x="533" y="231" />
+         </drops>
+         <image>env_m2-3_s13.jpg</image>
+		 <feedbackAudio>env_m2-3_s13_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m2-3_s13</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[Those countries that have both the highest level of cultural and biodiversity appear in the blue section of the Venn diagram.]]></question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+			<figure>env_m2-3_s14_view.jpg</figure>
+            <feedbackAudio>env_m2-3_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m2-3_s14</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[Sudan is one of the countries with the highest cultural diversity.]]></question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+			<figure>env_m2-3_s14_view.jpg</figure>
+            <feedbackAudio>env_m2-3_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Cycle</match>
+			<match id="2">Flow Chart</match>
+			<match id="3">Venn Diagram</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="3" x="61" y="307" />
+			<drop correct="1" x="268" y="307" />
+			<drop correct="2" x="475" y="307" />
+         </drops>
+         <image>env_m2-3_s16.jpg</image>
+		 <feedbackAudio>env_m2-3_s19_FB</feedbackAudio>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m2-3_s19</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="End_Multiple_Choice">
+    <instruction>Click 'View' if you need a reference to answer the question.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Charts and diagrams consist of bits of information that are connected to form an overall picture of a process or condition.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Images and text are used to show process flow or the order of steps.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The arrows are used to define the information that the chart or diagram is presenting.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which of the following would be the best title for this diagram?</question>
+            <answers>
+				<answer>Biodiversity in the United States</answer>
+				<answer>How Do the Different Sciences Affect Energy Usage?</answer>
+				<answer>The Economics of Clean Energy</answer>
+				<answer>Questions About Energy</answer>
+				<answer correct="true">How to Achieve a Clean Energy Future</answer>
+            </answers>
+			<figure>env_m2-3_s17_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Economics has the greatest influence on the goal of clean energy.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+			<figure>env_m2-3_s17_view.jpg</figure>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which of the following describes the steps in this cycle?</question>
+            <answers>
+				<answer>The Sun nourishes the plant, which feeds the cat, and the cat's body feeds the plant. Then the cycle starts again.</answer>
+				<answer correct="true">The Sun nourishes the plant, which feeds the rabbit, which feeds the cat. When the cat dies, his body, in turn, feeds the plant, and the cycle starts again.</answer>
+				<answer>The cat feeds the rabbit. When the rabbit dies, his body, in turn, feeds the plant, and then the cycle starts again.</answer>
+				<answer>The rabbit feeds the cat. When the cat dies, his body, in turn, feeds the plant, and then the cycle starts again.</answer>
+				<answer>The Sun nourishes the plant, which feeds the cat, and the cat's body feeds the plant. Then the cycle ends.</answer>
+            </answers>
+			<figure>env_m2-3_s5_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>It is obvious from the diagram that the rabbit receives its nourishment from the sun.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+			<figure>env_m2-3_s5_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m2-3_s16</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+</shell>

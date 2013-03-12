@@ -1,0 +1,94 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-2_s27.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text>Matter is the substance that all things are made of. It is defined as anything that takes up space and has weight. Even air is considered matter. It takes up space, for instance, inside a basketball. It is able to move things, such as a kite, so it also has weight. Because air takes up space and has weight, it is matter.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>Matter is the substance that all things are made of. It is defined as anything that takes up space and has weight. Even air is considered matter. It takes up space, for instance, inside a basketball. It is able to move things, such as a kite, so it also has weight. Because air takes up space and has weight, it is matter.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>Matter is the substance that all things are made of. It is defined as anything that takes up space and has weight. Even air is considered matter. It takes up space, for instance, inside a basketball. It is able to move things, such as a kite, so it also has weight. Because air takes up space and has weight, it is matter.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText>What is the purpose of the passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>To entertain</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To persuade</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To inform</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To narrate</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To compare and contrast</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m1-2_s27_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>True or False? The word choice in the passage is complex.</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>TRUE</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>FALSE</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m1-2_s27_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which word best describes the tone of the passage?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Passionate</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Neutral</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Somber</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Critical</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Humorous</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m1-2_s27_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

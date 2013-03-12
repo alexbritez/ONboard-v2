@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Gathering and Organizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m1-3_s1</video>
+      <credits>See above</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s2</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s3</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="4" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>The enormous diversity of economic, social, and political structures among the North American Indians makes large generalizations about their cultures difficult. In the last centuries before the arrival of Europeans, however, Native Americans—like people in other areas of the world—were experiencing an agricultural revolution. In all regions of the United States (if in varying degrees from place to place), tribes were becoming more sedentary and were developing new sources of food, clothing, and shelter.</p>
+			<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright © 2012 The McGraw-Hill Companies, Inc.</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-3_s4</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s5</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s6</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s7</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="8" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>In this passage, is this main idea stated or implied?</question>
+            <answers>
+               <answer correct="true">Stated</answer>
+               <answer>Implied</answer>
+            </answers>
+            <figure>
+				<header></header>
+         		<text><![CDATA[
+		 			<p>The enormous diversity of economic, social, and political structures among the North American Indians makes large generalizations about their cultures difficult. In the last centuries before the arrival of Europeans, however, Native Americans—like people in other areas of the world—were experiencing an agricultural revolution. In all regions of the United States (if in varying degrees from place to place), tribes were becoming more sedentary and were developing new sources of food, clothing, and shelter.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright © 2012 The McGraw-Hill Companies, Inc.</p>
+					]]>
+				</text>
+			</figure>
+            <feedbackAudio>USH_m1-3_s8_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s8</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s9</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s10</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Ira Block/National Geographic Society/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s11</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="12" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>Partly as a result of Columbus's initiative, Spain began to devote greater resources and energy to maritime exploration and gradually replaced Portugal as the leading seafaring nation. The Spaniard Vasco de Balboa fought his way across the Isthmus of Panama in 1513 and became the first known European to gaze westward upon the great ocean that separated America from China and the Indies. Seeking access to that ocean, Ferdinand Magellan, a Portuguese in the employ of the Spanish, found the strait that now bears his name at the southern end of South America, struggled through the stormy narrows and into the ocean (so calm by contrast that he christened it the &quot;Pacific&quot;), then proceeded to the Philippines. There Magellan died in a conflict with the natives, but his expedition went on to complete the first known circumnavigation of the globe (1519–1522).</p>
+			<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright © 2012 The McGraw-Hill Companies, Inc.</p>
+		]]></text>
+      </content>
+      <audio>USH_m1-3_s12</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s13</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following is the main idea for this passage?</question>
+            <answers>
+               <answer>Magellan was the first to circumnavigate the world.</answer>
+               <answer correct="true">Spain became world's leader in seafaring.</answer>
+			   <answer>Spain became world's leader in seafaring.</answer>
+			   <answer>Magellan died in the Philippines.</answer>
+			   <answer>Magellan was from Portugal.</answer>
+            </answers>
+            <figure><header></header>
+				 <text><![CDATA[
+					<p>Partly as a result of Columbus's initiative, Spain began to devote greater resources and energy to maritime exploration and gradually replaced Portugal as the leading seafaring nation. The Spaniard Vasco de Balboa fought his way across the Isthmus of Panama in 1513 and became the first known European to gaze westward upon the great ocean that separated America from China and the Indies. Seeking access to that ocean, Ferdinand Magellan, a Portuguese in the employ of the Spanish, found the strait that now bears his name at the southern end of South America, struggled through the stormy narrows and into the ocean (so calm by contrast that he christened it the &quot;Pacific&quot;), then proceeded to the Philippines. There Magellan died in a conflict with the natives, but his expedition went on to complete the first known circumnavigation of the globe (1519–1522).</p>
+					<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright © 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text></figure>
+            <feedbackAudio>USH_m1-3_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s14</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s15</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-15887], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following is the main idea of this excerpt?</question>
+            <answers>
+               <answer>Slave owners did not want enslaved children to grow up knowing their mothers.</answer>
+			   <answer>Enslaved children did not develop affection for their mothers.</answer>
+			   <answer>Enslaved children were raised by older slave women.</answer>
+			   <answer>Frederick Douglass lived in Maryland as a slave.</answer>
+               <answer correct="true">Frederick Douglass did not know his mother.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>&quot;My mother and I were separated when I was but an infant—before I knew her as my mother. It is a common custom, in the part of Maryland from which I ran away, to part children from their mothers at a very early age. Frequently, before the child has reached its twelfth month, its mother is taken from it, and hired out on some farm a considerable distance off, and the child is placed under the care of an old woman, too old for field labor. For what this separation is done, I do not know, unless it be to hinder the development of the child's affection toward its mother, and to blunt and destroy the natural affection of the mother for the child. This is the inevitable result.&quot;</p>
+					<p>Source: Frederick Douglass. Narrative of the Life of Frederick Douglass, An American Slave, 1845</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-3_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s16</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s17</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Ron Sachs/CNP/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="3_txt_img_reading">
+      <content>
+         <header>Richard Nixon and the Watergate Crisis</header>
+         <text><![CDATA[
+		 	<p>One argument emphasizes the evolution of the institution of the presidency over time and sees Watergate as the result of a much larger pattern of presidential usurpations of power that stretched back at least several decades. Arthur Schlesinger, Jr., helped develop this argument in his 1973 book <em>The Imperial Presidency</em>, which argues that ever since World War II, Americans have believed that the nation was in a state of permanent crisis, threatened from abroad by the menace of communism, threatened from within by the danger of insufficient will. The belief of a succession of presidents in the urgency of this crisis, and in their duty to take whatever measures might be necessary to combat it, led them gradually to usurp more and more power from Congress, from the courts, and from the public. Initially, this expansion of presidential power came in the realm of international affairs: covert and at times illegal activities overseas. But in the postwar world, domestic politics began to seem inseparable from international politics. Gradually, presidents began to look for ways to circumvent constraints in domestic matters as well.  Nixon's actions in the Watergate crisis were, in other words, a culmination of this long and steady expansion of covert presidential power.</p>
+			<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		]]>
+		</text>
+      </content>
+      <audio>USH_m1-3_s18</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following is the main idea of the paragraph?</question>
+            <answers>
+				<answer correct="true">Presidents used foreign threats to increase their power.</answer>
+				<answer>Nixon took over the U.S. presidency by military force.</answer>
+				<answer>Richard Nixon sought to become an emperor.</answer>
+				<answer>Congress supported an increase in the president's power.</answer>
+				<answer>After World War II, Presidents became involved in foreign and domestic spying.</answer>
+            </answers>
+            <figure>
+				<header>Richard Nixon and the Watergate Crisis</header>
+         		<text><![CDATA[
+		 			<p>One argument emphasizes the evolution of the institution of the presidency over time and sees Watergate as the result of a much larger pattern of presidential usurpations of power that stretched back at least several decades. Arthur Schlesinger, Jr., helped develop this argument in his 1973 book <em>The Imperial Presidency</em>, which argues that ever since World War II, Americans have believed that the nation was in a state of permanent crisis, threatened from abroad by the menace of communism, threatened from within by the danger of insufficient will. The belief of a succession of presidents in the urgency of this crisis, and in their duty to take whatever measures might be necessary to combat it, led them gradually to usurp more and more power from Congress, from the courts, and from the public. Initially, this expansion of presidential power came in the realm of international affairs: covert and at times illegal activities overseas. But in the postwar world, domestic politics began to seem inseparable from international politics. Gradually, presidents began to look for ways to circumvent constraints in domestic matters as well.  Nixon's actions in the Watergate crisis were, in other words, a culmination of this long and steady expansion of covert presidential power.</p>
+					<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]>
+				</text>
+			</figure>
+            <feedbackAudio>USH_m1-3_s19_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s19</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="3_txt_img_reading">
+      <content>
+         <header>Richard Nixon and the Watergate Crisis</header>
+         <text><![CDATA[
+		 	<p>A second explanation of Watergate emphasizes the difficult social and political environment of the 1960s and early 1970s. Nixon entered office, according to this view, facing an unprecedentedly radical opposition that would stop at nothing to discredit the war and destroy his authority. He found himself, therefore, drawn into taking similarly desperate measures of his own to defend himself from these extraordinary challenges.</p>
+			<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		]]>
+		</text>
+      </content>
+      <audio>USH_m1-3_s20</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following is the main idea of the paragraph?</question>
+            <answers>
+               <answer>Radicals opposed the Vietnam War and challenged Nixon's authority.</answer>
+			   <answer>The 1960s and 1970s represented a difficult time for the United States.</answer>
+               <answer correct="true">Nixon used desperate measures to protect himself from political opponents who sought to destroy his authority.</answer>
+			   <answer>Nixon faced extraordinary foreign and domestic challenges.</answer>
+			   <answer>Nixon's actions were justified because the United States was at war.</answer>
+            </answers>
+            <figure>
+				<header>Richard Nixon and the Watergate Crisis</header>
+				 <text><![CDATA[
+					<p>A second explanation of Watergate emphasizes the difficult social and political environment of the 1960s and early 1970s. Nixon entered office, according to this view, facing an unprecedentedly radical opposition that would stop at nothing to discredit the war and destroy his authority. He found himself, therefore, drawn into taking similarly desperate measures of his own to defend himself from these extraordinary challenges.</p>
+					<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]>
+				</text>
+			</figure>
+            <feedbackAudio>USH_m1-3_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s21</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="3_txt_img_reading">
+      <content>
+         <header>Richard Nixon and the Watergate Crisis</header>
+         <text><![CDATA[
+		 	<p>Most of those who have written about Watergate, however, search for the explanation not in the institutional or social forces, but in the personalities of the people involved, and most notably in the personality of Richard Nixon. Even many of those who have developed structural explanations return eventually to Nixon himself as the most important explanation for Watergate. Others begin there, perhaps most notably Stanley I. Kutler in <em>The Wars of Watergate</em> (1990) and later, <em>Abuse of Power</em> (1997), in which he presents extensive excerpts from conversations about Watergate taped in the Nixon White House. Kutler emphasizes Nixon's lifelong resort to vicious political tactics and his longstanding belief that he was a special target of unscrupulous enemies and had to 'get' them before they got him. Watergate was rooted, Kutler argues, 'in the personality and history of Nixon himself.' A 'corrosive hatred,' he claims, 'decisively shaped Nixon's own behavior, his career, and eventually his historical standing.'</p>
+			<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+		]]>
+		</text>
+      </content>
+      <audio>USH_m1-3_s22</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following is the main idea of the paragraph?</question>
+            <answers>
+               <answer>Many of Nixon's conversations were recorded in the White House.</answer>
+			   <answer>Institutional factors were the most important in explaining Watergate.</answer>
+			   <answer>Nixon hated his political opponents.</answer>
+               <answer correct="true">Most historians focus on Nixon's personality as the cause for Watergate.</answer>
+			   <answer>Some historians believe that Nixon had a personality disorder.</answer>
+            </answers>
+            <figure>
+				<header>Richard Nixon and the Watergate Crisis</header>
+				 <text><![CDATA[
+					<p>Most of those who have written about Watergate, however, search for the explanation not in the institutional or social forces, but in the personalities of the people involved, and most notably in the personality of Richard Nixon. Even many of those who have developed structural explanations return eventually to Nixon himself as the most important explanation for Watergate. Others begin there, perhaps most notably Stanley I. Kutler in <em>The Wars of Watergate</em> (1990) and later, <em>Abuse of Power</em> (1997), in which he presents extensive excerpts from conversations about Watergate taped in the Nixon White House. Kutler emphasizes Nixon's lifelong resort to vicious political tactics and his longstanding belief that he was a special target of unscrupulous enemies and had to 'get' them before they got him. Watergate was rooted, Kutler argues, 'in the personality and history of Nixon himself.' A 'corrosive hatred,' he claims, 'decisively shaped Nixon's own behavior, his career, and eventually his historical standing.'</p>
+					<p style="font-size:90%">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]>
+				</text>
+			</figure>
+            <feedbackAudio>USH_m1-3_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s23</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s24</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Ron Sachs/CNP/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following is the best main idea for the entire passage?</question>
+            <answers>
+               <answer>Nixon was psychologically unfit for the presidency given his hatred towards his enemies.</answer>
+			   <answer>All historians agree Nixon's personality was the most important cause for the Watergate scandal.</answer>
+			   <answer>The Watergate scandal was largely caused by foreign threats to U.S. security.</answer>
+               <answer correct="true">Historians have differing interpretations on the causes of the Watergate scandal.</answer>
+			   <answer>Like other presidents of the later half of the 20th century, Nixon sought to increase his power.</answer>
+            </answers>
+            <feedbackAudio>USH_m1-3_s25_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s25</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s26</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Kristy-Anne Glubish/Design Pics, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s27</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-45325], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s28</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>USH_m1-3_s29</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Peter Willi/The Bridgeman Art Library, (2)The Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-45325], (bkgd)Comstock/PunchStock, (text)From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright 2012 The McGraw-Hill Companies, Inc</credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which answer best reflects the topic of the lecture?</question>
+            <answers>
+               <answer>colonial trade</answer>
+               <answer correct="true">the rapid growth of American shipping</answer>
+			   <answer>the effects of war in Europe</answer>
+			   <answer>the early acts of Congress</answer>
+			   <answer>the decrease in European shipping power</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>One of the prerequisites for industrialization is an efficient system for transporting raw materials to factories and finished goods to markets. The United States had no such system in the early years of the republic. But work was under way that would ultimately remove the transportation obstacle.</p>
+					<p>There were several ways to solve the problem of the small American markets. One was to look for customers overseas, and American merchants continued their efforts to do that. Among the first acts of the new Congress when it met in 1789 were two tariff bills giving preference to American ships in American ports, helping to stimulate an expansion of domestic shipping.</p>
+					<p>More important—indeed the principal reason for the growth of American trade in this period—was the outbreak of war in Europe in the 1790s, allowing Yankee merchant vessels to take over most of the carrying trade between Europe and the Western Hemisphere.</p>
+					<p>As early as 1793, the young republic had a merchant marine and a foreign trade larger than those of any country except England. In proportion to its population, the United States had more ships and international commerce than any country in the world. Between 1789 and 1810, the total tonnage of American vessels engaged in overseas traffic rose from less than 125,000 to nearly 1 million. American ships had carried only 30 percent of the country's exports in 1789; they were carrying over 90 percent in 1810. The figures for American ships carrying imports increased even more dramatically, from 17.5 percent to 90 percent in the same period.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-3_s30_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s30</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which answer best reflects the main idea of the lecture?</question>
+            <answers>
+               <answer>Industrialization advanced through trade.</answer>
+			   <answer>The young republic had more ships than France, in proportion to its population.</answer>
+			   <answer>The number of American ships carrying imports increased dramatically between 1790 and 1810.</answer>
+			   <answer>Congress wished to increase the power of U.S. shipping in order to aid industrialization.</answer>
+               <answer correct="true">The United States capitalized on the war in Europe to expand the American market through merchant shipping.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>One of the prerequisites for industrialization is an efficient system for transporting raw materials to factories and finished goods to markets. The United States had no such system in the early years of the republic. But work was under way that would ultimately remove the transportation obstacle.</p>
+					<p>There were several ways to solve the problem of the small American markets. One was to look for customers overseas, and American merchants continued their efforts to do that. Among the first acts of the new Congress when it met in 1789 were two tariff bills giving preference to American ships in American ports, helping to stimulate an expansion of domestic shipping.</p>
+					<p>More important—indeed the principal reason for the growth of American trade in this period—was the outbreak of war in Europe in the 1790s, allowing Yankee merchant vessels to take over most of the carrying trade between Europe and the Western Hemisphere.</p>
+					<p>As early as 1793, the young republic had a merchant marine and a foreign trade larger than those of any country except England. In proportion to its population, the United States had more ships and international commerce than any country in the world. Between 1789 and 1810, the total tonnage of American vessels engaged in overseas traffic rose from less than 125,000 to nearly 1 million. American ships had carried only 30 percent of the country's exports in 1789; they were carrying over 90 percent in 1810. The figures for American ships carrying imports increased even more dramatically, from 17.5 percent to 90 percent in the same period.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio>USH_m1-3_s31_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s31</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="1_Module_Intro">
+      <video>USH_m1-3_s32</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is the main idea of the graph?</question>
+            <answers>
+               <answer>The workforce grew by nearly 15 millions workers between 1920 and 1940.</answer>
+			   <answer>A portion of women workers in the early 20th century were single.</answer>
+			   <answer>The number of single women in the workforce dipped slightly between 1920 and 1930.</answer>
+               <answer correct="true">Women remained a small, but steadily growing segment of the workforce in the early 20th century.</answer>
+			   <answer>Women made up 28% of the workforce in 1940.</answer>
+            </answers>
+            <figure>USH_m1-3_s33_view.jpg</figure>
+            <feedbackAudio>USH_m1-3_s33_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s33</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="34" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is the main idea of the map?</question>
+            <answers>
+               <answer>Many of those who settled in colonial America were English.</answer>
+               <answer correct="true">Colonial America included immigrants from several different countries.</answer>
+			   <answer>Colonial America did not include immigrants from Asian countries.</answer>
+			   <answer>In 1760, there was a large Scots-Irish population in Virginia.</answer>
+			   <answer>By 1760, there was a large population of Africans in the southern colonies.</answer>
+            </answers>
+            <figure>USH_m1-3_s34_view.jpg</figure>
+            <feedbackAudio>USH_m1-3_s34_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s34</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="35" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What is the topic of this passage?</question>
+            <answers>
+               <answer correct="true">the popularity of radio</answer>
+               <answer>society in the 1930s</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>&quot;Unlike in later times, radio in the 1930s was often a community experience. Young people would place radios on their front porches and invite friends over to sit, talk, or dance. In poor urban neighborhoods, many people who could not afford other kinds of social activities would gather on a street or in a backyard to listen to sporting events or concerts. Within families, the radio often drew parents and children together in the evening to listen to favorite programs.&quot;</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>What is the main idea of this passage?</question>
+            <answers>
+               <answer correct="true">All across the country in the 1930s, radio brought people together.</answer>
+               <answer>Young Americans in the 1930s used the radio as reason to hang out with friends.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>&quot;Unlike in later times, radio in the 1930s was often a community experience. Young people would place radios on their front porches and invite friends over to sit, talk, or dance. In poor urban neighborhoods, many people who could not afford other kinds of social activities would gather on a street or in a backyard to listen to sporting events or concerts. Within families, the radio often drew parents and children together in the evening to listen to favorite programs.&quot;</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>What is the topic of this passage?</question>
+            <answers>
+               <answer>Lincoln's feelings about slavery</answer>
+               <answer correct="true">Lincoln's goal of saving the Union</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>Abraham Lincoln's letter to Horace Greeley:</p>
+					<p>...My paramount object in this struggle <em>is</em> to save the Union, and is <em>not</em> either to save or to destroy slavery. If I could save the Union without freeing any slave I would do it, and if I could save it by freeing all the slaves I would do it; and if I could save it by freeing some and leaving others alone I would also do that. What I do about slavery, and the colored race, I do because I believe it helps to save the Union; and what I forbear, I forbear because I do <em>not</em> believe it would help to save the Union.</p>
+					<p>--Abraham Lincoln, August 20, 1862</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>What is the main idea of this passage?</question>
+            <answers>
+               <answer correct="true"><![CDATA[&quot;My paramount object in this struggle <em>is</em> to save the Union, and is <em>not</em> either to save or to destroy slavery.&quot;]]></answer>
+               <answer><![CDATA[&quot;What I do about slavery, and the colored race, I do because I believe it helps to save the Union;&quot;]]></answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>Abraham Lincoln's letter to Horace Greeley:</p>
+					<p>...My paramount object in this struggle <em>is</em> to save the Union, and is <em>not</em> either to save or to destroy slavery. If I could save the Union without freeing any slave I would do it, and if I could save it by freeing all the slaves I would do it; and if I could save it by freeing some and leaving others alone I would also do that. What I do about slavery, and the colored race, I do because I believe it helps to save the Union; and what I forbear, I forbear because I do <em>not</em> believe it would help to save the Union.</p>
+					<p>--Abraham Lincoln, August 20, 1862</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What is the main idea of this geographic?</question>
+            <answers>
+               <answer>In 17th century New England towns, privately held lots were shaped like rectangles.</answer>
+               <answer correct="true">In 17th century New England towns, there was a mixture of common and privately-held lands.</answer>
+            </answers>
+            <figure>USH_m1-3_s35_view.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m1-3_s35</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

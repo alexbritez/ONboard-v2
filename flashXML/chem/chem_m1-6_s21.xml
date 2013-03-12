@@ -1,0 +1,29 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Estimation: Acid-Base Chemistry</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-6_s21.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s21.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Answer</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s21_correct.mp3"/>
+			<xCord>400</xCord>
+			<yCord>211</yCord>
+			<width>215</width>
+			<popTitle>Answer:  </popTitle>
+			<popInfo><![CDATA[The correct answer is a little more than 5 × 10<font face='SuperScript'>–10</font>, since 1.8 is about 2, and 2 times 5 is 10.  For the exponent, –10 added to –5 gives –15.<br /><br />Set up: <br />1.8 × ____ = 10<br />–5 + ____ = –15]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Answer</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-6_s21_a.mp3"/>
+			<xCord>-100</xCord>
+			<yCord>-100</yCord>
+			<width>218.35</width>
+			<popTitle> </popTitle>
+			<popInfo><![CDATA[ ]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

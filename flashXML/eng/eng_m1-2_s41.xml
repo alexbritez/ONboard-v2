@@ -1,0 +1,32 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-2_s41.jpg</image>
+		<audio>audio/eng_m1-2_s41.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Hyperbole</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Simile</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Metaphor</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Personification</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+    </dragItems>
+	<dropSpots>
+		<dSpot xCord="519.5" yCord="131.2" spotScale="100" spotNum="1"/>
+		<dSpot xCord="519.5" yCord="226.7" spotScale="100" spotNum="2"/>
+		<dSpot xCord="519.5" yCord="322.2" spotScale="100" spotNum="3"/>
+		<dSpot xCord="519.5" yCord="418.2" spotScale="100" spotNum="4"/>
+	</dropSpots>
+</DragDrop>

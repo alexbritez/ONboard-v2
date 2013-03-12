@@ -1,0 +1,310 @@
+<shell title="Preview to Government and Politics">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m6-2_s1</video>
+    <credits>(c)Amos Morgan/Photodisc/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s2</video>
+    <credits>(tr)Comstock/Getty Images, (c) Amos Morgan/Photodisc/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s3</video>
+    <credits>(tr)Comstock/Getty Images, (c)Martin Child/Digital Vision/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="5">Liberty</match>
+        <match id="2">Capitalism</match>
+        <match id="3">Equality</match>
+        <match id="1">Consent of the governed</match>
+        <match id="4">Individual, family, and community</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1">The power of government comes from the people.</drop>
+        <drop correct="2">People are free to own private property and to work to produce profits.</drop>
+        <drop correct="3">People have the same opportunity to fundamental rights.</drop>
+        <drop correct="4">People have the right to assemble with others in any type of legal organization without penalty.</drop>
+        <drop correct="5">People have freedom from government interference in their lives and the freedom to pursue happiness.</drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m6-2_s4</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s5</video>
+    <credits>(tr)Comstock/Getty Images, (c)Eyewire (Photodisc)/PunchStock, (2)Evan Vucci/AP Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s6</video>
+    <credits>(tr)Comstock/Getty Images, (cl)Scott Olson/Getty Images News/Getty Images, (cr)ROBYN BECK/AFP/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s7</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>If you believe that the government should not bail out failing banks during an economic recession, you might be</question>
+        <answers>
+          <answer>a Socialist.</answer>
+          <answer>a Liberal.</answer>
+          <answer>a Moderate.</answer>
+          <answer>a Conservative.</answer>
+          <answer correct="true">a Libertarian.</answer>
+        </answers>
+		<figure>USGov_m6-2_s8_view.jpg</figure>
+		<feedbackAudio>USGov_m6-2_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-2_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>For Socialists, the primary goal of government is</question>
+        <answers>
+          <answer correct="true">equality.</answer>
+          <answer>traditional values.</answer>
+          <answer>stability.</answer>
+          <answer>economic freedom.</answer>
+          <answer>absolute social freedom.</answer>
+        </answers>
+		<figure>USGov_m6-2_s8_view.jpg</figure>
+		<feedbackAudio>USGov_m6-2_s9_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s10</video>
+    <credits>(tr)Comstock/Getty Images, (c)PhotoAlto/PhotoAlto Agency RF Collections/Getty Images, (2)Charlie Riedel/AP Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="5">Family</match>
+        <match id="1">Schools</match>
+        <match id="3">Media</match>
+        <match id="4">Churches</match>
+        <match id="2">Friends and neighbors</match>
+      </matches>
+      <drops title="">
+        <drop correct="1"><![CDATA[Your class stands to recite the Pledge of Allegiance.]]></drop>
+        <drop correct="2"><![CDATA[Alicia convinces you to go to a political rally with her family.]]></drop>
+        <drop correct="3"><![CDATA[<em>The Daily Show with Jon Stewart</em> and <em>The Colbert Report</em> satirize the actions of policy makers.]]></drop>
+        <drop correct="4"><![CDATA[Many highly religious people are conservatives.]]></drop>
+        <drop correct="5"><![CDATA[At home, when a presidential debate comes on television, someone changes the channel to another show.]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m6-2_s11</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd) Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s12</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>For which group were the votes for McCain and Obama split more evenly in the 2008 presidential election?</question>
+        <answers>
+          <answer correct="true">Whites</answer>
+		  <answer>African Americans</answer>
+          <answer>Latinos</answer>
+		  <answer>Asian Americans</answer>
+		  <answer>Cuban Americans</answer>
+        </answers>
+		<figure>USGov_m6-2_s13_view.jpg</figure>
+		<feedbackAudio>USGov_m6-2_s13_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-2_s13</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s14</video>
+    <credits>(tr)Comstock/Getty Images, (c)Tom Uhlman/AP Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s15</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s16</video>
+    <credits>(tr)Comstock/Getty Images, (c)Jim McKnight/AP Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m6-2_s17.jpg</image>
+      <hotspots>
+        <hotspot title="Public opinion poll" dynamic="true" x="8" y="8">
+          <![CDATA[
+            <h1>Public opinion poll</h1>
+            <p>Survey of a given population's opinion on an issue or a candidate at a particular point in time</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Straw poll" dynamic="true" x="164" y="8">
+          <![CDATA[
+            <h1>Straw poll</h1>
+            <p>Poll conducted in an unscientific manner, used to predict election outcomes</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Population" dynamic="true" x="320" y="8">
+          <![CDATA[
+            <h1>Population</h1>
+            <p>In a poll, the group of people whose opinions are of interest and/or about whom information is desired</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Random sampling" dynamic="true" x="475" y="8">
+          <![CDATA[
+            <h1>Random sampling</h1>
+            <p>Scientific method of selection for a poll in which each member of the population has an equal chance at being included in the sample</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Sampling error" dynamic="true" x="8" y="344">
+          <![CDATA[
+            <h1>Sampling error</h1>
+            <p>Statistical calculation of the difference in results between a poll of a randomly drawn sample and a poll of the entire population</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Tracking polls" dynamic="true" x="164" y="344">
+          <![CDATA[
+            <h1>Tracking polls</h1>
+            <p>Polls that measure changes in public opinion over the course of days, weeks, or months by repeatedly asking respondents the same questions and measuring changes in their responses</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Push polls" dynamic="true" x="320" y="344">
+          <![CDATA[
+            <h1>Push polls</h1>
+            <p>Special type of poll that provides information to campaigns about candidate strengths and weaknesses and attempts to skew public opinion about a candidate</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Exit polls" dynamic="true" x="475" y="344">
+          <![CDATA[
+            <h1>Exit polls</h1>
+            <p>Polls conducted at voting sites on an election day to project the winner of an election before the polls close</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m6-2_s17</audio>
+    <credits>(tr)Comstock/Getty Images, (c)CHINE NOUVELLE/SIPA/Newscom, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s18</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which president had the highest trust rating at one point during his presidency?</question>
+        <answers>
+          <answer>Bush</answer>
+		  <answer>Clinton</answer>
+          <answer correct="true">Nixon</answer>
+		  <answer>Carter</answer>
+		  <answer>Obama</answer>
+        </answers>
+		<figure verticalAlign="center">USGov_m6-2_s19_view.jpg</figure>
+		<feedbackAudio>USGov_m6-2_s19_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="2_Txt_Img_Animation">
+    <video>USGov_m6-2_s20</video>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is NOT one of Americans' political values?</question>
+        <answers>
+			<answer>Liberty</answer>
+			<answer>Equality</answer>
+			<answer correct="true">Socialism</answer>
+			<answer>Consent of the governed</answer>
+			<answer>Emphasis on the individual, family, and community</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>An economic system in which people are free to own private property and to work to produce profits is called</question>
+        <answers>
+			<answer correct="true">capitalism.</answer>
+			<answer>socialism.</answer>
+			<answer>communism.</answer>
+			<answer>anarchism.</answer>
+			<answer>libertarianism.</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Freedom from government interference in our lives and freedom to pursue happiness is called</question>
+        <answers>
+			<answer>equality.</answer>
+			<answer correct="true">liberty.</answer>
+			<answer>fraternity.</answer>
+			<answer>community.</answer>
+			<answer>anarchism.</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A pollster who conducts a poll by holding voluntary interviews is in jeopardy of collecting inaccurate data because he or she failed to take into account</question>
+        <answers>
+			<answer>how many questions were used in the interview.</answer>
+			<answer>the intelligence of those interviewed.</answer>
+			<answer>impartial vocabulary in the questions being asked.</answer>
+			<answer>objectivity in answer categories.</answer>
+			<answer correct="true">the necessity of a random sample of people.</answer>
+        </answers>
+      </multiple>
+	  <multiple>
+        <question>Public opinion is best defined as</question>
+        <answers>
+			<answer>people connecting their public opinion and beliefs with government policies.</answer>
+			<answer>the process by which a person acquires a set of political attitudes and forms opinions about social issues.</answer>
+			<answer correct="true">the collective set of opinions held by a group of people.</answer>
+			<answer>people's belief in how responsive government is to their needs.</answer>
+			<answer>the opinions of citizens as portrayed by the government.</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m6-2_s21</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

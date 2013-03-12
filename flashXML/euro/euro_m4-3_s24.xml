@@ -1,0 +1,42 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		
+		<qText><![CDATA[Which of the following is the MOST likely reason why Britain had the largest empire in Africa by 1914?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Britain had the largest population in Europe and could field the largest land army in battle.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Britain was geographically closer to Africa than were other European powers.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Britain’s political system was historically unstable and used imperialism to distract the public’s attention.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Britain created a military alliance with France and the two countries cooperated in conquering Africa.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Britain was the first to industrialize and had the world’s most powerful navy. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m4-3_s24_FB.mp3" />
+	</question>
+
+
+</MultipleChoice>

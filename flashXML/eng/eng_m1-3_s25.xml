@@ -1,0 +1,38 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m1-3_s25.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text>“I was born in 1913. Our family was one of modest circumstances, and most of my early life was spent in a store out in East Whittier. It was a grocery store, one of those family enterprises. The only reason we were able to make it go was because my mother and dad had five boys, and we all worked in the store. I worked my way through college, and, to a great extent, through law school. And then in 1940, probably the best thing that ever happened to me happened. I married Pat who's sitting over here. We had a rather difficult time after we were married, like so many of the young couples who may be listening to us. I practiced law. She continued to teach school.”</Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+//1	
+
+	<question>
+		<qText>Which mode of writing did Nixon employ in this portion of the speech?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Description</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Persuasion</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Process Analysis</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Narration</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m1-3_s25_FB.mp3" />
+	</question>	
+	
+</MultipleChoice>

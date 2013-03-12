@@ -1,0 +1,42 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-2_s19.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+
+		<Source>
+			<Text><![CDATA[<p><font face='lc-Bold'>From the Magna Carta</font><br/>To obtain the general consent of the realm for the assessment of an ‘aid' - except in the three cases specified above - or a ‘scutage', we will cause the archbishops, bishops, abbots, earls, and greater barons to be summoned individually by letter. To those who hold lands directly of us we will cause a general summons to be issued, through the sheriffs and other officials, to come together on a fixed day (of which at least forty days’ notice shall be given) and at a fixed place. In all letters of summons, the cause of the summons will be stated. When a summons has been issued, the business appointed for the day shall go forward in accordance with the resolution of those present, even if not all those who were summoned have appeared.</p>]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>What is the most important reason this clause was included in the Magna Carta?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>To inform the public who would be approving the king's tax requests.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>To ensure that the king would invite noblemen who might not agree with his taxation policies.</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>To ensure that the noblemen listed could not fail to show up for the requested meeting.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>To inform the people that they would not be allowed to approve the king's financial policies.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>To ensure that the designated people had the right to approve all taxes requested by the king.</p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-2_s19_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

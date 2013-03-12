@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Logos in Kennedy’s Inaugural Address</title>
+		<info></info>
+		<image>images/eng_m1-3_s20.jpg</image>
+		<audio>audio/eng_m1-3_s20.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Logos</Name>   
+			<audio enable="false" url=""/>
+			<xCord>452.85</xCord>
+			<yCord>100.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Logos</popTitle>
+			<popInfo><![CDATA[<p>Kennedy is pointing out a long standing tradition.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Logos</Name>
+			<audio enable="false" url=""/>
+			<xCord>452.85</xCord>
+			<yCord>313.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Logos</popTitle>
+			<popInfo><![CDATA[<p>This statement is a logical juxtaposition.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Gathering and Organizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m1-3_s1</video>
+      <credits>(l)Private Collection/Dinodia/The Bridgeman Art Library International, (cl)Mary Evans Picture Library/Alamy, (c)Ancient Art &amp; Architecture Collection Ltd/Alamy, (cr)MPI/Archive Photos/Getty Images, (r)Gregory MD./Photo Researchers/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s4</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>How do you think physical geography affected the development of India's early civilizations?</question>
+            <answers>
+				<answer>Rivers flooded by monsoons slowed the development of India.</answer>
+				<answer correct="true">India's fertile soil resulted in river valley civilizations that grew a surplus of crops.</answer>
+				<answer>The lack of natural barriers led the Indian peoples to become unified early.</answer>
+				<answer>All of the above are correct.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-3_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s5</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s7</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Private Collection/Dinodia/The Bridgeman Art Library International, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>How did a bureaucracy benefit Chandragupta Maurya?</question>
+            <answers>
+				<answer>It helped him write laws.</answer>
+				<answer>It acted as an advisory board.</answer>
+				<answer>He trusted bureaucratic officers to report all problems.</answer>
+				<answer correct="true">It helped him maintain control over a large territory.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-3_s8_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s8</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s9</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Ashoka</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m1-3_s10.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="484" y="19"><![CDATA[
+				<p>Ashoka Maurya began his reign (268–232 B.C.E) as a conqueror but converted to Buddhism after the bloody battle of Kalinga. By Ashoka's estimate, 100,000 Kalingans died in the fighting, another 150,000 were driven from their homes, and untold numbers perished in the ruined land.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="484" y="99"><![CDATA[
+				<p>Throughout his empire, Ashoka had rocks and pillars inscribed with his edicts that expressed his intention to serve as a fair, just, and humane ruler. The edicts also encouraged his subjects to observe Buddhist values.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="484" y="179"><![CDATA[
+				<p>A central treasury oversaw the efficient collection of taxes, which supported legions of officials, accountants, clerks, soldiers, and other imperial employees. Ashoka encouraged the expansion of agriculture by building irrigation systems. He set up hospitals for the welfare of both people and animals.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="484" y="259"><![CDATA[
+				<p>Ashoka facilitated trade by building roads, most notably the Royal Road, which was more than 1,000 miles long. Ashoka provided comforts to merchants and other travelers by planting banyan trees for shade, digging wells, and establishing inns along the roads. India became a major crossroads in a trade network from the Pacific to the Mediterranean.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="484" y="339"><![CDATA[
+				<p>Although he converted to Buddhism, Ashoka respected other religions in his empire. In honor of the doctrine of nonviolence, he banned animal sacrifice in his capital city and gave up his beloved hunting trips. He sent missionaries to other lands and built monasteries and shrines to the Buddha. On top of many monuments, he included the wheel of dharma, or moral law. This wheel appears on India's flag today.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m1-3_s10</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)Mary Evans Picture Library/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these is NOT one of Ashoka's economic accomplishments?</question>
+            <answers>
+				<answer>Developing well-maintained roads and travel accommodations</answer>
+				<answer>Building irrigation systems that expanded agriculture</answer>
+				<answer>Creating an efficient system of tax collection that supported soldiers and imperial employees</answer>
+				<answer correct="true">Promoting a single religion and language so that all Indians could understand his edicts</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-3_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s11</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these is evidence that Indians today still hold Ashoka in high esteem?</question>
+            <answers>
+				<answer correct="true">India's flag includes a wheel symbolic of Ashoka's belief in moral law.</answer>
+				<answer>Most Indians today are Buddhists.</answer>
+				<answer>Ashoka's original roads are carefully maintained.</answer>
+				<answer>Ashoka's rock and pillar edicts are still the law.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-3_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s12</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="6_Activity_Interactivity">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M01_03_06A.mp4</url>
+		<image>WHIS_m1-3_s13.jpg</image>
+		<audio>WHIS_m1-3_s13</audio>
+		<credits>(tr)Tetra Images/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="14" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s14</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Dinodia/age footstock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What aided Gupta merchants in Indian Ocean trade?</question>
+            <answers>
+				<answer>Emphasis on Buddhism</answer>
+				<answer correct="true">Monsoon winds</answer>
+				<answer>High taxes</answer>
+				<answer>Large bureaucracy</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-3_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s15</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s16</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="3">Chandragupta Maurya</match>
+				<match id="2">Maurya Empire</match>
+				<match id="8">Gupta merchants</match>
+				<match id="7">Ganges River Valley</match>
+				<match id="6">Gupta Empire</match>
+				<match id="1">Ashoka</match>
+				<match id="4">Indus River Valley</match>
+				<match id="5">Gupta scholars</match>
+			</matches>
+			<drops title="" children-styles="margin-bottom: 0.1em;">
+				<drop correct="1">Used taxes to build Buddhist monasteries</drop>
+				<drop correct="2">First great Indian empire </drop>
+				<drop correct="3">Set up bureaucracy and spy system</drop>
+				<drop correct="4">Located in present-day Pakistan</drop>
+				<drop correct="5">Invented symbols for numerals 0–9</drop>
+				<drop correct="6">Golden age of India</drop>
+				<drop correct="7">Located south of Himalaya</drop>
+				<drop correct="8">Indian Ocean trade network</drop>
+			</drops>
+			<image></image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+		<audio>WHIS_m1-3_s17</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="18" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>From 1264 until his death in 1294, Kublai Khan ruled over the Mongol Empire at its height. In 1279, he proclaimed himself emperor over all of China and established the Yuan dynasty. Beyond China, however, Kublai had little success as a conqueror.</p>
+			<p>In 1274 and again in 1281, Kublai attempted seaborne invasions of Japan. On both occasions, typhoons thwarted his plans. The storm of 1281 was especially vicious. It destroyed about 4,500 Mongol vessels carrying more than 100,000 armed troops—the largest seaborne expedition before World War II. Japanese defenders attributed their continued independence to the kamikaze, or "divine winds."</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-3_s18</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s19</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Mike Theiss/National Geographic/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s20</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Ancient Art &amp; Architecture Collection Ltd/Alamy, (2)MPI/Archive Photos/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s21</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Corbis, (2)Keystone/Hulton Archive/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>After conquering almost all of Asia, why did Kublai Khan not defeat Japan?</question>
+            <answers>
+				<answer>Japanese defenders held the islands against attack.</answer>
+				<answer>Disease swept through Kublai's army before it could reach the Japanese islands.</answer>
+				<answer>Samurai warriors crossed into the mainland before the Mongols could create an effective navy.</answer>
+				<answer correct="true">Typhoon winds destroyed the Mongol fleet.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m1-3_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s22</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s23</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s24</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)GK Hart/Vikki Hart/Stone/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>In which region of the world were animals first domesticated?</question>
+            <answers>
+				<answer>Africa</answer>
+				<answer correct="true">Middle East</answer>
+				<answer>South America</answer>
+				<answer>East Asia</answer>
+            </answers>
+			<figure>WHIS_m1-3_s25_view.jpg</figure>
+            <feedbackAudio>WHIS_m1-3_s25_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s25</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s26</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Ed Kashi/Corbis, (2)Gregory MD./Photo Researchers/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Land looks farmable</match>
+			<match id="2">Tropical plants</match>
+			<match id="3">Domesticated animals</match>
+			<match id="4">Wild animals</match>
+			<match id="5">Warm climate</match>
+			<match id="6">Temperate climate</match>
+         </matches>
+         <drops title="Middle East">1,3,6</drops>
+		 <drops title="East Africa">2,4,5</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m1-3_s27</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s28</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s29</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Gregory MD./Photo Researchers/Getty Images, (2)Roger de la Harpe/Gallo Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s30</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)National Geographic Society/Corbis, (2)Ed Kashi/Corbis, (3)National Geographic Society/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-3_s31</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>What was a chief reason that people settled into agricultural communities?</question>
+            <answers>
+				<answer>They needed to stop nomadic migrations.</answer>
+               <answer correct="true">They wanted to be assured of a more regular food source.</answer>
+               <answer>It allowed more families to live together.</answer>
+			   <answer>They could build better shelters for protection from the elements.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>How did Chandragupta Maurya rule?</question>
+            <answers>
+               <answer>He left governing to smaller kingdoms.</answer>
+			   <answer>He allowed local control of government.</answer>
+			   <answer>He encouraged Buddhism as the sole state religion.</answer>
+               <answer correct="true">He had a strict bureaucracy.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Ashoka's accomplishments included</question>
+            <answers>
+               <answer correct="true">communicating extensively with his people by written edicts.</answer>
+			   <answer>encouraging Indian Ocean trade.</answer>
+			   <answer>allowing his vassals to maintain independent armies.</answer>
+			   <answer>unifying through a single religion.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What stopped Mongols from conquering Japan?</question>
+            <answers>
+               <answer correct="true">kamikaze</answer>
+               <answer>disease</answer>
+			   <answer>monsoons</answer>
+			   <answer>hurricanes</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Synthesizing includes tying events in world history to other disciplines.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-3_s32</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

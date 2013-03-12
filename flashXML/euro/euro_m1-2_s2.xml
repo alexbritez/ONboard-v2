@@ -1,0 +1,65 @@
+﻿<PopUp>
+	<slideInfo>
+		<title></title>
+		<info></info>
+		<image>images/euro_m1-2_s2.jpg</image>
+		<audio>audio/euro_m1-2_s2.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>JUDAISM</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>517.9</xCord>
+			<yCord>159.7</yCord>
+			<width>134</width>
+			<popTitle>Judaism</popTitle>
+			<popInfo><![CDATA[An ancient religion which, despite its small size, has had a strong influence on human history and was a forbearer of both Christianity and Islam. People who practice Judaism are called Jews. The Hebrew Scriptures (the Torah, the Nevi’im, and the Ketuvim) include what Christians call the Old Testament of the Bible. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CHRISTIANITY</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>705.65</xCord>
+			<yCord>159.7</yCord>
+			<width>134</width>
+			<popTitle>Christianity</popTitle>
+			<popInfo><![CDATA[The world’s largest religion, Christianity is grounded in Judaic beliefs and based on the life and teachings of Jesus Christ, who Christians believe is the Messiah and the son of God. People who practice Christianity are called Christians. The Holy Book of Christianity is the Bible. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>ISLAM</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>896.4</xCord>
+			<yCord>159.7</yCord>
+			<width>134</width>
+			<popTitle>Islam</popTitle>
+			<popInfo><![CDATA[Islam is a monotheistic religion with two major sects, the Sunni and the Shi’a. It was founded in the seventh century by the prophet Muhammad and is now the second largest religion in the world. People who practice Islam are called Muslims. The Muslim Holy Book is called the Qur’an (or Koran). ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>HOLOCAUST</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>517.9</xCord>
+			<yCord>392.65</yCord>
+			<width>134</width>
+			<popTitle>Holocaust</popTitle>
+			<popInfo><![CDATA[While you are probably familiar with the Holocaust, or the mass extermination of Jews and others by the Nazi regime during World War II, you may not know that Jews in Europe have been subjected to persecution, discrimination and numerous expulsions and pogroms (organized massacres of helpless people) over many centuries. Pogroms have occurred in England, Spain, and Russia. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>30 YEARS’ WAR</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>705.65</xCord>
+			<yCord>392.65</yCord>
+			<width>134</width>
+			<popTitle>The Thirty Years’ War</popTitle>
+			<popInfo><![CDATA[While for centuries Christians have clashed with Jews and Muslims, some of the most divisive and long-lasting conflict in Europe has occurred between different denominations (or groups) within Christianity. In the sixteenth and seventeenth centuries, European Catholics and Protestants fought a series of wars over religious faith, including the French Wars of Religion, the Thirty Years’ War, and the English Civil War. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CRUSADES</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>896.4</xCord>
+			<yCord>392.65</yCord>
+			<width>134</width>
+			<popTitle>Crusades</popTitle>
+			<popInfo><![CDATA[<font size='14'>While there was a significant Islamic population in southern Spain, most European Christians first encountered Muslim peoples during the Crusades. First instigated by Pope Urban II, the crusades were a series of armed expeditions to the East (Jerusalem and surrounding countries) in an effort to free the Holy Land from Islamic rule. Each of the several Crusades was bloody and traumatic. However, the cultural exchange fostered by the crusades led to trade, an increase in learning, and ultimately, to the Renaissance.</font>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

@@ -1,0 +1,134 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-5_s15.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s15.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s15.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s15.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m3-5_s15.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>The poster’s primary audience is</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Soviet men]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Soviet leaders]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>The poster’s purpose is </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[to remind the Soviet troops what they are fighting for]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[to encourage men to join the war effort by going to work in munitions factories]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>The poster’s  PRIMARY appeal is to the audience’s </p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[patriotism and duty]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[guilt]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[desire for revenge]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[need to raise money for the war effort]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[support of Communism]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>All of the following are part of the poster’s message EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[the woman on the ground reminds the viewers that the Nazis are killing civilians]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[the child’s state of undress emphasizes his helplessness]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[the village on fire is a reminder of the destructive nature of the Nazi invasion]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+				<aBtn>
+				 <aText><![CDATA[the use of the color red is a symbol of the Soviet Union]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+				<aBtn>
+				 <aText><![CDATA[the boy’s message is an appeal to paternal responsibility]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

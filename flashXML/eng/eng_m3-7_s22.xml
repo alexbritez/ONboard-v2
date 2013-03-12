@@ -1,0 +1,27 @@
+<TextReading>
+	<slideInfo>
+		<hText>Source C</hText>
+		<image></image>
+		<audio>audio/eng_m3-7_s22.mp3</audio>
+		<mainText><![CDATA[<p>—Phyllis Schlafly, “The Fraud of the Equal Rights Amendment” (1972), from “The Phyllis Schlafly Report,” Volume 5, February 1972. Schlafly is a conservative activist who opposed the Equal Rights Amendment.<br/><br/>“The claim that American women are downtrodden and unfairly treated is the fraud of the century. The truth is that American women never had it so good. Why should we lower ourselves to “equal rights” when we already have the status of special privilege?<br/><br/>This [Equal Rights] Amendment will absolutely and positively make women subject to the draft.” <br/><font size='10'>Reprinted from <font face='c-Italic'>The Phyllis Schlafly Report</font>, Feb. 1972.</font>
+</p>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

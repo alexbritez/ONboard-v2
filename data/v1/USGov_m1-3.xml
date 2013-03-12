@@ -1,0 +1,587 @@
+<shell title="Civics">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m1-3_s1</video>
+    <credits>(l, c)Hisham Ibrahim/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Declaration of Independence</header>
+      <instruction>
+        <![CDATA[
+          <ul>
+            <li>Identifies political values</li>
+            <li>Lists grievances against Great Britain</li>
+          </ul>
+        ]]>
+      </instruction>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-3_s2.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="40" y="75">
+          <![CDATA[
+            <p>"When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another. . . ."</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="40" y="230">
+          <![CDATA[
+            <p>"We hold these truths to be self-evident, that all men are created equal. . . ."</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="40" y="285">
+          <![CDATA[
+            <p>"...certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness."</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-3_s2</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Library of Congress Manuscript Division, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="5">Social Contract</match>
+        <match id="1">Individualism</match>
+        <match id="4">Freedom</match>
+        <match id="2">Democracy</match>
+        <match id="3">Equality</match>
+      </matches>
+      <drops title="">
+        <drop correct="1"><![CDATA[The right of the individual to take initiative and to accumulate material goods and property for his or her well-being]]></drop>
+        <drop correct="2"><![CDATA[A form of government in which the people govern]]></drop>
+        <drop correct="3"><![CDATA[The entitlement of all individuals to the same protections under the law]]></drop>
+        <drop correct="4"><![CDATA[The liberty to act and think as you so choose]]></drop>
+        <drop correct="5"><![CDATA[An agreement in which people surrender freedoms in return for government protection of their rights and property]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-3_s3</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m1-3_s4</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p>
+		  	<strong>The Preamble to the U.S. Constitution</strong>
+		  </p>
+		  <p>
+		  	<a href="#" data-id="0" class="hotspot">We the People</a> of the United States, in Order to form <a href="#" data-id="1" class="hotspot">a more perfect Union</a>, <a href="#" data-id="2" class="hotspot">establish Justice</a>, <a href="#" data-id="3" class="hotspot">insure domestic Tranquility</a>, <a href="#" data-id="4" class="hotspot">provide for the common defence</a>, promote the <a href="#" data-id="5" class="hotspot">general Welfare</a>, and secure the <a href="#" data-id="6" class="hotspot">Blessings of Liberty</a> to ourselves and our Posterity, do ordain and establish this <a href="#" data-id="7" class="hotspot">Constitution for the United States of America</a>.
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+            <h1>We the People</h1>
+            <p>By including this phrase, the Framers of the Constitution intended to convey that the U.S. government derives its power from the American people.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>A more perfect Union</h1>
+            <p>The first government of the new United States was the Articles of Confederation. Under the Articles, government power was centered in the states, which caused numerous problems. The Constitution would address those problems.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Establish Justice</h1>
+            <p>This phrase had many meanings. Legal and political justice was a concern during the colonial period, and economic justice was a concern under the Articles of Confederation.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Insure domestic Tranquility</h1>
+            <p>Shays' Rebellion in 1786 led many Americans to believe the national government was too weak. The new government under the Constitution would be strong enough to handle crises at home.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Provide for the common defence</h1>
+            <p>Several foreign threats concerned the delegates during the writing of the Constitution: attacks by the Barbary Pirates, unsettled relations with Native Americans on the western borders, and conflict with the British army that had relocated in Canada.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>General Welfare</h1>
+            <p>The nation was experiencing economic uncertainty due to unstable currency and difficulties with interstate and foreign commerce. The new government would address these and other issues that affected the well-being of the public.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Blessings of Liberty</h1>
+            <p>The framers wished to protect the freedoms and liberties that had been won by the American Revolution.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Constitution for the United States of America</h1>
+            <p>By definition, a &quot;constitution&quot; is the collection of fundamental rules and laws that dictates how a legitimate government rules a nation.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-3_s5</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-3_s6.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="20" y="75">
+          <![CDATA[
+            <h1>Article I</h1>
+            <p>"All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives."</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="225" y="75">
+          <![CDATA[
+            <h1>Article II</h1>
+            <p>"The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected. . . ."</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="425" y="75">
+          <![CDATA[
+            <h1>Article III</h1>
+            <p>"The judicial Power of the United States shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behavior, and shall, at stated Times, receive for their Services a Compensation, which shall not be diminished during their Continuance in Office."</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-3_s6</audio>
+    <credits>(tr)Comstock/Getty Images, (l)Pete Souza/White House/Handout/Corbis, (c)SAUL LOEB/AFP/Getty Images, (r)TIM SLOAN/AFP/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-3_s7.jpg</image>
+      <hotspots>
+        <hotspot title="Article IV - Interstate relationships" dynamic="true" x="65" y="5">
+          <![CDATA[
+            <h1>Article IV:</h1>
+            <p>This article includes the "faith and credit" clause, which means that states must accept other states' judicial proceedings and records. The article also protects citizens as they move from state to state and prohibits those who commit a crime in one state to seek protection in another state.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Article V - Amendment process" dynamic="true" x="355" y="5">
+          <![CDATA[
+            <h1>Article V:</h1>
+            <p>Amending the Constitution is a purely legislative function. In the text of the article, there is no role for the executive or judicial powers. Only Congress and the state legislatures can legally change the Constitution.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Article VI - Constitution &lt;br&gt; as supreme law of the land" dynamic="true" x="225" y="60">
+          <![CDATA[
+            <h1>Article VI:</h1>
+            <p>This article states that the Constitution is the supreme law of the land. This means that national law overrides state law as long as the national law is within the guidelines of the Constitution.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Article VII - Ratification process" dynamic="true" x="15" y="350">
+          <![CDATA[
+            <h1>Article VII:</h1>
+            <p>This article describes the ratification process, which was used only once. After special conventions of at least nine states ratified the Constitution, the document went into effect.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-3_s7</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Michael Ventura/Alamy, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="3">Article I</match>
+        <match id="4">Article II</match>
+        <match id="7">Article III</match>
+        <match id="2">Article IV</match>
+        <match id="1">Article V</match>
+		<match id="5">Article VI</match>
+        <match id="6">Article VII</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.25em;">
+        <drop correct="1"><![CDATA[Proposals for changing the Constitution are initiated by two-thirds of Congress or by two-thirds of state legislatures.]]></drop>
+        <drop correct="2"><![CDATA[Citizens are able to move from state to state with relative political and legal ease.]]></drop>
+        <drop correct="3"><![CDATA[The United States has a legislative system that consists of two different houses.]]></drop>
+        <drop correct="4"><![CDATA[The executive power of the United States is vested in a president.]]></drop>
+        <drop correct="5"><![CDATA[The laws of the federal government are the supreme law of the land.]]></drop>
+		<drop correct="6"><![CDATA[Only nine states were required to ratify the Constitution for the new government to go into effect.]]></drop>
+        <drop correct="7"><![CDATA[The judicial branch hears cases involving the Constitution, laws of the United States, and treaties.]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-3_s8</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="3">checks and balances</match>
+        <match id="6">limited government</match>
+        <match id="4">popular sovereignty</match>
+        <match id="2">separation of powers</match>
+        <match id="5">judicial review</match>
+		<match id="1">federalism</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.25em;">
+        <drop correct="1"><![CDATA[Power is divided between national and state governments. ]]></drop>
+        <drop correct="2"><![CDATA[The legislative branch makes laws; the executive branch carries out laws; and the judicial branch judges the constitutionality of laws.]]></drop>
+        <drop correct="3"><![CDATA[Congress can create laws, but the president's veto can prevent laws from being enforced. Congress may override a veto with a two-thirds vote in each house.]]></drop>
+        <drop correct="4"><![CDATA[The government's right to rule comes from the people.]]></drop>
+        <drop correct="5"><![CDATA[Courts have interpreted Article III to mean that they have the power to declare laws and actions unconstitutional.]]></drop>
+		<drop correct="6"><![CDATA[The Constitution specifically lists the powers that government may hold, as well those powers that are prohibited to it.]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-3_s9</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="3_txt_img_reading">
+    <content>
+      <header><![CDATA[<span style="font-style:normal">Declaration's Grievances 1–3 Against King George III</span>]]></header>
+      <text>
+        <![CDATA[
+        <p>
+          &quot;He has refused his Assent to Laws, the most wholesome and necessary for the public good.
+        </p>
+        <p>
+          He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.
+        </p>
+        <p>
+          He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.&quot;
+        </p>
+        ]]>
+      </text>
+    </content>
+    <audio>USGov_m1-3_s10</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>How did the Constitution change King George III's restrictions on the law-making process?</question>
+        <answers>
+          <answer correct="true">The Constitution gave legislative powers to a Congress that could override a veto.</answer>
+          <answer>The Constitution gave legislative powers to the executive branch.</answer>
+          <answer>The Constitution did not require representation before a law was passed.</answer>
+          <answer>The Constitution separated public from private laws.</answer>
+          <answer>The Constitution made state laws supreme to national law.</answer>
+        </answers>
+		<feedbackAudio>USGov_m1-3_s11</feedbackAudio>
+        <figure>
+			<header><![CDATA[<span style="font-style:normal">Declaration's Grievances 1–3 Against King George III</span>]]></header>
+      	<text>
+      	  <![CDATA[
+       	 <p>
+       	   &quot;He has refused his Assent to Laws, the most wholesome and necessary for the public good.
+       	 </p>
+      	  <p>
+      	    He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.
+      	  </p>
+      	  <p>
+       	   He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.&quot;
+      	  </p>
+       	 ]]>
+     	 </text>
+		</figure>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>USGov_m1-3_s12</video>
+    <credits>(tr)Comstock/Getty Images, (c)Apic/Hulton Archive/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>USGov_m1-3_s13</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following were addressed by the first grievances?</question>
+        <answers>
+          <answer>Judicial powers</answer>
+          <answer correct="true">Legislative powers</answer>
+          <answer>Interstate relations</answer>
+          <answer>Amendment procedures</answer>
+          <answer>Military powers</answer>
+        </answers>
+        <feedbackAudio>USGov_m1-3_s14_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Click to Explore</header>
+      <instruction>Click on the 'hot spots' to view additional information.</instruction>
+    </content>
+    <activity type="text">
+      <text>
+        <![CDATA[
+          <p style="font-size:85%;">
+		  	<a href="#" data-id="0" class="hotspot">&quot;He has endeavored to prevent the population of these States; for that purpose obstructing the Laws for Naturalization of Foreigners. . . .&quot;</a>
+          </p>
+		  <p style="font-size:85%;">
+		  	<a href="#" data-id="1" class="hotspot">&quot;He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.&quot;</a>
+          </p>
+		  <p style="font-size:85%;">
+		  	<a href="#" data-id="2" class="hotspot">&quot;He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.&quot;</a>
+          </p>
+		  <p style="font-size:85%;">
+		  	<a href="#" data-id="3" class="hotspot">&quot;He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.&quot;</a>
+          </p>
+		  <p style="font-size:85%;">
+		  	<a href="#" data-id="4" class="hotspot">&quot;He has affected to render the Military independent of and superior to the Civil Power.&quot;</a>
+          </p>
+        ]]>
+      </text>
+      <hotspots>
+        <hotspot>
+          <![CDATA[
+		  	<h1>Article I, Section 8, Clause 4:</h1>
+            <p>The Congress shall have Power To establish an uniform Rule of Naturalization. . . .</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Article III, Section 1:</h1>
+            <p>The judicial Power of the United States shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.</p>
+          ]]>
+        </hotspot>
+        <hotspot>
+          <![CDATA[
+            <h1>Article III, Section 1:</h1>
+            <p>The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behavior, and shall, at stated Times, receive for their Services a Compensation, which shall not be diminished during their Continuance in Office.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Article I, Section 8, Clauses 11–15:</h1>
+            <p>The Congress shall have Power To declare War; To raise and support armies; To provide and maintain a Navy; To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions.</p>
+          ]]>
+        </hotspot>
+		<hotspot>
+          <![CDATA[
+            <h1>Article II, Section 2, Clause 1:</h1>
+            <p>The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States. . . .</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+      <image></image>
+    </activity>
+    <audio>USGov_m1-3_s15</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Why do you think the Constitution allows most federal court judges to hold their offices for life?</question>
+        <answers>
+          <answer>To keep the judges dependent on the majority party</answer>
+          <answer>To sway the judges in either conservative or liberal opinions</answer>
+          <answer>To avoid elections of judges</answer>
+          <answer correct="true">To keep judges free from public or political pressures</answer>
+          <answer>To avoid having to raise their salaries</answer>
+        </answers>
+        <feedbackAudio>USGov_m1-3_s16_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m1-3_s17.jpg</image>
+      <hotspots>
+        <hotspot title="Amendment I" dynamic="true" x="10" y="10">
+          <![CDATA[
+            <h1>Amendment I</h1>
+            <p>Guarantees basic freedoms of religion, the press, speech, assembly, and the right to petition</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment II" dynamic="true" x="170" y="10">
+          <![CDATA[
+            <h1>Amendment II</h1>
+            <p>Concerns state militias and the right to bear arms</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment III" dynamic="true" x="325" y="10">
+          <![CDATA[
+            <h1>Amendment III</h1>
+            <p>Prevents the forced quartering, or housing, of soldiers in citizens' homes</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment IV" dynamic="true" x="475" y="10">
+          <![CDATA[
+            <h1>Amendment IV</h1>
+            <p>Protects against unreasonable searches and seizures of property without a warrant</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment V" dynamic="true" x="325" y="75">
+          <![CDATA[
+            <h1>Amendment V</h1>
+            <p>Provides protections to the accused, including that "due process of law" must be fairly applied before, during, and after a trial</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment VI" dynamic="true" x="475" y="75">
+          <![CDATA[
+            <h1>Amendment VI</h1>
+            <p>Protects those who have been formally accused of a crime by guaranteeing a speedy trial by an impartial jury, the right to confront witnesses, and receive legal assistance</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment VII" dynamic="true" x="475" y="130">
+          <![CDATA[
+            <h1>Amendment VII</h1>
+            <p>Preserves the right to trial by a jury in a civil case</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment VIII" dynamic="true" x="325" y="200">
+          <![CDATA[
+            <h1>Amendment VIII</h1>
+            <p>Provides for bail and protects against "cruel and unusual punishment" for a crime</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment IX" dynamic="true" x="475" y="200">
+          <![CDATA[
+            <h1>Amendment IX</h1>
+            <p>Puts forth the idea that citizens have certain natural rights not listed in the Constitution</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Amendment X" dynamic="true" x="475" y="270">
+          <![CDATA[
+            <h1>Amendment X</h1>
+            <p>Provides that any powers not given to Congress nor prohibited to the states belong to the states and the people</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m1-3_s17</audio>
+    <credits>(tr)Comstock/Getty Images, (c)Steve Rhodes/Demotix/Demotix/Corbis, (bkgd)Martin Ruegner/Digital Vision/Getty Images</credits>
+  </scene>
+
+  <scene id="18" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="2"><![CDATA[<strong>A :</strong> For quartering large bodies of armed troops among us]]></match>
+        <match id="4"><![CDATA[<strong>B :</strong> For depriving us in many cases, of the benefits of Trial by Jury]]></match>
+        <match id="3"><![CDATA[<strong>C :</strong> For transporting us beyond Seas to be tried for pretended offences]]></match>
+        <match id="1"><![CDATA[<strong>D :</strong> He has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the lives of our people]]></match>
+      </matches>
+      <drops title="">
+        <drop correct="1" y="25"><![CDATA[
+          <p style="text-align:left;padding-left:5.5em"><strong>Amendment II</strong>—A well-regulated Militia being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.</p>
+        ]]></drop>
+        <drop correct="2" y="100"><![CDATA[
+          <p style="text-align:left;padding-left:5.5em"><strong>Amendment III</strong>—No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.</p>]]></drop>
+        <drop correct="3" y="175"><![CDATA[
+          <p style="text-align:left;padding-left:5.5em"><strong>Amendment VI</strong>—In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial . . . of the State and district wherein the crime shall have been committed. . . .</p>]]></drop>
+        <drop correct="4" y="250"><![CDATA[
+          <p style="text-align:left;padding-left:5.5em"><strong>Amendment VII</strong>—In Suits at common law. . . the right of trial by jury shall be preserved. . . .</p>]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m1-3_s18</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which principle of government is supported by the Bill of Rights?</question>
+        <answers>
+          <answer>Checks and balances</answer>
+          <answer correct="true">Limited government</answer>
+          <answer>Popular sovereignty</answer>
+          <answer>Separation of powers</answer>
+          <answer>Federalism</answer>
+        </answers>
+        <feedbackAudio>USGov_m1-3_s19_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m1-3_s19</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>A civilian is in command of American armed forces.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Freedom of speech can be found in both the U.S. Constitution and in the Bill of Rights.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>The Bill of Rights focuses mostly on the rights of the majority.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>Articles I, II, and III create the structure of the United States government.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>A person accused of committing a crime has the right to be tried in the place where the crime was committed.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m1-3_s20</audio>
+    <credits>(tr)Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

@@ -1,0 +1,49 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-1_s7.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Published in the <font face="lc-italic">New York Times</font> on July 25, 2009, "Scientists Worry Machines May Outsmart Man" is an article by John Markoff. Read the article carefully, and then defend, challenge, or qualify Markoff's position that advances in artificial intelligence could be harmful to man.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Analysis</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Argumentation</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+		<question>
+		<qText><![CDATA[Published in the <font face="lc-italic">New York Times</font> on July 25, 2009, "Scientists Worry Machines May Outsmart Man" is an article by John Markoff. Read the article carefully, and then analyze Markoff's position on artificial intelligence.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Analysis</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Argumentation</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

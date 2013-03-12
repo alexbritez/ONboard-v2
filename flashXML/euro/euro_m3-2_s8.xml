@@ -1,0 +1,44 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m3-2_s8.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[What is the main idea expressed in this excerpt from Bismarck's Memoirs?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[War against France should be avoided.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[ Bismarck was planning his policies to make the generals happy.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[ War against France was needed to strengthen Prussia.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[ Prussia needed to look like the aggressor in order to appear strong.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[ The French emperor was an ally of Prussia.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-2_s8_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

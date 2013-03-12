@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Basic Chemical Equations">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m4-5_s1</video>
+      <credits>(cl)Image Ideas/PictureQuest, (cr)Design Pics/PunchStock, (bl)Creatas/PunchStock, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s2</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s3</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="11_Activity_Drag_List">
+      <matchingInstructions><![CDATA[<p>Match the items on the left to the correct areas on the right.</p><h1>Chemical Equations</h1>]]></matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[SO<sub>2</sub>]]></match>
+			<match id="2"><![CDATA[H<sub>2</sub>SO<sub>3</sub>]]></match>
+			<match id="3"><![CDATA[H<sub>2</sub>O]]></match>
+         </matches>
+         <drops title="Reactants">1,3</drops>
+		 <drops title="Product">2</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>env_m4-5_s4</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s5</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s6</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s7</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="inside-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">1</match>
+			<match id="2">2</match>
+			<match id="3">3</match>
+			<match id="4">6</match>
+			<match id="5">8</match>
+			<match id="6">12</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="345" y="193"/>
+			<drop correct="3" x="434" y="193"/>
+			<drop correct="2" x="522" y="193"/>
+			<drop correct="4" x="345" y="240"/>
+			<drop correct="5" x="434" y="240"/>
+			<drop correct="6" x="522" y="240"/>
+         </drops>
+         <image>env_m4-5_s8.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m4-5_s8</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s9</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s10</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Which number should be the coefficient in front of CO<sub>2</sub> so that the carbon atoms in the reactants are the same as in the products?<br/><br/>CO<sub>2</sub> + H<sub>2</sub>O &rarr; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + O<sub>2</sub>]]></question>
+            <answers>
+               <answer>1</answer>
+			   <answer>2</answer>
+               <answer>3</answer>
+			   <answer>5</answer>
+			   <answer correct="true">6</answer>
+            </answers>
+            <feedbackAudio>env_m4-5_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-5_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Which number should be the coefficient in front of H<sub>2</sub>O so that the hydrogen atoms in the reactants are the same as in the products?<br/><br/>6CO<sub>2</sub> + H<sub>2</sub>O &rarr; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + O<sub>2</sub>]]></question>
+            <answers>
+               <answer>1</answer>
+			   <answer>2</answer>
+               <answer>3</answer>
+			   <answer>5</answer>
+			   <answer correct="true">6</answer>
+            </answers>
+            <feedbackAudio>env_m4-5_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-5_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s13</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s14</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[How can you balance the number of oxygen atoms in this equation?<br/><br/>6CO<sub>2</sub> + 6H<sub>2</sub>O &rarr; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + O<sub>2</sub>]]></question>
+            <answers>
+               <answer>Add a 12 before the O2 in the products.</answer>
+			   <answer correct="true">Add a 6 before the O2 in the products.</answer>
+               <answer>Add a 2 before the C6H12O6 in the products.</answer>
+			   <answer>Add a 2 before the O6 in C6H12O6 of the products.</answer>
+            </answers>
+            <feedbackAudio>env_m4-5_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-5_s15</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m4-5_s16</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> &rarr; 6CO<sub>2</sub> + H<sub>2</sub>O ]]></match>
+			<match id="2"><![CDATA[C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 12O<sub>2</sub> &rarr; 6CO<sub>2</sub> + 6H<sub>2</sub>O ]]></match>
+			<match id="3"><![CDATA[C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> &rarr; 6CO<sub>2</sub> + 6H<sub>2</sub>O ]]></match>
+			<match id="4"><![CDATA[C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 3O<sub>2</sub> &rarr; 6CO<sub>2</sub> + 3H<sub>2</sub>O ]]></match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="3" x="280" y="191"/>
+         </drops>
+         <image>env_m4-5_s17.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m4-5_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="18" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Every chemical equation must be balanced so that it obeys the law of conservation of mass.</question>
+            <answers>
+				<answer correct="true">True</answer>
+				<answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[What are the products in this equation?<br/><br/>CH<sub>4</sub> + O<sub>2</sub> &rarr; CO<sub>2</sub> + H<sub>2</sub>]]></question>
+            <answers>
+				<answer><![CDATA[CH<sub>4</sub> and O<sub>2</sub> ]]></answer>
+				<answer><![CDATA[CH<sub>4</sub> and CO<sub>2</sub> ]]></answer>
+				<answer correct="true"><![CDATA[CO<sub>2</sub> and H<sub>2</sub>O ]]></answer>
+				<answer><![CDATA[CO<sub>2</sub> and O<sub>2</sub> ]]></answer>
+				<answer><![CDATA[CH<sub>4</sub> and H<sub>2</sub>O ]]></answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[Which of the following is NOT true of this sign?<br/><br/>&rarr;]]></question>
+            <answers>
+				<answer>It is called the yield sign.</answer>
+				<answer>It separates the reactants from the products.</answer>
+				<answer>The reactants are to the left of the sign.</answer>
+				<answer>The products are to the right of the sign.</answer>
+				<answer correct="true">The sign tells that the equation is balanced.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[How many oxygen atoms are present on each side of this balanced equation?<br/><br/>C + O<sub>2</sub> &rarr; CO<sub>2</sub> ]]></question>
+            <answers>
+				<answer>1</answer>
+				<answer>0</answer>
+				<answer correct="true">2</answer>
+				<answer>4</answer>
+				<answer>3</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[How many oxygen atoms are present on each side of this balanced equation?<br/><br/>3CuSO<sub>4</sub> + 2Al &rarr; 3Cu + Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> ]]></question>
+            <answers>
+				<answer>3</answer>
+				<answer>4</answer>
+				<answer>7</answer>
+				<answer correct="true">12</answer>
+				<answer>16</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-5_s18</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

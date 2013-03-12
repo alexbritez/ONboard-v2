@@ -1,0 +1,218 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m4-3_s42.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m4-3_s42_q5.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m4-3_s42_q6.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m4-3_s42_q6.jpg</image>
+		</Source>
+		<Source>
+			<Text><![CDATA[As [communist] Russia moved to assert its authority in Eastern Europe [after World War Two], the American president announced the Truman Doctrine, promising military and economic aid to nations in danger of communist takeover. His immediate concern was the civil war in Greece, where local communists were aided by neighboring Yugoslavia. The United States also sought bases in Turkey, for Britain could no longer sustain its power and influence in the eastern Mediterranean, and the United States replaced Britain as the leading anticommunist force there. <br/><br/>From THE WESTERN EXPERIENCE, 10th Edition, by Mortimer Chambers et al, copyright © 2010 The McGraw-Hill Companies, Inc. ]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text><![CDATA[As [communist] Russia moved to assert its authority in Eastern Europe [after World War Two], the American president announced the Truman Doctrine, promising military and economic aid to nations in danger of communist takeover. His immediate concern was the civil war in Greece, where local communists were aided by neighboring Yugoslavia. The United States also sought bases in Turkey, for Britain could no longer sustain its power and influence in the eastern Mediterranean, and the United States replaced Britain as the leading anticommunist force there. <br/><br/>From THE WESTERN EXPERIENCE, 10th Edition, by Mortimer Chambers et al, copyright © 2010 The McGraw-Hill Companies, Inc. ]]></Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>VIEW</word>
+			<image>images/euro_m4-3_s42_q10.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Historical events are similar to scientific discoveries, in that one thing usually caused another. ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>
+
+	
+	<question>
+		<qText><![CDATA[Only a few events have multiple causes and effects.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>
+
+	
+	<question>
+		<qText><![CDATA[Clue words that signal a cause and effect relationship include “as a result,” “contributed to,” and “consequently.” ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>
+
+	
+	<question>
+		<qText><![CDATA[On the AP European History Exam, both multiple-choice and free-response questions relate to cause and effect.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>True</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[False]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>
+
+	
+	<question>
+		<qText><![CDATA[What may have caused the differences in raw cotton consumption between 1831 and 1850?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The increase in textile manufacturing </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The increase in South American colonization]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[What probably caused the British government to create this poster? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>It needed to boost enlistment during World War I. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[It needed to increase public support for World War I.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[What effect might this poster have had on the British people?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>British women probably felt that it was their patriotic duty to contribute to the war effort. </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[British women sought to convince the government to avoid entering the war. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[Which of the following was an underlying cause of conflict between the U.S. and Russia after World War Two? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The cause of the conflict was that the United States and Russia had been enemies during World War Two.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The cause of the conflict was American democracy and capitalist ideas at odds with Russian communism and totalitarianism.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>		
+	
+	
+	<question>
+		<qText><![CDATA[What was most likely a major effect of the conflict between the U.S. and Russia after World War II?  ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The U.S. eventually isolated itself from Europe fearing involvement in another European war. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A worldwide struggle between democracy and communism developed in Europe, Asia, and the Middle East.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>		
+	
+	
+	<question>
+		<qText><![CDATA[What issue likely caused the demonstration shown in the photograph? ]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>The influx of immigrants into Britain in search of economic opportunities</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The increase of British imports and the decline of British manufacturing]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m4-3_s36_FB.mp3" />
+	</question>		
+	
+</MultipleChoice>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Secondary Sources">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m3-1_s1</video>
+      <credits>(l)Tom Grill/Corbis, (bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s2</video>
+      <credits>(l)Tom Grill/Corbis, (bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s3</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s4</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s5</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Geographics</header>
+         <instruction>What does the geographic show?</instruction>
+      </content>
+     <activity type="image">
+         <image>USH_m3-1_s6.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m3-1_s6_A" dynamic="true" x="132" y="274"><![CDATA[
+				<h1></h1>
+				<p>Four candidates received electoral votes in 1860. The names of the parties, including the Northern Democratic, Southern Democratic, and Constitutional Union, show how divided the country was at this time—and how worried many citizens were about the future of the country.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-1_s6_B" dynamic="true" x="373" y="12"><![CDATA[
+				<h1></h1>
+				<p>The states won by Abraham Lincoln are shaded orange. He won the two states in the West, and almost all of the states in the North. He did not win any Southern or border state.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-1_s6_C" dynamic="true" x="416" y="125"><![CDATA[
+				<h1></h1>
+				<p>You can see that the South is in the minority. You can also see that the South was united behind a candidate—John C. Breckenridge—who supported the continuation of slavery. Look how relatively few electoral votes Southern states had in 1860 compared to the Northern states.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m3-1_s6_D" dynamic="true" x="359" y="254"><![CDATA[
+				<h1></h1>
+				<p>The population differences between the North and the South are obvious here. Breckenridge received only 848,356 votes, whereas Lincoln received 1,865,593.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m3-1_s6</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s7</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Library of Congress, Prints ﹠ Photographs Division [LC-USZC4-10315], (2)Kansas State Historical Society, (3)Library of Congress, Prints ﹠ Photographs Division [LC-USZ62-115350], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s8</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock.</credits>
+   </scene>
+
+   <scene id="9" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:80px" dropStyle="height:68px">
+         <matches title="">
+            <match id="1">The interests of the West and the North had combined to eclipse those of the South.</match>
+			<match id="2">John Bell's defeat showed that few people supported the Union.</match>
+			<match id="3">These election results scared the South.</match>
+			<match id="4">The Southern states were united behind a common cause.</match>
+			<match id="5">The Northern states were united behind a common cause.</match>
+			<match id="6">There were no populous states in the South.</match>
+         </matches>
+         <drops title="Logical Inference">1,3,4</drops>
+		 <drops title="Faulty Conclusion">2,5,6</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m3-1_s9</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>After the election of 1860, the South felt that, in order to protect the institution of slavery, they needed to form a new nation, the Confederate States of America.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <figure>USH_m3-1_s10_view.jpg</figure>
+            <feedbackAudio>USH_m3-1_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s11</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s12</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s13</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What can you infer from the fact that the industrial sites are located on rivers and the lakefront?</question>
+            <answers>
+               <answer correct="true">Water provided power and ready transportation.</answer>
+               <answer>The property along the waterways was inexpensive.</answer>
+            </answers>
+            <figure>USH_m3-1_s14_view.jpg</figure>
+            <feedbackAudio>USH_m3-1_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-1_s14</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Why might the Germans and Irish have moved further away from the industrial core as time went on?</question>
+            <answers>
+               <answer>Because they found jobs in areas away from the industrial core.</answer>
+               <answer correct="true">Because many became members of the middle class and wanted to move away from areas with newer immigrant groups.</answer>
+            </answers>
+            <figure>USH_m3-1_s14_view.jpg</figure>
+            <feedbackAudio>USH_m3-1_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The rise of ethnic communities may have increased prejudice against immigrants.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <figure>USH_m3-1_s14_view.jpg</figure>
+            <feedbackAudio>USH_m3-1_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s17</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s18</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress, Geography and Map Division., (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:100px" dropStyle="height:88px">
+         <matches title="">
+            <match id="1">Many people who may have otherwise lived in Chicago live in one of its suburbs.</match>
+			<match id="2"><![CDATA[&quot;White flight&quot; plus the Great Migration created, in effect, segregation in many Northern cities.]]></match>
+			<match id="3">After the Great Migration, most African Americans lived in the North.</match>
+			<match id="4">Over the years, Chicago has expanded in a regular, symmetrical pattern.</match>
+			<match id="5">Economic factors played a role in the growth of suburbs around Chicago.</match>
+			<match id="6">Chicago suburbs were created by German and Irish immigrants.</match>
+         </matches>
+         <drops title="Logical Inference">1,5,2</drops>
+		 <drops title="Faulty Conclusion">3,4,6</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m3-1_s19</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>USH_m3-1_s20</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Historians use maps only to show geographic features.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Geographics are a good way to show information related to a geographic area.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which of the following accurately describes the information presented on this map?</question>
+            <answers>
+               <answer>The overall percentage of African American population in the Southern states increased between 1950 and 1980.</answer>
+               <answer correct="true">The overall percentage of African American population in many Northern and Midwestern states increased between 1950 and 1980.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which conclusion is best supported by the information presented in this geographic?</question>
+            <answers>
+               <answer correct="true">The pattern established during the Great Migration continued after 1950.</answer>
+               <answer>Cities in the South and the West grew at the same rate between 1950 and 1980.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which of the following accurately describes the information presented on this map?</question>
+            <answers>
+               <answer correct="true">Many of the states with the lowest rate of growth were in traditional industrial areas.</answer>
+               <answer>Many of the states with the highest rate of growth were in the Great Lakes region.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which conclusion is best supported by the information presented in this geographic?</question>
+            <answers>
+               <answer correct="true">Texas and Florida gained political power during this period.</answer>
+               <answer>African Americans moved back to the South in a reverse Great Migration.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which of the following accurately describes the information presented on this map?</question>
+            <answers>
+               <answer>The Cheyenne and Arapaho groups were concentrated in present-day Arizona.</answer>
+               <answer correct="true">Native American groups once occupied much of the western United States.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which conclusion is best supported by the information presented in this geographic?</question>
+            <answers>
+               <answer>Most Native American groups voluntarily gave up their land rights.</answer>
+               <answer correct="true">The reservation system limited the growth and prosperity of Native American groups.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which of the following accurately describes the information presented on this map?</question>
+            <answers>
+               <answer correct="true">California was the ultimate ending point for most trails.</answer>
+               <answer>Most of the trails included routes to Texas.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewD.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which conclusion is best supported by the information presented in this geographic?</question>
+            <answers>
+               <answer>The locations of the trails played an important role in the establishment of the states of Iowa and Montana.</answer>
+               <answer correct="true">The trails influenced both economic growth and increased urbanization.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m3-1_s21_viewD.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m3-1_s21</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

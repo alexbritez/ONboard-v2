@@ -1,0 +1,12 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Compare and Contrast</p>]]></hText>
+		<qText><![CDATA[<p><font face='c-Bold' >Writing a Comparison Essay</font><br /><br />Based on what you’ve read about these two time periods, write two sentences that compare and contrast the Later Middle Ages and the Renaissance. ]]></qText>
+		<correctText><![CDATA[<p><font size='12'>SAMPLE ANSWERS:<br /><br/>Both periods experienced a significant population decrease due to the Black Death. While the Later Middle Ages in Europe experienced economic decline, significant economic growth occurred in Renaissance Italy, helped by more powerful technology. Both periods saw calls by reformers to reduce the corruption in the Church.<br />In contrast to the emphasis on the apocalypse during the Later Middle Ages, the Renaissance had a more optimistic view of the future that was inspired by works from antiquity and the early Christian church.</font></p>]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/euro_m4-2_s14.mp3</audio>
+		<feedback>audio/feedBackMC2.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+

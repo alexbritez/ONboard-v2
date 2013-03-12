@@ -1,0 +1,105 @@
+﻿<PopUp>
+	<slideInfo>
+		<title></title>
+		<info></info>
+		<image>images/eng_m3-5_s7.jpg</image>
+		<audio>audio/eng_m3-5_s7.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		
+		<pButton> 
+			<Name>Argument Essay</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>478.95</xCord>
+			<yCord>102.8</yCord>
+			<width>134</width>
+			<popTitle>In an argument essay:</popTitle>
+			<popInfo>1. Restate the thesis.
+2. Restate the argument.
+3. Encourage the audience to do something.
+		</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Analysis Essay</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>699.7</xCord>
+			<yCord>102.8</yCord>
+			<width>134</width>
+			<popTitle>In an analysis of literature:</popTitle>
+			<popInfo>1. Restate the thesis.
+2. Leave the audience with a clear understanding of your thesis.
+		</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Comparison Essay</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>920.45</xCord>
+			<yCord>102.8</yCord>
+			<width>134</width>
+			<popTitle>In a comparison/contrast essay:</popTitle>
+			<popInfo>1. Restate the thesis.
+2. Summarize the main points.
+3. Make the comparison/contrast meaningful or important.
+         </popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Cause-Effect Essay</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>478.95</xCord>
+			<yCord>444.8</yCord>
+			<width>134</width>
+			<popTitle>In a cause and effect essay:</popTitle>
+			<popInfo>1. Restate the thesis.
+2. Review the main supporting points.
+3. Make a connection (Because of that, this should occur).
+		</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Research Paper</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>699.7</xCord>
+			<yCord>444.8</yCord>
+			<width>134</width>
+			<popTitle>In a research paper:</popTitle>
+			<popInfo>1. Restate the thesis.
+2. Add a statement about what you learned.
+		</popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Business Letter</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>920.45</xCord>
+			<yCord>444.8</yCord>
+			<width>134</width>
+			<popTitle>In a business letter:</popTitle>
+			<popInfo>1. Restate the thesis.
+2. Provide contact information.
+		</popInfo>
+		</pButton>
+		
+		
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,191 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m3-4_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>(1) International students at the local college are having problems adjusting to the United States. (2) They can't find part-time jobs to support themselves while they attend college because their visas do not permit them to work. (3) Finding part-time jobs isn't a problem for American students. (4) Many international students have left families behind and have no emotional support system to rely on. (5) All find English composition a challenging course. (6) None like the food in the college cafeteria.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>Abe Lincoln had a habit of sitting on the ground, grabbing his legs and rocking back and forth as he told funny stories. Consequently, his trousers got baggy at the knees.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text>The students rushed into the classroom chattering. As soon as the bell rang, they became silent and began to work.</Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+	<question>
+		<qText>What should each body paragraph have to help maintain its focus?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>A topic sentence</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A specific word</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>An introduction</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A thesis statement</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A transition</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-4_s8_FB.mp3" />
+	</question>
+
+	<question>
+		<qText>Each detail of evidence is used to elaborate on the</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>main idea of the entire essay.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>thesis statement.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>topic of the paragraph.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>introduction.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>purpose of the essay.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-4_s8_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which sentence causes the paragraph to lack unity?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Sentence 2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 3</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 4</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 5</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Sentence 6</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-4_s8_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText>Which word(s) in the excerpt is a transition?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>grabbing</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>and</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>consequently</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>as</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Both B and D</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-4_s8_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[For what purpose is the transition "As soon as" used in the excerpt?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>To emphasize a point</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To contrast</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To show location</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To conclude</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>To show time</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m3-4_s8_FB.mp3" />
+	</question>	
+
+</MultipleChoice>
+
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

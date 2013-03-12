@@ -1,0 +1,289 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/eng_m2-2_s29.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Everyone should change their clothes every day.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Everyone should change his clothes every day.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A person should change their clothes every day.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[One should change their clothes every day.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s18_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[David wins the club tournament, but he received<br/><br/>no prize money and went home disappointed.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Change “wins” to “won.”]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Change “received” to “receives.”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Change “home” to “back to his home.”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s18_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Shakespeare wrote plays, Donne composed<br/><br/>poems, and essays were published by Addison.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Change “wrote” to “writes.”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Changes “composed” to “composes.”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Change “essays were published by Addison” to “Addison published essays.”]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Work on your research paper, and you may want<br/><br/>to study for the quiz.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[You are working on your research paper, and you may want to study for the quiz. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[You should work on your research paper and study for the quiz. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Work on your research paper and study for the quiz. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Daniel helped his daughter with her math<br/><br/>homework, and the spelling list was reviewed with<br/><br/>her by him.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Daniel helped his daughter with her math homework, and the spelling list was reviewed by him with her.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Daniel helped his daughter with her math homework, and the spelling list was reviewed with her by Daniel.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Daniel helped his daughter with her math homework, and he reviewed the spelling with her.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>	
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[My sister's sorority raised a lot of money for a new<br/><br/>school in Sierra Leone, and new water lines were<br/><br/>paid for by the money also.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Change “raised” to “had raised.”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Replace the words “and new water lines were paid for by the money also” with “and paid for new water lines.”]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Change the word “also” to “too.”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>	
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[Jason taught the yoga class, and the aerobics class<br/><br/>was led by Susan.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Change “Jason taught the yoga class” to “The yoga class was taught by Jason.”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Change “and” to “in addition”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Change “the aerobics class was led by Susan” to “Susan led the aerobics class.”]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>		
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[John F. Kennedy said he wanted to have a man on<br/><br/>the moon before the end of the decade and he<br/><br/>does just that.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[John F. Kennedy said he wanted to have a man on the moon before the end of the decade and he does do just that.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[John F. Kennedy said he would want to have a man on the moon before the end of the decade and he does just that.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[John F. Kennedy said he wanted to have a man on the moon before the end of the decade and he did just that.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>			
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[The birds flocked around the bird feeder that she<br/><br/>hangs on the olive tree.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The birds flocked around the bird feeder that she hung on the olive tree.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The birds had flocked around the bird feeder that she hangs on the olive tree.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The birds flocked around the bird feeder that she hang on the olive tree.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>			
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[If Jenny needs help on her composition<br/><br/>homework, Matthew helped her.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Change “If” to “When”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Remove the comma between the words “homework” and “Matthew”]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Change “helped” to “helps”]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[No mistake]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/eng_m2-2_s9_FB.mp3" />
+	</question>			
+</MultipleChoice>
+

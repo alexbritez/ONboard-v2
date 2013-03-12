@@ -1,0 +1,62 @@
+<PopUp>
+	<slideInfo>
+		<title>Foundations: Legacy and Heritage of Rome</title>
+		<info>Romans – Masters of Conquest and Empire-building</info>
+		<image>images/euro_s1-2_s10.jpg</image>
+		<audio>audio/euro_s1-2_s10b.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>MILITARY</Name>
+			<audio enable="true" url="audio/euro_s1-2_s10_MILITARY.mp3"/>
+			<xCord>457.35</xCord>
+			<yCord>101.4</yCord>
+			<width>134</width>
+			<popTitle>MILITARY</popTitle>
+			<popInfo><![CDATA[The Romans excelled at military organization and tactics. This enabled them to defeat their adversaries and acquire territory and wealth.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>LEGAL</Name>
+			<audio enable="true" url="audio/euro_s1-2_s10_LEGAL.mp3"/>
+			<xCord>701.8</xCord>
+			<yCord>101.4</yCord>
+			<width>85</width>
+			<popTitle>LEGAL</popTitle>
+			<popInfo><![CDATA[The Romans created legal codes and had an aptitude for government and administration.  These skills allowed them to manage, coordinate, and rule culturally diverse and geographically scattered portions of an enormous empire.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>ECONOMICS</Name>
+			<audio enable="true" url="audio/euro_s1-2_s10_ECONOMICS.mp3"/>
+			<xCord>946.3</xCord>
+			<yCord>281.15</yCord>
+			<width>92</width>
+			<popTitle>ECONOMICS</popTitle>
+			<popInfo><![CDATA[Roman traders established both land and sea routes and showed the Europeans how trade could lead to economic power.  ]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CULTURE</Name>
+			<audio enable="true" url="audio/euro_s1-2_s10_CULTURE.mp3"/>
+			<xCord>457.35</xCord>
+			<yCord>445.2</yCord>
+			<width>52</width>
+			<popTitle>CULTURE</popTitle>
+			<popInfo><![CDATA[The Romans absorbed and diffused the cultures of different groups of people. This allowed the overall “Roman” culture to grow, expand, and spread. European empires have followed this same strategy.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>LANGUAGE</Name>
+			<audio enable="true" url="audio/euro_s1-2_s10_LANGUAGE.mp3"/>
+			<xCord>946.25</xCord>
+			<yCord>101.4</yCord>
+			<width>87</width>
+			<popTitle>LANGUAGE</popTitle>
+			<popInfo><![CDATA[The Romans improved Latin by adapting a Phoenician lettering system. This became the language of the Roman Catholic Church.  It was the storehouse of pre-medieval knowledge in the monasteries during the Early Middle Ages.  By the High Middle Ages, it becomes the language of higher learning.]]></popInfo>
+		</pButton>
+	
+	</popButtons>
+</PopUp>

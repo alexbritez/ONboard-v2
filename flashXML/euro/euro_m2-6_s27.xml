@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/euro_m2-6_s27.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>Based on the information in the map, which of the following statements is logical?</qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>Eastern Europe was a safe haven for many Jewish people during this time.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>The expulsions of Jewish populations were directly related to the Catholic Counter-Reformation.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s27_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

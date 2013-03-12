@@ -1,0 +1,116 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-3_s21.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText>Which of the following best represents the net ionic equation for the reaction of copper metal with lead (II) nitrate?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Cu (<font face="c-Italic">s</font>) +  Pb(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> <br/>Pb(<font face="c-Italic">s</font>)  +  Cu(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face="c-Italic">aq</font>)]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>Cu (<font face="c-Italic">s</font>) + 2NO<font face='chemNums'>-</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Cu (<font face="c-Italic">s</font>) + Pb<font face='SuperScript'>2+</font>  (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> Pb (<font face="c-Italic">s</font>) + Cu<font face='SuperScript'>2+</font> (<font face="c-Italic">aq</font>) ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Cu (<font face="c-Italic">s</font>) + Pb<font face='SuperScript'>2+</font>  (<font face="c-Italic">aq</font>) <font face='CambriaMath'>→</font> CuPb (<font face="c-Italic">s</font>) ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[Which of the following was <font face="c-Italic">not</font> observed when zinc reacted with copper (II) sulfate in the video?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Corrosion of a metal</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Gas production</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Color change of the solution</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Formation of a metal</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[Which of the following reactions would <font face="c-Italic">not</font> be classified as a single displacement reaction?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>2</font>SO<font face='SubScript'>4</font>  +  Ba(OH)<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  H<font face='SubScript'>2</font>O  +  BaSO<font face='SubScript'>4</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2Na  +  SrCl<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font>  2NaCl  +  Sr ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[H<font face='SubScript'>2</font>SO<font face='SubScript'>4</font>  +  Ba  <font face='CambriaMath'>→</font>  H<font face='SubScript'>2</font> +  BaSO<font face='SubScript'>4</font> ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Cl<font face='SubScript'>2</font>  +  SrI<font face='SubScript'>2</font>  <font face='CambriaMath'>→</font> I<font face='SubScript'>2</font> +  SrCl<font face='SubScript'>2</font> ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[Which of the following halogens can replace the bromide in aluminum bromide, AlBr<font face='SubScript'>3</font>?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Chlorine only</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Iodine and fluorine</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Iodine only</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Chlorine and fluorine</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

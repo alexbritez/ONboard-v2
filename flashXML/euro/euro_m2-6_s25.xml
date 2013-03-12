@@ -1,0 +1,33 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m2-6_s23.swf</image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>false</fraction>
+		
+		<qText>What were the disadvantages of this type of farming? </qText>
+		
+		<answerButtons>
+			<aBtn>
+				 <aText>Farmers wasted a lot of time and energy moving from strip to strip, making the system inefficient.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		
+			<aBtn>
+				 <aText>No one could trade or sell his strips to consolidate his holdings.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m2-6_s25_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Speaking Economically">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m1-1_s1</video>
+    <credits>(cl)Ingram Publishing, (c)moodboard/Corbis, (cr)DAJ/Amana Images/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s2</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Randy Faris/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which is the best example of the opportunity cost of buying a sandwich?</question>
+        <answers>
+          <answer>The $6 you spent for the sandwich</answer>
+          <answer correct="true">Downloading a $6 app</answer>
+    		  <answer>Watching television</answer>
+    		  <answer>Buying a new car</answer>
+    		  <answer>Paying for college</answer>
+        </answers>
+        <feedbackAudio>econ_m1-1_s4_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-1_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)D. Hurst/Alamy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)Ingram Publishing/SuperStock, (2)Plush Studios/Blend Images LLC, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Factors of Production</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-1_s7.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="17" y="15">
+			<![CDATA[
+				<h1>Land</h1>
+				<p>Land refers to the natural resources that go into products.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="331" y="15">
+			<![CDATA[
+				<h1>Labor</h1>
+				<p>Labor includes all of the human work involved in production.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="17" y="216">
+			<![CDATA[
+				<h1>Capital</h1>
+				<p>Capital or the human-made resources used to produce other products, includes factories, tools, technology, and equipment.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="331" y="216">
+			<![CDATA[
+				<h1>Entrepreneurs</h1>
+				<p>Entrepreneurs use creative ideas and take risks to bring together land, labor, and capital in new ways in order to earn profits.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-1_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (cl-cr)Ingram Publishing, (bl)Ingram Publishing/age footstock, (br)DreamPictures/Pam Ostrow/Blend Images LLC, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="11_Activity_Drag_List">
+  <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+  <matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:47px; width:130px" dropStyle="">
+    <matches title="">
+      <match id="1">chicken</match>
+      <match id="5">bakery oven</match>
+      <match id="4">call center telephone</match>
+      <match id="12">designer of robots</match>
+      <match id="10">child selling lemonade</match>
+      <match id="6">factory</match>
+      <match id="8">factory worker</match>
+      <match id="9">police officer</match>
+      <match id="11">inventor</match>
+      <match id="7">store cashier</match>
+      <match id="2">trees</match>
+      <match id="3">water</match>
+    </matches>
+	<coord correct="1" x="129" y="54"/>
+	<coord correct="1" x="129" y="92"/>
+	<coord correct="1" x="129" y="130"/>
+	<coord correct="3" x="129" y="217"/>
+	<coord correct="3" x="129" y="255"/>
+	<coord correct="3" x="129" y="293"/>
+	<coord correct="2" x="302" y="54"/>
+	<coord correct="2" x="302" y="92"/>
+	<coord correct="2" x="302" y="130"/>
+	<coord correct="4" x="302" y="217"/>
+	<coord correct="4" x="302" y="255"/>
+	<coord correct="4" x="302" y="293"/>
+    <drops title="Land">1,2,3</drops>
+    <drops title="Capital">4,5,6</drops>
+    <drops title="Labor">7,8,9</drops>
+    <drops title="Entrepreneurship">10,11,12</drops>
+	<image>econ_m1-1_s8.jpg</image>
+  </matching>
+  <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-1_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Investment</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-1_s9.jpg</image>
+      <hotspots>
+        <hotspot title="Senior citizen's stocks" dynamic="true" x="19" y="346">
+          <![CDATA[
+            <h1></h1>
+            <p>NOT an economic investment</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Warehouse forklift" dynamic="true" x="39" y="226">
+          <![CDATA[
+            <h1></h1>
+            <p>Economic investment</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Farmer's land" dynamic="true" x="463" y="26">
+          <![CDATA[
+            <h1></h1>
+            <p>Economic investment</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Construction worker's nail gun" dynamic="true" x="21" y="26">
+          <![CDATA[
+            <h1></h1>
+            <p>Economic investment</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Student's savings bonds" dynamic="true" x="463" y="346">
+          <![CDATA[
+            <h1></h1>
+            <p>NOT an economic investment</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-1_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Image Source/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s10</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="11_Activity_Drag_List">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+  <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+    <matches title="">
+      <match id="1">A. Doctor hires a nurse</match>
+      <match id="2">B. Student buys movie tickets</match>
+      <match id="3">C. Man pays for a haircut</match>
+      <match id="4">D. Firm buys land for a factory</match>
+    </matches>
+    <coord correct="1" x="77" y="335"/>
+    <coord correct="1" x="346" y="338"/>
+    <coord correct="2" x="82" y="17"/>
+    <coord correct="2" x="352" y="20"/>
+    <drops title="">1,4</drops>
+    <drops title="">2,3</drops>
+    <image>econ_m1-1_s11.jpg</image>
+  </matching>
+  <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-1_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+  <!-- <scene id="11" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">A. Doctor hires a nurse</match>
+        <match id="2">B. Student buys movie tickets</match>
+        <match id="2">C. Man pays for a haircut</match>
+        <match id="1">D. Firm buys land for a factory</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="141" y="377"/>
+        <drop correct="1" x="396" y="377"/>
+        <drop correct="2" x="142" y="17"/>
+        <drop correct="2" x="426" y="20"/>
+      </drops>
+      <image>econ_m1-1_s11.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-1_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene> -->
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Market Structure</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-1_s12.jpg</image>
+      <hotspots>
+        <hotspot title="Perfect Competition" dynamic="true" x="241" y="9">
+          <![CDATA[
+            <h1>Perfect Competition</h1>
+            <p>In a perfectly competitive market, a large number of firms compete to sell nearly identical products.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Monopolistic Competition" dynamic="true" x="241" y="332">
+          <![CDATA[
+            <h1>Monopolistic Competition</h1>
+            <p>A market characterized by monopolistic competition is very similar to a perfectly competitive market, in that many firms compete to sell products. The main difference is that the products sold by these firms vary slightly. Advertising is important in this market structure.</p>
+          ]]>
+        </hotspot>
+        <hotspot title="Oligopoly" dynamic="true" x="44" y="295">
+          <![CDATA[
+            <h1>Oligopoly</h1>
+            <p>An oligopoly is a market with only a few producers. Auto manufacturing firms are oligopolies.</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Monopoly" dynamic="true" x="456" y="295">
+          <![CDATA[
+            <h1>Monopoly</h1>
+            <p>A monopoly occurs when only one firm controls an entire industry.</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-1_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)moodboard/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s13</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Elasticity</header>
+      <instruction><![CDATA[
+	  	<p>The term &quot;elasticity&quot; describes how responsive consumers or firms are to changes in a product's price.</p>
+		<p><strong>Elastic Demand:</strong> When a product's price rises, consumers significantly change their purchasing decisions.</p>
+		<p><strong>Inelastic Demand:</strong> When a product's price rises, consumers continue to buy the product at the higher price.</p>
+	  ]]></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-1_s14.jpg</image>
+      <hotspots>
+        <hotspot title="New car" dynamic="true" x="10" y="20">
+          <![CDATA[
+            <h1>New Car</h1>
+            <p>Elastic demand</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Gasoline" dynamic="true" x="10" y="80">
+          <![CDATA[
+            <h1>Gasoline</h1>
+            <p>Inelastic demand</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Movie ticket" dynamic="true" x="10" y="140">
+          <![CDATA[
+            <h1>Movie Ticket</h1>
+            <p>Elastic demand</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Heart medicine" dynamic="true" x="10" y="200">
+          <![CDATA[
+            <h1>Heart Medicine</h1>
+            <p>Inelastic demand</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Salt" dynamic="true" x="10" y="260">
+          <![CDATA[
+            <h1>Salt</h1>
+            <p>Inelastic demand</p>
+          ]]>
+        </hotspot>
+		<hotspot title="Lobster dinner" dynamic="true" x="10" y="320">
+          <![CDATA[
+            <h1>Lobster Dinner</h1>
+            <p>Elastic demand</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-1_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Jack Star/PhotoLink/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Holiday decorations</match>
+			<match id="2">Noise from a nearby airport</match>
+			<match id="3">Neighborhood clean-up</match>
+			<match id="4">Second-hand smoke</match>
+			<match id="5">Water pollution</match>
+			<match id="6">Vaccinations</match>
+         </matches>
+         <drops title="Negative Externalities">2,4,5</drops>
+		 <drops title="Positive Externalities">1,3,6</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-1_s15</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s16</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction><![CDATA[
+	  <strong>Gross Domestic Product (GDP)</strong>
+	  <ul>
+	  	<li>Dollar value of all final goods and services produced in a country in one year</li>
+		<li>One of the most important measures of how the economy is performing</li>
+	  </ul>
+	  <br/>
+	  <strong>Business Cycle</strong>
+	  <ul>
+	  	<li>Systematic change in real GDP over time</li>
+	<ul>
+	  ]]></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-1_s17.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="524" y="142">
+			<![CDATA[
+				<h1>Expansion</h1>
+				<p>During a period of expansion, real GDP increases, and employment tends to increase as firms hire workers to increase production.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="306" y="90">
+			<![CDATA[
+				<h1>Peak</h1>
+				<p>When the economy reaches a turnaround known as a peak, real GDP stops going up.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="106" y="278">
+			<![CDATA[
+				<h1>Recession</h1>
+				<p>During a period of contraction, real GDP decreases, and employment tends to decrease as firms lay off workers in response to lower product demand. A contraction that lasts six months and is accompanied by higher unemployment rates is known as a recession.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="415" y="307">
+			<![CDATA[
+				<h1>Trough</h1>
+				<p>When the economy reaches a turnaround known as a trough, real GDP stops going down.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-1_s17</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is most likely to occur during the recession phase of the business cycle?</question>
+        <answers>
+          <answer>GDP rises</answer>
+		  <answer>Price levels rise significantly</answer>
+		  <answer>Firms expand production</answer>
+          <answer correct="true">Unemployment rises</answer>
+		  <answer>Employment rises</answer>
+        </answers>
+        <feedbackAudio>econ_m1-1_s18_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-1_s18</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="9_Activity_Image_Rollclick">
+    <content>
+      <header>Unemployment</header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-1_s19.jpg</image>
+      <hotspots>
+        <hotspot title="Those Not Counted" dynamic="true" x="243" y="21">
+			<![CDATA[
+				<h1>Those Not Counted</h1>
+				<p>People who are not looking for work, such as students, retirees, and stay-at-home parents, are not unemployed because they are not looking for work.</p>
+			]]>
+        </hotspot>
+		<hotspot title="Frictional Unemployment" dynamic="true" x="20" y="255">
+			<![CDATA[
+				<h1>Frictional Unemployment</h1>
+				<p>Frictional unemployment includes people who have quit, been fired, or are looking for a first job.</p>
+			]]>
+        </hotspot>
+		<hotspot title="Cyclical Unemployment" dynamic="true" x="437" y="341">
+			<![CDATA[
+				<h1>Cyclical Unemployment</h1>
+				<p>Cyclical unemployment refers to people who are laid off due to a recession.</p>
+			]]>
+        </hotspot>
+		<hotspot title="Structural Unemployment" dynamic="true" x="436" y="118">
+			<![CDATA[
+				<h1>Structural Unemployment</h1>
+				<p>Structural unemployment occurs when a worker has been replaced by a machine, or a country doesn't produce a particular product anymore.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-1_s19</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Andersen Ross/Digital Vision/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these is an example of cyclical unemployment?</question>
+        <answers>
+          <answer correct="true">An autoworker is laid off during a recession.</answer>
+		  <answer>A college graduate is looking for her first job.</answer>
+		  <answer>A steelworker loses her job when her company moves to Mexico.</answer>
+		  <answer>A new father quits his job to become a stay-at-home dad.</answer>
+		  <answer>An accountant quits her job to look for a better one.</answer>
+        </answers>
+        <feedbackAudio>econ_m1-1_s20_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-1_s20</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s21</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s22</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (b)Specialist Seaman Brian Read Castillo/US Navy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s23</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (b)John Aikins/Corbis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images</credits>
+  </scene>
+
+  <scene id="24" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following would be an appropriate fiscal policy to stimulate the economy during a recession?</question>
+        <answers>
+          <answer>Raise taxes</answer>
+		  <answer>Reduce the money supply</answer>
+          <answer correct="true">Increase government spending</answer>
+		  <answer>Do nothing</answer>
+		  <answer>Increase the money supply</answer>
+        </answers>
+        <feedbackAudio>econ_m1-1_s24_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-1_s24</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="25" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s25</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (b)Siede Preis/Photographer's Choice/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="26" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">A. aggregate demand</match>
+        <match id="2">B. buy</match>
+        <match id="3">C. Federal Reserve</match>
+        <match id="4">D. increases</match>
+        <match id="5">E. invest</match>
+        <match id="6">F. lowers</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;">
+        <drop correct="1" x="143" y="275"></drop>
+        <drop correct="2" x="212" y="221"></drop>
+        <drop correct="3" x="71" y="24"></drop>
+        <drop correct="4" x="448" y="86"></drop>
+        <drop correct="5" x="359" y="186"></drop>
+        <drop correct="6" x="186" y="122"></drop>
+      </drops>
+      <image>econ_m1-1_s26.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>econ_m1-1_s26</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="27" type="2_Txt_Img_Animation">
+    <video>econ_m1-1_s27</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (b)DAJ/Amana Images/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="28" type="9_Activity_Image_Rollclick">
+    <content>
+      <header><![CDATA[Comparative Advantage<br/>
+	  Import<br/>
+	  Export]]></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m1-1_s28.jpg</image>
+      <hotspots>
+        <hotspot title="Oil" dynamic="true" x="162" y="27">
+			<![CDATA[
+				<h1>Oil</h1>
+				<p>Import</p>
+			]]>
+        </hotspot>
+		<hotspot title="Fireworks" dynamic="true" x="7" y="27">
+			<![CDATA[
+				<h1>Fireworks</h1>
+				<p>Import</p>
+			]]>
+        </hotspot>
+		<hotspot title="Corn" dynamic="true" x="317" y="27">
+			<![CDATA[
+				<h1>Corn</h1>
+				<p>Export</p>
+			]]>
+        </hotspot>
+		<hotspot title="Oranges" dynamic="true" x="472" y="27">
+			<![CDATA[
+				<h1>Oranges</h1>
+				<p>Export</p>
+			]]>
+        </hotspot>
+		<hotspot title="Chemicals" dynamic="true" x="162" y="270">
+			<![CDATA[
+				<h1>Chemicals</h1>
+				<p>Export</p>
+			]]>
+        </hotspot>
+		<hotspot title="Clothing" dynamic="true" x="7" y="325">
+			<![CDATA[
+				<h1>Clothing</h1>
+				<p>Import</p>
+			]]>
+        </hotspot>
+		<hotspot title="Bananas" dynamic="true" x="472" y="118">
+			<![CDATA[
+				<h1>Bananas</h1>
+				<p>Import</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m1-1_s28</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (b)Steve Allen/Brand X Pictures/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="29" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>The situation of a chemical factory polluting the local water supply is known as</question>
+        <answers>
+          <answer>ceteris paribus.</answer>
+		  <answer>comparative advantage.</answer>
+		  <answer>a business cycle.</answer>
+          <answer correct="true">an externality.</answer>
+		  <answer>an investment.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following would NOT be considered a factor of production?</question>
+        <answers>
+          <answer>Land</answer>
+          <answer correct="true">Profit</answer>
+		  <answer>Capital</answer>
+		  <answer>Entrepreneurship</answer>
+		  <answer>Labor</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Economics is the study of</question>
+        <answers>
+          <answer correct="true">how people try to satisfy their unlimited wants with scarce resources.</answer>
+		  <answer>how countries try to limit the wages of their workers.</answer>
+		  <answer>why governments use politics to further their agendas.</answer>
+		  <answer>why firms attempt to improve the profits of their competitors.</answer>
+		  <answer>how international trade reduces employment.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The quantity of products consumers are willing and able to purchase is</question>
+        <answers>
+          <answer>supply.</answer>
+		  <answer>inflation.</answer>
+		  <answer>money.</answer>
+		  <answer>equilibrium.</answer>
+          <answer correct="true">demand.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following government actions would help to resolve a recession?</question>
+        <answers>
+          <answer>Increasing taxes</answer>
+		  <answer>Reducing the money supply</answer>
+          <answer correct="true">Increasing government spending</answer>
+		  <answer>Increasing purchases of imports</answer>
+		  <answer>Reducing unemployment benefits</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m1-1_s29</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

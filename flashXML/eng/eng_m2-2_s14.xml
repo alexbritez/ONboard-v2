@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Tips to Avoid Sounding Pretentious</title>
+		<info></info>
+		<image>images/eng_m2-2_s14.jpg</image>
+		<audio>audio/eng_m2-2_s14.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>800</xCord>
+			<yCord>142.1</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[If there is a more common academic term for what you’re attempting to say, then use it.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>800</xCord>
+			<yCord>225.1</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Beware of malapropisms (misusing similarly sounding words) such as: exasperate/exacerbate or contraption/contraction.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>800</xCord>
+			<yCord>308.1</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[If the sentence sounds “forced” to you, then it is pretentious.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>800</xCord>
+			<yCord>391.1</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Say what you mean, and mean what you say.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

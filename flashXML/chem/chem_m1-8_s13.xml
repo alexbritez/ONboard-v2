@@ -1,0 +1,295 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-8_s13.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+	<question>
+		<qText><![CDATA[For the equations<br /><font face='c-Italic' >p</font> + <font face='c-Italic' >q</font> = 1  and  <font face='c-Italic' >p</font><font face='SuperScript'>2</font> + 2<font face='c-Italic' >pq</font> + <font face='c-Italic' >q</font><font face='SuperScript'>2</font> = 1, <br />find <font face='c-Italic' >q</font> if  <font face='c-Italic' >p</font> = 0.2.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.8]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.6]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.4]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.2]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<font size='24'>                                           <font face='c-Italic' >y</font><font face='SubScript'>2</font> − <font face='c-Italic' >y</font><font face='SubScript'>1</font><br />Use the equation <font face='c-Italic' > m</font> = <font face = 'SuperScript'>____________</font><br />                                           <font face='c-Italic' >x</font><font face='SubScript'>2</font> − <font face='c-Italic' >x</font><font face='SubScript'>1</font><br /><br /><br />to find the slope for the line with <br/><br/>the given points:<br /><br/ ><br/><br />(1.82, 0.0445) and (1.46, 0.132).</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[−0.24]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[−4.1]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.24]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.84]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[<font size='24'>                                           <font face='c-Italic' >y</font><font face='SubScript'>2</font> - <font face='c-Italic' >y</font><font face='SubScript'>1</font><br />Use the equation <font face='c-Italic' > m</font> = <font face = 'SuperScript'>____________</font><br />                                           <font face='c-Italic' >x</font><font face='SubScript'>2</font> - <font face='c-Italic' >x</font><font face='SubScript'>1</font><br /><br /><br />to find the slope for the line with <br/><br/>the given points:<br /><br/ ><br /><br/>(3.65, 18.22) and (5.76, 22.86).</font>]]></qText>
+		<fraction>true</fraction>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.854]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[1.17]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[1.54]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.15]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[If <font face='c-Italic' >y</font> = 2.3<font face='c-Italic' >x</font> + 4,  what is the value of <font face='c-Italic' >y</font> at <font face='c-Italic' >x</font> = 6?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[18.7]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[17.8]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[83.7]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[38.787.3]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[If 15 = 1.6<font face='c-Italic' >x</font> – 18,  what is the value of <font face='c-Italic' >x</font>?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[62.20]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[22.6]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.60]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[20.62]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<font size='24'><p>Use the Ideal Gas Law, <br/><font face='c-Italic' >PV</font> = <font face='c-Italic' >nRT</font> to solve for the correct value.<br/>If <font face='c-Italic' >P</font> = 1.00 atm,  <font face='c-Italic' >V</font> = 22.4 L,  <br/><font face='c-Italic' >n</font> = 1.00 mol and <font face='c-Italic' >T</font> = 373.15 K, <br/>determine the value for <font face='c-Italic' >R</font> (include units).</p></font>]]></qText>
+		<answerButtons>
+			<aBtn>
+			 <frac>true</frac>
+				 <aText><![CDATA[<p>               L atm<br/>0.0821 <font face='SuperScript'>_________</font><br/>              mol K</p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+			 <frac>true</frac>
+				 <aText><![CDATA[<p>          L atm<br />8.31 <font face='SuperScript'>_________</font><br />         mol K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+			 <frac>true</frac>
+				 <aText><![CDATA[<p>          L atm<br />12.2 <font face='SuperScript'>_________</font><br />         mol K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+			 <frac>true</frac>
+				 <aText><![CDATA[<p>          L atm<br />62.4 <font face='SuperScript'>_________</font><br />         mol K</font>]]></aText>  
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<font size='26'>Use the Ideal Gas Law, <br/><br/><font face='c-Italic' >PV</font> = <font face='c-Italic' >nRT</font> to solve for the correct value.<br /><br/>If <font face='c-Italic' >P</font> = 52.54 psi,  <font face='c-Italic' >V</font> = 5.29 L,  <br/><br/>                                                      L psi<br /><font face='c-Italic' >n</font> = 12.54 mol and <font face='c-Italic' >R</font> = 1.207 <font face='SuperScript'>_________</font> ,<br/>                                                    mol K<br /><br/>is the value for <font face='c-Italic' >T</font>?</font></font>]]></qText>
+		<answerButtons>
+			<aBtn>
+			<fraction>true</fraction>
+				 <aText><![CDATA[18.4 K]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[56.4 K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[103 K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[150. K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<font size='28'>Use the Combine Gas Law,<br /><br /><font face='c-Italic' >P</font><font face='SubScript'>1</font><font face='c-Italic' >V</font><font face='SubScript'>1</font>     <font face='c-Italic' >P</font><font face='SubScript'>2</font><font face='c-Italic' >V</font><font face='SubScript'>2</font><br/><font face='SuperScript'>_____</font>  =  <font face='SuperScript'>_____</font>   to answer this question.<br />   <font face='c-Italic' >T</font><font face='SubScript'>1</font>         <font face='c-Italic' >T</font><font face='SubScript'>2</font> <br /><br /><br/>P<font face='SubScript'>1</font> = 5.7 atm, <font face='c-Italic' >V</font><font face='SubScript'>1</font> = 6.3 L, <font face='c-Italic' >T</font><font face='SubScript'>1</font> = 354 K,<br /><br /><font face='c-Italic' >P</font><font face='SubScript'>2</font> = 7.8 atm, <font face='c-Italic' >V</font><font face='SubScript'>2</font> = 12.7 L, what is <font face='c-Italic' >T</font><font face='SubScript'>2</font>?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+			<fraction>true</fraction>
+				 <aText><![CDATA[130 K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[240 K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[520 K]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[980 K]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<font size='28'>Use the Combine Gas Law,<br /><br /><font face='c-Italic' >P</font><font face='SubScript'>1</font><font face='c-Italic' >V</font><font face='SubScript'>1</font>     <font face='c-Italic' >P</font><font face='SubScript'>2</font><font face='c-Italic' >V</font><font face='SubScript'>2</font><br/><font face='SuperScript'>_____</font>  =  <font face='SuperScript'>_____</font>   to answer this question.<br />   <font face='c-Italic' >T</font><font face='SubScript'>1</font>         <font face='c-Italic' >T</font><font face='SubScript'>2</font> <br /><br /><br/><font face='c-Italic' >P</font><font face='SubScript'>1</font> = 7.5 atm, <font face='c-Italic' >V</font><font face='SubScript'>1</font> = 9.5 L, <font face='c-Italic' >T</font><font face='SubScript'>1</font> = 454 K,<br /><br /><font face='c-Italic' >T</font><font face='SubScript'>2</font> = 854 K, <font face='c-Italic' >V</font><font face='SubScript'>2</font> = 12.7 L, what is <font face='c-Italic' >P</font><font face='SubScript'>2</font>?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+			<fraction>true</fraction>
+				 <aText><![CDATA[3.0 atm]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[11 atm]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[18 atm]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[30 atm]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<font size='28'>Use the Combine Gas Law,<br /><br /><font face='c-Italic' >P</font><font face='SubScript'>1</font><font face='c-Italic' >V</font><font face='SubScript'>1</font>     <font face='c-Italic' >P</font><font face='SubScript'>2</font>V<font face='SubScript'>2</font><br/><font face='SuperScript'>_____</font>  =  <font face='SuperScript'>_____</font>   to answer this question.<br />  <font face='c-Italic' >T</font><font face='SubScript'>1</font>         <font face='c-Italic' >T</font><font face='SubScript'>2</font> <br /><br /><br/><font face='c-Italic' >P</font><font face='SubScript'>1</font> = 15.7 atm, <font face='c-Italic' >V</font><font face='SubScript'>1</font> = 2.3 L, <font face='c-Italic' >T</font><font face='SubScript'>1</font> = 354 K,<br /><br /><font face='c-Italic' >P</font><font face='SubScript'>2</font> = 7.8 atm, <font face='c-Italic' >T</font><font face='SubScript'>2</font> = 945 K, what is <font face='c-Italic' >V</font><font face='SubScript'>2</font>?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+			<fraction>true</fraction>
+				 <aText><![CDATA[1.7 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[3.1 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[12 L]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[940 L]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s29_FB.mp3" />
+	</question>
+</MultipleChoice>

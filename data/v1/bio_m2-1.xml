@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to Experimental Design">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m2-1_s1</video>
+      <credits>(l)Nicola Sutton/Life File/Digital Vision/Getty Images, (r)Melba Photo Agency/PunchStock, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m2-1_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m2-1_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Ingram Publishing, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Inquiry: the process of answering a question or solving a problem</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m2-1_s4.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="160" y="224"><![CDATA[
+				<h1></h1>
+				<p>Who first discovered this kind of cell?</p>
+			]]></hotspot>
+         </hotspots>
+		 <hotspots>
+            <hotspot dynamic="true" x="408" y="195"><![CDATA[
+				<h1></h1>
+				<p>What is the function of the structures in the cytoplasm of this cell?</p>
+			]]></hotspot>
+         </hotspots>
+		 <hotspots>
+            <hotspot dynamic="true" x="174" y="116"><![CDATA[
+				<h1></h1>
+				<p>Where does this kind of cell live?</p>
+			]]></hotspot>
+         </hotspots>
+		 <hotspots>
+            <hotspot dynamic="true" x="286" y="167"><![CDATA[
+				<h1></h1>
+				<p>Why is the cell shaped that way?</p>
+			]]></hotspot>
+         </hotspots>
+		 <hotspots>
+            <hotspot dynamic="true" x="269" y="269"><![CDATA[
+				<h1></h1>
+				<p>How does the cell get food?</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m2-1_s4</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)Melba Photo Agency/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m2-1_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m2-1_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Stewart Cohen/DreamPictures/Blend Images LLC, (2)Noel Hendrickson/Digital Vision/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="6_Activity_Interactivity">
+      <content>
+         <header>Laboratory Experiments</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M02_01_04P.mp4</url>
+      <image>bio_m2-1_s7.jpg</image>
+      <audio>bio_m2-1_s7</audio>
+      <credits>(tr)Fotosearch/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Was the Miller-Urey experiment an example of a traditional lab or an inquiry-based lab?</question>
+            <answers>
+               <answer>Traditional because it was done in a laboratory setting</answer>
+			   <answer>Traditional because the scientists followed a procedure</answer>
+               <answer correct="true">Inquiry because the scientists developed their own procedure and were not sure of the outcome</answer>
+			   <answer>Inquiry because the scientists who carried out the experiment did not come up with the original hypothesis</answer>
+			   <answer>The Miller-Urey experiment was both traditional and an inquiry.</answer>
+            </answers>
+            <feedbackAudio>bio_m2-1_s8_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-1_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following would be most similar to a scientist creating an experimental design?</question>
+            <answers>
+               <answer>A plumber fixing a leak in a kitchen sink</answer>
+               <answer correct="true">An architect drawing up a blueprint for a new house</answer>
+			   <answer>A baker following a recipe to make a cake</answer>
+			   <answer>A mechanic changing the oil in a car engine</answer>
+			   <answer>An airplane pilot flying a plane across an ocean</answer>
+            </answers>
+            <feedbackAudio>bio_m2-1_s9_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-1_s9</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which activity best illustrates the process of inquiry learning?</question>
+            <answers>
+               <answer>Using a microscope to observe the differences between plant and animal cells</answer>
+			   <answer>Determining the pH of the water in local ponds and lakes</answer>
+			   <answer>Preparing a graph to show how the human population has grown in the last 100 years</answer>
+			   <answer>Compiling a list of the plants and animals found in a local ecosystem</answer>
+               <answer correct="true">Designing and conducting an experiment to measure the response of flatworms to light</answer>
+            </answers>
+            <feedbackAudio>bio_m2-1_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-1_s10</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>bio_m2-1_s11</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following best describes experimental design?</question>
+            <answers>
+               <answer>The search for an understanding of our living world.</answer>
+               <answer correct="true">A method used to determine the relationship between two variables.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A traditional lab is more like which of the following?</question>
+            <answers>
+               <answer correct="true">an amateur cook using a cookbook</answer>
+               <answer>a chef creating a new dish</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An inquiry lab is more like which of the following?</question>
+            <answers>
+               <answer>an amateur cook using a cookbook</answer>
+               <answer correct="true">a chef creating a new dish</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>True or False: Inquiry-based labs guarantee results because they have been performed over and over again.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>True or False: The outcome in a good experimental design is always predictable.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m2-1_s12</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

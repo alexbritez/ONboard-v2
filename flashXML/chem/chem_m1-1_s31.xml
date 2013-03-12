@@ -1,0 +1,269 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s31.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source><Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText>What is the scientific notation for 28,300,000?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>28.3 × 10<font face='SuperScript'>6</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>2.83 × 10<font face='SuperScript'>–7</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>2.83 × 10<font face='SuperScript'>7</font></p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>28.3 × 10<font face='SuperScript'>5</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>What is the scientific notation for 0.0002835?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[2.835 × 10<font face='SuperScript' size='18'>4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.835 × 10<font face='SuperScript' size='18'>–4</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2835 × 10<font face='SuperScript' size='18'>7</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.835 × 10<font face='SuperScript' size='18'>–3</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[1.64 × 10<font face='SuperScript' size='30'>4</font><br/><font face='SuperScript' size='30'>___________</font><br/>4 × 10<font face='SuperScript' size='30'>2</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[4.1 × 10<font face='SuperScript' size='18'>4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4.1 × 10<font face='SuperScript' size='18'>3</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4.1 × 10<font face='SuperScript' size='18'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4.1 × 10<font face='SuperScript' size='18'>1</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[(8.2 × 10<font face='SuperScript' size='30'>5</font>) + (6.9 × 10<font face='SuperScript' size='30'>6</font>)]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[7.72 × 10<font face='SuperScript' size='18'>6</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.772 × 10<font face='SuperScript' size='18'>–6</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[77.2 × 10<font face='SuperScript' size='18'>–7</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[77.2 × 10<font face='SuperScript' size='18'>5</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[(2.7 × 10<font face='SuperScript' size='30'>10</font>) × (5.4 × 10<font face='SuperScript' size='30'>10</font>)]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[14.58 × 10<font face='SuperScript' size='18'>10</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[1.458 × 10<font face='SuperScript' size='18'>12</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[1.458 × 10<font face='SuperScript' size='18'>21</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.1458 × 10<font face='SuperScript' size='18'>11</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[  (1.9 × 10<font face='SuperScript' size='30'>17</font>)<br/><font face='SuperScript' size='30'>________________</font><br/>  (3.8 × 10<font face='SuperScript' size='30'>19</font>)]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[5 × 10<font face='SuperScript' size='18'>36</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.5 × 10<font face='SuperScript' size='18'>17</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[0.5 × 10<font face='SuperScript' size='18'>1</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[5 × 10<font face='SuperScript' size='18'>–3</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText><![CDATA[<p>How many zeroes would this number have if it wasn't written in scientific notation?<br/><br/>6.222 × 10<font face='SuperScript' size='30'>–4</font></p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>1</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>2</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>3</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>4</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>When 8.2531 is correctly written in scientific notation, that answer is</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[82531 × 10<font face='SuperScript' size='18'>4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[82.531 × 10<font face='SuperScript' size='18'>1</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[8.2531 × 10<font face='SuperScript' size='18'>–4</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[8.2531 × 10<font face='SuperScript' size='18'>0</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<font size='25'>What is the correct answer for the <br/><br/>following problem?</font><br/><br/><br/>11.4<br/><font face='SuperScript' size='30'>_____________</font><br/>(32.5 – 13.5)]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[6 × 10<font face='SuperScript' size='18'>–2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[6 × 10<font face='SuperScript' size='18'>0</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[6 × 10<font face='SuperScript' size='18'>1</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[6 × 10<font face='SuperScript' size='18'>–1</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+	<question>
+		<qText>If the original number that you are going to put into scientific notation is less than one, then the exponent will be</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Negative</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Zero</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Positive</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

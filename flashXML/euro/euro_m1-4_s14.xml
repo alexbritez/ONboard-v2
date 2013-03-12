@@ -1,0 +1,130 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Economic Vocabulary</title>
+		<info></info>
+		<image>images/euro_m1-4_s14.jpg</image>
+		<audio>audio/euro_m1-4_s14.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		
+		<pButton> 
+			<Name>GUILD</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>472.95</xCord>
+			<yCord>96.35</yCord>
+			<width>134</width>
+			<popTitle>Guild</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>A guild (pronounced “gild”) is an association of persons of the same trade united to further a purpose – most often the skill level of, and the control over, the trade. Silversmiths, glovemakers, and weavers all had powerful guilds. They operated sort of like labor unions do today. Guilds controlled prices, and determined who became an apprentice (a beginner learning the skill), a journeyman (a skilled craftsman who could “journey” away from his master), and a master craftsman (the highest skill level)</font>.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>LAISSEZ-FAIRE</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>472.95</xCord>
+			<yCord>183.85</yCord>
+			<width>85</width>
+			<popTitle><![CDATA[<p><font face='c-Italic'>Laissez-Faire</font></p>]]></popTitle>
+			<popInfo><![CDATA[<p>Pronounced “lay-say fair,” this French phrase means “hands off!” In economic terms, it’s a doctrine opposing governmental regulation of most economic affairs. Capitalistic economic systems usually support <font face='c-Italic'>laissez-faire</font> policies. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>TAX</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>472.95</xCord>
+			<yCord>271.35</yCord>
+			<width>85</width>
+			<popTitle>Tax</popTitle>
+			<popInfo><![CDATA[<p>Tariff, duty, aid, scutage—they all refer to a type of tax levied by the government.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>USURY</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>472.95</xCord>
+			<yCord>358.85</yCord>
+			<width>85</width>
+			<popTitle>Usury</popTitle>
+			<popInfo><![CDATA[<p>As it relates to European history, usury is the practice of lending money at interest. That means that if someone loans you $10.00 at 5% interest, then you will pay that person a total of $10.50. Historically, many Christians and Muslims did not practice usury, although most present-day Christians do not have any such reservations. Many Jews were prohibited from joining guilds or practicing other trades because of their religious beliefs, so turned to finance to earn a living.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>CURRENCY</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>472.95</xCord>
+			<yCord>446.35</yCord>
+			<width>85</width>
+			<popTitle>Currency</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>Just as European countries speak different languages, remember that, until recently, they all had different forms of currency. Historical currency includes the French franc, the German mark, and the Italian lira. Today, the euro (symbol €) is the official currency of the Eurozone and used by 17 member nations of the European Union, including France, Spain, Italy, and Germany. Some European countries retained the use of their traditional form of currency. The United Kingdom still uses the pound (symbol £) and the Russian Federation still uses the ruble.</font>  </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>STOCK</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>927.95</xCord>
+			<yCord>96.35</yCord>
+			<width>85</width>
+			<popTitle>Joint-Stock Companies</popTitle>
+			<popInfo><![CDATA[<p>One of the ways people, companies, and groups raised money for trading expeditions or other large investments was through a joint-stock company. Beginning in the late 1500s, ordinary investors could buy shares in commercial ventures that were run by a board of directors. The English and Dutch East India Companies were some of the most successful joint-stock companies in European history.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>MARKET</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>927.95</xCord>
+			<yCord>183.85</yCord>
+			<width>85</width>
+			<popTitle>Markets</popTitle>
+			<popInfo><![CDATA[<p><font size='13'>The economic history of Europe is so vast that the word market can mean a place where Medieval Europeans came to trade, sell, and buy goods, or the global market that Europe remains a vital part of today. When you see the word ‘market’ in your textbook or on an exam, look for dates the help you learn the historical context in which the word is used. Like the stock market crash or the housing market bubble, European history is also full of financial upheaval. While most financial difficulties were related to individual governments, companies, investors, and ordinary people could also be affected by economic boom and bust.</font> 
+</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>INDUSTRIALIZATION</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>927.95</xCord>
+			<yCord>271.35</yCord>
+			<width>85</width>
+			<popTitle>Industrialization</popTitle>
+			<popInfo><![CDATA[<p><font size='14'>Industrialization is the process by which a country moves from a primarily agricultural society to an industrial society. In Europe, this process sped up during the Industrial Revolution. It’s important to remember that the Industrial Revolution was not one event that took place all across Europe at the same time. It lasted for more than 100 years and occurred in several stages. Britain was one of the first countries to industrialize, beginning in the late 1700s. Russia was one of the last to industrialize, beginning in the late 1800s.</font></p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>MERCANTILISM</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>927.95</xCord>
+			<yCord>358.85</yCord>
+			<width>85</width>
+			<popTitle>Mercantilism</popTitle>
+			<popInfo><![CDATA[<p>Mercantilism was the belief that the amount of wealth in the world was fixed, and that a nation should try to gain as much as it could at the expense of other nations. This should be done by accumulating more gold or by improving its balance of trade (exporting—selling to other countries— more than they import—buying from other countries). This policy caused governments to seek control of the national economy and concentrate wealth into the national treasury. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>SUPPLY and DEMAND</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>927.95</xCord>
+			<yCord>446.35</yCord>
+			<width>85</width>
+			<popTitle>Supply and Demand</popTitle>
+			<popInfo><![CDATA[<p>While it has a more complicated meaning in the study of economics, supply and demand is based on Adam Smith’s liberal economic doctrine that demand for goods and services will stimulate production (supply) in a free-market system. </p>]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,42 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-8_s21.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+//1	
+	<question>
+		<qText>Which sentence shows a consistent point of view?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>An aggressive news photographer knocked a reporter to the ground as the movie stars arrive for the Academy Awards.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>George Washington won his first battle when he defeats the Hessians in Trenton, New Jersey.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[John Steinbeck wrote his masterpiece <font face='lc-Italic'>The Grapes of Wrath</font> in 1939, but he does not win the Nobel Prize until 1962.]]></aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Aunt Cheryl tried to kiss her little nephew, but he ran out of the room.</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Galileo did not invent the telescope, but he improves upon it in order to better observe the heavens.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m3-8_s21_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

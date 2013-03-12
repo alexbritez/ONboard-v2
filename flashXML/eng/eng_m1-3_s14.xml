@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Appeals in Roosevelt’s Speech</title>
+		<info></info>
+		<image>images/eng_m1-3_s14.jpg</image>
+		<audio>audio/eng_m1-3_s14.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Logos</Name>   
+			<audio enable="false" url=""/>
+			<xCord>466.85</xCord>
+			<yCord>156.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Logos</popTitle>
+			<popInfo><![CDATA[<p>This is an appeal to logos. By establishing the date, Roosevelt uses a hard and fast time. No one will question the veracity of the event that has occurred, which gives Roosevelt instant credibility.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Pathos</Name>
+			<audio enable="false" url=""/>
+			<xCord>466.85</xCord>
+			<yCord>197.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Pathos</popTitle>
+			<popInfo><![CDATA[<p>The word “infamy” is a very value-laden word. This is an appeal to pathos. The infamous nature of the event should stir the audience to anger.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Ethos</Name>
+			<audio enable="false" url=""/>
+			<xCord>466.85</xCord>
+			<yCord>243.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Ethos</popTitle>
+			<popInfo><![CDATA[<p>This is an ethical appeal. It is fact-based, so it could also be considered a logical appeal. But the words “suddenly and deliberately” direct the reader’s attention to the idea that this is a premeditated act of aggression.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

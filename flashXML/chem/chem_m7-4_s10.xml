@@ -1,0 +1,28 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Find the Density</p>]]></hText>
+		<fraction>answer</fraction>
+		<qText><![CDATA[What is the density of H<font face="SubScript">2</font>S gas at 0<font face='SuperScript' >o</font>C and 1.00 atm pressure?]]></qText>
+		<correctText><![CDATA[<font face='c-Bold'>The correct answer is: </font>
+          g<br/>1.52 <font face='chemNums'>___</font><br/>          L]]></correctText>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-4_s10.swf" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-4_s10.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

@@ -1,0 +1,27 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m3-1_s8.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s8.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Rutherford]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Dalton]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Thomson]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="512.1" yCord="193" spotScale="100" spotNum="2"/>
+		<dSpot xCord="512.1" yCord="298" spotScale="100" spotNum="3"/>
+		<dSpot xCord="512.1" yCord="408" spotScale="100" spotNum="1"/>
+	</dropSpots>
+</DragDrop>

@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Write a sentence that uses hyperbole.]]></hText>
+		<qText></qText>
+		<correctText><![CDATA[<font size='12'><font face='c-Bold'>ANSWER</font><br />Any sentence that uses exaggeration for emphasis or effect is acceptable.<br /><br /><font face='c-Bold'>SAMPLES OF HYPERBOLE</font><br />When Jack’s face appeared so suddenly in the car window, I jumped out of my skin.<br/><br />The radio station plays that song a thousand times an hour.<br /><br />Her mind was a million miles away.</font>]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m1-2_s34.jpg" />
+		<audio>audio/eng_m1-2_s34.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

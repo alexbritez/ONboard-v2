@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>To correct a fragment, join it to another sentence or add details.</title>
+		<info></info>
+		<image>images/eng_m2-1_s20.jpg</image>
+		<audio>audio/eng_m2-1_s20.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Correct version:</Name>   
+			<audio enable="true" url="audio/eng_m2-1_s20_1.mp3"/>
+			<xCord>970</xCord>
+			<yCord>200</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Jung is adept at recycling, saving empty beverage bottles, separating trash into containers, and bundling up old newspapers. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s20_2.mp3"/>
+			<xCord>970</xCord>
+			<yCord>272</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Although Barry is soft spoken, he is an extremely generous, kind-hearted person.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s20_3.mp3"/>
+			<xCord>970</xCord>
+			<yCord>343</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[For the past year, my children have watched only one hour of television a day. This is a vast improvement over the previous year, when the television was their babysitter.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

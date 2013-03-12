@@ -1,0 +1,37 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_s1-2_s11.jpg</image>
+		<audio>audio/euro_s1-2_s11.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>90</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Military</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Legal</boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Economics</boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Culture</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Language</boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="509.5" yCord="113.8" spotScale="90" spotNum="1"/>
+		<dSpot xCord="509.5" yCord="200.7" spotScale="90" spotNum="2"/>
+		<dSpot xCord="509.5" yCord="280.5" spotScale="90" spotNum="3"/>
+		<dSpot xCord="509.5" yCord="360.3" spotScale="90" spotNum="4"/>
+		<dSpot xCord="509.5" yCord="440.1" spotScale="90" spotNum="5"/>
+	</dropSpots>
+</DragDrop>

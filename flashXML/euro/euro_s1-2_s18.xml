@@ -1,0 +1,62 @@
+<PopUp>
+	<slideInfo>
+		<title>Feudalism</title>
+		<info></info>
+		<image>images/euro_s1-2_s18.jpg</image>
+		<audio>audio/euro_s1-2_s18.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>FIEF</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>454.35</xCord>
+			<yCord>168.35</yCord>
+			<width>134</width>
+			<popTitle>FIEF</popTitle>
+			<popInfo><![CDATA[An office (or title) and an estate (or manor) granted by liege to vassal.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>INVESTITURE</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>944.35</xCord>
+			<yCord>168.35</yCord>
+			<width>85</width>
+			<popTitle>INVESTITURE</popTitle>
+			<popInfo><![CDATA[The ceremonial act of conferring (or giving) a fief to a vassal.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>HOMAGE</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>874.35</xCord>
+			<yCord>285.25</yCord>
+			<width>92</width>
+			<popTitle>HOMAGE</popTitle>
+			<popInfo><![CDATA[The vassal pledges loyalty (including military service when requested) to the liege lord.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>FEALTY</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>522.35</xCord>
+			<yCord>285.25</yCord>
+			<width>52</width>
+			<popTitle>FEALTY</popTitle>
+			<popInfo><![CDATA[The vassal swears a religious oath and is thereby bound to the liege lord.  This newer Christian component of feudalism does not date back to the time of Germanic migrations.]]></popInfo>
+		</pButton>	
+		
+		<pButton> 
+			<Name>KNIGHTS IN SERVICE</Name>
+			<audio enable="false" url="audio/euro_s1-2_s14_GOVERN.mp3"/>
+			<xCord>699.35</xCord>
+			<yCord>459.9</yCord>
+			<width>52</width>
+			<popTitle>KNIGHTS IN SERVICE</popTitle>
+			<popInfo><![CDATA[Knighthood was the ceremonial reception of a heroic squire into the military caste (or nobility) as a member of the armed cavalry.]]></popInfo>
+		</pButton>	
+		
+	</popButtons>
+</PopUp>

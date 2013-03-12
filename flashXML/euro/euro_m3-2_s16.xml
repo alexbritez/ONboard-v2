@@ -1,0 +1,60 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>AP European History</title>
+		<info>Government documents are formal, legal documents</info>
+		<image>images/euro_m3-2_s16.jpg</image>
+		<audio>audio/euro_m3-2_s16.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="true" url="audio/euro_m3-2_s16_a.mp3"/>
+			<xCord>620.9</xCord>
+			<yCord>125.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The Magna Carta was signed by the English monarch King John I in 1215.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="true" url="audio/euro_m3-2_s16_b.mp3"/>
+			<xCord>674.85</xCord>
+			<yCord>325.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>It guaranteed rights to the people of England.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>3</Name>   
+			<audio enable="true" url="audio/euro_m3-2_s16_c.mp3"/>
+			<xCord>738.75</xCord>
+			<yCord>365.3</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>It became the basis of the 1689 English Bill of Rights and set the stage for many rights still enjoyed in both England and America, today.</p>]]></popInfo>
+		</pButton>
+		
+
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

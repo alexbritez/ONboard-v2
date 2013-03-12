@@ -1,0 +1,362 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m3-5_s38.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q1.jpg</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>images/euro_m3-5_s38_q2.jpg</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[<p>The photo was taken on the same street as the earlier photo of Lodz that you analyzed. What, if anything, has changed?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The ghetto has been abandoned]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A bridge over the street has replaced the gated crossing]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The ghetto is no longer divided into sections by the thoroughfare]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The ghetto boundaries have changed]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Nothing has changed]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	2
+	<question>
+		<qText><![CDATA[<p>All of the following might be explanations for the building of a pedestrian bridge for the ghetto inhabitants EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[it would allow trams and cars to drive freely through the ghetto]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[it would allow ghetto population to cross the street at any time]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[it would cut down on the manpower required to monitor the street crossings]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[it would protect the Jews from being run over]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[it would reduce the amount of contact between Germans and Jews]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	<question>
+		<qText><![CDATA[<p>Who is likely in the tram pictured in the photo?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Polish or German civilians]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[German Military men]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jews moving into the ghetto]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Tourists from outside Lodz who have come to see the ghetto]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A Jewish police patrol]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>What message does the existence of the bridge reinforce?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[That the Germans were concerned about Jewish safety]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[That Jews should be allowed to move more freely around the city]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[That the Jews inhabit a completely separate universe and cannot even touch the street designated to non-Jews.]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[That Jews wanted to be isolated from the rest of the citizens of Lodz]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[That the Jews in the ghetto needed to be protected from the Polish and German inhabitants of Lodz]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Many of the Jews on the bridge appear to be looking down at the street. The street may have represented all of the following to them EXCEPT</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[a symbol of their confinement]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[a longing for freedom]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[their lives before Nazi occupation]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[a reminder of what has been taken away from them]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[a place they no longer wish to walk]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+
+	<question>
+		<qText><![CDATA[<p>The non-Jewish inhabitants of Lodz were allowed to travel this street. Which of the following would have contributed most to their knowledge about and understanding of what was going on in the ghetto?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Observing the bridge]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Asking German guards about life in the ghetto]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Travelling down the street in a tram and looking at the buildings ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The fact that only a wooden and barbed wire fence stood between them and the ghetto inhabitants]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Getting messages passed to them from ghetto inhabitants as they passed by]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Who is most likely to have taken this photo?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[An official German military or civil photographer]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A Polish or German citizen traveling through on a tram]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A Jewish inhabitant of the ghetto]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A visiting journalist from a neutral country]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A member of the Jewish police force]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	<question>
+		<qText><![CDATA[<p>Whose point of view is represented by this photograph?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The point of view of the Jewish inhabitants of the ghetto]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The point of view of Polish and German civilian inhabitants of Lodz]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The point of view of a tourist to Lodz]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The point of view of the German military and civil administrators of the ghetto]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The point of view of the Jewish leadership of the ghetto. ]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+	
+	<question>
+		<qText><![CDATA[<p><font size='26'>The point of view expressed in the photograph can be summarized by completing the following statement with all of the following EXCEPT
+ ‘The Jews of Lodz are confined behind barbed wire and kept separate from the surrounding community…’</font></p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[for their own safety]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[so that the German occupiers can exploit their labor]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[so that the Germans can keep them under their  control until they decide what to do with them]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[because the Germans believe they are a menace and a danger to the so-called ‘master-race’]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[because the Germans  have deemed them inferior and ‘unworthy of life’]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+
+	
+	
+	
+	<question>
+		<qText><![CDATA[<p>Taken together, these images most convey which of the following?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[The attitude of all Germans towards Jewish people in the 1930s.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[The growing fear and hatred of the Jews by some in Europe in the late 19th and early 20th centuries. ]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jews were better off being separated from Christians in Western Europe.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Jews controlled the banks in Western Europe and could not be trusted.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Discrimination of Jewish people was commonplace and accepted throughout all of Western Europe.]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m3-5_s12_FB.mp3" />
+	</question>
+	
+	
+</MultipleChoice>
+<!--
+<fraction>true</fraction>
+		<qText><![CDATA[<p>                       22.4L<br />3.48 mol x <font face='SuperScript' size='27'>__________</font> =<br/>                       1 mol</p>]]></qText>
+-->
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

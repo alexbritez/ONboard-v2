@@ -1,0 +1,337 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>audio/euro_m1-4_s22.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+//1
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//2
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//3
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//4
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//5
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//6
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//7
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//8
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//9
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+//10
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+//1
+	<question>
+		<qText>The history of what people actually did on a day-to-day basis is called</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>economic history</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>social history</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+	
+//2
+	<question>
+		<qText>Women’s lives were affected by which of the following?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Social class</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Whether they were single, married, or widowed</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Their religious beliefs</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Which jobs they performed</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>All of the above</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//3
+	<question>
+		<qText>Which of the following is true about the idea of “separate spheres”?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Women were seen as “angels of the home.” </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Men were not expected to feed or bathe their children.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Women’s top priority was to their husband and children.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A and C only</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>A, B, and C</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+		
+//4
+	<question>
+		<qText>Mercantilism was</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>an economic theory that stressed the importance of imports over exports</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>an economic theory that emphasized compiling large quantities of gold and silver</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>an example of <font face='c-Italic'>laissez-faire</font> capitalism </p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>an example of supply and demand in action</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>a process in which economies changed from being agricultural to commercial</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//5
+	<question>
+		<qText>The Commercial Revolution </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>involved the expansion of colonial empires</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>saw most European countries cease political control over their colonies</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>occurred when economies shifted from agricultural to industrial</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>was caused by the increase in consumerism during the 19th century</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>is directly related to the idea of “separate spheres”</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//6
+	<question>
+		<qText>Isabella d’Este was an important figure during</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>the Renaissance</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Reformation</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Woman Suffrage movement</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the French Revolution</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Industrial Revolution</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//7
+	<question>
+		<qText>The idea that a woman’s place was in the home became known as </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>laissez-faire</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Cult of Personality</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Cult of Domesticity</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>the Enlightenment</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>gentry</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//8
+	<question>
+		<qText>In what ways did the Agricultural Revolution affect the economy of Britain?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>It reduced the number of agricultural workers.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>It enriched landowners through enclosure.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>It caused the British working class to become mobile. </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>It freed former agricultural workers to perform other jobs.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>All of the above</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+
+//9
+	<question>
+		<qText>Gatherings of Intellectuals hosted by women during the Enlightenment were </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>grammar schools </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>salons</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>guilds</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>separate spheres</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>bourgeoisie </aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+	
+//10
+	<question>
+		<qText>Women made great political strides and received the vote in most of Europe in the </qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>16th century</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>17th century</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>18th century</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>19th century</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>20th century</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="audio/euro_m2-7_s29_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

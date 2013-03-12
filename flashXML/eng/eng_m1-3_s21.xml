@@ -1,0 +1,34 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-3_s21.jpg</image>
+		<audio>audio/eng_m1-3_s21.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	
+	<dragItems>
+	
+		<dItem>
+			<boxText><![CDATA[Pathos]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText><![CDATA[Logos]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+			
+		<dItem>
+			<boxText><![CDATA[Ethos]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+			
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="523.55" yCord="176.95" spotScale="100" spotNum="1"/>
+		<dSpot xCord="523.55" yCord="257.7" spotScale="100" spotNum="2"/>
+		<dSpot xCord="523.55" yCord="344.45" spotScale="100" spotNum="3"/>
+	</dropSpots>
+	
+</DragDrop>

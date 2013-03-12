@@ -1,0 +1,49 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Qualitative Data</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m2-3_s4.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s4.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s4_a.mp3"/>
+			<xCord>701.2</xCord>
+			<yCord>264.2</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Brown gas produced.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s4_b.mp3"/>
+			<xCord>796.65</xCord>
+			<yCord>337.45</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Penny corrodes.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>3</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s4_c.mp3"/>
+			<xCord>553.4</xCord>
+			<yCord>381.95</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Bubbles form.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>4</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m2-3_s4_d.mp3"/>
+			<xCord>746.85</xCord>
+			<yCord>451.3</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Clear, blue solution forms.]]></popInfo>
+		</pButton>
+
+
+	</popButtons>
+</PopUp>

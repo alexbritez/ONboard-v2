@@ -1,0 +1,32 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-2_s6.jpg</image>
+		<audio>audio/eng_m1-2_s6.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[To Inform]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[To Instruct]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[To Entertain]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[To Persuade]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="520.1" yCord="125.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="520.1" yCord="224.15" spotScale="75" spotNum="2"/>
+		<dSpot xCord="520.1" yCord="323.15" spotScale="75" spotNum="3"/>
+		<dSpot xCord="520.1" yCord="422.15" spotScale="75" spotNum="4"/>
+	</dropSpots>
+</DragDrop>

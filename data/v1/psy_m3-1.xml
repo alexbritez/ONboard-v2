@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Methods">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m3-1_s1</video>
+      <credits>(cl) Manchan/Digital Vision/Getty Images, (c)ZenShui/Alix Minde/PhotoAlto Agency RF Collections/Getty Images, (cr)Liquidlibrary/Dynamic Graphics Group/PunchStock, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s2</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="3" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/Access_on_Computer.pdf</url>
+      <image>psy_m3-1_s3.jpg</image>
+      <audio>psy_m3-1_s3</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)McGraw-Hill Companies, Inc., (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" format="number" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="3">Step 1</match>
+				<match id="5">Step 2</match>
+				<match id="1">Step 3</match>
+				<match id="2">Step 4</match>
+				<match id="4">Step 5</match>
+			</matches>
+			<drops title="Steps of the Scientific Method" children-styles="margin-bottom: 0.1em;">
+				<drop correct="1" x="84" y="96"/>
+				<drop correct="2" x="84" y="142"/>
+				<drop correct="3" x="84" y="188"/>
+				<drop correct="4" x="84" y="234"/>
+				<drop correct="5" x="84" y="280"/>
+			</drops>
+			<image>psy_m3-1_s4.jpg</image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+		<audio>psy_m3-1_s4</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s5</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="2">Theory</match>
+			<match id="1">Hypothesis</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="52" y="126" />
+			<drop correct="2" x="52" y="186" />
+         </drops>
+         <image>psy_m3-1_s6.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m3-1_s6</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s7</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)ZenShui/Alix Minde/PhotoAlto Agency RF Collections/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>Scientific Method: Experiment</header>
+			<instruction>Gathering Data: Independent Variable</instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m3-1_s8.jpg</image>
+			<hotspots>
+				<hotspot title="Experimental Group" audio="psy_m3-1_s8_a" dynamic="true" x="34" y="148">
+					<![CDATA[
+					<h1>Experimental Group</h1>
+					<p>The experimental group experiences the independent variable.</p>
+					]]>
+				</hotspot>
+				<hotspot title="Independent Variable" audio="psy_m3-1_s8_b" dynamic="true" x="410" y="10">
+					<![CDATA[
+					<h1>Independent Variable</h1>
+					<p>The independent variable is the factor that is being changed or manipulated. The researcher manipulates the independent variable.</p>
+					]]>
+				</hotspot>
+				<hotspot title="Control Group" audio="psy_m3-1_s8_c" dynamic="true" x="473" y="187">
+					<![CDATA[
+					<h1>Control Group</h1>
+					<p>The control group does not receive the independent variable.</p>
+					]]>
+				</hotspot>
+				<hotspot title="Researcher" audio="psy_m3-1_s8_d" dynamic="true" x="318" y="147">
+					<![CDATA[
+					<h1>Researcher</h1>
+					<p>Example: the researcher wants to know if the subject will steal if alone. The independent variable is whether the subject is alone.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m3-1_s8</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (c)ZenShui/Alix Minde/PhotoAlto Agency RF Collections/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s9</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Ingram Publishing, Image Source/SuperStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Independent variable</match>
+			<match id="2">Dependent variable</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="84" y="129" />
+			<drop correct="2" x="84" y="189" />
+         </drops>
+         <image>psy_m3-1_s10.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m3-1_s10</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Independent variable</match>
+			<match id="2">Dependent variable</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="80" y="149" />
+			<drop correct="2" x="80" y="206" />
+         </drops>
+         <image>psy_m3-1_s10b.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m3-1_s11</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s12</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>Scientific Method: Experiment</header>
+			<instruction><![CDATA[Kinds of Sample Populations<br/>
+			<li>random</li>
+			<li>representative</li>
+			<li>convenience</li>]]></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m3-1_s13.jpg</image>
+			<hotspots>
+				<hotspot audio="psy_m3-1_s13_d" dynamic="true" x="158" y="29">
+					<![CDATA[
+					<h1>Random</h1>
+					<p>A <strong>random sample</strong> is one in which every member of the population has an equal chance of being selected.</p>
+					]]>
+				</hotspot>
+
+				<hotspot audio="psy_m3-1_s13_e" dynamic="true" x="293" y="29">
+					<![CDATA[
+					<h1>Representative</h1>
+					<p>A <strong>representative sample</strong> takes important variables (age, gender) from the population into account and makes sure they are represented in the sample.</p>
+					]]>
+				</hotspot>
+
+				<hotspot audio="psy_m3-1_s13_f" dynamic="true" x="427" y="29">
+					<![CDATA[
+					<h1>Convenience</h1>
+					<p>A <strong>convenience sample</strong> is one that is easily accessible and easy to find. However, the sample may introduce bias in the experiment.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m3-1_s13</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="14" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Random Sample</match>
+			<match id="2">Representative Sample</match>
+			<match id="1">Convenience Sample</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="14" y="96" />
+			<drop correct="2" x="14" y="202" />
+			<drop correct="3" x="14" y="308" />
+         </drops>
+         <image>psy_m3-1_s14.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m3-1_s14</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s15</video>
+      <credits>(tr)Brand X Pictures/Punchstock, (1)Liquidlibrary/Dynamic Graphics Group/Punchstock, (2)Pascal Goetgheluck/Photo Researchers, Inc., (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s16</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s17</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s18</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A scientist is interested in whether a particular vitamin makes memories more precise. He explains the point of the experiment, divides his sample into two groups, and gives one group the vitamin and the other group a sugar pill. He then tests each group's memory using a vocabulary test.</question>
+            <answers>
+				<answer correct="true">Ethical</answer>
+				<answer>Unethical</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m3-1_s19_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m3-1_s19</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Participants for an experiment were randomly assigned to one of two conditions and the researchers told them that the study involved perceptual abilities. However, the study was really about whether or not participants conformed to others when those who went before them inaccurately judged the length of a line. After the experiment was over, she decided not to debrief her participants because they had conformed and she did not want to hurt their self-esteem.</question>
+            <answers>
+				<answer>Ethical</answer>
+				<answer correct="true">Unethical</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m3-1_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A psychologist wonders whether or not students work equally hard when they are in groups or when they are alone. She had students in one group complete an assignment working together and the students in the other group complete the assignment alone. Then she asked each student how much everyone worked. She found that some of the students who worked together did not do very much, so she made sure that the teacher did not count that assignment.</question>
+            <answers>
+				<answer>Ethical</answer>
+				<answer correct="true">Unethical</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m3-1_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s22</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s23</video>
+      <credits>(tr)Brand X Pictures/Punchstock, (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s24</video>
+      <credits>(tr)Brand X Pictures/Punchstock, (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+   <scene id="25" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/PSY_M03_01_12P.mp4</url>
+      <image>psy_m3-1_s25.jpg</image>
+      <audio>psy_m3-1_s25</audio>
+      <credits>(tr)Brand X Pictures/Punchstock, (c)McGraw-Hill Companies, Inc., (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+   <scene id="26" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Texting impairs driving ability.</match>
+			<match id="2">Stress increases illness.</match>
+			<match id="3">Alcohol consumption decreases inhibition.</match>
+			<match id="4">Repetition enhances learning.</match>
+			<match id="5">Number of commitments impacts test scores.</match>
+			<match id="6">Viewing violent television increases violent behavior.</match>
+         </matches>
+         <drops title="Positive">2,4,6</drops>
+		 <drops title="Negative">1,3,5</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m3-1_s26</audio>
+      <credits>(tr)Brand X Pictures/Punchstock, (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+   <scene id="27" type="9_Activity_Image_Rollclick">
+		<content>
+			<header><![CDATA[Types of Designs: Correlation Design]]></header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m3-1_s27.jpg</image>
+			<hotspots>
+				<hotspot title="ADVANTAGE" audio="psy_m3-1_s27_a" dynamic="true" x="405" y="310">
+					<![CDATA[
+					<h1>Advantage</h1>
+					<p>The scientist can determine the strength and direction of a relationship.</p>
+					]]>
+				</hotspot>
+				<hotspot title="ADVANTAGE" audio="psy_m3-1_s27_b" dynamic="true" x="455" y="149">
+					<![CDATA[
+					<h1>Advantage</h1>
+					<p>Sometimes a scientist can use a correlational design if, for ethical reasons, a true experiment cannot be done.</p>
+					]]>
+				</hotspot>
+				<hotspot title="DISADVANTAGE" audio="psy_m3-1_s27_c" dynamic="true" x="35" y="281">
+					<![CDATA[
+					<h1>Disadvantage</h1>
+					<p>In a correlational design, the scientist cannot determine cause and effect.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m3-1_s27</audio>
+		<credits>(tr)Brand X Pictures/Punchstock, (c)Image Source/Getty Images, (bkgd)Glow Images/Getty Images</credits>
+	</scene>
+
+	<scene id="28" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s28</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s29</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s30</video>
+      <credits>(tr)Brand X Pictures/Punchstock, (c)Everett Collection Inc/Alamy, (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s31</video>
+      <credits>(tr)Brand X Pictures/Punchstock, (c)Pascal Geotgheluck/Photo Researchers, Inc., (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+   <scene id="32" type="11_Activity_Drag_List">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="4">A. What food is best to serve for an after-school meeting?</match>
+				<match id="1">B. What happens to someone's behavior after a split-brain operation?</match>
+				<match id="6">C. How do people behave when given good news?</match>
+				<match id="5">D. How do children respond to play therapy?</match>
+				<match id="2">E. What does a soldier suffering post-traumatic stress disorder write in a diary?</match>
+				<match id="3">F. How do students behave when taking standardized tests like the PSAT?</match>
+			</matches>
+         <drops title="Case Study">1,2</drops>
+         <drops title="Naturalistic Observation">3,4</drops>
+         <drops title="Laboratory Observation">5,6</drops>
+			<image>psy_m3-1_s32.jpg</image>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+		<audio>psy_m3-1_s32</audio>
+		<credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="33" type="2_Txt_Img_Animation">
+      <video>psy_m3-1_s33</video>
+      <credits>(tr)Brand X Pictures/Punchstock, (c)Pascal Geotgheluck/Photo Researchers, Inc., (bkgd)Glow Images/Getty Images</credits>
+   </scene>
+
+	<scene id="34" type="End_Multiple_Choice">
+		<instruction>Click on the correct answer.</instruction>
+		<multiple_choice>
+			<multiple>
+				<question>Are people who were abused as children more likely to abuse their own children?</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer correct="true">Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>At family gatherings, the oldest adult is treated the most respectfully.</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer>Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer correct="true">Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Music affects people's ability to memorize lists.</question>
+				<answers>
+					<answer correct="true">True Experiment</answer>
+					<answer>Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>People who own pets are less likely to suffer from depression.</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer correct="true">Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>A man who was working in the World Trade Center during the 9/11 attacks has developed a sleeping disorder.</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer>Correlational Design</answer>
+					<answer correct="true">Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Gender difference in speed of solving 3-dimensional puzzles</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer>Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer correct="true">Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Does alcohol decrease inhibition?</question>
+				<answers>
+					<answer correct="true">True Experiment</answer>
+					<answer>Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Adults in the United States are aware of their personal space when sitting with strangers in public places.</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer>Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer correct="true">Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Do female children prefer dolls over cars when offered both toys?</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer>Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer correct="true">Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question>Does viewing violent TV increase violent behavior?</question>
+				<answers>
+					<answer>True Experiment</answer>
+					<answer correct="true">Correlational Design</answer>
+					<answer>Case study</answer>
+					<answer>Naturalistic Observation</answer>
+					<answer>Laboratory Observation</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+		</multiple_choice>
+		<audio>psy_m3-1_s34</audio>
+		<credits>(tr)Brand X Pictures/Punchstock, (bkgd)Glow Images/Getty Images</credits>
+	</scene>
+</shell>

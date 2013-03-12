@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Slamming Slang</title>
+		<info></info>
+		<image>images/eng_m2-2_s6.jpg</image>
+		<audio>audio/eng_m2-2_s6.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>142.1</yCord>
+			<width>134</width>
+			<popTitle>Improved: </popTitle>
+			<popInfo><![CDATA[He was not intelligent.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>225.1</yCord>
+			<width>85</width>
+			<popTitle>Improved: </popTitle>
+			<popInfo><![CDATA[She was feeling well enough to work.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>308.1</yCord>
+			<width>92</width>
+			<popTitle>Improved: </popTitle>
+			<popInfo><![CDATA[He was upset that his weekend plans were cancelled.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>391.1</yCord>
+			<width>52</width>
+			<popTitle>Improved: </popTitle>
+			<popInfo><![CDATA[I prefer to exercise in the morning.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

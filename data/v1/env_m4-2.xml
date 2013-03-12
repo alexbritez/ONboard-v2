@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Elements, Compounds, Mixtures, and Chemical Bonding">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m4-2_s1</video>
+      <credits>(cl)Stockbyte/Punchstock, (c)Imagemore Co., Ltd./Corbis, (cr)Barnabas Kindersley/Dorling Kindersley/Getty Images, (bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Stockbyte/Punchstock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s3</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s4</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s5</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m4-2_s6.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="461" y="38"><![CDATA[
+				<h1></h1>
+				<p>One isotope, known as copper-63, accounts for 69.17% of all naturally occurring copper atoms. The second isotope, known as copper-65, accounts for 30.83% of all naturally occurring copper atoms.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m4-2_s6</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s7</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s9</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Methane (CH<sub>4</sub>) has 0 carbon atoms and 4 hydrogen atoms.]]></question>
+            <answers>
+			   <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio>env_m4-2_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-2_s10</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Water (H<sub>2</sub>O) has one hydrogen atom and two oxygen atoms.]]></question>
+            <answers>
+			   <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio>env_m4-2_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) has six carbon atoms, twelve hydrogen atoms, and six oxygen atoms.]]></question>
+            <answers>
+			   <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s13</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="14" type="6_Activity_Interactivity">
+      <content>
+         <header>Covalent Bonds</header>
+         <instruction><![CDATA[Covalent bond – a bond formed when atoms share one or more pairs of electrons<br/><br/>If you have trouble viewing this animation, you may need to download Real Player&reg;.]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/BIO_M05_02_08A.mp4</url>
+      <image>env_m4-2_s14.jpg</image>
+      <audio>env_m4-2_s14</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="15" type="6_Activity_Interactivity">
+      <content>
+         <header>Ionic Bonds</header>
+         <instruction><![CDATA[Ionic bonds – electrons are transferred to form a cation and an anion that attract one another<br/><br/>Cation – an ion that has a positive charge<br/><br/>Anion – an ion that has a negative charge<br/><br/>If you have trouble viewing this animation, you may need to download Real Player&reg;.]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M04_02_12P.mp4</url>
+      <image>env_m4-2_s15.jpg</image>
+      <audio>env_m4-2_s15</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="16" type="6_Activity_Interactivity">
+      <content>
+         <header>Ionic and Covalent Bonds</header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M04_02_12P.mp4</url>
+      <image>env_m4-2_s16.jpg</image>
+      <audio>env_m4-2_s16</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s17</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s18</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Imagemore Co., Ltd./Corbis, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s19</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+   
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s20</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)Stockbyte/Punchstock, (2)Imagemore Co., Ltd./Corbis, (3)Barnabas Kindersley/Dorling Kindersley/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>env_m4-2_s21</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (1)Imagemore Co., Ltd./Corbis, (2)Barnabas Kindersley/Dorling Kindersley/Getty Images, (3)McGraw-Hill Companies, Inc., Stephen Frisch, photographer, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+   
+   <scene id="22" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>An element is a substance that contains only one kind of atom.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The periodic table arranges elements according to their atomic mass.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The atomic number of an element tells how many electrons are in an atom of that element.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Molybdenum is an element that conducts electricity, so it is a nonmetal.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The elements oxygen and hydrogen that make up the compound water are chemically combined.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[A molecule of the compound calcium chloride (CaCl<sub>2</sub>) has two atoms of chlorine.]]></question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Valence electrons are the electrons that usually bond to form an octet.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Atoms in ionic compounds are transferred from one atom to another.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Prefixes are used when naming ionic compounds.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Dinitrogen monoxide is a compound that is made up of one nitrogen atom and one oxygen atom.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m4-2_s22</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

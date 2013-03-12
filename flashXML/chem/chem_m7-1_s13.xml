@@ -1,0 +1,27 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Determine the Pressure of a Gas</p>]]></hText>
+		<qText><![CDATA[What is the gas pressure being measured by the manometer? Give your answer in mm of Hg.]]></qText>
+		<correctText><![CDATA[<font face='c-Bold'>Correct Answer:  </font><br/>734 mm Hg]]></correctText>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-1_s13.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-1_s13.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

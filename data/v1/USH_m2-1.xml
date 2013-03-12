@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing Primary Sources">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m2-1_s1</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Donald Higgs/Photolibrary/Getty Images, (r)Brand X Pictures/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="2" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Primary Sources</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s2.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="13" y="84"><![CDATA[
+				<h1>Written primary sources</h1>
+				<p>documents that consist mostly of text, such as letters, journal entries, newspaper articles, books, song lyrics, and transcripts of speeches and other spoken words</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="578" y="84"><![CDATA[
+				<h1>Visual primary sources</h1>
+				<p>images, such as photographs, posters, paintings, illustrations, advertisements, broadsides, as well as film and video footage, and artifacts, including tools, sculptures, clothing, buildings and monuments</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-1_s2</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Courtesy of the Massachusetts Historical Society., (r)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="1_Module_Intro">
+      <video>USH_m2-1_s3</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-01657], (cl)Archive Photos/Getty Images, (cr)Bettmann/Corbis, (r)Gilbert Stuart/The Bridgeman Art Library/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s4</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Why do visual primary sources matter?</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s5.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s5_A" dynamic="true" x="53" y="42"><![CDATA[
+				<h1></h1>
+				<p>They &quot;show&quot; history.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s5_B" dynamic="true" x="91" y="358"><![CDATA[
+				<h1></h1>
+				<p>They are first-hand observations.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s5_C" dynamic="true" x="217" y="76"><![CDATA[
+				<h1></h1>
+				<p>They offer information that may not be available in written resources.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s5_D" dynamic="true" x="529" y="265"><![CDATA[
+				<h1></h1>
+				<p>They tend to have a more immediate emotional impact than written sources.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-1_s5</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettman/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s6</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s7</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-01657], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s8</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Mel Yates/Stone/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s9</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Visual Primary Sources</header>
+         <instruction></instruction>
+      </content>
+     <activity type="image">
+         <image>USH_m2-1_s10.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s10_A" dynamic="true" x="109" y="15"><![CDATA[
+				<h1></h1>
+				<p>A popular type of media, similar to billboards used today.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s10_B" dynamic="true" x="475" y="109"><![CDATA[
+				<h1></h1>
+				<p>Posters and broadsides were posted on walls and other places where the public would see them.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s10_C" dynamic="true" x="109" y="289"><![CDATA[
+				<h1></h1>
+				<p>Used to share news, advertise and call people to community events, posters often combined images and text.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s10_D" dynamic="true" x="475" y="349"><![CDATA[
+				<h1></h1>
+				<p>They are a valuable tool for studying history.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-1_s10</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s11</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Visual Primary Sources</header>
+         <instruction>What Do I See?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s12.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s12_A" dynamic="true" x="41" y="4"><![CDATA[
+				<h1></h1>
+				<p>This text reads &quot;The Bloody Massacre perpetrated in King Street BOSTON on March 5th by a party of the 29th REGT.&quot;</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s12_B" dynamic="true" x="266" y="106"><![CDATA[
+				<h1></h1>
+				<p>The background shows familiar landmarks at the site of the event.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s12_C" dynamic="true" x="149" y="176"><![CDATA[
+				<h1></h1>
+				<p>This section shows unarmed colonists.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s12_D" dynamic="true" x="338" y="201"><![CDATA[
+				<h1></h1>
+				<p>Here you see the British soldiers firing on the colonists.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s12_E" dynamic="true" x="490" y="272"><![CDATA[
+				<h1></h1>
+				<p>In Revere's version of the massacre, a British officer commands the others to fire.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-1_s12</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-01657], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Visual Primary Sources</header>
+         <instruction>What Do I See?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s13.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s13_A" dynamic="true" x="173" y="189"><![CDATA[
+				<h1></h1>
+				<p>This section shows two injured or dead colonists. It also shows a dog that's lost his master.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s13_B" dynamic="true" x="539" y="209"><![CDATA[
+				<h1></h1>
+				<p>This text reads, &quot;Engrav'd Printed &amp; Sold by Paul Revere BOSTON.&quot;</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s13_C" dynamic="true" x="38" y="306"><![CDATA[
+				<h1></h1>
+				<p>In the text, Revere calls the British murderous barbarians and lists the names of the men who died as a result of the massacre.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-1_s13</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-01657], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Visual Primary Sources</header>
+         <instruction>What is the Historical Context of What I See?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s14.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s14_A" dynamic="true" x="46" y="219"><![CDATA[
+				<h1></h1>
+				<p>Winning the French and Indian War caused the British government to incur debt, which they believed the colonists should help alleviate.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s14_B" dynamic="true" x="272" y="179"><![CDATA[
+				<h1></h1>
+				<p>After the war was over, Parliament increased or levied taxes on goods imported or sold in the American colonies.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s14_C" dynamic="true" x="369" y="231"><![CDATA[
+				<h1></h1>
+				<p>Many American colonists began to actively resist the new acts and taxes.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s14_D" dynamic="true" x="578" y="189"><![CDATA[
+				<h1></h1>
+				<p>On March 5, 1770, a crowd of colonial protesters began harassing British troops who eventually fired into the crowd, killing five and wounding several others.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-1_s14</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Revere's visual account is completely factual and true.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <figure>USH_m2-1_s15_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s15</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-01657], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[Why do you think Revere chose to portray the incident as &quot;The Bloody Massacre&quot;?]]></question>
+            <answers>
+               <answer>Revere hoped to convince the British to repeal the Stamp Act.</answer>
+               <answer correct="true">Revere hoped to use the incident to gain support for the anti-British revolutionary cause.</answer>
+			   <answer>Revere believed that the British would be forced to grant the colonists seats in Parliament.</answer>
+			   <answer>Revere wanted to be elected to the Massachusetts assembly.</answer>
+			   <answer>Revere wanted to deflect responsibility away from the 'liberty boys.'</answer>
+            </answers>
+            <figure>USH_m2-1_s15_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Library of Congress Prints and Photographs Division [LC-DIG-ppmsca-01657], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s17</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s18</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What do you see in the poster?</question>
+            <answers>
+               <answer>a determined woman working in a war office</answer>
+			   <answer>a focused woman taking care of her home</answer>
+			   <answer>an upset woman grieving for a lost loved one</answer>
+               <answer correct="true">a sad woman holding letters</answer>
+			   <answer>a confused woman studying papers</answer>
+            </answers>
+            <figure>USH_m2-1_s19_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s19_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s19</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[What in the image most helps you understand the text &quot;Longing won't bring him back sooner&quot;?]]></question>
+            <answers>
+               <answer>the letters</answer>
+			   <answer>the woman</answer>
+               <answer correct="true">the ring</answer>
+			   <answer>the flag</answer>
+			   <answer>the watch</answer>
+            </answers>
+            <figure>USH_m2-1_s19_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s20</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Why does it matter that this poster was produced by the War Manpower Commission?</question>
+            <answers>
+               <answer>It shows that the government cares about its citizens.</answer>
+               <answer correct="true">It shows that the government has an interest in getting women to work.</answer>
+			   <answer>It shows that the government wants to help the unemployed.</answer>
+			   <answer>It shows that the government supports women's equality.</answer>
+			   <answer>It shows that the government wants more women to vote.</answer>
+            </answers>
+            <figure>USH_m2-1_s19_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s21</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What does this poster assume about women at home during World War II?</question>
+            <answers>
+               <answer>that they are hard at work supporting the war effort</answer>
+               <answer correct="true">that they are sitting at home waiting for their husbands instead of working to support the war effort</answer>
+			   <answer>that they are busy tending their families and taking care of their homes</answer>
+			   <answer>that they are well educated and knowledgeable about events</answer>
+			   <answer>that they oppose war and have not been supportive of the  war effort</answer>
+            </answers>
+            <figure>USH_m2-1_s19_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s22</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)National Archives and Records Administration, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height: 100px" dropStyle="height: 88px">
+         <matches title="">
+            <match id="1">A. During World War II, the U.S. government used propaganda to persuade women to take jobs in war industries. </match>
+			<match id="2">B. Because of World War II, women gained equal rights, equal pay, and had the same work opportunities as men.</match>
+			<match id="3">C. World War II resulted in more women working in industrial jobs that they would not have had access to before the war.</match>
+			<match id="4">D. World War II resulted in the breakup of many families when men went off to war.</match>
+         </matches>
+         <drops title="Logical Inference">1,3</drops>
+		 <drops title="Faulty Conclusion">2,4</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>USH_m2-1_s23</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s24</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s25</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Visual Primary Sources</header>
+         <instruction>What Do I See?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s26.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s26_A" title="What do I see?" dynamic="true" x="369" y="31"><![CDATA[
+				<h1></h1>
+				<p>The illustration shows the Carnegie Steel Plant in Homestead, Pennsylvania.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s26_B" title="What do I see?" dynamic="true" x="150" y="138"><![CDATA[
+				<h1></h1>
+				<p>A long line of people, many of whom are armed, trails down from the smoking plant.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s26_C" title="What do I see?" dynamic="true" x="348" y="169"><![CDATA[
+				<h1></h1>
+				<p>Some people have been injured. There seems to have been some sort of battle or fight.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-1_s26</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Visual Primary Sources</header>
+         <instruction>What is the Historical Context of What I See?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s27.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s27_A" title="1" numbered="true" dynamic="true" x="164" y="15"><![CDATA[
+				<h1></h1>
+				<p><em>Harper's Weekly</em> was a popular magazine. It was focused on exposing corrupt business practices, monopolies, and abuses of government power.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s27_B" title="2" numbered="true" dynamic="true" x="391" y="100"><![CDATA[
+				<h1></h1>
+				<p>Andrew Carnegie of Carnegie Steel owned the plant at Homestead, Pennsylvania. The plant employed more than 3,000 union workers.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s27_C" title="3" numbered="true" dynamic="true" x="153" y="175"><![CDATA[
+				<h1></h1>
+				<p>In the late 1800s, many labor unions were striking and organizing boycotts to demand better wages and working conditions.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s27_D" title="4" numbered="true" dynamic="true" x="255" y="298"><![CDATA[
+				<h1></h1>
+				<p>In 1892, Carnegie ordered Henry Frick, the manager of the Homestead plant, to cut workers' wages. This set off a conflict with the plant's union workers.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-1_s27</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Visual Primary Sources</header>
+         <instruction>What is the Historical Context of What I See?</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s28.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s28_A" title="1" numbered="true" dynamic="true" x="172" y="51"><![CDATA[
+				<h1></h1>
+				<p>Frick called in the Pinkertons, a private army employed by Pinkerton's Detective Agency and hired by business owners to break strikes and other union activities.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s28_B" title="2" numbered="true" dynamic="true" x="388" y="97"><![CDATA[
+				<h1></h1>
+				<p>When the Pinkertons disembarked, fighting broke out.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s28_C" title="3" numbered="true" dynamic="true" x="346" y="287"><![CDATA[
+				<h1></h1>
+				<p>After 14 hours, the Pinkertons surrendered and abandoned the barges.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s28_D" title="4" numbered="true" dynamic="true" x="155" y="176"><![CDATA[
+				<h1></h1>
+				<p>This illustration shows the Pinkertons being removed from the scene after their surrender. It does not show the Pennsylvania National Guard protecting the Pinkerton strikebreakers and ending the strike.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-1_s28</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The illustration shows that the struggle between labor unions and factory owners was not serious.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <figure>USH_m2-1_s29_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s29_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s29</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question><![CDATA[What does the choice of illustrating this event during the strike tell you about <em>Harper's Weekly</em>?]]></question>
+            <answers>
+               <answer correct="true">The magazine probably supported the efforts of the union.</answer>
+               <answer>The magazine probably supported the efforts of Carnegie and Frick.</answer>
+            </answers>
+            <figure>USH_m2-1_s29_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s30_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Based on the illustration, what conclusion can you draw about the United States at the end of the 19th century?</question>
+            <answers>
+               <answer>Labor unions had made notable gains against power hungry owners.</answer>
+			   <answer>Monopolies and trusts held all the economic power in the country.</answer>
+			   <answer>Workers were too weak and disorganized to form unions.</answer>
+               <answer correct="true">Labor and business were locked in an ongoing struggle over wages and workers' rights.</answer>
+			   <answer>Owners and workers had to compromise in order to keep factories going.</answer>
+            </answers>
+            <figure>USH_m2-1_s29_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s31_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="2_Txt_Img_Animation">
+      <video>USH_m2-1_s32</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Analyzing Political Cartoons</header>
+         <instruction><![CDATA[
+		 	Title: I Have Here In My Hand --<br/>
+			Cartoonist: Herblock (Herb Block)<br/>
+			Published in: The Washington Post<br/>
+			Date: 1954
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m2-1_s33.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_m2-1_s33_A" title="Caricature" dynamic="true" x="175" y="75"><![CDATA[
+				<h1>Caricature</h1>
+				<p>Caricature exaggerates features of a person or thing. The exaggerated features say something about the subject's appearance, character, beliefs, actions, or significance.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s33_B" title="Symbolism" dynamic="true" x="100" y="125"><![CDATA[
+				<h1>Symbolism</h1>
+				<p>A symbol is an object that stands for something else. In political cartoons, a symbol is a recognizable object that represents something abstract or invisible, such as a dove representing world peace.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s33_C" title="Irony" dynamic="true" x="391" y="0"><![CDATA[
+				<h1>Irony</h1>
+				<p>Irony is the use of words or actions that contradict what is really going on.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s33_D" title="Metaphor" dynamic="true" x="100" y="320"><![CDATA[
+				<h1>Metaphor</h1>
+				<p>A metaphor relates two completely different objects to each other.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m2-1_s33_E" title="Stereotype" dynamic="true" x="255" y="250"><![CDATA[
+				<h1>Stereotype</h1>
+				<p>Stereotypes take a real or an imagined trait of one individual and make it true for the whole group to which the individual belongs. They are usually dangerous because they often lead to prejudice and can dehumanize individuals.</p>
+			]]></hotspot>
+		</hotspots>
+      </activity>
+      <audio>USH_m2-1_s33</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="34" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Click to Explore</header>
+         <instruction>Click on the 'hot spots' to view additional information.</instruction>
+      </content>
+      <activity type="text">
+        	 <text>
+        	<![CDATA[
+				<span style="font-size: 32px">Political cartoonists:</span>
+				<ul style="font-size: 32px">
+					<li>expose <a href="#" data-id="0" class="hotspot"><strong>hypocrisy.</strong></a></li>
+					<li>point out <a href="#" data-id="1" class="hotspot"><strong>pretentiousness.</strong></a></li>
+					<li>laugh at <a href="#" data-id="2" class="hotspot"><strong>arrogance.</strong></a></li>
+					<li>deflate the powerful.</li>
+					<li>give voice to the <a href="#" data-id="3" class="hotspot"><strong>underdog.</strong></a></li>
+				</ul>
+        	]]>
+     	 </text>
+         <hotspots>
+            <hotspot>
+			  <![CDATA[
+				<h1>hypocrisy</h1>
+				<p>Criticizing an action or belief while at the same time doing that action or holding that belief</p>
+			  ]]>
+			</hotspot>
+			<hotspot>
+			  <![CDATA[
+				<h1>pretentiousness</h1>
+				<p>Exaggerating one's own importance, worth, and skills through words or actions</p>
+			  ]]>
+			</hotspot>
+			<hotspot>
+			  <![CDATA[
+				<h1>arrogance</h1>
+				<p>Believing yourself superior to others</p>
+			  ]]>
+			</hotspot>
+			<hotspot>
+			  <![CDATA[
+				<h1>underdog</h1>
+				<p>Someone who is bullied or treated unjustly</p>
+			  ]]>
+			</hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m2-1_s34</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="35" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What do you see in this cartoon?</question>
+            <answers>
+               <answer>a responsible Congressman</answer>
+			   <answer>a crook</answer>
+			   <answer>a fraudulent businessman</answer>
+               <answer correct="true">a dishonest fear-monger</answer>
+			   <answer>a failed presidential candidate</answer>
+            </answers>
+            <figure>USH_m2-1_s35_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s35_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s35</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="36" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Based on this cartoon, which of the following statements is a valid conclusion?</question>
+            <answers>
+               <answer>McCarthy was respected by almost everyone.</answer>
+               <answer correct="true">Many believed that McCarthy was using the "Red Scare" to gain power and publicity for himself.</answer>
+			   <answer>There were no communists working in the United States government.</answer>
+			   <answer>McCarthy doctored photographs to prove the existence of the Communist Party.</answer>
+			   <answer>Herblock was a radical Republican.</answer>
+            </answers>
+            <figure>USH_m2-1_s35_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s36_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s36</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="37" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The "Red Scare" of the 1950s is comparable to which event?</question>
+            <answers>
+               <answer>The Vietnam War protests</answer>
+			   <answer>The bombing of Japan during World War II</answer>
+			   <answer>The election of John F. Kennedy as President</answer>
+			   <answer>The Cold War</answer>
+               <answer correct="true">The Salem witch trials</answer>
+            </answers>
+            <figure>USH_m2-1_s35_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s37_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s37</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="38" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="" children-styles="font-size: 12px">
+            <match id="1">A. The police car is actively chasing down and stopping the bus.</match>
+			<match id="2">B. Using a phrase typically used by police officers, the cartoonist is showing the power of the Supreme Court.</match>
+			<match id="3">C. This symbolizes segregation.</match>
+			<match id="4">D. This is a metaphor for the Supreme Court.</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="494" y="101" />
+			<drop correct="2" x="86" y="9" />
+			<drop correct="3" x="23" y="88" />
+			<drop correct="4" x="487" y="243" />
+         </drops>
+         <image>USH_m2-1_s38.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m2-1_s38</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="39" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What conclusion can you draw from this cartoon?</question>
+            <answers>
+               <answer correct="true">The federal government was taking an active role in ending segregation.</answer>
+			   <answer>The Supreme Court is like a police force.</answer>
+			   <answer>Segregation continued to be enforced through state laws.</answer>
+			   <answer>Drivers of segregated buses were given tickets by police officers.</answer>
+			   <answer>The cartoonist believes that Congress should pass laws supporting segregation.</answer>
+            </answers>
+            <figure>USH_m2-1_s39_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s39_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s39</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="40" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is the cartoonist's point of view?</question>
+            <answers>
+               <answer>The Supreme Court is overstepping the limits of its authority.</answer>
+			   <answer>The Supreme Court is acting like an overaggressive police officer.</answer>
+               <answer correct="true">The Supreme Court is enforcing the Constitution.</answer>
+			   <answer>Segregation is necessary for peaceful coexistence.</answer>
+			   <answer>Segregation only exists on public transportation.</answer>
+            </answers>
+            <figure>USH_m2-1_s39_view.jpg</figure>
+            <feedbackAudio>USH_m2-1_s40_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)The Herb Block Foundation, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="41" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Visual primary sources reflect the point of view of their creators.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Visual primary sources often have greater emotional impact than written primary sources.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Visual propaganda is media that communicates impartial facts about events.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What device does the artist use to grab the viewer's attention?</question>
+            <answers>
+               <answer>Showing the dead and dying.</answer>
+               <answer correct="true">Showing fire blazing through city buildings.</answer>
+            </answers>
+            <figure>USH_m2-1_s41_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What conclusion can you draw from this image about the Chicago fire?</question>
+            <answers>
+               <answer>The fire, while dramatic, was inconsequential.</answer>
+               <answer correct="true">The fire destroyed much of the city, but the survivors will rebuild.</answer>
+			   <answer>The fire devastated the cities and killed almost all if its inhabitants.</answer>
+			   <answer>The fire was only of interest to people in Chicago and surrounding cities.</answer>
+			   <answer>This image was used as propaganda to convince people that cities were dangerous.</answer>
+            </answers>
+            <figure>USH_m2-1_s41_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What does the "shadow" on this poster represent?</question>
+            <answers>
+               <answer>poverty</answer>
+			   <answer>the Japanese</answer>
+			   <answer>freedom</answer>
+               <answer correct="true">the Nazi regime</answer>
+			   <answer>Franklin Roosevelt's policies</answer>
+            </answers>
+            <figure>USH_m2-1_s41_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What inference can you make from this poster about the United States government during World War II?</question>
+            <answers>
+               <answer>The government feared Nazi sympathizers in the United States.</answer>
+			   <answer>The government needed children to believe in the allied cause.</answer>
+			   <answer>The government wanted to spread the word that children symbolized freedom.</answer>
+               <answer correct="true">The government needed money to pay for war costs.</answer>
+			   <answer>The government wanted children to do their part to support the war effort.</answer>
+            </answers>
+            <figure>USH_m2-1_s41_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Based on the details on this poster, what supply need is represented?</question>
+            <answers>
+               <answer>scrap metal</answer>
+			   <answer>food</answer>
+               <answer correct="true">gasoline</answer>
+			   <answer>labor</answer>
+			   <answer>automobiles</answer>
+            </answers>
+            <figure>USH_m2-1_s41_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What is the overall message of this poster?</question>
+            <answers>
+               <answer correct="true">Americans on the home front should do their part to conserve resources.</answer>
+			   <answer>Those who drive alone in cars are Nazi sympathizers.</answer>
+			   <answer>Able-bodied men should quit their jobs and join the army.</answer>
+			   <answer>Driving is un-American.</answer>
+			   <answer>People on the home front should share the sacrifice of those at war by walking instead of driving.</answer>
+            </answers>
+            <figure>USH_m2-1_s41_viewC.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Based on the World War II posters you've analyzed in this section, what conclusion can you draw?</question>
+            <answers>
+               <answer>The U.S. government did not respect women and children.</answer>
+			   <answer>The U.S. government had an overriding fear of a Japanese invasion.</answer>
+			   <answer>The U.S. government was going bankrupt by financing the war.</answer>
+			   <answer>The U.S. government felt that people on the home front were not helping the war effort.</answer>
+               <answer correct="true">The U.S. government played on emotion and patriotism to persuade Americans to actively support the war.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m2-1_s41</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+</shell>

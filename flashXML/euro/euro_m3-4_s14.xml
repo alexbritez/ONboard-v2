@@ -1,0 +1,111 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>What is the meaning and significance of the painting?</title>
+		<info></info>
+		<image>images/euro_m3-4_s14.jpg</image>
+		<audio>audio/euro_m3-4_s14.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>472.75</xCord>
+			<yCord>113.35</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The left side of the painting takes place on Shrove Tuesday, the last day before Lent and represents the activities of Carnival. “Shrove” comes from the phrase “to shrive” or to hear confessions. In Mardi Gras celebrations, this day is known as “fat Tuesday.”</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>899.2</xCord>
+			<yCord>113.35</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>The activity on the right side of the painting takes place on Ash Wednesday and represents the activities of Lent.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>645.55</xCord>
+			<yCord>130.35</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>A line of lepers led by a bagpiper parade past an inn begging for bread.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>960.15</xCord>
+			<yCord>187.35</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Soberly dressed people file into church to get blessed.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>E</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>496.7</xCord>
+			<yCord>318.35</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>A bawdy popular play is performed in an impromptu tent as the people drinking in an inn lean out the windows to watch.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>F</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>627.55</xCord>
+			<yCord>279.35</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Crippled beggars congregate but are mostly ignored.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>G</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>759.4</xCord>
+			<yCord>247.35</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Women prepare fish for Lent near the town well. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>H</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>959.15</xCord>
+			<yCord>344.35</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Nuns and townsfolk give alms, or charity in the form of money or goods given to the needy, and help to the poor and crippled.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>I</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>512.7</xCord>
+			<yCord>425.7</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[<p>Costumed merrymakers play music and others gamble at cards and dice.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

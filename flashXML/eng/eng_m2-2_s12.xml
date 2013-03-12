@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Curing Clichés</title>
+		<info></info>
+		<image>images/eng_m2-2_s12.jpg</image>
+		<audio>audio/eng_m2-2_s12.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>142.1</yCord>
+			<width>134</width>
+			<popTitle>Improved:</popTitle>
+			<popInfo><![CDATA[You already know this, but I really admire your courage.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>225.1</yCord>
+			<width>85</width>
+			<popTitle>Improved:</popTitle>
+			<popInfo><![CDATA[Entertainment magazines are overjoyed to be featuring stories about the behavior of the young Hollywood starlet.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>308.1</yCord>
+			<width>92</width>
+			<popTitle>Improved:</popTitle>
+			<popInfo><![CDATA[The doctor said he hoped my dad would make a full recovery, but Dad was not out of danger yet. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>417.1</xCord>
+			<yCord>391.1</yCord>
+			<width>52</width>
+			<popTitle>Improved:</popTitle>
+			<popInfo><![CDATA[Greg loves his wife of twenty-four years very much.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

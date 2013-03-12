@@ -1,0 +1,51 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-1_s35.jpg</image>
+		<audio>audio/euro_m3-1_s35.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+		<feedback>audio/euro_m3-1_s35_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText>Sympathized with the poor</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText>Believed that factory work was dull and monotonous</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Believed factory owners were generally very kind.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Believed industrialization was entirely beneficial to England.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText>Believed education was important for the working class.</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText>Believed workers took advantage of factory owners</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="577.85" yCord="168.55" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.85" yCord="235.75" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.85" yCord="302.95" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.85" yCord="370.15" spotScale="80" spotNum="1"/>
+		<dSpot xCord="577.85" yCord="437.35" spotScale="80" spotNum="1"/>
+		
+		<dSpot xCord="865.05" yCord="168.55" spotScale="80" spotNum="2"/>
+		<dSpot xCord="865.05" yCord="235.75" spotScale="80" spotNum="2"/>
+		<dSpot xCord="865.05" yCord="302.95" spotScale="80" spotNum="2"/>
+		<dSpot xCord="865.05" yCord="370.15" spotScale="80" spotNum="2"/>
+		<dSpot xCord="865.05" yCord="437.35" spotScale="80" spotNum="2"/>
+
+		
+	</dropSpots>
+</DragDrop>

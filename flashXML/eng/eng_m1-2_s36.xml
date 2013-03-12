@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Write a sentence that uses a simile.]]></hText>
+		<qText></qText>
+		<correctText><![CDATA[<font size='12'><font face='c-Bold'>ANSWER</font><br />A sentence is correct if a comparison is made between two unalike things using the word “like” or “as.”<br /><br /><font face='c-Bold'>SAMPLES OF SIMILE</font><br />He drove to school like he was in time trials at the Indy 500.<br /><br />Maria has a voice like an angel’s.<br /><br />A Sleepwell mattress is as soft as a cloud.</font>]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m1-2_s34.jpg" />
+		<audio>audio/eng_m1-2_s36.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>

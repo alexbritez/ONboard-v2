@@ -1,0 +1,27 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Historical Question and Thesis Statement]]></hText>
+		<qText><![CDATA[Historical Question: What did Adam Smith believe were the results of <font face='c-Italic' >laissez-faire</font> policy?]]></qText>
+		<correctText><![CDATA[Thesis Statement: Adam Smith believed that the results of adopting <font face='c-Italic' >laissez-faire</font> policy would mean economic prosperity for everyone and a sense of natural liberty would be restored. ]]></correctText>
+		<haveSource enable="false" word="View" image="images/sourcefpo.jpg" />
+		<audio>audio/euro_m2-3_s29.mp3</audio>
+		<feedback>audio/euro_m2-3_s29_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

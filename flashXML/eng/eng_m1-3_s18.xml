@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Ethos in Kennedy’s Inaugural Address</title>
+		<info><![CDATA[]]></info>
+		<image>images/eng_m1-3_s18.jpg</image>
+		<audio>audio/eng_m1-3_s18.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>656</xCord>
+			<yCord>161</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Ethos</popTitle>
+			<popInfo><![CDATA[<p>Kennedy swears to God, suggesting his ethical fortitude.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>738</xCord>
+			<yCord>189</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Ethos </popTitle>
+			<popInfo><![CDATA[<p>Kennedy refers back to the legacy of men who have gone before him who have also been sworn into office.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>714</xCord>
+			<yCord>351</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Ethos </popTitle>
+			<popInfo><![CDATA[<p>Kennedy references beliefs in the rights of man and the sovereignty of God rather than the state.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

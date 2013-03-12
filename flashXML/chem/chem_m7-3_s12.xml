@@ -1,0 +1,27 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText></hText>
+		<qText><![CDATA[<p>An empty balloon of negligible volume is filled with <br/>4.00 g of dry ice, which is solid carbon dioxide. What will be the volume of the balloon at 25 °C and <br/>1.00 atm of pressure after all the dry ice sublimes to gas?</p>]]></qText>
+		<correctText><![CDATA[<font face='c-Bold'>The correct answer is: </font> <br/><font face='c-Italic'>V</font> = 2.22 L]]></correctText>
+		<haveSource enable="false" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-3_s12.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-3_s12.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-3_s12_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

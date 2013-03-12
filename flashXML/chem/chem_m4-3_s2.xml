@@ -1,0 +1,34 @@
+<PopUp>
+	<slideInfo>
+		<title>Types of Chemical Bonds</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m4-3_s2.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s2.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Covalent bond</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s2_a.mp3"/>
+			<xCord>534.65</xCord>
+			<yCord>271.35</yCord>
+			<width>134</width>
+			<popTitle>Covalent bond</popTitle>
+			<popInfo><![CDATA[This type of bond forms when two atoms share electrons.]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Ionic bond</Name>
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-3_s2_b.mp3"/>
+			<xCord>856.2</xCord>
+			<yCord>271.35</yCord>
+			<width>85</width>
+			<popTitle>Ionic bond</popTitle>
+			<popInfo><![CDATA[This type of bond forms when electrons are transferred between two atoms.]]></popInfo>
+		</pButton>
+		
+	</popButtons>
+	
+</PopUp>

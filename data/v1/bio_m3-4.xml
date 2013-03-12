@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Slope">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m3-4_s1</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m3-4_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m3-4_s3</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Slope: Rise and Run</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m3-4_s4.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="367" y="100"><![CDATA[
+				<h1></h1>
+				<p>This point on the graph has the coordinates of<br/>X = 6 and Y = 8.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="181" y="242"><![CDATA[
+				<h1></h1>
+				<p>This point on the graph has the coordinates of<br/>X = 2 and Y = 3.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m3-4_s4</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m3-4_s5</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m3-4_s6</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">1</match>
+			<match id="2">-1</match>
+			<match id="3">1.25</match>
+			<match id="4">-1.25</match>
+			<match id="5">2.25</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2" x="316" y="351" />
+         </drops>
+         <image>bio_m3-4_s7.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m3-4_s7</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Finding Slope</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>bio_m3-4_s8.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="71" y="95"><![CDATA[
+				<h1></h1>
+				<p>X = 0; Y = 5</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="423" y="95"><![CDATA[
+				<h1></h1>
+				<p>X = 5; Y = 5</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="142" y="332"><![CDATA[
+				<h1></h1>
+				<p>Slope = 0</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>bio_m3-4_s8</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[What does the <em>m</em> stand for in the following equation: <br/>Y = mX + b?]]></question>
+            <answers>
+               <answer>Line length</answer>
+               <answer correct="true">Slope</answer>
+			   <answer>Rise</answer>
+			   <answer>Run</answer>
+			   <answer>Angle</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which statement describes slope?</question>
+            <answers>
+               <answer correct="true">Rise divided by run</answer>
+			   <answer>Run divided by rise</answer>
+			   <answer>Rise plus run divided by angle</answer>
+			   <answer>Difference between rise and run</answer>
+			   <answer>Difference between angle and run</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The horizontal change between two points on a line is</question>
+            <answers>
+               <answer>rise.</answer>
+               <answer correct="true">run.</answer>
+			   <answer>slope.</answer>
+			   <answer>the sum of the rise and the run.</answer>
+			   <answer>the difference between rise and run.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A single point on a line can be described by</question>
+            <answers>
+               <answer>its rise.</answer>
+			   <answer>its run.</answer>
+			   <answer>its X coordinates.</answer>
+			   <answer>its Y coordinates.</answer>
+               <answer correct="true">its X and Y coordinates.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[
+				<p>What is the slope of a line that connects these two points on a graph?</p>
+				<p>Point 1: X = 2; Y = 5<br/>
+				Point 2: X = 7; Y = 8</p>
+			]]></question>
+            <answers>
+               <answer>1.0</answer>
+			   <answer>0.8</answer>
+               <answer correct="true">0.6</answer>
+			   <answer>0.4</answer>
+			   <answer>0.2</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m3-4_s9</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

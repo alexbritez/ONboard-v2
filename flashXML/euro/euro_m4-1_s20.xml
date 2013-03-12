@@ -1,0 +1,54 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m4-1_s20.jpg</image>
+		<audio>audio/euro_m4-1_s20.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+	</slideInfo>
+	<dragItems>
+	
+		<dItem>
+			<boxText>About two-thirds of Europeans died of the Bubonic plague.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+		<dItem>
+			<boxText>Western European peasants saw their social and economic standing improve. </boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		
+		<dItem>
+			<boxText>Jews were persecuted as some thought them responsible for the plague.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+
+		<dItem>
+			<boxText>Some people began beating themselves in hopes of gaining God’s mercy.</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+
+		<dItem>
+			<boxText>A labor shortage led to improvements for urban workers.</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+
+		<dItem>
+			<boxText>People’s revolts set off social conflicts that resurfaced over several centuries.</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>			
+	
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="570" yCord="197" spotScale="80" spotNum="1"/>
+		<dSpot xCord="570" yCord="273.65" spotScale="80" spotNum="1"/>
+		<dSpot xCord="570" yCord="350.3" spotScale="80" spotNum="1"/>
+		<dSpot xCord="570" yCord="426.95" spotScale="80" spotNum="1"/>
+		
+		<dSpot xCord="873" yCord="197" spotScale="80" spotNum="2"/>
+		<dSpot xCord="873" yCord="273.65" spotScale="80" spotNum="2"/>
+		<dSpot xCord="873" yCord="350.3" spotScale="80" spotNum="2"/>
+		<dSpot xCord="873" yCord="426.95" spotScale="80" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>

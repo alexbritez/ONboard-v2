@@ -1,0 +1,31 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>The Mole Concept</title>
+		<info><![CDATA[ <br /> ]]></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-1_s12.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-1_s12.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>The Mole Concept</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-1_s12_1.mp3"/>
+			<xCord>450</xCord>
+			<yCord>185.35</yCord>
+			<width>134</width>
+			<popTitle><![CDATA[The correct answer is: ]]></popTitle>
+			<fraction>true</fraction>
+			<popInfo><![CDATA[<p><font size='12'>7.57×10<font face='SuperScript'>24</font> atoms of O<br /><br/>If you didn’t get the correct answer, here’s the set up:<br/><br/>                                      6.02 × 10<font face='SuperScript'>23</font> formula units H<font face='SubScript'>3</font>PO<font face='SubScript'>3</font><br/>4.19 mol H<font face='SubScript'>3</font>PO<font face='SubScript'>3</font> × <font face='SuperScript'>_____________________________________________</font><br/>                                                   1 mol H<font face='SubScript'>3</font>PO<font face='SubScript'>3</font><br/><br/>= 2.52 × 10<font face='SuperScript'>24</font> formula units H<font face='SubScript'>3</font>PO<font face='SubScript'>3</font><br/><br/>                                                                         3 atoms O<br/>2.52×10<font face='SuperScript'>24</font> formula units H<font face='SubScript'>3</font>PO<font face='SubScript'>3</font> × <font face='SuperScript'>__________________________</font><br/>                                                                1 formula unit H<font face='SubScript'>3</font>PO<font face='SubScript' >3</font><br/><br/>= 7.57 × 10<font face='SuperScript'>24</font> formula units H<font face='SubScript'>3</font>PO<font face='SubScript'>3</font></p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>...</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-1_s12_2.mp3"/>
+			<xCord>-1000</xCord>
+			<yCord>-1000</yCord>
+			<width>85</width>
+			<popTitle>...</popTitle>
+			<popInfo><![CDATA[...]]></popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>

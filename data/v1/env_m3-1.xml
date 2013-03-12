@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Evolution">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m3-1_s1</video>
+      <credits>(bkgd)Image Source/Getty Image, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s2</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s3</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s4</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s5</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Why was the addition of oxygen to Earth's atmosphere an important step in the evolution of life on Earth?</question>
+            <answers>
+               <answer>It enabled the first flowering plants to evolve.</answer>
+			   <answer>It caused the extinction of the dinosaurs.</answer>
+               <answer correct="true">It provided the critical element for respiration and created the ozone layer that protects Earth from dangerous UV radiation.</answer>
+			   <answer>It enabled animals to colonize land.</answer>
+			   <answer>It caused the extinction of all life on Earth.</answer>
+            </answers>
+            <feedbackAudio>env_m3-1_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-1_s6</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s7</video>
+      <credits>(bkgd)Image Source/Getty Image, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s8</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (others)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s9</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (others)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s10</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Jake Wyman/Photographer's Choice/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s11</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Jake Wyman/Photographer's Choice/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s12</video>
+      <credits>(bkgd)Image Source/Getty Image, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Overproduction</match>
+			<match id="2">Variation</match>
+			<match id="3">Competition</match>
+			<match id="4">Selection</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4">Those elephants that are better adapted to their environment are more likely to have offspring.</drop>
+			<drop correct="2">Not all elephants have the same ability to obtain the resources that they need to survive.</drop>
+			<drop correct="3">Elephants have predators that may threaten their survival.</drop>
+			<drop correct="1">A single pair of breeding elephants would produce about 19 million elephants in just 750 years.</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-1_s13</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s14</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Speciation</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-1_s15.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="6" y="38"><![CDATA[
+				<h1>Woodpecker finch</h1>
+				<p>The beak of the woodpecker finch allows the finch to pick up twigs or cactus spines, which it uses as a tool to gather grubs.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="218" y="44"><![CDATA[
+				<h1>Large ground finch</h1>
+				<p>This large ground finch has a crushing beak that it uses to crush seeds. The finch also eats ticks that it removes from tortoises and iguanas.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="414" y="143"><![CDATA[
+				<h1>Cactus finch</h1>
+				<p>This cactus finch has a large, probing beak that allows the finch to eat small insects from the flower. It also eats the fruit of the cactus.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="82" y="320"><![CDATA[
+				<h1>Warbler finch</h1>
+				<p>The warbler finch has a smaller beak than any of the other Gal&aacute;pagos finches. It uses the beak to probe for small insects.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="285" y="221"><![CDATA[
+				<h1>Vegetarian finch</h1>
+				<p>The beak of the vegetarian finch is short and thick—good for crushing fruits and seeds. It will also sometimes eat an occasional insect.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-1_s15</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s16</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-1_s17.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="363" y="26"><![CDATA[
+				<h1></h1>
+				<p>Mules are not fertile and cannot produce offspring.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-1_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (b)Steve Taylor/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-1_s18.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="544" y="169"><![CDATA[
+				<h1></h1>
+				<p>Most tigers live in Asia, while most lions live in Africa. As a result, the two do not meet in nature.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-1_s18</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)Christian Charisius/Reuters/Corbis, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+
+   <scene id="19" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" format="number" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:94px;margin-bottom: 15px;" matchContainerStyle="margin-right: 1em" dropStyle="height:83px">
+         <matches title="">
+            <match id="1">1. Two birds produce offspring that can also mate and produce offspring.</match>
+			<match id="2">2. The pollen of one plant fertilizes the egg of another plant. None of the offspring plants produce seeds.</match>
+			<match id="3">3. Two frogs mate and produce offspring. The offspring also produce their own offspring.</match>
+         </matches>
+         <drops title="Same Species">1,3</drops>
+		 <drops title="Different">2</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>env_m3-1_s19</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s20</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s21</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s22</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The three species that developed on each of the islands came from the same ancestral species.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+			<figure>env_m3-1_s23_view.jpg</figure>
+            <feedbackAudio>env_m3-1_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-1_s23</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Different species developed on each island because the conditions on the islands differed.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+			<figure>env_m3-1_s23_view.jpg</figure>
+            <feedbackAudio>env_m3-1_s24_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s25</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s26</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>env_m3-1_s27</video>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Evolution is the process by which living things change over time.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The variation among individuals of a species can result from differences in the genetic material each individual inherited from its parents.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A species is a group of organisms that cannot mate.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>In adaptive radiation, a few species develop from many species.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>In punctuated equilibrium, a species remains unchanged for long periods and then changes rapidly.</question>
+            <answers>
+				<answer correct="true">TRUE</answer>
+				<answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Geographic isolation prevents the formation of new species.</question>
+            <answers>
+				<answer>TRUE</answer>
+				<answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is not one of the important tenets of the theory of evolution?</question>
+            <answers>
+				<answer>A population will possess genetic variation.</answer>
+				<answer correct="true">Adults will pass learned skills onto their offspring.</answer>
+				<answer>Organisms well adapted to their environment will survive and produce offspring.</answer>
+				<answer>Populations produce more individuals than can survive.</answer>
+				<answer>Competition exists among members of a species for limited resources.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Only one sea turtle from a group of 100 eggs survives into adulthood. This is an example of</question>
+            <answers>
+				<answer>speciation.</answer>
+				<answer correct="true">overproduction.</answer>
+				<answer>variation.</answer>
+				<answer>competition.</answer>
+				<answer>selection.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A species usually becomes extinct because</question>
+            <answers>
+				<answer>too many individuals are produced.</answer>
+				<answer>geographic isolation.</answer>
+				<answer correct="true">the environment changes suddenly and drastically.</answer>
+				<answer>the species has too many variations in traits.</answer>
+				<answer>organisms pass their adaptations to their offspring.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An organism that is eaten by a predator is an example of</question>
+            <answers>
+				<answer>speciation.</answer>
+				<answer>overproduction.</answer>
+				<answer>variation.</answer>
+				<answer correct="true">competition.</answer>
+				<answer>selection.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-1_s28</audio>
+      <credits>(tr) Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd) Image Source/Getty Images.</credits>
+   </scene>
+</shell>

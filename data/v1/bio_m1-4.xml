@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Big Idea 3: Information Storage, Transmission, and Response">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m1-4_s1</video>
+      <credits>(c)Brand X Pictures/PunchStock, (bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A lion that eats a gazelle for energy will use some of this energy and molecular building blocks to reproduce a</question>
+            <answers>
+               <answer>cheetah.</answer>
+			   <answer>leopard.</answer>
+               <answer correct="true">lion.</answer>
+			   <answer>tiger.</answer>
+            </answers>
+            <feedbackAudio>bio_m1-4_s2_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m1-4_s2</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Brand X Pictures/PunchStock, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s4</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Westend61 GmbH/Alamy, (2)Digital Stock/Corbis, (3)Manoj Shah/The Image Bank/Getty Images, (4)Photodisc/Getty Images, (5)Brand X Pictures/PunchStock, (6)Westend61 GmbH/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Big Idea 1</match>
+			<match id="2">Big Idea 2</match>
+			<match id="1">Big Idea 3</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 5em;">
+            <drop correct="1">Living systems store, retrieve, transmit, and respond to information essential to life processes.</drop>
+			<drop correct="2">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</drop>
+			<drop correct="3">The process of evolution drives the diversity and unity of life.</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m1-4_s5</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Westend61 GmbH/Alamy, (2)Michael Ventura/Alamy, (3)Comstock/Punchstock, (4)Ingram Publishing, (5)Skip Nall/Photodisc/Getty Images, (bkgd)Image Source/Getty Images</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s7</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Ingram Publishing, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s8</video>
+      <credits>(tr)Fotosearch/Getty Images, (cl)i love images/Cultura/Getty Images, (cr)Adrian Samson/Stone/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Harmful</match>
+			<match id="2">Neutral</match>
+			<match id="1">Helpful</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 5em;">
+            <drop correct="1">flower producing larger petals that attract more pollinators</drop>
+			<drop correct="2">human whose arm produces freckles when exposed to sunlight</drop>
+			<drop correct="3">cell that loses control of cell division resulting in cancer</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m1-4_s9</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s10</video>
+      <credits>(tr)Fotosearch/Getty Images, (1)Jack Weinberg/Image Source/PunchStock, (2)Don Farrall/Photodisc/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s11</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>bio_m1-4_s12</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Reproduction requires</question>
+            <answers>
+               <answer>energy.</answer>
+			   <answer>molecular building blocks.</answer>
+			   <answer>information or blue-prints.</answer>
+			   <answer>assembly molecules.</answer>
+               <answer correct="true">All of the above.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An African violet (species of plant) flowers and sets seed. These seeds should germinate and grow into</question>
+            <answers>
+               <answer correct="true">African violets.</answer>
+			   <answer>American violets if the seed is planted in North America.</answer>
+			   <answer>Australian violets if the seed is planted in Australia.</answer>
+			   <answer>Austrian violets if the seed is planted in Austria.</answer>
+			   <answer>Albanian violets if the seed is planted in Albania.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which is most similar to the way DNA is used by cells?</question>
+            <answers>
+               <answer>A textbook</answer>
+               <answer correct="true">A blueprint for a new building</answer>
+			   <answer>A movie review guide</answer>
+			   <answer>A road map</answer>
+			   <answer>A television guide</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Information is sent from one cell to another cell by</question>
+            <answers>
+               <answer>cell phones.</answer>
+			   <answer>DNA.</answer>
+               <answer correct="true">cell signaling.</answer>
+			   <answer>RNA.</answer>
+			   <answer>Ribosomes.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>When cell information contains a mistake, the result</question>
+            <answers>
+               <answer>is a mutation.</answer>
+			   <answer>may improve the organism.</answer>
+			   <answer>may be lethal to the organism.</answer>
+			   <answer>may neither help nor harm the organism.</answer>
+               <answer correct="true">All of the above.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m1-4_s13</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

@@ -1,0 +1,67 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Rhetorical Modes</title>
+		<info></info>
+		<image>images/eng_m1-3_s26.jpg</image>
+		<audio>audio/eng_m1-3_s26.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Comparison/Contrast</Name>   
+			<audio enable="false" url=""/>
+			<xCord>550.85</xCord>
+			<yCord>395.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Comparison/Contrast</popTitle>
+			<popInfo><![CDATA[<p>This is not correct. Nixon is not comparing or contrasting details.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Definition</Name>
+			<audio enable="false" url=""/>
+			<xCord>550.85</xCord>
+			<yCord>445.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Definition</popTitle>
+			<popInfo><![CDATA[<p>This is not correct. Nixon is not defining anything in this excerpt.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Classification</Name>
+			<audio enable="false" url=""/>
+			<xCord>800.85</xCord>
+			<yCord>395.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Classification</popTitle>
+			<popInfo><![CDATA[<p>This is not correct. Nixon is not sorting ideas into types.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Cause and Effect</Name>
+			<audio enable="false" url=""/>
+			<xCord>800.85</xCord>
+			<yCord>445.3</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Cause and Effect</popTitle>
+			<popInfo><![CDATA[<p>This is correct. Nixon established two cause-and-effect relationships. A man heard that Nixon’s daughters wanted a dog, so he sent one. The dog was spotted, so Tricia named him “Checkers.”</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

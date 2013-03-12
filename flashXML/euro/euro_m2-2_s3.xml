@@ -1,0 +1,81 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Periodization</title>
+		<info>The Ancient World and Classical Antiquity</info>
+		<image>images/euro_m2-2_s3.jpg</image>
+		<audio>audio/euro_m2-2_s3.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>ANCIENT WORLD</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>557.75</xCord>
+			<yCord>105.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>ANCIENT WORLD</popTitle>
+			<popInfo>The Ancient World is an overlap of the pre-historical work of archeologists and the work of ancient historians (such as Egyptologists).  It includes the study of the Neolithic Revolution (c.8000 B.C.), the first human settlements, the domestication of animals, the invention of crude hand tools, and the beginnings of agriculture. Stonehenge, pictured here, is a Neolithic structure, built around 2,500 B.C. </popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>B.C.</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>478.75</xCord>
+			<yCord>161.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>B.C.</popTitle>
+			<popInfo>The term B.C., meaning before Christ, is a way of measuring time or determining how long ago something happened.  It is based on the Gregorian calendar, which attempted to pinpoint Christ's birth year.  While Arab and Muslim calendars are based on the lunar month, the Gregorian calendar measures the passing of time in years – the amount of time needed for the earth to orbit the sun. In the sciences, B.C. is often written as B.C.E., meaning “before the Common Era.” </popInfo>
+		</pButton>
+
+
+		<pButton> 
+			<Name>CIRCA</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>636.75</xCord>
+			<yCord>161.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>CIRCA</popTitle>
+			<popInfo><![CDATA[Circa, abbreviated as c. or ca. is often used before a date if historians are not exactly sure on which date an event occurred. It means <font face='c-Italic'>around</font> or <font face='c-Italic'>approximately</font>. You’ll often see this used when discussing events in the Ancient World, Classical Antiquity, or even the middle ages. At times, circa is also used for early modern and modern events. One example is the birthdate of English Catholic martyr John Fisher (listed as c. 1469). Before standardized birth records, it is often difficult to pinpoint exact dates.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>CLASSICAL ANTIQUITY</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>819.2</xCord>
+			<yCord>257.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>CLASSICAL ANTIQUITY</popTitle>
+			<popInfo>Classical Antiquity, a time period studied by classicists, began around 3000 B.C.  The first two significant cultures to develop were the Minoan, of Bronze Age Crete, and the Mycenaean of the Greek peninsula.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>GREEKS AND ROMANS</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>922.2</xCord>
+			<yCord>330.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>GREEKS AND ROMANS</popTitle>
+			<popInfo>The two most important groups of people belonging to Classical Antiquity were the Greeks and the Romans.  This age ended in 476 A.D. with the abdication of the last Roman emperor.
+While the Roman Empire collapsed in the West in the fifth century, it survived for nearly one thousand years – until 1453 – in the Eastern Mediterranean as the Byzantine Empire.
+</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>A.D.</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>819.2</xCord>
+			<yCord>428.3</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>A.D.</popTitle>
+			<popInfo><![CDATA[A.D., or <font face='lc-Italic'>anno Domini</font>, is a Latin term meaning in the year of our Lord, meaning the year Jesus Christ was thought to have been born.  It is used frequently by classical historians. You’ll use it less often when describing dates from the time periods that follow Classical Antiquity. For example, you would not usually write 1815 <font face='lc-Italic'>A.D.</font> In the sciences and in other disciplines, dates with A.D. are often written as C.E. or in the Common Era.]]></popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>

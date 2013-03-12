@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Analyzing  Art with Common Theme</title>
+		<info></info>
+		<image>images/euro_m3-4_s6.jpg</image>
+		<audio>audio/euro_m3-4_s6.mp3</audio>
+		<popType>3</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>CONTEXT</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>632.75</xCord>
+			<yCord>100.7</yCord>
+			<width>134</width>
+			<popTitle>Historical Context</popTitle>
+			<popInfo><![CDATA[<p>Created in the early Renaissance, this work features elements of Byzantine and new Italian Renaissance styles influenced by Humanism. Giotto ushered in a new and more naturalistic way of portraying the human figure. 
+</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>INDIVIDUALISM</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>576.55</xCord>
+			<yCord>275.4</yCord>
+			<width>85</width>
+			<popTitle>Individualism</popTitle>
+			<popInfo><![CDATA[<p>The creator of this painting is known to us. Although he did not sign his name on his works, Giotto was widely known and admired in his own time. Giotto and others earned commissions based on their individual skill and talent. Patrons were proud to own their works and records of ownership were kept. Admiration for the unique talents of specific artists and the crediting of artworks is an example of the growing individualism that went along with Humanist thought. </p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>POINT OF VIEW</Name>
+			<audio enable="false" url="audio/chem_m6-5_s5b.mp3"/>
+			<xCord>826.2</xCord>
+			<yCord>450.1</yCord>
+			<width>85</width>
+			<popTitle>Point of View</popTitle>
+			<popInfo><![CDATA[<p>Giotto wanted to portray a solemn religious theme using standard motifs and iconography, but he also tried to do something more. Aware of the new ideas of humanism, Giotto wanted to express the humanity of the subjects and the warm and loving relationship between mother and child. By picturing the baby interacting with his mother, Giotto has de-emphasized Jesus’s otherworldly spirituality, instead hinting at infant vulnerability and dependence.</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

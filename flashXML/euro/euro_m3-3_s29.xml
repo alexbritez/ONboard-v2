@@ -1,0 +1,67 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-3_s29.jpg</image>
+		<audio>audio/euro_m3-3_s29.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>80</boxScale>
+		<feedback>audio/euro_m3-3_s29_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size=''>Bishop Bossuet</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size=''>Thomas Hobbes</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<p><font size=''>Jean Jacques Rousseau</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p><font size=''>King James VI of Scotland </font></p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p><font size=''>John Locke</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p><font size=''>Abbé Sieyes</font></p>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="577.45" yCord="192.8" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="241.95" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="291.1" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="340.25" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="389.4" spotScale="75" spotNum="1"/>
+		<dSpot xCord="577.45" yCord="438.75" spotScale="75" spotNum="1"/>
+		
+		<dSpot xCord="864.45" yCord="192.8" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="241.95" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="291.1" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="340.25" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="389.4" spotScale="75" spotNum="2"/>
+		<dSpot xCord="864.45" yCord="438.75" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

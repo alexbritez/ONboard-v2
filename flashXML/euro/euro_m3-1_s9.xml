@@ -1,0 +1,45 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-1_s9.jpg</image>
+		<audio>audio/euro_m3-1_s9.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>80</boxScale>
+		<feedback>audio/euro_m3-1_s9_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[A text message]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[The text from a law]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[A biography of Catherine the Great by a historian]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[A contemporary letter describing a historical event]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[A photograph from the Nuremberg Rallies]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Your textbook]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="576.45" yCord="206" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.45" yCord="282.65" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.45" yCord="359.3" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.45" yCord="435.95" spotScale="80" spotNum="1"/>
+		<dSpot xCord="866.45" yCord="206" spotScale="80" spotNum="2"/>
+		<dSpot xCord="866.45" yCord="282.65" spotScale="80" spotNum="2"/>
+		<dSpot xCord="866.45" yCord="359.3" spotScale="80" spotNum="2"/>
+		<dSpot xCord="866.45" yCord="435.95" spotScale="80" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

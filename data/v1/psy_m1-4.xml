@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Study Habits">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m1-4_s1</video>
+      <credits>(l )Rachel Frank/Corbis, (c)McGraw-Hill Companies, Inc. Rick Brady, photographer, (cr)Peter Dazeley/Photographer's Choice RF/Getty Images, (r)KidStock/Blend Images/Corbis, (bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="2" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>You can learn to function normally with one or two fewer hours of sleep than you need.</question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio>psy_m1-4_s2_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-4_s2</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Snoring is not harmful as long as it doesn't disturb others or wake you up.</question>
+            <answers>
+               <answer>True</answer>
+			   <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio>psy_m1-4_s3_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>The human body never adjusts to night shift work.</question>
+            <answers>
+               <answer correct="true">True</answer>
+			   <answer>False</answer>
+            </answers>
+            <feedbackAudio>psy_m1-4_s4_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s5</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Ingram Publishing, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Sleep Stages</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-4_s6.jpg</image>
+         <hotspots>
+            <hotspot audio="psy_m1-4_s6_stage1" dynamic="true" x="138" y="182"><![CDATA[
+				<h1>Stage 1</h1>
+				<p>This is the transition stage between being awake and being asleep. You drift into and out of sleep and can be easily awakened.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s6_stage2" dynamic="true" x="242" y="222"><![CDATA[
+				<h1>Stage 2</h1>
+				<p>This is a stage of light sleep where the brain produces bursts of rapid wave activity called <em>sleep spindles</em>.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s6_stage3" dynamic="true" x="344" y="261"><![CDATA[
+				<h1>Stage 3</h1>
+				<p>Deep, slow brain waves called delta waves begin to emerge along with shorter waves. This is the transition stage between light and deep sleep.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s6_stage4" dynamic="true" x="445" y="321"><![CDATA[
+				<h1>Stage 4</h1>
+				<p>Deep sleep occurs in this stage due to exclusive production of delta waves.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s6_stage5" dynamic="true" x="563" y="171"><![CDATA[
+				<h1>Stage 5 or REM sleep</h1>
+				<p>Rapid Eye Movement (REM) in this stage indicates increased brain activity. You dream during this stage.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-4_s6</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s7</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Le Club Symphonie/Michael Crockett/Taxi/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s8</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s9</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Ariel Skelley/Blend Images/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What do you think were the results of the study?</question>
+            <answers>
+               <answer>Group A players didn't find the hidden answer but solved the game faster than those who slept.</answer>
+			   <answer correct="true">Group B players were three times more likely to have insight that allowed them to find the hidden rule than those who did not sleep.</answer>
+            </answers>
+			<figure><text><![CDATA[
+			<p>A research study gave participants a game to play that required math calculations. Unknown to the participants, there was a hidden rule that, if discovered, would allow them to identify final answers quicker.</p>
+			<ul>
+				<li>Group A: Played the game, did other things for 8 hours, and then played the game again.</li>
+				<li>Group B: Played the game in early evening, slept for 8 hours, and then played again after awakening.</li>
+			</ul>
+			]]></text></figure>
+            <feedbackAudio>psy_m1-4_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-4_s10</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s11</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s12</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="13" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:41px" dropStyle="height:30px;margin-bottom:-20px">
+         <matches title="">
+            <match id="1">CYR</match>
+			<match id="2">CYB</match>
+			<match id="3">LXK</match>
+			<match id="4">LXH</match>
+			<match id="5">NIQ</match>
+			<match id="6">TPR</match>
+			<match id="7">TBR</match>
+			<match id="8">RIZ</match>
+			<match id="9">RIY</match>
+			<match id="10">NLQ</match>
+			<match id="11">XOP</match>
+			<match id="12">YOP</match>
+			<match id="13">PEY</match>
+			<match id="14">PUY</match>
+         </matches>
+         <drops title="Syllables Seen Before">2,3,6,9,11,14,5</drops>
+		 <drops title="Syllables Not Seen Before">1,4,7,8,12,13,10</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m1-4_s13</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s14</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)David Grossman/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>2) Space Your Learning</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-4_s15.jpg</image>
+         <hotspots>
+            <hotspot audio="psy_m1-4_s15_A" dynamic="true" x="156" y="218"><![CDATA[
+				<h1></h1>
+				<p>It is better to study a little bit at a time over an extended time period than to cram.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s15_B" dynamic="true" x="456" y="120"><![CDATA[
+				<h1></h1>
+				<p>Spaced learning is the best way to remember information.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s15_C" dynamic="true" x="456" y="347"><![CDATA[
+				<h1></h1>
+				<p>Create multiple short-term deadlines for each subject matter and you'll increase your chances of success.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-4_s15</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Peter Dazeley/Photographer's Choice RF/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s16</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="17" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following shows the letters in the correct order?</question>
+            <answers>
+			   <answer correct="true">N, F / L, N / B, C / U, S / A, F / B, I</answer>
+			   <answer>N, F / B, L / N, B / A, F / B, S / U, I</answer>
+			   <answer>F, B / I, N / F, A / U, S / B, C / L, N</answer>
+            </answers>
+            <feedbackAudio>psy_m1-4_s17_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-4_s17</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s18</video>
+      <credits>(bkgd)Glow Images/Getty Images, (others)Brand X Pictures/PunchStock.</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s19</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)Don Hammond/Design Pics, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Learning and Testing Environments</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-4_s20.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="25" y="19"><![CDATA[
+				<h1></h1>
+				<p>Some divers learned under water and then recalled under water.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="252" y="307"><![CDATA[
+				<h1></h1>
+				<p>These divers studied and were &quot;tested&quot; in the same setting.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="331" y="19"><![CDATA[
+				<h1></h1>
+				<p>Some divers learned under water and then had to recall on land.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="558" y="307"><![CDATA[
+				<h1></h1>
+				<p>These divers studied in one setting and were &quot;tested&quot; in a different setting.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-4_s20</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)image100/PunchStock/Getty Images, (r)Melba Photo Agency/PunchStock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s21</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (l)image100/PunchStock/Getty Images, (r)Melba Photo Agency/PunchStock/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s22</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)Peter Dazeley/Photographer's Choice RF/Getty Images, (2)KidStock/Blend Images/Corbis, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>4) Mimic Your Testing Environment</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>psy_m1-4_s23.jpg</image>
+         <hotspots>
+            <hotspot audio="psy_m1-4_s23_A" dynamic="true" x="182" y="43"><![CDATA[
+				<h1></h1>
+				<p>We can also retain the moods we had when studying.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s23_B" dynamic="true" x="175" y="338"><![CDATA[
+				<h1></h1>
+				<p>If we study after drinking lots of caffeine, it will be harder to recall the information if our bodies do not have that stimulant in it. Our bodies are not meant to be on stimulants all the time.</p>
+			]]></hotspot>
+			<hotspot audio="psy_m1-4_s23_C" dynamic="true" x="443" y="160"><![CDATA[
+				<h1></h1>
+				<p>Avoid stimulants and do not study while tired. Be in an alert state similar to how you'll be during the actual exam.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>psy_m1-4_s23</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (c)David Grossman/Alamy, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>psy_m1-4_s24</video>
+      <credits>(tr)Brand X Pictures/PunchStock, (1)KidStock/Blend Images/Corbis, (2)Peter Dazeley/Photographer's Choice RF/Getty Images, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Desk with chair</match>
+			<match id="2">Calendar</match>
+			<match id="3">Energy Drink</match>
+			<match id="4">Cushions on floor</match>
+			<match id="5">Veggie snack</match>
+			<match id="6">Radio or MP3 player</match>
+			<match id="7">Television</match>
+			<match id="8">Bag of chips</match>
+			<match id="9">Bottle of water</match>
+			<match id="10">Clock</match>
+         </matches>
+         <drops title="Optimal">1,2,5,9,10</drops>
+		 <drops title="Not Optimal">3,4,6,7,8</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m1-4_s25</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+	<scene id="26" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the five study habits is perhaps the most important to acquire?</question>
+            <answers>
+               <answer correct="true">Get good sleep</answer>
+			   <answer>Space your learning</answer>
+			   <answer>Chunk information</answer>
+			   <answer>Mimic your testing environment</answer>
+			   <answer>Quiz yourself</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the five study habits involves making connections to previous knowledge?</question>
+            <answers>
+			   <answer>Get good sleep</answer>
+			   <answer>Space your learning</answer>
+               <answer correct="true">Chunk information</answer>
+			   <answer>Mimic your testing environment</answer>
+			   <answer>Quiz yourself</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Why might it be difficult to remember something you learned when you were in a bad mood?</question>
+            <answers>
+			   <answer>You probably didn't get enough sleep.</answer>
+			   <answer>You were cramming at the time.</answer>
+			   <answer>Your mood prevented you from learning.</answer>
+               <answer correct="true">Moods are retained in contextual learning.</answer>
+			   <answer>You don't check your learning when you're in a bad mood.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the five study habits is an alternative to cramming?</question>
+            <answers>
+				<answer>Get good sleep</answer>
+			   	<answer correct="true">Space your learning</answer>
+               	<answer>Chunk information</answer>
+				<answer>Mimic your testing environment</answer>
+				<answer>Quiz yourself</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>What frees up the hippocampus to take in new information?</question>
+            <answers>
+			   <answer>Chunking information</answer>
+			   <answer>Creating short-term deadlines</answer>
+			   <answer>REM sleep</answer>
+			   <answer>Drinking water instead of caffeinated drinks while studying</answer>
+               <answer correct="true">Spindle-rich sleep</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m1-4_s26</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+</shell>

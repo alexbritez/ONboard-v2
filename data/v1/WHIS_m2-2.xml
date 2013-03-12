@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Reading and Interpreting">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m2-2_s1</video>
+      <credits>(l, cr)Ted Foxx/Alamy, (cl, r)Photos 12/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (1)Photos 12/Alamy, (2)Royalty-Free/Corbis, (3)NetPhotos/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Korean War (First Source)</header>
+         <text><![CDATA[
+		 	<p>The Korean War began when &quot;the United States assembled a United Nations army of 15 countries and defiantly marched across the border and invaded North Korea, spreading the flames of war to our Yalu River.&quot;</p>
+			<p>&quot;All the historical facts show that it is the U.S. imperialists who unleashed the war in Korea and that the United States can never escape from the responsibility.&quot;</p>
+			<p style="font-size:90%;">Credit: &quot;China Rewrites History of Korean War,&quot; &copy; Telegraph Media Group Limited 2010.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-2_s4</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>According to the text, who initiated the Korean War?</question>
+            <answers>
+				<answer>South Korea</answer>
+				<answer>North Korea</answer>
+				<answer>United Nations</answer>
+				<answer correct="true">United States</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-2_s5_FB</feedbackAudio>
+			<figure>
+				<header italic="false">The Korean War (First Source)</header>
+        	 <text><![CDATA[
+		 		<p>The Korean War began when &quot;the United States assembled a United Nations army of 15 countries and defiantly marched across the border and invaded North Korea, spreading the flames of war to our Yalu River.&quot;</p>
+				<p>&quot;All the historical facts show that it is the U.S. imperialists who unleashed the war in Korea and that the United States can never escape from the responsibility.&quot;</p>
+				<p style="font-size:90%;">Credit: &quot;China Rewrites History of Korean War,&quot; &copy; Telegraph Media Group Limited 2010.</p>
+		 	]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Korean War (Second Source)</header>
+         <text><![CDATA[
+		 	<p>&quot;On June 25, 1950, North Korea launched an unprovoked full-scale invasion of the South, triggering a three-year war which drew in U.S., Chinese and other foreign forces. The entire peninsula was devastated by the conflict. A cease-fire was signed in July 1953.&quot;</p>
+			<p style="font-size:90%;">Source: www.korea.net/AboutKorea/Korea-at-a-Glance/History</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-2_s6</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>According to the second source, who initiated the Korean War?</question>
+            <answers>
+				<answer>South Korea</answer>
+				<answer correct="true">North Korea</answer>
+				<answer>China</answer>
+				<answer>United States</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-2_s7_FB</feedbackAudio>
+			<figure>
+				<header italic="false">The Korean War (Second Source)</header>
+         		<text><![CDATA[
+		 			<p>&quot;On June 25, 1950, North Korea launched an unprovoked full-scale invasion of the South, triggering a three-year war which drew in U.S., Chinese and other foreign forces. The entire peninsula was devastated by the conflict. A cease-fire was signed in July 1953.&quot;</p>
+					<p style="font-size:90%;">Source: www.korea.net/AboutKorea/Korea-at-a-Glance/History</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s8</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Interim Archives/Archive Photos/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s9</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these documents would have more of a "purpose" than others?</question>
+            <answers>
+				<answer>A ship captain's log from an ocean liner sailing between London and New York in 1915</answer>
+				<answer>A map of Paris created in 2011</answer>
+				<answer correct="true">An account of slavery appearing in a Northern newspaper in 1861</answer>
+				<answer>A newspaper article from 1960 reporting the U.S. presidential election results</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-2_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-2_s10</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s11</video>
+      <credits>(1)Geoffrey Clements/Corbis, (2)Christie's Images/Corbis, (3)Catherine Hazard/Superstock/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (tr)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s12</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="9">Hobbies</match>
+        <match id="1">Age</match>
+        <match id="5">Religion</match>
+		<match id="6">Race/ethnicity</match>
+        <match id="3">Birthplace</match>
+        <match id="7">Number of siblings</match>
+		<match id="2">Gender</match>
+        <match id="4">Social/economic class</match>
+        <match id="8">Occupation</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0">
+        <drop correct="1"><![CDATA[Young people lack respect for authority. ]]></drop>
+        <drop correct="2"><![CDATA[ Girls' soccer games are more interesting than boys' games.]]></drop>
+        <drop correct="3"><![CDATA[The people in my neighborhood have always been helpful.]]></drop>
+		<drop correct="4"><![CDATA[Ivy league universities provide a better education.]]></drop>
+        <drop correct="5"><![CDATA[Stores should not be open for business on Sundays.]]></drop>
+        <drop correct="6"><![CDATA[Swedes are the most environmentally aware people.]]></drop>
+		<drop correct="7"><![CDATA[Being a middle child has taught me how to be patient.]]></drop>
+        <drop correct="8"><![CDATA[Building something is more rewarding than having tech skills.]]></drop>
+        <drop correct="9"><![CDATA[Video games can improve hand-eye coordination.]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>WHIS_m2-2_s13</audio>
+    <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s14</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these statements has a positive tone?</question>
+        <answers>
+          <answer correct="true">Cameras monitor our safety at shopping malls and in parking lots.</answer>
+          <answer>The government watches our every move, and it spies like a thief on our emails.</answer>
+          <answer>It's alarming how little privacy we have, and it grows less each year.</answer>
+          <answer>America is a democracy, and yet our privacy is constantly being violated.</answer>
+        </answers>
+        <feedbackAudio>WHIS_m2-2_s15_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>WHIS_m2-2_s15</audio>
+    <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s16</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s17</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Alfredo Dagli Orti/The Art Archive/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>Click to Explore</header>
+      <instruction><![CDATA[
+        <p>Click on the 'hot spots' to view additional information.</p>
+        ]]></instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+				<p style="font-size: 90%">&quot;And when [Moctezuma] had heard what the messengers reported [about the Spanish army], he was terrified, he was astounded. . . . </p>
+				<p style="font-size: 90%">Especially did it cause him to faint away when he heard how the gun . . . <a href="#" data-id="0" class="hotspot"><strong>discharged;</strong></a> how it <a href="#" data-id="1" class="hotspot"><strong>resounded</strong></a> as if it thundered when it went off. It indeed <a href="#" data-id="2" class="hotspot"><strong>bereft</strong></a> one of strength; it shut off one's ears. And when it discharged, something like a round pebble came forth from within. Fire went showering forth; sparks went blazing forth. And its smoke smelled very foul; it had a <a href="#" data-id="3" class="hotspot"><strong>fetid</strong></a> odor which <a href="#" data-id="4" class="hotspot"><strong>verily</strong></a> wounded the head. And when [the shot] struck a mountain, it was as if it were destroyed, dissolved. And a tree was <a href="#" data-id="5" class="hotspot"><strong>pulverized</strong></a>; it was as if it vanished; it was as if someone blew it away."</p>
+				<p style="font-size:80%;">Credit: Bernardino de Sahagún. <em>Florentine Codex: General History of the Things of New Spain</em>, Vol. 12. Trans. by Arthur J. O. Anderson and Charles E. Dibble. Salt Lake City: University of Utah Press, 1950–82.</p>
+			]]></text>
+			<hotspots>
+				<hotspot>
+					<![CDATA[
+					<h1>Discharged</h1>
+					<p>released, shot</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Resounded</h1>
+					<p>sounded loudly, echoed</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Bereft</h1>
+					<p>robbed, deprived</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Fetid</h1>
+					<p>rotten, offensive</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Verily</h1>
+					<p>certainly, truly</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Pulverized</h1>
+					<p>destroyed, crushed</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>WHIS_m2-2_s18</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="19" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasTextFigure="true">
+        <question>After reading the excerpt, what is your impression of Moctezuma?</question>
+        <answers>
+          <answer>He was a fearless leader.</answer>
+          <answer>He was unimpressed by European weapons.</answer>
+          <answer correct="true">He was somewhat cowardly.</answer>
+          <answer>He was a bloodthirsty ruler.</answer>
+        </answers>
+		<figure>
+			<text><![CDATA[
+				<p>&quot;And when [Moctezuma] had heard what the messengers reported [about the Spanish army], he was terrified, he was astounded. . . . </p>
+				<p>Especially did it cause him to faint away when he heard how the gun . . . discharged; how it resounded as if it thundered when it went off. It indeed bereft one of strength; it shut off one's ears. And when it discharged, something like a round pebble came forth from within. Fire went showering forth; sparks went blazing forth. And its smoke smelled very foul; it had a fetid odor which verily wounded the head. And when [the shot] struck a mountain, it was as if it were destroyed, dissolved. And a tree was pulverized; it was as if it vanished; it was as if someone blew it away."</p>
+				<p style="font-size:80%;">Credit: Bernardino de Sahagún. <em>Florentine Codex: General History of the Things of New Spain</em>, Vol. 12. Trans. by Arthur J. O. Anderson and Charles E. Dibble. Salt Lake City: University of Utah Press, 1950–82.</p>
+			]]></text></figure>
+        <feedbackAudio>WHIS_m2-2_s19_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>WHIS_m2-2_s19</audio>
+    <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s20</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-pga-01902], (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s21</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)DeAgostini/SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>Alexander the Great &quot;had great personal beauty, invincible power of endurance, and a keen intellect; he was brave and adventurous, strict in the observance of his religious duties, and hungry for fame. . . .  Noble indeed was his power of inspiring his men, of filling them with confidence, and, in the moment of danger, of sweeping away their fear by the spectacle of his own fearlessness. . . . </p>
+			<p>Doubtless, in the passion of the moment Alexander sometimes erred; it is true that he took some steps toward the pomp and arrogance of the Asiatic kings: but I, at least, cannot feel that such errors were very heinous, if the circumstances are taken fairly into consideration. For, after all, he was young . . . [and he was] sorry for his mistakes. . . .&quot;</p>
+			<p style="font-size:90%;">Credit: From THE CAMPAIGNS OF ALEXANDER by Arrian, translated by Aubrey de Selincourt, published by Penguin.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-2_s22</audio>
+      <credits>Credit: From THE CAMPAIGNS OF ALEXANDER by Arrian, translated by Aubrey de Selincourt, published by Penguin.</credits>
+   </scene>
+
+   <scene id="23" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">personal beauty</match>
+			<match id="2">errors</match>
+			<match id="3">keen intellect</match>
+			<match id="4">arrogance</match>
+			<match id="5">brave</match>
+			<match id="6">pomp</match>
+			<match id="7">inspiring</match>
+			<match id="8">fearlessness</match>
+			<match id="9">hungry for fame</match>
+			<match id="10">invincible</match>
+			<match id="11">erred</match>
+			<match id="12">mistakes</match>
+         </matches>
+         <drops title="Positive Tone">1,3,5,7,8,10</drops>
+		 <drops title="Negative Tone">2,4,6,9,11,12</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m2-2_s23</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s24</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)SuperStock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s25</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)World History Archive/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images. </credits>
+   </scene>
+
+   <scene id="26" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>How does the artist portray Kublai Khan?</question>
+            <answers>
+				<answer>as a merchant from Venice</answer>
+				<answer>as an Asian nomad</answer>
+				<answer>as a bloodthirsty savage</answer>
+				<answer correct="true">as a stately European king</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-2_s26_FB</feedbackAudio>
+			<figure>WHIS_m2-2_s26_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (inset)World History Archive/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images. </credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>WHIS_m2-2_s27</video>
+      <credits>(tr)Tetra Images/Getty Images, (cl)Ancient Art &amp; Architecture Collection Ltd/Alamy, (cr)World History Archive/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>Their arms are bows and arrows, sword and mace; but above all the bow, for they are capital archers, indeed the best that are known. . . . </p>
+			<p>When a Mongol prince goes forth to war, he takes with him, say, 100,000 men. Well, he appoints an officer to every ten men, one to every hundred, one to every thousand, and one to every ten thousand, so that his own orders have to be given to ten persons only, and each of these ten persons has to pass the orders only to another ten, and so on, no one having to give orders to more than ten. And every one in turn is responsible only to the officer immediately over him; and the discipline and order that comes of this method is marvelous, for they are a people very obedient to their chiefs. . . . </p>
+			<p>When they are going on a distant expedition they take no gear with them except two leather bottles for milk, a little earthenware pot to cook their meat in, and a little tent to shelter them from rain. And in case of great urgency they will ride ten days on end without lighting a fire or taking a meal. On such an occasion they will sustain themselves on the blood of their horses, opening a vein and letting the blood jet into their mouths, drinking till they have had enough, and then staunching it. . . . </p>
+			<p style="font-size:90%;">Source: <em>The Book of Ser Marco Polo</em>, 3rd ed. Trans. and ed. by Henry Yule and Henri Cordier. London: John Murray, 1921.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m2-2_s28</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of the following phrases shows point of view?</question>
+            <answers>
+				<answer>Their arms are bows and arrows, sword and mace; but above all the bow.</answer>
+				<answer>When a Mongol prince goes forth to war, he takes with him, say, 100,000 men.</answer>
+				<answer correct="true">The discipline and order that comes of this method is marvelous, for they are a people very obedient to their chiefs.</answer>
+				<answer>When they are going on a distant expedition they take no gear with them except two leather bottles for milk.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-2_s29_FB</feedbackAudio>
+			<figure>
+				<text><![CDATA[
+		 			<p>Their arms are bows and arrows, sword and mace; but above all the bow, for they are capital archers, indeed the best that are known. . . . </p>
+					<p>When a Mongol prince goes forth to war, he takes with him, say, 100,000 men. Well, he appoints an officer to every ten men, one to every hundred, one to every thousand, and one to every ten thousand, so that his own orders have to be given to ten persons only, and each of these ten persons has to pass the orders only to another ten, and so on, no one having to give orders to more than ten. And every one in turn is responsible only to the officer immediately over him; and the discipline and order that comes of this method is marvelous, for they are a people very obedient to their chiefs. . . . </p>
+					<p>When they are going on a distant expedition they take no gear with them except two leather bottles for milk, a little earthenware pot to cook their meat in, and a little tent to shelter them from rain. And in case of great urgency they will ride ten days on end without lighting a fire or taking a meal. On such an occasion they will sustain themselves on the blood of their horses, opening a vein and letting the blood jet into their mouths, drinking till they have had enough, and then staunching it. . . . </p>
+					<p style="font-size:90%;">Source: <em>The Book of Ser Marco Polo</em>, 3rd ed. Trans. and ed. by Henry Yule and Henri Cordier. London: John Murray, 1921.</p>
+				 ]]></text>
+			</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-2_s29</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What might account for Marco's point of view?</question>
+            <answers>
+				<answer>As an inexperienced young man, Marco may have been overly impressed with Mongol culture.</answer>
+				<answer>As son of a Venetian merchant and diplomat, Marco might not have seen any other military tactics before this time.</answer>
+				<answer>Marco may have exaggerated his account in hopes of selling more books to Europeans.</answer>
+				<answer correct="true">All of the above.</answer>
+            </answers>
+			<figure>
+				<text><![CDATA[
+		 			<p>Their arms are bows and arrows, sword and mace; but above all the bow, for they are capital archers, indeed the best that are known. . . . </p>
+					<p>When a Mongol prince goes forth to war, he takes with him, say, 100,000 men. Well, he appoints an officer to every ten men, one to every hundred, one to every thousand, and one to every ten thousand, so that his own orders have to be given to ten persons only, and each of these ten persons has to pass the orders only to another ten, and so on, no one having to give orders to more than ten. And every one in turn is responsible only to the officer immediately over him; and the discipline and order that comes of this method is marvelous, for they are a people very obedient to their chiefs. . . . </p>
+					<p>When they are going on a distant expedition they take no gear with them except two leather bottles for milk, a little earthenware pot to cook their meat in, and a little tent to shelter them from rain. And in case of great urgency they will ride ten days on end without lighting a fire or taking a meal. On such an occasion they will sustain themselves on the blood of their horses, opening a vein and letting the blood jet into their mouths, drinking till they have had enough, and then staunching it. . . . </p>
+					<p style="font-size:90%;">Source: <em>The Book of Ser Marco Polo</em>, 3rd ed. Trans. and ed. by Henry Yule and Henri Cordier. London: John Murray, 1921.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m2-2_s30_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m2-2_s31.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="240" y="202"><![CDATA[
+				<p>The trading city of Alexandria, at the mouth of the Nile River, was the mapmaker's home.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="197" y="149"><![CDATA[
+				<p>Greek cities were major trading partners with Alexandria. There is some evidence that Eratosthenes may have studied in the city of Athens.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="460" y="300"><![CDATA[
+				<p>This map by Eratosthenes was remarkable for its use of latitude and longitude lines.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="93" y="217"><![CDATA[
+				<p>Notice that Eratosthenes represented Libya as having almost the same amount of land area as Europe and Asia.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m2-2_s31</audio>
+      <credits>(tr)Tetra Images/Getty Images, (c)North Wind Picture Archives/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="32" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What point of view seemed to guide Eratosthenes as he made his map?</question>
+            <answers>
+				<answer>He was concerned with highlighting religious destinations.</answer>
+				<answer>He placed north at the top of the map.</answer>
+				<answer>Creating maps for military engagements seemed to be a dominant theme.</answer>
+				<answer correct="true">He tended to emphasize detail around his homeland.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-2_s32_FB</feedbackAudio>
+			<figure>WHIS_m2-2_s31.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-2_s32</audio>
+      <credits>(tr)Tetra Images/Getty Images, (inset)North Wind Picture Archives/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="33" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Why do you suppose the map extends so far to the east?</question>
+            <answers>
+				<answer>Alexandria, Egypt, had trade interests in that part of the world.</answer>
+				<answer>The region to the east is traditionally thought to be the location of Atlantis.</answer>
+				<answer>Creationist myths place the origin of the world to the east, and maps used this region as a point of orientation.</answer>
+				<answer correct="true">Eratosthenes would be familiar with this region because he was aware of Alexander's military maps.</answer>
+            </answers>
+            <feedbackAudio>WHIS_m2-2_s33_FB</feedbackAudio>
+			<figure>WHIS_m2-2_s31.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (inset)North Wind Picture Archives/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="34" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>An author's opinion about an issue often reflects point of view.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>An author's personal background should not be considered when analyzing point of view.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Maps can never reflect point of view because they remain the same no matter who creates them.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Point of view can affect how future readers interpret historical documents.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Words like "arrogant" and "foolhardy" give a positive connotation.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m2-2_s34</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

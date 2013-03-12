@@ -1,0 +1,58 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Allusion: Reference to Literature, Art, or History</title>
+		<info></info>
+		<image>images/eng_m1-3_s28.jpg</image>
+		<audio>audio/eng_m1-3_s28.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name></Name>   
+			<audio enable="false" url=""/>
+			<xCord>500</xCord>
+			<yCord>435</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Allusion to the Bible</popTitle>
+			<popInfo><![CDATA[<p>Dr. Martin Luther King, Jr., alluding to Amos 5:24 in “I Have a Dream”: <br/>“No, no, we are not satisfied, and we will not be satisfied until justice rolls down like waters, and righteousness like a mighty stream.” </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>700</xCord>
+			<yCord>435</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle>Allusion to Shakespeare </popTitle>
+			<popInfo><![CDATA[<p>Examples of book titles that allude to Shakespeare’s works: <br/><font face='c-Italic'>Brave New World</font> (“Oh brave new world that has such people in it!” —From <font face='c-Italic'>The Tempest</font>)<br/><font face='c-Italic'>The Dogs of War</font> (“Cry, ‘havoc!’, and let slip the dogs of war.” —From <font face='c-Italic'>Julius Caesar</font>)
+ </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name></Name>
+			<audio enable="false" url=""/>
+			<xCord>900</xCord>
+			<yCord>435</yCord>
+			<width>85</width>
+			<fraction></fraction>
+			<popTitle><![CDATA[<p>Allusion to the <font face='c-Italic'>Mona Lisa</font></p>]]></popTitle>
+			<popInfo><![CDATA[<p>How many times have you read about or listened to a song about a woman with a mysterious smile? Those are allusions to Leonardo da Vince’s <font face='c-Italic'>Mona Lisa</font>. Other allusions to the <font face='c-Italic'>Mona Lisa</font> are not as easy to spot, such as this line in Kurt Vonnegut’s <font face='c-Italic'>Slaughterhouse Five:</font> “Billy was helped to his feet by the lovely boy, by the heavenly androgyne.”</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

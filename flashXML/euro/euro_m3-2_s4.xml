@@ -1,0 +1,89 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Primary Source Author</title>
+		<info></info>
+		<image>images/euro_m3-2_s4.jpg</image>
+		<audio>audio/euro_m3-2_s4.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	
+	<popButtons>
+	
+		<pButton> 
+			<Name>Background</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>829.25</xCord>
+			<yCord>98.4</yCord>
+			<width>134</width>
+			<popTitle>Background</popTitle>
+			<popInfo><![CDATA[<p>Bismarck was born into an aristocratic family in Prussia in 1815. Notice the "von" in Bismarck's name. The use of "von" in a Germanic name indicates that the person is an aristocrat.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Education</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>829.25</xCord>
+			<yCord>149.6</yCord>
+			<width>134</width>
+			<popTitle>Education</popTitle>
+			<popInfo><![CDATA[<p>Bismarck attended the University of Göttingen and the University of Berlin and studied law.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Career</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>829.25</xCord>
+			<yCord>262.8</yCord>
+			<width>134</width>
+			<popTitle>Career</popTitle>
+			<popInfo><![CDATA[<p>Bismarck began his political career at age 32 when he was elected to the Prussian legislature. From 1847-1862, Bismarck served in various legislative and diplomatic positions in Prussia. In 1862, he was appointed Minister President (Prime Minister) of Prussia, a position he held until 1890. In 1871, following the unification of Germany, Bismarck was also appointed as Chancellor of the German Empire.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Ethnicity</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>829.25</xCord>
+			<yCord>323.3</yCord>
+			<width>134</width>
+			<popTitle>Ethnicity</popTitle>
+			<popInfo><![CDATA[<p>Bismarck was Prussian (German). He was a member of the landowning, conservative aristocracy of Prussia called the Junkers (pronounced YUNE-kers). The Junkers are similar to English country squires, although not completely alike in focus and political beliefs.</p>]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>Political Ideas</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>829.25</xCord>
+			<yCord>383.8</yCord>
+			<width>134</width>
+			<popTitle>Political Ideas</popTitle>
+			<popInfo><![CDATA[<p>Bismarck was a conservative politician. He was also very pragmatic and was willing to use sometimes unscrupulous methods to achieve his goals. The word "realpolitik," meaning ruthless and opportunistic politics, is often used to describe his methods.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>Achievements</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>829.25</xCord>
+			<yCord>444.3</yCord>
+			<width>134</width>
+			<popTitle>Major Achievements</popTitle>
+			<popInfo><![CDATA[<p>Among Bismarck's major accomplishments were the unification of Germany under Prussian control, the establishment of the German social welfare system that included old age pensions and unemployment insurance, and the promotion of a system of alliances that followed German unification that were designed to protect Germany and prevent dangerous wars. </p>]]></popInfo>
+		</pButton>
+
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

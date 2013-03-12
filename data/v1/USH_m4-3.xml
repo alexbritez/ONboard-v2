@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Interpretive and Advanced Skills">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_m4-3_s1</video>
+      <credits><![CDATA[<span style="font-size: 7px">(l)William Manning/Corbis, (cl)The Library of Congress Prints &amp; Photographs Division [LC-USZ62-120322], (c)Library of Congress, Prints &amp; Photographs Division, [LC-USZ62-23866], (cr)Library of Congress, Prints &amp; Photographs Division, FSA/OWI Collection, [LC-USW3-054017-C], (r)TongRo Image Stock/Alamy, (bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</span>]]></credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s2</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Comstock Images/Getty Images, (2)Jose Luis Pelaez Inc/Blend Images LLC, (3)Amos Morgan/Photodisc/Getty Images, (4)Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s3</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="4" type="1_Module_Intro">
+      <video>USH_m4-3_s4</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>In which general geographic direction are the events on the timeline moving?</question>
+            <answers>
+               <answer>East</answer>
+			   <answer>South</answer>
+			   <answer>Southeast</answer>
+			   <answer>North</answer>
+               <answer correct="true">West</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-3_s5_view.jpg</figure>
+            <feedbackAudio>USH_m4-3_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s5</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The timeline is showing both change and continuity.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-3_s5_view.jpg</figure>
+            <feedbackAudio>USH_m4-3_s6_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s6</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>The information on the timeline supports which of the following trends?</question>
+            <answers>
+               <answer correct="true">A pattern has emerged about how whites in America have dealt with American Indians and their lands.</answer>
+               <answer>Every event on the timeline was accomplished through bloodshed.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-3_s5_view.jpg</figure>
+            <feedbackAudio>USH_m4-3_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s8</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s9</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-3_s10.jpg</image>
+         <hotspots>
+			<hotspot title="The Event" dynamic="true" x="36" y="15"><![CDATA[
+				<h1>The Event</h1>
+				<p>Draft Riots of 1863</p>
+			]]></hotspot>
+			<hotspot title="What?" dynamic="true" x="256" y="82"><![CDATA[
+				<h1>What was the situation or condition that led to the event?</h1>
+				<p style="font-size: 80%">At the beginning of the Civil War, the regular army of the North consisted of around 16,000 troops, many of them stationed in the West to protect white settlers from American Indians. To wage war successfully, the Union had to raise a vast army any way they could. By March 1863, Congress was forced to pass a national draft law. Virtually all young adult males were eligible to be drafted, but a man could escape service by hiring someone to go in his place or by paying the government $300.</p>
+			]]></hotspot>
+			<hotspot title="When?" dynamic="true" x="466" y="82"><![CDATA[
+				<h1>When did the event occur?</h1>
+				<p>Demonstrators against the Civil War draft rioted for four days in July 1863. The riot began on July 13, when New York City officials began drawing names for the draft.</p>
+			]]></hotspot>
+			<hotspot title="Why?" dynamic="true" x="6" y="202"><![CDATA[
+				<h1>Why did the event occur?</h1>
+				<p style="font-size: 80%">Poor laborers were angry because wealthy people could be exempted from the draft or could hire someone to fight in their place. Irish workers were hostile because African American strikebreakers had been used against them in a recent longshoremen's strike, and they blamed African Americans generally for the Civil War, which they thought was being fought for the benefit of slaves who would soon be competing with white workers in the North for jobs.</p>
+			]]></hotspot>
+			<hotspot title="Where?" dynamic="true" x="415" y="202"><![CDATA[
+				<h1>Where did the event occur?</h1>
+				<p>New York City was the site of the worst draft riots—one of the most violent urban uprisings in American history. The rioters lynched a number of African Americans, burned down homes and businesses (mostly those of free African Americans), and destroyed the orphanage shown here that housed African American children.</p>
+			]]></hotspot>
+			<hotspot title="Who?" dynamic="true" x="469" y="352"><![CDATA[
+				<h1>Who was involved?</h1>
+				<p>Four thousand men, mostly poor Irish laborers, were at the center of the violence during the draft riots. More than 100 people died—a number of them African Americans who were lynched.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-3_s10</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)NY Public Library,  (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What do the events surrounding the New York City Draft Riot tell you about the North during the Civil War?</question>
+            <answers>
+               <answer>All Northerners believed that slavery was wrong.</answer>
+			   <answer>All Northerners supported President Lincoln and his government.</answer>
+			   <answer>Some Northerners had mixed feelings about President Lincoln.</answer>
+               <answer correct="true">Some Northerners had mixed feelings about the war and some of its aims.</answer>
+			   <answer>There was no Northern support for a war that freed the slaves.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s11</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-3_s12.jpg</image>
+         <hotspots>
+			<hotspot title="The Event" dynamic="true" x="10" y="10"><![CDATA[
+				<h1>The Event</h1>
+				<p>Protest Against the Vietnam War Draft</p>
+			]]></hotspot>
+			<hotspot title="What?" dynamic="true" x="164" y="335"><![CDATA[
+				<h1>What was the situation or condition that led to the event?</h1>
+				<p style="font-size: 80%;">As the Vietnam War dragged on, political support for it began to erode. A series of "teach-ins" on university campuses, beginning at the University of Michigan in 1965, sparked a national debate over the war. By the end of 1967, American students opposed to the war had become a significant political force. Enormous peace marches in New York, Washington, D.C., and other cities drew broad public attention to the antiwar movement. Closely related to opposition to the war was opposition to the military draft.</p>
+			]]></hotspot>
+			<hotspot title="When?" dynamic="true" x="10" y="335"><![CDATA[
+				<h1>When did the event occur?</h1>
+				<p>This particular anti-draft protest occurred in 1968. Many similar protests took place from 1965 until the withdrawal of the United States from Vietnam in 1973.</p>
+			]]></hotspot>
+			<hotspot title="Why?" dynamic="true" x="318" y="335"><![CDATA[
+				<h1>Why did the event occur?</h1>
+				<p>Organized protests against the Vietnam War did not occur until 1965, when the military draft increased conscription from 3,000 a month to 33,000 a month. People who traditionally were able to obtain deferments—graduate students, teachers, husbands, fathers, and others—were added to the list of draftees. Many young men began burning their draft papers, and recruitment offices became targets of protesters.</p>
+			]]></hotspot>
+			<hotspot title="Where?" dynamic="true" x="472" y="10"><![CDATA[
+				<h1>Where did the event occur?</h1>
+				<p>This particular anti-draft protest occurred at the University of California at Berkeley. Many similar protests took place throughout major cities and college campuses across the nation.</p>
+			]]></hotspot>
+			<hotspot title="Who?" dynamic="true" x="472" y="335"><![CDATA[
+				<h1>Who was involved?</h1>
+				<p>Student activists in the 1960s became known as the New Left—a large, diverse group of men and women energized by the polarizing developments of their time. The New Left embraced the cause of African Americans and other minorities, drawing its inspiration from the civil rights movement.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-3_s12</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>What do the events surrounding the Vietnam War protests tell you about the United States during the Vietnam War?</question>
+            <answers>
+               <answer>Those who opposed the war were a small fringe group.</answer>
+               <answer correct="true">Many young Americans, united behind a common cause, became a political force in America.</answer>
+			   <answer>Many young Americans turned to violence to show the government how upset they were with the draft.</answer>
+			   <answer>By 1968, very few Americans supported the Vietnam War.</answer>
+			   <answer>All students in America were against the Vietnam War.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s13_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s13</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following do the New York draft riots and the Vietnam War protests have in common?</question>
+            <answers>
+               <answer>Both had a racially motivated component.</answer>
+               <answer correct="true">Both were staged by people most affected by the draft.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s14</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="7">A: Spurred by draft increase</match>
+   			<match id="8">B: Mostly nonviolent</match>
+   			<match id="1">C: Targeted race</match>
+   			<match id="9">D: Mostly students</match>
+   			<match id="10">E: Lasted several years</match>
+   			<match id="3">F: Economically motivated</match>
+   			<match id="4">G: Lasted several weeks</match>
+   			<match id="5">H: Mostly laborers</match>
+   			<match id="6">I: Wanted to end draft</match>
+   			<match id="11">J: Politically motivated</match>
+   			<match id="2">K: Mostly violent</match>
+   			<match id="12">L: Occurred nationwide</match>
+         </matches>
+         <coord correct="1" x="57" y="102" />
+         <coord correct="1" x="57" y="145" />
+         <coord correct="1" x="57" y="188" />
+         <coord correct="1" x="57" y="231" />
+         <coord correct="1" x="57" y="274" />
+         <coord correct="2" x="213" y="146" />
+         <coord correct="2" x="213" y="211" />
+         <coord correct="3" x="368" y="102" />
+         <coord correct="3" x="368" y="145" />
+         <coord correct="3" x="368" y="274" />
+         <coord correct="3" x="368" y="188" />
+         <coord correct="3" x="368" y="231" />
+         <drops title="">1,2,3,4,5</drops>
+         <drops title="">6,7</drops>
+         <drops title="">8,9,10,11,12</drops>
+         <image>USH_m4-3_s15.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'</instructions>
+      <audio>USH_m4-3_s15</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s16</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s17</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)NY Public Library, (2)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s18</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s19</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Francis G. Mayer/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s20</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)NY Public Library, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>How did the Walking Purchase Treaty change relations among the Delaware Indians and settlers in Pennsylvania?</question>
+            <answers>
+               <answer>The Delaware began to trust colonial government.</answer>
+			   <answer>The Delaware became better at bargaining when dealing with whites.</answer>
+			   <answer>The displaced Delaware became more closely allied with the British.</answer>
+               <answer correct="true">The Delaware allied with the French, and waged war against settlers on the Pennsylvania frontier.</answer>
+			   <answer>The Delaware began to show settlers how to farm and gather resources from the environment.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s21</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s22</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)William Manning/Corbis, (2)Universal Images Group/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s23</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Universal History Archive/Universal Images Group/Getty Images, (2)William Manning/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="24" type="3_txt_img_reading">
+      <content>
+         <header italic="false">The Treaty of Greenville, 1795</header>
+         <text><![CDATA[
+		 	<p>A treaty of peace between the United States of America, and the tribes of Indians called the Wyandots, Delawares, Shawanees, Ottawas, Chippewas, Pattawatimas, Miamis, Eel Rivers, Weas, Kickapoos, Piankeshaws, and Kaskaskias.</p>
+			<p>To put an end to a destructive war, to settle all controversies, and to restore harmony and friendly intercourse between the said United States and Indian tribes, Anthony Wayne, major general commanding the army of the United States, and sole commissioner for the good purposes above mentioned, and the said tribes of Indians, by their sachems, chiefs, and warriors, met together at Greenville, the head quarters of the said army, have agreed on the following articles, which, when ratified by the President, with the advice and consent of the Senate of the United States, shall be binding on them and the said Indian tribes.</p>
+			<p><strong>Art. 1</strong>: Henceforth all hostilities shall cease; peace is hereby established, and shall be perpetual; and a friendly intercourse shall take place between the said United States and Indian tribes.</p>
+			<p><strong>Art. 2</strong>: All prisoners shall, on both sides, be restored. . . .</p>
+			<p><strong>Art. 3</strong>: The general boundary line between the lands of the United States and the lands of the said Indian tribes, shall begin at the mouth of Cayahoga river, and run thence up the same to the portage, between that and the Tuscarawas branch of the Muskingum, thence down that branch to the crossing place above fort Lawrence, thence westerly to a fork of that branch of the Great Miami river, running into the Ohio, at or near which fork stood Loromie's store. . . . [explicit boundary details continue for several pages]</p>
+			<p><strong>Art. 4</strong>: . . . the United States relinquish their claims to all other Indian lands northward of the river Ohio, eastward of the Mississippi, and westward and southward of the Great Lakes and the waters. . . .</p>
+			<p>. . . the United States now deliver to the said Indian tribes a quantity of goods to the value of twenty thousand dollars, the receipt whereof they do hereby acknowledge. . . .</p>
+			<p><strong>Art. 5</strong>: To prevent any misunderstanding about the Indian lands relinquished by the United States in the fourth article, it is now explicitly declared, that the meaning of that relinquishment is this: the Indian tribes who have a right to those lands, are quietly to enjoy them, hunting, planting, and dwelling thereon, so long as they please, without any molestation from the United States; but when those tribes, or any of them, shall be disposed to sell their lands, or any part of them, they are to be sold only to the United States; and until such sale, the United States will protect all the said Indian tribes in the quiet enjoyment of their lands against all citizens of the United States, and against all other white persons who intrude upon the same. And the said Indian tribes again acknowledge themselves to be under the protection of the said United States, and no other power whatever.</p>
+			<p><strong>Art. 7</strong>: The said tribes of Indians, parties to this treaty, shall be at liberty to hunt within the territory and lands which they have now ceded to the United States, without hindrance or molestation, so long as they demean themselves peaceably, and offer no injury to the people of the United States. . . . </p>
+			<p><strong>Art. 8</strong>: Trade shall be opened with the said Indian tribes.</p>
+		 ]]></text>
+      </content>
+      <audio>USH_m4-3_s24</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="25" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Change Over Time</header>
+         <instruction>Walking Purchase Treaty vs. Treaty of Greenville</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-3_s25.jpg</image>
+         <hotspots>
+			<hotspot title="Who?" dynamic="true" x="7" y="53"><![CDATA[
+				<h1>Who was involved?</h1>
+				<p>Thomas Penn, land agent James Logan, and the Delaware Indians</p>
+			]]></hotspot>
+			<hotspot title="Why?" dynamic="true" x="114" y="5"><![CDATA[
+				<h1>Why was the treaty negotiated?</h1>
+				<p>Thomas Penn was in debt, and needed the Delaware lands to sell to new immigrants.</p>
+			]]></hotspot>
+			<hotspot title="What?" dynamic="true" x="7" y="106"><![CDATA[
+				<h1>What type of document was the treaty?</h1>
+				<p>Thomas Penn and James Logan claimed to have found the early treaty, which deeded to Pennsylvania authorities an amount of Delaware Indian lands.</p>
+			]]></hotspot>
+			<hotspot title="How?" dynamic="true" x="7" y="233"><![CDATA[
+				<h1>How were the boundaries of the treaty decided?</h1>
+				<p>Thomas Penn and James Logan manipulated the language and intent of the treaty to swindle from the Delaware Indians nearly 1,200 square miles.</p>
+			]]></hotspot>
+			<hotspot title="Where?" dynamic="true" x="7" y="287"><![CDATA[
+				<h1>Where did the Delaware go after the treaty was concluded?</h1>
+				<p>The Delaware, knowing they had been swindled, refused to honor the boundaries. They were pushed off their land anyway, and many allied with the French in the Ohio Valley.</p>
+			]]></hotspot>
+			<hotspot title="Who?" dynamic="true" x="269" y="106"><![CDATA[
+				<h1>Who was involved?</h1>
+				<p>United States government under the direction of Major General Anthony Wayne; leaders of the Wyandots, Delawares, Shawanees, Ottawas, Chippewas, Pattawatimas, Miamis, Eel Rivers, Weas, Kickapoos, Piankeshaws, and Kaskaskias</p>
+			]]></hotspot>
+			<hotspot title="Why?" dynamic="true" x="383" y="5"><![CDATA[
+				<h1>Why was the treaty negotiated?</h1>
+				<p>"To put an end to a destructive war, to settle all controversies, and to restore harmony and friendly intercourse between the said United States and Indian tribes"; to draw up specific boundaries</p>
+			]]></hotspot>
+			<hotspot title="What?" dynamic="true" x="269" y="53"><![CDATA[
+				<h1>What type of document was the treaty?</h1>
+				<p>The document was a legal agreement "which, when ratified by the President, with the advice and consent of the Senate of the United States, shall be binding on [government officials] and the said Indian tribes."</p>
+			]]></hotspot>
+			<hotspot title="How?" dynamic="true" x="476" y="53"><![CDATA[
+				<h1>How were the boundaries of the treaty decided?</h1>
+				<p>The boundaries were laid out in explicit and detailed language, from every fork in a creek to every bend in a river.</p>
+			]]></hotspot>
+			<hotspot title="Where?" dynamic="true" x="434" y="335"><![CDATA[
+				<h1>Where did the affected American Indians go after the treaty was concluded? </h1>
+				<p>They went to "Indian lands northward of the river Ohio, eastward of the Mississippi, and westward and southward of the Great Lakes and the waters" where they had "a right to those lands, are quietly to enjoy them, hunting, planting, and dwelling thereon, so long as they please, without any molestation from the United States."</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-3_s25</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (cr)Ohio Historical Society, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="26" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which element was the same for both treaties?</question>
+            <answers>
+               <answer>Both hoped for a way to establish peaceful relations among the American Indians and white settlers.</answer>
+               <answer correct="true">Both wanted American Indian lands for economic purposes.</answer>
+			   <answer>Both wanted American Indian lands because valuable mineral resources were discovered on them.</answer>
+			   <answer>Both wanted American Indian lands to act as a barrier to the French.</answer>
+			   <answer>Both wanted American Indian lands for political purposes.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s26_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s26</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s27</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="28" type="6_Activity_Interactivity">
+      <content>
+         <header>Change Over Time</header>
+         <instruction>Growth of Transportation 1830s–1880</instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USH_M03_01_16P.mp4</url>
+      <image>USH_m4-3_s28.jpg</image>
+      <audio>USH_m4-3_s28</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="29" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s29</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="30" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Change Over Time</header>
+         <instruction>Fort Laramie Treaty</instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-3_s30.jpg</image>
+         <hotspots>
+			<hotspot title="Article I" dynamic="true" x="10" y="10"><![CDATA[
+				<p style="font-size:80%">From this day forward all war between the parties to this agreement shall for ever cease. The government of the United States desires peace, and its honor is hereby pledged to keep it. The Indians desire peace, and they now pledge their honor to maintain it.<br/>
+If bad men among the whites . . . shall commit any wrong upon the person or property of the Indians, the United States will, upon proof made to the agent, and forwarded to the Commissioner of Indian Affairs at Washington city, proceed at once to cause the offender to be arrested and punished according to the laws of the United States. . . . </p>
+			]]></hotspot>
+			<hotspot title="Article II" dynamic="true" x="164" y="10"><![CDATA[
+				<p style="font-size:80%">The United States agrees that the following district of country, to wit, viz: commencing on the east bank of the Missouri river where the 46th parallel of north latitude crosses the same . . . thence due east along said parallel to the place of beginning; and in addition thereto, all existing reservations of the east back of said river, shall be and the same is, set apart for the absolute and undisturbed use and occupation of the Indians herein named. . . .</p>
+			]]></hotspot>
+			<hotspot title="Article IV" dynamic="true" x="318" y="10"><![CDATA[
+				<p style="font-size:70%">The United States agrees, at its own proper expense, to construct, at some place on the Missouri river, near the centre of said reservation where timber and water may be convenient, the following buildings, to wit, a warehouse, a store-room for the use of the agent in storing goods belonging to the Indians, to cost not less than $2,500; an agency building, for the residence of the agent, to cost not exceeding $3,000; a residence for the physician, to cost not more than $3,000; and five other buildings, for a carpenter, farmer, blacksmith, miller, and engineer-each to cost not exceeding $2,000; also, a school-house, or mission building, so soon as a sufficient number of children can be induced by the agent to attend school, which shall not cost exceeding $5,000. . . .</p>
+			]]></hotspot>
+			<hotspot title="Article VI" dynamic="true" x="472" y="10"><![CDATA[
+				<p>If any individual belonging to said tribes of Indians, or legally incorporated with them, being the head of a family, shall desire to commence farming, he shall have the privilege to select, in the presence and with the assistance of the agent then in charge, a tract of land within said reservation, not exceeding three hundred and twenty acres in extent. . . .</p>
+			]]></hotspot>
+			<hotspot title="Article VII" dynamic="true" x="472" y="66"><![CDATA[
+				<p>In order to insure the civilization of the Indians entering into this treaty, the necessity of education is admitted, especially of such of them as are or may be settled on said agricultural reservations, and they, therefore, pledge themselves to compel their children, male and female, between the ages of six and sixteen years, to attend school, and it is hereby made the duty of the agent for said Indians to see that this stipulation is strictly complied with. . . </p>
+			]]></hotspot>
+			<hotspot title="Article XI" dynamic="true" x="214" y="335"><![CDATA[
+				<p>. . . the tribes who are parties to this agreement hereby stipulate that they will relinquish all right to occupy permanently the territory outside their reservations as herein defined, but yet reserve the right to hunt on any lands north of North Platte, and on the Republican Fork of the Smoky Hill river, so long as the buffalo may range thereon in such numbers as to justify the chase. </p>
+			]]></hotspot>
+			<hotspot title="Article XI points" dynamic="true" x="368" y="335"><![CDATA[
+				<p style="font-size:80%">And they, the said Indians, further expressly agree:<br/>
+<strong>1st.</strong> That they will withdraw all opposition to the construction of the railroads now being built on the plains. <strong>2d.</strong> That they will permit the peaceful construction of any railroad not passing over their reservation as herein defined. <strong>3d.</strong> That they will not attack any persons at home, or travelling, nor molest or disturb any wagon trains. . . . <strong>4th.</strong> They will never capture, or carry off from the settlements, white women or children. <strong>5th.</strong> They will never kill or scalp white men, nor attempt to do them harm. <strong>6th.</strong> They withdraw all pretence of opposition to the construction of the railroad now being built. . . . </p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-3_s30</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="31" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>How does the Fort Laramie Treaty reveal the changes over time in the government's American Indian policy?</question>
+            <answers>
+               <answer>The treaty took land held by American Indians.</answer>
+			   <answer>The treaty gave the Sioux far less than what their land was worth.</answer>
+               <answer correct="true">The treaty promised to support the Sioux on a reservation, but imposed Western ideas.</answer>
+			   <answer>The treaty took farmable land away from a settled people.</answer>
+			   <answer>The treaty did not stipulate any actual boundaries.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s31_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s31</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="32" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of these Sioux "promises" from the Fort Laramie Treaty reveal the true reason the federal government wanted Sioux land?</question>
+            <answers>
+               <answer>They will pledge themselves to compel their children to attend school.</answer>
+               <answer correct="true">They will permit the peaceful construction of any railroad not passing over their reservation as herein defined.</answer>
+			   <answer>They will not attack any persons at home, or travelling, nor molest or disturb any wagon trains.</answer>
+			   <answer>They will never capture, or carry off from the settlements, white women or children.</answer>
+			   <answer>They will never kill or scalp white men, nor attempt to do them harm.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s32_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s32</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="33" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s33</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Ohio Historical Society, (2)Bettmann/Corbis, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="34" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="height:110px;" dropStyle="height:98px">
+         <matches title="">
+            <match id="1">The whites were never honest in their dealings with the American Indians.</match>
+			<match id="2">Over time, a shift in priorities caused the U.S. government to break existing treaties with American Indians.</match>
+			<match id="3">The overarching goal in these dealings with the American Indians was to secure land for expanding settlement.</match>
+			<match id="4">The number of violent conflicts was caused by the naturally violent nature of American Indians.</match>
+			<match id="5">From the time of the earliest colonization, the United States was bent on securing the entire continent for whites.</match>
+			<match id="6">The pattern shown in the treaties reflects the gradual Western expansion of the United States.</match>
+         </matches>
+         <drops title="Logical Inference">2,3,6</drops>
+		 <drops title="Faulty Conclusion">1,4,5</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_m4-3_s34</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="35" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s35</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)William Manning/Corbis, (2)Underwood &amp; Underwood/Corbis, (3)Library of Congress, Prints &amp; Photographs Division, [LC-USZ62-23866], (4)TongRo Image Stock/Alamy, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="36" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s36</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="37" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Historical Context</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_m4-3_s37.jpg</image>
+         <hotspots>
+			<hotspot audio="USH_m4-3_s37_location" title="Location" dynamic="true" x="10" y="145"><![CDATA[
+				<h1>Location</h1>
+				<ul>
+					<li>Majority east of the Mississippi River</li>
+					<li>Most cities were located close to a body of water.</li>
+				</ul>
+			]]></hotspot>
+			<hotspot audio="USH_m4-3_s37_size" title="Size" dynamic="true" x="164" y="145"><![CDATA[
+				<h1>Size</h1>
+				<p>Cities around 1800 were much smaller than cities in 1900.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-3_s37_spread" title="Spread" dynamic="true" x="253" y="220"><![CDATA[
+				<h1>Spread</h1>
+				<p>Manifest Destiny helped the holdings of the United States to spread westward at the expense of native peoples.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-3_s37_latergrowth" title="Later Growth" dynamic="true" x="343" y="71"><![CDATA[
+				<h1>Later Growth</h1>
+				<p> The Great Migration helped to increase the size of cities as African Americans migrated from the rural South to the industrial North in search of work.</p>
+			]]></hotspot>
+			<hotspot audio="USH_m4-3_s37_earlygrowth" title="Early Growth" dynamic="true" x="472" y="158"><![CDATA[
+				<h1>Early Growth</h1>
+				<p>Immigration helped the growth of cities as people moved from England, Ireland, Germany, and other parts of Northern Europe to America.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_m4-3_s37</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="38" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Urbanization began along bodies of water because water allowed a means for transporting goods to market.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s38</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="39" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Urbanization and the growth of cities were aided by both migration and immigration.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="40" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Urbanization began after 1900.</question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="41" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s41</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (l)Library of Congress Prints and Photographs Division, [LC-USZ62-70774], (r)Library of Congress, Prints &amp; Photographs Division, FSA-OWI Collection, [LC-USE6- D-004066], (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="42" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following is an inference you can draw from these images about the change in factory work between 1900 and 1945?</question>
+            <answers>
+               <answer correct="true">Most work done in factories was done by machines, and not by hand.</answer>
+               <answer>While some work was done by machine, a majority was done using hand tools.</answer>
+            </answers>
+            <feedbackAudio>USH_m4-3_s42_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s42</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="43" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s43</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="44" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s44</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Design Pics/Darren Greenwood,  (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="45" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s45</video>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="46" type="2_Txt_Img_Animation">
+      <video>USH_m4-3_s46</video>
+      <credits>(bkgd)Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="47" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>War and diplomacy can be considered agents of change.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Economic transformation is rarely an agent of change. </question>
+            <answers>
+               <answer>TRUE</answer>
+               <answer correct="true">FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Recognizing changes and continuities, as well as reasons for both, are important skills in history.</question>
+            <answers>
+               <answer correct="true">TRUE</answer>
+               <answer>FALSE</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of following best describes the change in the United States between 1800 and 1900?</question>
+            <answers>
+               <answer>The country changed little during this period; however, cities did grow as a result of immigration.</answer>
+               <answer correct="true">The country spread from east to west, cities grew and developed with the aid of industry, and immigration and migration helped lead to the urbanization of the nation.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following did Americans use as their justification for taking land from American Indians?</question>
+            <answers>
+               <answer>Industrialization</answer>
+               <answer correct="true">Manifest Destiny</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Based on the map, how did the city of New Orleans change between 1840 and 1900?</question>
+            <answers>
+               <answer>The city's expansion was limited until streetcar lines were laid in 1900.</answer>
+               <answer correct="true">The city expanded outward from a central location along the Mississippi River.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-3_s47_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>What was the probable agent of change that encouraged increased expansion of the city away from the river?</question>
+            <answers>
+               <answer correct="true">Transportation</answer>
+               <answer>The Environment</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-3_s47_viewA.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTextFigure="true">
+            <question>Which AP U.S. History themes serve as agents of change in this excerpt?</question>
+            <answers>
+               <answer>Economic transformations, warfare and diplomacy, and slavery and its legacies in North America</answer>
+               <answer correct="true">Demographic changes, economic transformations, and globalization</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>Between the 1820s and the 1850s, the American economy experienced the beginnings of an industrial revolution—a change so profound that in the United States, as in Europe, it transformed almost every area of life in fundamental ways.</p>
+					<p>The American industrial revolution was a result of many things: population growth (through both natural increase and immigration), advances in transportation and communication, new technologies that spurred the development of factories capable of mass producing goods, the recruiting of a large industrial labor force, and the creation of corporate bodies capable of managing large enterprises. The new economy created great wealth, expanding the ranks of the wealthy and helping to create a large new middle class. It also created high levels of inequality which were particularly visible in the growth of a large industrial working class.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasTexyFigure="true">
+            <question>If you were asked to write an essay on the industrial revolution in the United States from 1800 to 1840, which of the following would you NOT include?</question>
+            <answers>
+               <answer correct="true">The rise of labor unions</answer>
+               <answer>The rise of urbanization</answer>
+            </answers>
+            <figure>
+				<header></header>
+				<text><![CDATA[
+					<p>Between the 1820s and the 1850s, the American economy experienced the beginnings of an industrial revolution—a change so profound that in the United States, as in Europe, it transformed almost every area of life in fundamental ways.</p>
+					<p>The American industrial revolution was a result of many things: population growth (through both natural increase and immigration), advances in transportation and communication, new technologies that spurred the development of factories capable of mass producing goods, the recruiting of a large industrial labor force, and the creation of corporate bodies capable of managing large enterprises. The new economy created great wealth, expanding the ranks of the wealthy and helping to create a large new middle class. It also created high levels of inequality which were particularly visible in the growth of a large industrial working class.</p>
+					<p style="font-size:90%;">From AMERICAN HISTORY: CONNECTING WITH THE PAST, 14th Edition, by Alan Brinkley, copyright &copy; 2012 The McGraw-Hill Companies, Inc.</p>
+				]]></text>
+			</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple hasFigure="true">
+            <question>Which of the following best describes the role immigration played in the United States between 1860 and 1920?</question>
+            <answers>
+               <answer correct="true">Immigration was a major factor in the increase in the population of the United States, especially in the early 1900s.</answer>
+               <answer>While immigration played a role in the population growth of the United States, it was only a minor cause of the overall population increase.</answer>
+            </answers>
+            <figure verticalAlign="center">USH_m4-3_s47_viewB.jpg</figure>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_m4-3_s47</audio>
+      <credits>(tr)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd)Comstock/PunchStock</credits>
+   </scene>
+</shell>

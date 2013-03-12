@@ -1,0 +1,27 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Revise this sentence to be parallel, or balanced.</p>]]></hText>
+		<qText><![CDATA[<p>Grandmother likes to read mystery novels, to do needlepoint, and surfing the Internet.</p>]]></qText>
+		<correctText><![CDATA[<p><font face='c-Bold'>Correct answer:</font></p>
+Grandmother likes to read mystery novels, to do needlepoint, and to surf the Internet.]]></correctText>
+		<haveSource enable="false" word="View" image="images/eng_m3-8_s19.jpg" />
+		<audio>audio/eng_m3-8_s19.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

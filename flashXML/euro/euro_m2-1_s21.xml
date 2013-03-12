@@ -1,0 +1,44 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-1_s21.jpg</image>
+		<audio>audio/euro_m2-1_s21.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>83</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size="20">What were the differences between the Triple Alliance and the Triple Entente?</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size="20">Who was involved in the naval race?]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Where are the Balkans?]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">What occurred during the first Balkan crisis?]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">What were the causes and the outcomes of the two Balkan wars?]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Who was assassinated in Sarajevo?]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="570" yCord="180" spotScale="75" spotNum="1"/>
+		<dSpot xCord="570" yCord="250" spotScale="75" spotNum="1"/>
+		<dSpot xCord="570" yCord="320" spotScale="75" spotNum="1"/>
+		<dSpot xCord="570" yCord="390" spotScale="75" spotNum="1"/>
+		<dSpot xCord="875" yCord="180" spotScale="75" spotNum="2"/>
+		<dSpot xCord="875" yCord="250" spotScale="75" spotNum="2"/>
+		<dSpot xCord="875" yCord="320" spotScale="75" spotNum="2"/>
+		<dSpot xCord="875" yCord="390" spotScale="75" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

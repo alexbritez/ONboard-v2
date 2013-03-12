@@ -1,0 +1,42 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-8_s5.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+//1	
+	<question>
+		<qText>Which of these sentences would make the best thesis statement?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>Disease has shaped human history.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Men and women are very different.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Teachers play an important role, but they are not as important as parents.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Bullying is a serious problem and more young people need to learn to help others.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>In the mid-1980s, AIDS changed people’s attitudes about dating.</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m3-8_s5_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

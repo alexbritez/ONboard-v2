@@ -1,0 +1,27 @@
+<TextReading>
+	<slideInfo>
+		<hText><![CDATA[<p align="center"><font face='c-Bold'>The Scientific View of the World</font></p>]]></hText>
+		<image></image>
+		<audio>audio/euro_m2-5_s6.mp3</audio>
+		<mainText><![CDATA[The seventeenth century has been called the century of genius. One reason is that it was the age when science became “modern.” It was the great age of Galileo and Sir Isaac Newton, whose combined lifetimes spanned the century, with Galileo dying and Newton being born in the same year, 1642. When Galileo was young, those who probed into the secrets of nature still labored largely in the dark, isolated from one another and from the general public, working oftentimes by methods of trial and error, not altogether clear on what they were trying to do, with their thinking still complicated by ideas not nowadays considered scientific. They had nevertheless accomplished a good deal, without which the intellectual revolution of the seventeenth century would not have occurred. But in a way all scientific investigators before Galileo seem to be precursors, patient workers destined never to enter into the world toward which they labored. In 1727, when Newton died, all was changed. Scientists were in continual touch with one another, and science was recognized as one of the principal enterprises of European society. Scientific methods of inquiry had been defined. The store of factual knowledge had become very large. The first modern scientific synthesis, or coherent theory of the physical universe, had been presented by Newton. Scientific knowledge was applied increasingly to navigation, mining, agriculture, and many branches of manufacture. Science and invention were joining hands. Science was accepted as the main force in the advancement of civilization and progress. And science was becoming popularized; many people who were not themselves scientists “believed” in science and attempted to apply scientific habits of thought to diverse problems of social and political life.
+<font size='8'><br/>From A HISTORY OF THE MODERN WORLD, 10th edition, by R.R. Palmer et al., copyright © 2007 The McGraw-Hill Companies, Inc.</font>]]></mainText>
+	</slideInfo>	
+</TextReading>
+<!-- 
+
+<font face='t-Italic'>This is for title italics</font>
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

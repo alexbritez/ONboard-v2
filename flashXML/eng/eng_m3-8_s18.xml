@@ -1,0 +1,42 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>audio/eng_m3-8_s18.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+//1	
+	<question>
+		<qText>Which sentence shows parallel structure?</qText>
+		<answerButtons>
+			<aBtn>
+				 <aText>My job includes checking the inventory, initialing the orders, and to call the suppliers.</aText> 
+				 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The game-show contestant was told to be cheerful, charming, and with enthusiasm.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Grandmother likes to read mystery novels, to do needlepoint, and surfing the Internet.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>We painted the trim in the living room; the wallpaper was put up by a professional.</aText> 
+			 	 <correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Many people share the same three intense fears: being in high places, working with numbers, and giving speeches.</aText> 
+			 	 <correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="audio/eng_m3-8_s18_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

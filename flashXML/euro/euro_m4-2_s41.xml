@@ -1,0 +1,83 @@
+﻿<PopUp>
+	<slideInfo>
+		<title><![CDATA[More on the <font face='c-Italic'>Mona Lisa</font> and <font face='c-Italic'>Madonna of the Meadow</font>]]></title>
+		<info></info>
+		<image>images/euro_m4-2_s41.jpg</image>
+		<audio>audio/euro_m4-2_s41.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		 <pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>470.5</xCord>
+			<yCord>103.55</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[“Mona” is short for “my lady” in Italian. In Europe, the painting is also known as “La Gioconda” or “La Joconde.”]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>477.5</xCord>
+			<yCord>164.55</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[The subject, Lisa Gherardini, was the wife of a wealthy silk merchant Francesco del Giocondo.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>3</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>650.5</xCord>
+			<yCord>130.55</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[The painting was most likely commissioned by Francesco del Giocondo to commemorate the birth of his and Lisa’s second son, Andrea. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>4</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>664.5</xCord>
+			<yCord>195.55</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[The painting was completed by Leonardo da Vinci in 1503 at the height of the High Renaissance. He is sometimes referred to as the quintessential “Renaissance Man” for his genius in several disciplines such as painting, architecture, science and engineering. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>5</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>742.5</xCord>
+			<yCord>95.55</yCord>
+			<width>87</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Raphael was most well-known for painting numerous works of the Madonna and Child. The Madonna of the Meadow is one of his most famous paintings in this genre.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>6</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>759.5</xCord>
+			<yCord>140.55</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[The Virgin Mary, the mother of Jesus Christ, is given generic facial characteristics. This is similar to art works in the Middle Ages where faces were meant to be symbolic of humanity, rather than portraying an actual individual person. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>7</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>864.5</xCord>
+			<yCord>97.55</yCord>
+			<width>87</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[Raphael completed the painting in 1506, just three years after Leonardo completed the Mona Lisa. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>8</Name>
+			<audio enable="false" url="audio/launchAudio.mp3"/>
+			<xCord>926.5</xCord>
+			<yCord>137.55</yCord>
+			<width>74</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[You can see examples of how this painting is idealized. One example are the halos located over the head of each subject. Mary’s blue skirt represents heaven while her red blouse represents the death of Christ. The Baby Jesus leans to touch the miniature cross held by John the Baptist, foreshadowing Christ’s crucifixion. ]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

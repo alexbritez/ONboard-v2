@@ -1,0 +1,151 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s28.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+
+
+		<question>
+		<qText><![CDATA[Which of the following energy level transitions in a hydrogen atom would produce a photon of visible light?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[2 <font face="CambriaMath">→</font> 1]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				  <aText><![CDATA[3 <font face="CambriaMath">→</font> 1]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4 <font face="CambriaMath">→</font> 2]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[5 <font face="CambriaMath">→</font> 3]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s27.mp_FB.mp3" />
+	</question>
+	
+		<question>
+		<qText><![CDATA[J. J. Thomson discovered that atoms contained small, negatively-charged electrons.  What equipment did he use to make his discovery?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[Cathode ray tube]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				  <aText><![CDATA[Gold foil]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Oil-drop apparatus]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[A source of radiation]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s27.mp_FB.mp3" />
+	</question>
+	
+		<question>
+		<qText><![CDATA[Determine the wavelength, in nm, of a photon emitted as an electron goes from the 5<font face='SuperScript'>th</font> to the 2<font face='SuperScript'>nd</font> energy level in a hydrogen atom.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[4.34 × 10 <font face='SuperScript' size='24'>–7</font> nm]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				  <aText><![CDATA[314 nm]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[434 nm]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.30 × 10<font face='SuperScript' size='24'>6</font> nm]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s27.mp_FB.mp3" />
+	</question>
+	
+		<question>
+		<qText><![CDATA[For which of the following energy level changes would the photon have the greatest amount of energy?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[2 <font face='CambriaMath'>→</font> 1]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				  <aText><![CDATA[3 <font face='CambriaMath'>→</font> 1]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4 <font face='CambriaMath'>→</font> 2]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[5 <font face='CambriaMath'>→</font> 3]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s27.mp_FB.mp3" />
+	</question>
+
+	
+		<question>
+		<qText><![CDATA[Which of the following represents an isotope of Se (<font face='c-Italic'>Z</font> = 34)?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'></font>p<font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>3<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>d</font><font face='SuperScript' size='24'>10</font>4<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>4<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>3<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>d</font><font face='SuperScript' size='24'>10</font>4<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>d</font><font face='SuperScript' size='24'>10</font>4<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>4<font face='c-Italic'>p</font><font face='SuperScript' size='24'>4</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<p>1<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>2<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>3<font face='c-Italic'>p</font><font face='SuperScript' size='24'>6</font>3<font face='c-Italic'>d</font><font face='SuperScript' size='24'>10</font>4<font face='c-Italic'>s</font><font face='SuperScript' size='24'>2</font>4<font face='c-Italic'>p</font><font face='SuperScript' size='24'>4</font></p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m3-1_s27.mp_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

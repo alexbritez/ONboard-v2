@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Percentages">
+   <scene id="1" type="1_Module_Intro">
+      <video>bio_m3-2_s1</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Richard Griffin/Alamy, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s2</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s3</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following is equal to 35%?</question>
+            <answers>
+               <answer correct="true">0.35</answer>
+               <answer>35.00</answer>
+            </answers>
+            <feedbackAudio>bio_m3-2_s4_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m3-2_s4</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s5</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s6</video>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="4">3%</match>
+			<match id="3">33%</match>
+			<match id="2">330%</match>
+			<match id="1">37.5%</match>
+			<match id="5">62%</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="16" y="77" />
+			<drop correct="2" x="16" y="133" />
+			<drop correct="3" x="16" y="189" />
+			<drop correct="4" x="16" y="245" />
+			<drop correct="5" x="16" y="301" />
+         </drops>
+         <image>bio_m3-2_s7.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>bio_m3-2_s7</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s8</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s9</video>
+      <credits>(tr)Fotosearch/Getty Images, (c)Natures Images/Photo Researchers/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What percent of the pill bugs were found in the wet environment?</question>
+            <answers>
+               <answer correct="true">70%</answer>
+               <answer>0.70%</answer>
+            </answers>
+            <figure><text><![CDATA[
+				<p>Dry environment = 6 pill bugs</p>
+				<p>Wet environment = 14 pill bugs</p>
+				<p>Total pill bugs = 6 + 14 = 20 pill bugs</p>
+			]]></text></figure>
+            <feedbackAudio>bio_m3-2_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m3-2_s10</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s11</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>If the control plant in a fertilizer experiment had a height of 10 cm and the experimental plant is 15 cm, how much taller did the fertilizer make the experimental plant? Give your answer in percent.</question>
+            <answers>
+               <answer correct="true">50%</answer>
+			   <answer>0.05%</answer>
+			   <answer>5.0%</answer>
+			   <answer>1.5%</answer>
+			   <answer>0.50%</answer>
+            </answers>
+            <feedbackAudio>bio_m3-2_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m3-2_s12</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>bio_m3-2_s13</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Fotosearch/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>If the substrate is decreased by 50%, what is the rate of reaction? (Recall that the control rate was 6.2 mg/L/min.)</question>
+            <answers>
+               <answer>1.55 mg/L/min</answer>
+               <answer correct="true">3.1 mg/L/min</answer>
+			   <answer>4.65 mg/L/min</answer>
+			   <answer>9.3 mg/L/min</answer>
+			   <answer>31 mg/L/min</answer>
+            </answers>
+            <feedbackAudio>bio_m3-2_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m3-2_s14</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What would be the expected rate of reaction if the student used 1 drop of enzyme?</question>
+            <answers>
+               <answer>4.95 mg/L/min</answer>
+			   <answer>3.72 mg/L/min</answer>
+			   <answer>2.48 mg/L/min</answer>
+               <answer correct="true">1.24 mg/L/min</answer>
+			   <answer>0.62 mg/L/min</answer>
+            </answers>
+            <figure><text><![CDATA[The control rate was 6.2 mg/L/min. using 5 drops of enzyme.]]></text></figure>
+            <feedbackAudio>bio_m3-2_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m3-2_s15</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>To convert from a decimal to a fraction, multiply by 10%.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A percent is a way of expressing a number as a fraction whose denominator is 100.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which answer is equivalent to 25%?</question>
+            <answers>
+               <answer>25/100</answer>
+			   <answer>5/20</answer>
+			   <answer>0.25</answer>
+               <answer correct="true">All of the above</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>If a bag of candy has 15 red candies, 12 blue candies, and 11 yellow candies, what percent of the candy is red?</question>
+            <answers>
+               <answer correct="true">39.5%</answer>
+			   <answer>0.395%</answer>
+			   <answer>60.5%</answer>
+			   <answer>395%</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>If the amount of water in a beaker is only 0.66 of the original volume, what percent of the water has been lost?</question>
+            <answers>
+               <answer>66%</answer>
+			   <answer>24%</answer>
+               <answer correct="true">34%</answer>
+			   <answer>44%</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>bio_m3-2_s16</audio>
+      <credits>(tr)Fotosearch/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

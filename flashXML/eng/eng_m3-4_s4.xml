@@ -1,0 +1,26 @@
+<LaunchOut>
+	<slideInfo>
+		<image>images/eng_m3-4_s4.jpg</image>
+		<audio>audio/eng_m3-4_s4.mp3</audio>
+		<titleText>Working Outline</titleText>
+		<bodyText></bodyText>
+		<btnLink>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENG_M03_04_01A.jpg</btnLink>
+	</slideInfo>
+</LaunchOut>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

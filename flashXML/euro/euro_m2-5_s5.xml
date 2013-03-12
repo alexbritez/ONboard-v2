@@ -1,0 +1,77 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_m2-5_s5.jpg</image>
+		<audio>audio/euro_m2-5_s5.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>90</boxScale>
+		<feedback>audio/euro_m2-5_s5_FB.mp3</feedback>
+	</slideInfo>
+	
+	<dragItems>
+	
+		<dItem>
+			<boxText>Anatomy</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+	
+		<dItem>
+			<boxText>Christopher Columbus</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Founding of Academies</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Johannes Kepler</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Planetary Laws</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Jean Baptiste Lully</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+
+		<dItem>
+			<boxText>Leviathan</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="576.9" yCord="213.2" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.9" yCord="286.5" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.9" yCord="359.8" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.9" yCord="433.1" spotScale="80" spotNum="1"/>
+
+		<dSpot xCord="864.1" yCord="213.2" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.1" yCord="286.5" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.1" yCord="359.8" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.1" yCord="433.1" spotScale="80" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

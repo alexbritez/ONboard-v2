@@ -1,0 +1,45 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Under King James’ view of politics, what would happen to Parliament?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size=''>Parliament retains all power and authority.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Parliament would lose all power and authority.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Any act of Parliament could, by rights, be mitigated or reversed by order of the king.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Parliament would disband.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>Parliament would come to accept their diminished role in government and become an informal advisory body to the king.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			
+		</answerButtons>
+		<feedback enable="true" audio="audio/euro_m3-2_s13_FB.mp3" />
+	</question>
+	
+</MultipleChoice>

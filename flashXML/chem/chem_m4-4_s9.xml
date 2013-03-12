@@ -1,0 +1,62 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m4-4_s9.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m4-4_s9.mp3</audio>
+		<boxSize>small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[CN<font face='chemNums' size='24'>c</font>]]></boxText>
+			<rightSpot>6</rightSpot>			
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[H<font face='SubScript' size='18'>3</font>O<font face='chemNums' size='24'>d</font>]]></boxText>
+			<rightSpot>10</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[PO<font face='chemNums' size='24'>u</font><font face='chemNums' size='24'>c</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[OH<font face='chemNums' size='24'>c</font>]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[HCO<font face='chemNums' size='24'>-</font>]]></boxText>
+			<rightSpot>8</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[NH<font face='chemNums' size='24'>8</font>]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Cr<font face='SubScript' size='18'>2</font>O<font face='chemNums' size='24'>A</font><font face='chemNums' size='24'>c</font>]]></boxText>
+			<rightSpot>9</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[NO<font face='chemNums' size='24'>0</font>]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[SO<font face='chemNums' size='24'>t</font><font face='chemNums' size='24'>c</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[O<font face='chemNums' size='24'>l</font><font face='chemNums' size='24'>c</font>]]></boxText>
+			<rightSpot>7</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="502.8" yCord="173.4" spotScale="75" spotNum="1"/>
+		<dSpot xCord="502.8" yCord="230.1" spotScale="75" spotNum="2"/>
+		<dSpot xCord="502.8" yCord="286.8" spotScale="75" spotNum="3"/>
+		<dSpot xCord="502.8" yCord="343.5" spotScale="75" spotNum="4"/>
+		<dSpot xCord="502.8" yCord="400.2" spotScale="75" spotNum="5"/>
+		<dSpot xCord="772.8" yCord="173.4" spotScale="75" spotNum="6"/>
+		<dSpot xCord="772.8" yCord="230.1" spotScale="75" spotNum="7"/>
+		<dSpot xCord="772.8" yCord="286.8" spotScale="75" spotNum="8"/>
+		<dSpot xCord="772.8" yCord="343.5" spotScale="75" spotNum="9"/>
+		<dSpot xCord="772.8" yCord="400.2" spotScale="75" spotNum="10"/>
+	</dropSpots>
+</DragDrop>

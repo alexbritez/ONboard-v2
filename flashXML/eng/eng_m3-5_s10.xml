@@ -1,0 +1,56 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/eng_m3-5_s10.jpg</image>
+		<audio>audio/eng_m3-5_s10.mp3</audio>
+		<boxSize>Big</boxSize>
+		<boxScale>90</boxScale>
+		<feedback></feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<p>In conclusion…</p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<p>My point was that…</p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>Having read my essay, you can see that…</p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<p>To sum up my main ideas…</p>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="578.85" yCord="169" spotScale="80" spotNum="1"/>
+		<dSpot xCord="578.85" yCord="252.3" spotScale="80" spotNum="1"/>
+		<dSpot xCord="578.85" yCord="335.6" spotScale="80" spotNum="1"/>
+		<dSpot xCord="578.85" yCord="418.9" spotScale="80" spotNum="1"/>
+		
+		<dSpot xCord="866.05" yCord="169" spotScale="80" spotNum="2"/>
+		<dSpot xCord="866.05" yCord="252.3" spotScale="80" spotNum="2"/>
+		<dSpot xCord="866.05" yCord="335.6" spotScale="80" spotNum="2"/>
+		<dSpot xCord="866.05" yCord="418.9" spotScale="80" spotNum="2"/>
+
+	</dropSpots>
+</DragDrop>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

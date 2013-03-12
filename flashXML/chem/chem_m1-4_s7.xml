@@ -1,0 +1,10 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[Calculation of Percent Error]]></hText>
+		<fraction>true</fraction>
+		<qText><![CDATA[<p>Experimental value: 44.86 grams/mol<br/><br/><br/>Accepted value = 44.01 grams/mol<br/><br/><br/><img src="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-4_s7A.swf"/>]]></qText>
+		<correctText><![CDATA[<p><font face='c-Bold' size='13'>The correct answer is 1.9% in terms of significant figures</font>.</p>]]></correctText>
+		<haveSource enable="true" word="Hint" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m1-4_s7.jpg" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-4_s7.mp3</audio>
+	</slideInfo>	
+</FillIn>

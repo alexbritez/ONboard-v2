@@ -1,0 +1,74 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>The Seven-Headed Luther</title>
+		<info><![CDATA[]]></info>
+		<image>images/euro_m3-5_s28.jpg</image>
+		<audio>audio/euro_m3-5_s28.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>1</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Caricature.mp3"/>
+			<xCord>435.8</xCord>
+			<yCord>299.8</yCord>
+			<width>134</width>
+			<popTitle>Some Accuracy</popTitle>
+			<popInfo><![CDATA[<p>Three of the seven heads show Luther as a doctor of divinity, a monk and an Ecclesiast or preacher, which are historically accurate portrayals. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>2</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Symbolism.mp3"/>
+			<xCord>545</xCord>
+			<yCord>178.3</yCord>
+			<width>134</width>
+			<popTitle>Luther as Infidel </popTitle>
+			<popInfo><![CDATA[<p>Luther is also shown as an ‘Infidel’ represented here by the Turbaned head labeled Luther.</p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>3</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Irony.mp3"/>
+			<xCord>738.5</xCord>
+			<yCord>304.65</yCord>
+			<width>134</width>
+			<popTitle>Luther as Fanatic </popTitle>
+			<popInfo><![CDATA[<p>Luther is portrayed as a fanatic, represented by the head swarming with wasps and labeled <font face='c-Italic' > Schwärmer</font>. <font face='c-Italic' > Schwärmer</font>  is a German word which can mean one who has visions, or a zealot, and was a derogatory term applied to Anabaptists during the Reformation. The illustration of a crazy man whose head swarmed with bees or wasps would have helped non-readers understand the cartoon. Schwarm is the German word for swarm and a <font face='c-Italic' > Schwärmer</font> was considered to be slightly deranged. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>4</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Metaphor.mp3"/>
+			<xCord>906.85</xCord>
+			<yCord>234.1</yCord>
+			<width>134</width>
+			<popTitle>Luther as Imposter</popTitle>
+			<popInfo><![CDATA[<p>Luther is also shown as a Visitator which in German means an ecclesiastical visitor. In this context, the head with a tall hat indicates that Luther is being portrayed as an imposter or false pope. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>5</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Stereotype.mp3"/>
+			<xCord>780</xCord>
+			<yCord>378.15</yCord>
+			<width>134</width>
+			<popTitle>Luther as Traitor</popTitle>
+			<popInfo><![CDATA[<p>Luther is shown as Barabbas, the criminal and traitor who was freed by Pontius Pilate instead of Jesus. Illiterate viewers would have recognized the depiction as a traditional German wild man with a club. </p>]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>6</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Stereotype.mp3"/>
+			<xCord>691.15</xCord>
+			<yCord>439.15</yCord>
+			<width>134</width>
+			<popTitle>Luther and the Devil </popTitle>
+			<popInfo><![CDATA[<p>By suggesting Luther was the seven headed beast of Revelations, the artist was associating Luther with the devil himself, and implying he would be defeated in the Apocalypse. The creator used the technique of caricature to denounce, defame, condemn, and ridicule Luther. </p>]]></popInfo>
+		</pButton>	
+		<pButton> 
+			<Name>7</Name>   
+			<audio enable="false" url="audio/audio/euro_m3-5_s26_Stereotype.mp3"/>
+			<xCord>783.05</xCord>
+			<yCord>150</yCord>
+			<width>134</width>
+			<popTitle>Creator</popTitle>
+			<popInfo><![CDATA[<p>The artist who created this image is identified under the title as a man named Cocleus. Cocleus was the chaplain to Prince George of Saxony and a long-time adversary of Luther’s.  Luther called him a ‘plague and poison to religion whose fruits and ends of contemning of God’s word will turn to madness and blindness’.  </p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

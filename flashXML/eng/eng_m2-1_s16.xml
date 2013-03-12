@@ -1,0 +1,57 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Avoid mixed grammatical patterns.</title>
+		<info><![CDATA[Be aware of logical content.]]></info>
+		<image>images/eng_m2-1_s16.jpg</image>
+		<audio>audio/eng_m2-1_s16.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>CORRECT VERSION:</Name>   
+			<audio enable="true" url="audio/eng_m2-1_s16_1.mp3"/>
+			<xCord>945</xCord>
+			<yCord>123</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>CORRECT VERSION:</popTitle>
+			<popInfo><![CDATA[Having eaten nothing for two days, the child was hungry. ]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CORRECT VERSION:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s16_2.mp3"/>
+			<xCord>945</xCord>
+			<yCord>170</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>CORRECT VERSION:</popTitle>
+			<popInfo><![CDATA[A tight money supply is the most serious problem in the United States right now.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>CORRECT VERSION:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s16_3.mp3"/>
+			<xCord>945</xCord>
+			<yCord>242</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>CORRECT VERSION:</popTitle>
+			<popInfo><![CDATA[Text messaging includes acronyms such as “lol.”]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

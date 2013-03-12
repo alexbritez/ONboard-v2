@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Analyzing SKills">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m3-2_s1</video>
+      <credits>(l)Doug Sherman/Geofile, (r)Rodrigo A. Torres/Glowimages/Superstock, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Walter Meayers Edwards/National Geographic/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)George &amp; Judy Manna/Photo Researchers, Inc., (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">North</match>
+			<match id="3">East</match>
+			<match id="2">Northeast</match>
+			<match id="8">Northwest</match>
+			<match id="5">South</match>
+			<match id="7">West</match>
+			<match id="4">Southeast</match>
+			<match id="6">Southwest</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="242" y="14" />
+			<drop correct="2" x="422" y="64" />
+			<drop correct="3" x="467" y="181" />
+			<drop correct="4" x="422" y="309" />
+			<drop correct="5" x="242" y="358" />
+			<drop correct="6" x="59" y="309" />
+			<drop correct="7" x="15" y="181" />
+			<drop correct="8" x="59" y="64" />
+         </drops>
+         <image>WHIS_m3-2_s4.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-2_s4</audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Chechnya is located ____ of the Caspian Sea.</question>
+            <answers>
+				<answer>North</answer>
+				<answer>South</answer>
+				<answer>East</answer>
+				<answer correct="true">West</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-2_s5_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-2_s5_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-2_s5</audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>To get from Tbilisi to Baku, you would travel ____.</question>
+            <answers>
+				<answer>East</answer>
+				<answer>South</answer>
+				<answer correct="true">Southeast</answer>
+				<answer>Southwest</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-2_s6_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-2_s5_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s7</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s8</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s9</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>About how far apart are Bolivia's two capital cities—La Paz and Sucre?</question>
+            <answers>
+				<answer>200 kilometers</answer>
+				<answer>200 miles</answer>
+				<answer>300 kilometers</answer>
+				<answer correct="true">300 miles</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-2_s10_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-2_s10_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>About how far did the Inca paddle their canoes across Lake Titicaca at its longest length?</question>
+            <answers>
+				<answer>100 miles</answer>
+				<answer>160 miles</answer>
+				<answer correct="true">160 kilometers</answer>
+				<answer>200 kilometers</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-2_s11_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-2_s10_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s12</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="6_Activity_Interactivity">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_11A.JPG</url>
+		<image>WHIS_m3-2_s13.jpg</image>
+		<audio>WHIS_m3-2_s13</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="14" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is constructed near Maraba?</question>
+            <answers>
+				<answer correct="true">Hydroelectric project</answer>
+				<answer>Asphalt road</answer>
+				<answer>Indian reservation</answer>
+				<answer>National park</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-2_s14_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-2_s14_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What type of road connects Brazil's capital city with Porto Velho?</question>
+            <answers>
+				<answer>gravel road</answer>
+				<answer>dirt road</answer>
+				<answer correct="true">asphalt road</answer>
+				<answer>concrete road</answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-2_s15_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-2_s14_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s16</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Johan Nilsson/epa/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s17</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s18</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>WHIS_m3-2_s19.jpg</image>
+         <hotspots>
+			<hotspot dynamic="true" x="154" y="128"><![CDATA[
+				<h1>Tropic of Cancer</h1>
+				<p>The Tropic of Cancer circles Earth at 23&frac12;&deg;N latitude. It is the northernmost point on Earth to receive the direct rays of the sun—on about June 21—bringing the Northern Hemisphere its longest day of sunlight. This date, known as the summer solstice, marks the beginning of summer in the Northern Hemisphere.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="192" y="262"><![CDATA[
+				<h1>Tropic of Capricorn</h1>
+				<p>The Tropic of Capricorn circles Earth at 23&frac12;&deg;S latitude. This line is the southernmost point on Earth to receive the direct rays of the sun—on about December 22. This day is the winter solstice—the day of shortest daylight and the beginning of the winter season in the Northern Hemisphere.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="483" y="76"><![CDATA[
+				<h1>Arctic Circle</h1>
+				<p>From about March 20 to about September 23 (spring and summer in the Northern Hemisphere), the polar area north of the Arctic Circle (66&frac12;&deg;N latitude) experiences continuous daylight or twilight. The other half of the year is spent in darkness.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="119" y="332"><![CDATA[
+				<h1>Antarctic Circle</h1>
+				<p>From about September 23 to about March 20 (spring and summer in the Southern Hemisphere), the polar area south of the Antarctic Circle (66&frac12;&deg;S latitude) experiences continuous daylight or twilight. The other half of the year is spent in darkness.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="392" y="268"><![CDATA[
+				<h1>Prime Meridian</h1>
+				<p>Because Earth does not have an east pole and a west pole, some point had to be chosen as the starting point for measuring longitude. By international agreement, the Royal Observatory in Greenwich, England, was selected.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="353" y="146"><![CDATA[
+				<h1></h1>
+				<p>At the edge of the Tropics—at about 30&deg;N and 30&deg;S latitude—are bands of calm air called the &quot;horse latitudes.&quot; In the days of sailing ships, crews were often stranded for days in these windless areas. To take advantage of the slightest breeze, sailors tossed cargo and livestock overboard, giving rise to the name &quot;horse latitudes.&quot;</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>WHIS_m3-2_s19</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s20</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What is the absolute location of Hong Kong?</question>
+            <answers>
+				<answer><![CDATA[114&deg; E, 22&deg; N]]></answer>
+				<answer correct="true"><![CDATA[22&deg; N, 114&deg; E]]></answer>
+				<answer><![CDATA[114&deg; N, 22&deg; E]]></answer>
+				<answer><![CDATA[22&deg; S, 114&deg; W]]></answer>
+            </answers>
+            <feedbackAudio>WHIS_m3-2_s21_FB</feedbackAudio>
+			<figure verticalAlign="center">WHIS_m3-2_s21_view.jpg</figure>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s22</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="7">International Date Line</match>
+        <match id="8">Latitude</match>
+        <match id="4">Tropic of Capricorn</match>
+		<match id="5">South Pole</match>
+        <match id="1">Equator</match>
+        <match id="2">Prime Meridian</match>
+		<match id="9">Longitude</match>
+        <match id="3">Tropic of Cancer</match>
+        <match id="6">North Pole</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom:0">
+        <drop correct="1"><![CDATA[What is another name for 0&deg; latitude?]]></drop>
+        <drop correct="2"><![CDATA[What is another name for 0&deg; longitude?]]></drop>
+        <drop correct="3"><![CDATA[Which line circles Earth at 23&frac12;&deg; N latitude?]]></drop>
+		<drop correct="4"><![CDATA[Which line circles Earth at 23&frac12;&deg; S latitude?]]></drop>
+        <drop correct="5"><![CDATA[What is located at 90&deg; S latitude?]]></drop>
+        <drop correct="6"><![CDATA[What is located at 90&deg; N latitude?]]></drop>
+		<drop correct="7"><![CDATA[What is located at 180&deg; longitude?]]></drop>
+        <drop correct="8"><![CDATA[Which lines run parallel horizontally?]]></drop>
+        <drop correct="9"><![CDATA[Which lines meet at the poles and run vertically?]]></drop>
+      </drops>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>WHIS_m3-2_s23</audio>
+    <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+  </scene>
+
+  <scene id="24" type="6_Activity_Interactivity">
+		<content>
+			<header>Political maps show political divisions:</header>
+			<instruction><![CDATA[
+        <ul>
+          <li>
+            Countries
+          </li>
+          <li>
+            States
+          </li>
+          <li>
+            Counties
+          </li>
+          <li>
+            Territories
+          </li>
+          <li>
+            Other political subdivisions
+          </li>
+          <li>
+            Cities
+          </li>
+          <li>
+            Some physical features
+          </li>
+        </ul>
+        <p>Political maps = reference maps</p>
+        ]]></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_17A.jpg</url>
+		<image>WHIS_m3-2_s24.jpg</image>
+		<audio>WHIS_m3-2_s24</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="25" type="6_Activity_Interactivity">
+		<content>
+			<header>Physical maps show physical features:</header>
+      <instruction><![CDATA[
+        <ul style="position: relative; top: -10px;">
+          <li>
+            Mountains
+          </li>
+          <li>
+            Waterways
+          </li>
+          <li>
+            Plains
+          </li>
+          <li>
+            Volcanoes
+          </li>
+        </ul>
+        <p>Elevation = height of land above sea level</p>
+        <p>
+          Relief = how flat or rugged the land surface is
+        </p>
+        <p>
+          Topographic maps show elevation or relief.
+        </p>
+        ]]></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_18A.mp4</url>
+		<image>WHIS_m3-2_s25.jpg</image>
+		<audio>WHIS_m3-2_s25</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="26" type="6_Activity_Interactivity">
+		<content>
+			<header>Special-Purpose Maps</header>
+      <instruction><![CDATA[
+        <ul>
+          <li>
+            Emphasize a specific theme or topic about an area
+          </li>
+          <li>
+            Also called thematic maps
+          </li>
+        </ul>
+        ]]></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_19A.mp4</url>
+		<image>WHIS_m3-2_s26.jpg</image>
+		<audio>WHIS_m3-2_s26</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s27</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s28</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="29" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">thematic</match>
+			<match id="2">reference</match>
+			<match id="3">physical</match>
+			<match id="4">political</match>
+			<match id="5">special-purpose</match>
+			<match id="6">elevation</match>
+			<match id="7">relief</match>
+         </matches>
+         <drops title="Maps that show &lt;br /&gt;human-made divisions:">4,2</drops>
+		 <drops title="Maps that show &lt;br /&gt;land features:">3,6,7</drops>
+		 <drops title="Maps that focus on a &lt;br /&gt;particular kind of information:">5,1</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-2_s29</audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s30</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="6_Activity_Interactivity">
+		<content>
+			<header>What Can Maps Show in World History?</header>
+			<instruction>Population Movement</instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_23A.mp4</url>
+		<image>WHIS_m3-2_s31.jpg</image>
+		<audio>WHIS_m3-2_s31</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="32" type="6_Activity_Interactivity">
+		<content>
+			<header>What Can Maps Show in World History?</header>
+			<instruction>Changes in Boundaries</instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_24A.mp4</url>
+		<image>WHIS_m3-2_s32.jpg</image>
+		<audio>WHIS_m3-2_s32</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+   <scene id="33" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s33</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="34" type="6_Activity_Interactivity">
+		<content>
+			<header></header>
+			<instruction></instruction>
+		</content>
+		<url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/WHIS_M03_02_26A.mp4</url>
+		<image>WHIS_m3-2_s34.jpg</image>
+		<audio>WHIS_m3-2_s34</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	 <scene id="35" type="2_Txt_Img_Animation">
+      <video>WHIS_m3-2_s35</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="36" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">A. Roman Empire</match>
+      			<match id="2">B. Han Empire</match>
+      			<match id="3">C. Inca Empire</match>
+      			<match id="4">D. Aztec Empire</match>
+      			<match id="5">E. Zimbabwe</match>
+      			<match id="6">F. Mughal Empire</match>
+      			<match id="7">G. Russian Empire</match>
+      			<match id="8">H. Mali Empire</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="1" x="290" y="125" />
+			<drop correct="2" x="469" y="134" />
+			<drop correct="3" x="161" y="216" />
+			<drop correct="4" x="76" y="170" />
+			<drop correct="5" x="307" y="230" />
+			<drop correct="6" x="406" y="176" />
+			<drop correct="7" x="391" y="70" />
+			<drop correct="8" x="267" y="178" />
+         </drops>
+         <image>WHIS_m3-2_s36.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m3-2_s36</audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="37" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Human geography describes Earth's land, climate, water, and plant and animal life.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A society's location determines how it develops.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Northwest, northeast, southeast, and southwest are cardinal directions.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Latitude and longitude are measured in feet.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Political maps show the boundaries of countries, states, counties, territories, and other political subdivisions.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Only a globe can show direction, distance, shape, and size accurately.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Maps that show land features are called physical maps.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>A map showing the extent of the Roman Empire is a physical map.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Relative location is determined by latitude and longitude.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Absolute location is determined by latitude and longitude.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m3-2_s37</audio>
+      <credits>(tr) Tetra Images/Getty Images, (bkgd) Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

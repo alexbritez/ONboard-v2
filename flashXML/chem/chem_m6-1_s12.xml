@@ -1,0 +1,35 @@
+<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-1_s12.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Which of the reactions best represents the balanced equation for the reaction of barium nitrate with aluminum sulfate?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText><![CDATA[<font size="21">Ba(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face='c-Italic'>aq</font>) + Al<font face='SubScript'>2</font>(SO<font face='SubScript'>4</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) <font face='CambriaMath'>→</font><br/>Al(NO<font face='SubScript'>3</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) + BaSO<font face='SubScript'>4</font> (<font face='c-Italic'>s</font>)</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size="21">3Ba(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face='c-Italic'>aq</font>) + Al<font face='SubScript'>2</font>(SO<font face='SubScript'>4</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) <font face='CambriaMath'>→</font><br/>2Al(NO<font face='SubScript'>3</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) + 3BaSO<font face='SubScript'>4</font> (<font face='c-Italic'>s</font>)</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size="21">2Ba(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face='c-Italic'>aq</font>) + Al<font face='SubScript'>2</font>(SO<font face='SubScript'>4</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) <font face='CambriaMath'>→</font><br/>2Al(NO<font face='SubScript'>3</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) + 2BaSO<font face='SubScript'>4</font> (<font face='c-Italic'>s</font>)</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size="21">3Ba(NO<font face='SubScript'>3</font>)<font face='SubScript'>2</font> (<font face='c-Italic'>aq</font>) + Al<font face='SubScript'>2</font>(SO<font face='SubScript'>4</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) <font face='CambriaMath'>→</font><br/>Al(NO<font face='SubScript'>3</font>)<font face='SubScript'>3</font> (<font face='c-Italic'>aq</font>) + 3BaSO<font face='SubScript'>4</font> (<font face='c-Italic'>s</font>)</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-1_s12_FB.mp3" />
+	</question>
+</MultipleChoice>

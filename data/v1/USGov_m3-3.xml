@@ -1,0 +1,491 @@
+<shell title="Data Skills">
+  <scene id="1" type="1_Module_Intro">
+    <video>USGov_m3-3_s1</video>
+    <credits>(bkgd)Martin Ruegner/Digital Vision/Getty Images, (others)Comstock/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s2</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s3</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s4</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s5</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s6</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which state spends the highest per capita on fire protection?</question>
+        <answers>
+          <answer correct="true">Rhode Island</answer>
+          <answer>Pennsylvania</answer>
+          <answer>Wyoming</answer>
+          <answer>North Dakota</answer>
+          <answer>Delaware</answer>
+        </answers>
+		<figure>USGov_m3-3_s7_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What is the greatest difference between the highest and lowest per capita spending on a single type of social service?</question>
+        <answers>
+          <answer>$2,193</answer>
+          <answer correct="true">$1,634</answer>
+          <answer>$1,595</answer>
+          <answer>$1,520</answer>
+          <answer>$184</answer>
+        </answers>
+		<figure>USGov_m3-3_s7_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s9</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="">
+        <match id="1">A. Which state or region has the largest population? </match>
+        <match id="2">B. Which state or region has the fewest people?</match>
+        <match id="3">C. How much pork did Hawaii receive? </match>
+        <match id="4">D. How much pork did Mississippi receive? </match>
+        <match id="5">E. How much pork per capita did Hawaii receive?</match>
+		<match id="6">F. How much pork per capita did Mississippi receive?</match>
+		<match id="7">G. How much per capita would all Americans receive if all pork were distributed evenly?</match>
+      </matches>
+		<drops title="" children-styles="margin-bottom: 0.1em;">
+			<drop correct="7" x="-2" y="72"></drop>
+			<drop correct="1" x="-2" y="202"></drop>
+			<drop correct="2" x="-2" y="256"></drop>
+			<drop correct="3" x="338" y="71"></drop>
+			<drop correct="4" x="245" y="367"></drop>
+			<drop correct="5" x="552" y="130"></drop>
+			<drop correct="6" x="552" y="200"></drop>
+		</drops>
+		<image>USGov_m3-3_s10.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m3-3_s10</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What is the purpose of this table?</question>
+        <answers>
+          <answer>to show that states use federal dollars wisely</answer>
+          <answer>to highlight the positive results of American tax policy</answer>
+          <answer>to compare population statistics of various states</answer>
+          <answer correct="true">to highlight wasteful government spending</answer>
+          <answer>to change American tax policy</answer>
+        </answers>
+		<figure>USGov_m3-3_s11_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s11_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-3_s11</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s12</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="letter-small" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="" children-styles="margin-bottom:0.1em;">
+        <match id="1">1. What information is on this chart?</match>
+        <match id="2">2. What elections are compared?</match>
+        <match id="3">3. What do the initials D and R mean?</match>
+        <match id="4">4. What races are compared?</match>
+        <match id="5">5. What regions are compared?</match>
+		<match id="6">6. What do the numbers mean?</match>
+		<match id="7">7. What ages are compared?</match>
+		<match id="8"><![CDATA[8. What educational levels are<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compared?]]></match>
+		<match id="9">9. What religious groups are compared?</match>
+      </matches>
+		<drops title="" children-styles="margin-bottom: 0.1em;">
+			<drop correct="1" x="74" y="2"></drop>
+			<drop correct="4" x="46" y="124"></drop>
+			<drop correct="8" x="46" y="160"></drop>
+			<drop correct="7" x="46" y="213"></drop>
+			<drop correct="9" x="46" y="248"></drop>
+			<drop correct="5" x="46" y="303"></drop>
+			<drop correct="6" x="441" y="10"></drop>
+			<drop correct="2" x="495" y="47"></drop>
+			<drop correct="3" x="469" y="348"></drop>
+		</drops>
+		<image>USGov_m3-3_s13.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>USGov_m3-3_s13</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s14</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="15" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s15</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="16" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which group voted the most consistently Republican in 2004 and 2008?</question>
+        <answers>
+          <answer correct="true">Protestants</answer>
+          <answer>Catholics</answer>
+          <answer>under 30</answer>
+          <answer>50 and older</answer>
+          <answer>Midwesterners</answer>
+        </answers>
+		<figure verticalAlign="center">USGov_m3-3_s16_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s16_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-3_s16</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="17" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s17</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="18" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s18</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="19" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s19</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="20" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s20</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="21" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which level of political party organization can you infer has the most people?</question>
+        <answers>
+          <answer>National committee</answer>
+          <answer>State committees</answer>
+          <answer>County committees</answer>
+          <answer>Municipal committees</answer>
+          <answer correct="true">Precincts and wards</answer>
+        </answers>
+		<figure verticalAlign="center">USGov_m3-3_s21_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s21_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-3_s21</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="22" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s22</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="23" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s23</video>
+    <credits>(tr) Comstock/Getty Images, (l)Charles Smith/Corbis, (c)ImageDJ/Alamy, (r)Hisham F. Ibrahim/Photodisc/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="24" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/USGOV_M01_02_07A.mp4</url>
+    <image>USGov_m3-3_s24.jpg</image>
+    <audio>USGov_m3-3_s24</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="25" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is a legislative check on the executive branch?</question>
+        <answers>
+          <answer correct="true">holding impeachment trials</answer>
+          <answer>interpreting the Constitution</answer>
+          <answer>appointing judges</answer>
+          <answer>exercising the veto</answer>
+          <answer>issuing pardons</answer>
+        </answers>
+		<feedbackAudio>USGov_m3-3_s25_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="26" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following is an executive check on the judiciary?</question>
+        <answers>
+          <answer>president serving as commander in chief of the armed forces</answer>
+          <answer>making treaties</answer>
+          <answer correct="true">appointing judges </answer>
+          <answer>overriding vetoes</answer>
+          <answer>determining jurisdiction of federal courts</answer>
+        </answers>
+		<feedbackAudio>USGov_m3-3_s26_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="27" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s27</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="28" type="9_Activity_Image_Rollclick">
+    <content>
+    </content>
+    <activity type="image">
+      <image>USGov_m3-3_s28.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="47" y="316">
+          <![CDATA[
+            <h1>Interest Group</h1>
+            <p>Group made up of people with common goals who organize to influence government decision makers</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="272" y="307">
+          <![CDATA[
+            <h1>lobby</h1>
+            <p>Communicating directly with  government officials on behalf of an interest group to persuade the officials to support certain policies</p>
+          ]]>
+        </hotspot>
+        <hotspot dynamic="true" x="89" y="164">
+          <![CDATA[
+            <h1>Electoral support</h1>
+            <p>Giving money to a congressional candidate's campaign</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="193" y="3">
+          <![CDATA[
+            <h1>Congress</h1>
+            <p>Legislative branch of the federal government</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="541" y="316">
+          <![CDATA[
+            <h1>Bureaucracy</h1>
+            <p>Departments and agencies of the executive branch that carry out laws</p>
+          ]]>
+        </hotspot>
+		<hotspot dynamic="true" x="250" y="194">
+          <![CDATA[
+            <h1>oversight</h1>
+            <p>Process by which the legislative branch "checks" the executive branch to ensure that the laws Congress has passed are being administered in keeping with legislators' intent</p>
+          ]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>USGov_m3-3_s28</audio>
+    <credits>(tr)Cornstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="29" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What does this diagram tell you about the relationship between Congress and the bureaucracy?</question>
+        <answers>
+          <answer>Congress elects the bureaucracy.</answer>
+          <answer correct="true">Congress funds the bureaucracy.</answer>
+          <answer>Congress does favors for the bureaucracy.</answer>
+          <answer>Congress judges the bureaucracy.</answer>
+          <answer>Congress appoints members of the bureaucracy.</answer>
+        </answers>
+		<figure verticalAlign="center">USGov_m3-3_s29_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s29_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="30" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What does the diagram tell you about the relationship between interest groups and Congress?</question>
+        <answers>
+          <answer>Interest groups elect members of Congress.</answer>
+          <answer>Interest groups appoint members of Congress to committees.</answer>
+          <answer correct="true">Interest groups provide funding to congressional candidates' campaigns.</answer>
+          <answer>Interest groups oversee the implementation of legislation.</answer>
+          <answer>Interest groups pass laws.</answer>
+        </answers>
+		<figure verticalAlign="center">USGov_m3-3_s29_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s30_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="31" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s31</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="32" type="2_Txt_Img_Animation">
+    <video>USGov_m3-3_s32</video>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="33" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What happens before oral arguments in the Supreme Court?</question>
+        <answers>
+          <answer correct="true">Briefs are filed.</answer>
+          <answer>Nonbinding votes are taken.</answer>
+          <answer>The justices' opinions are circulated.</answer>
+          <answer>The justices hold a conference.</answer>
+          <answer>Opinion writing is assigned.</answer>
+        </answers>
+		<figure>USGov_m3-3_s33_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s33_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="34" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>During which step is the outcome of a Supreme Court case determined?</question>
+        <answers>
+          <answer>Step 1</answer>
+          <answer>Step 2</answer>
+          <answer>Step 3</answer>
+          <answer>Step 4</answer>
+          <answer correct="true">Step 5</answer>
+        </answers>
+		<figure>USGov_m3-3_s33_view.jpg</figure>
+		<feedbackAudio>USGov_m3-3_s34_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+
+  <scene id="35" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+	  <multiple>
+        <question>Which of these is the best way to show minimum driving age by state?</question>
+        <answers>
+			<answer>Chart</answer>
+			<answer>Diagram</answer>
+			<answer>Organizational Chart</answer>
+			<answer>Pyramid Chart</answer>
+          <answer correct="true">Table</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>What is the best way to show which countries in the world have freedom of speech, democratic elections, federalism, and the right to a fair trial?</question>
+        <answers>
+          <answer correct="true">Chart</answer>
+          <answer>Diagram</answer>
+		  <answer>Organizational Chart</answer>
+		  <answer>Pyramid Chart</answer>
+		  <answer>Table</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>What is the best way to show steps in getting a bill passed?</question>
+        <answers>
+          <answer>Chart</answer>
+          <answer correct="true">Diagram</answer>
+		  <answer>Organizational Chart</answer>
+		  <answer>Pyramid Chart</answer>
+		  <answer>Table</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>What is the best way to show the organization of the West Wing of the White House?</question>
+        <answers>
+          <answer>Chart</answer>
+		  <answer>Diagram</answer>
+          <answer correct="true">Organizational Chart</answer>
+		  <answer>Pyramid Chart</answer>
+		  <answer>Table</answer>
+        </answers>
+      </multiple>
+      <multiple>
+        <question>What is the best way to show the structure of a local political party?</question>
+        <answers>
+          <answer>Chart</answer>
+		  <answer>Diagram</answer>
+		  <answer>Organizational Chart</answer>
+		  <answer correct="true">Pyramid Chart</answer>
+          <answer>Table</answer>
+        </answers>
+      </multiple>
+    </multiple_choice>
+    <audio>USGov_m3-3_s35</audio>
+    <credits>(tr) Comstock/Getty Images, (bkgd)Martin Ruegner/Digital Vision/Getty Images.</credits>
+  </scene>
+</shell>

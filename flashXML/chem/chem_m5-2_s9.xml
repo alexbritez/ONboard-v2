@@ -1,0 +1,33 @@
+﻿<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p>Percent Composition</p>]]></hText>
+		<qText><![CDATA[Find the amount of phosphorus in 654 grams of magnesium phosphate.]]></qText>
+		<fraction>answer</fraction>
+		<correctText><![CDATA[<font size='14'><font face='c-Bold'>Answer: </font><br /><br />The correct answer is 154 grams:<br /><br />Correct formula:  Mg<font face='SubScript'>3</font>(PO<font face='SubScript'>4</font>)<font face='SubScript'>2</font><br /><br />Molar mass: 262.85 g/mol<br /><br />Percent composition of phosphorus:<br /><br/>   61.94<br/><font face='chemNums'>__________</font> × 100 = 23.56%<br/> 262.85<br/><br/>23.56% of 654 g = 154 g</font>]]></correctText>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-2_s9.swf</image>
+		</Source>
+		<haveSource enable="true" word="View" image="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-2_s9.swf" />
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s9.mp3</audio>
+		<feedback>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-2_s9_FB.mp3</feedback>
+	</slideInfo>	
+</FillIn>
+
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

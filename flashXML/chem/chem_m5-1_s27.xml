@@ -1,0 +1,66 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m5-1_s27.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-1_s22.swf</image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word>View</word>
+			<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m5-1_s22.swf</image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Convert 52 grams of Na<font face='SubScript'>2</font>S to formula units.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[1.9 × 10<font face='SuperScript'>23</font> formula units]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[4.0 × 10<font face='SuperScript'>23</font> formula units]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[9.0 × 10<font face='SuperScript'>23</font> formula units]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[2.44 × 10<font face='SuperScript'>27</font> formula units]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+
+
+	<question>
+		<qText><![CDATA[Convert 72.4 liters of H<font face='SubScript'>2</font>O <font face='c-Italic' >(g)</font> to atoms of H.]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[1.86 × 10<font face='SuperScript'>23</font> atoms of H]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[1.95 × 10<font face='SuperScript'>24</font> atoms of H]]></aText>  
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[3.89 × 10<font face='SuperScript'>24</font> atoms of H]]></aText>  
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				<aText><![CDATA[9.76 × 10<font face='SuperScript'>26</font> atoms of H]]></aText>  
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+</MultipleChoice>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Photosynthesis">
+   <scene id="1" type="1_Module_Intro">
+      <video>env_m3-3_s1</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s2</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s3</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s4</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6" matchStyle="width: 88px" dropStyle="width: 70px">
+         <matches title="">
+            <match id="4"><![CDATA[C<sub>6</sub>H<sub>12</sub>0<sub>6</sub>]]></match>
+            <match id="3"><![CDATA[60<sub>2</sub>]]></match>
+            <match id="2"><![CDATA[6C0<sub>2</sub>]]></match>
+            <match id="1"><![CDATA[6H<sub>2</sub>O]]></match>
+         </matches>
+         <coord correct="1" x="25" y="146" />
+         <coord correct="2" x="136" y="146" />
+         <coord correct="3" x="271" y="146" />
+         <coord correct="4" x="391" y="146" />
+         <drops title="">1,2</drops>
+         <drops title="">3,4</drops>
+         <image>env_m3-3_s5.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-3_s5</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s6</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s7</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-3_s8.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="164" y="140" audio="env_m3-3_s8_stroma"><![CDATA[
+				<h1>Stroma</h1>
+				<p>The stroma is the fluid-filled interior of a chloroplast. This is where the dark reaction of photosynthesis occurs.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="36" y="235" audio="env_m3-3_s8_thylakoids"><![CDATA[
+				<h1>Thylakoid</h1>
+				<p>The thylakoids consists of a stack of membrane-bound discs. This is where the light reaction of photosynthesis occurs.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-3_s8</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s9</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s10</video>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Photosynthesis: Light-Dependent Reactions</header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-3_s11.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="404" y="176" audio="env_m3-3_s11_topButton"><![CDATA[
+				<h1></h1>
+				<p>As hydrogen ions pass through the thylakoid membrane they are joined by the hydrogen ions produced when water splits inside the chlorophyll. The concentration of hydrogen ions builds up inside the thylakoid. As a result, the concentration of hydrogen ions inside the thylakoid membrane becomes greater than the concentration outside the membrane. This difference in hydrogen ion concentration inside and outside the thylakoid acts as a catalyst for a reaction in which ADP is used to form ATP.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="407" y="302" audio="env_m3-3_s11_bottomButton"><![CDATA[
+				<h1></h1>
+				<p>NADP+ is a molecule that can carry energy. During photosynthesis, NADP+ accepts and holds two high-energy electrons and a hydrogen ion to become NADPH. In this way, the energy of sunlight can be trapped and carried in chemical form. Energy is picked up by NADP+, an electron carrier, to produce NADPH.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-3_s11</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="12" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_03_06P.mp4</url>
+      <image>env_m3-3_s12.jpg</image>
+      <audio>env_m3-3_s12</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Chlorophyll</match>
+			<match id="2">Water</match>
+			<match id="3">ATP and NADPH</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="2">Source of oxygen and provides an electron to replace one that has been removed from chlorophyll</drop>
+			<drop correct="3">Made during the light reaction and affected by light energy</drop>
+			<drop correct="1">Provides electron that loses energy as it moves along</drop>
+         </drops>
+         <image></image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>env_m3-3_s13</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>env_m3-3_s14</video>
+      <credits>(bkgd)Image Source/Getty Images, (others)Lauren Burke/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_03_07P.mp4</url>
+      <image>env_m3-3_s15.jpg</image>
+      <audio>env_m3-3_s15</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>With which compound does carbon dioxide combine during the Calvin cycle?</question>
+            <answers>
+               <answer>Glucose</answer>
+			   <answer>Chlorophyll</answer>
+               <answer correct="true">A five-carbon compound</answer>
+			   <answer>ATP</answer>
+			   <answer>NADPH</answer>
+            </answers>
+            <feedbackAudio>env_m3-3_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-3_s16</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="9_Activity_Image_Rollclick">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <activity type="image">
+         <image>env_m3-3_s17.jpg</image>
+         <hotspots>
+            <hotspot dynamic="true" x="35" y="24" audio="env_m3-3_s17_outerMembrane"><![CDATA[
+				<h1></h1>
+				<p>By producing glucose and oxygen, photosynthesis makes respiration possible. Almost every living thing carries out respiration in order to obtain the energy it needs to survive.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="35" y="122" audio="env_m3-3_s17_innerMembrane"><![CDATA[
+				<h1></h1>
+				<p>Photosynthesis plays an important role in the carbon cycle by moderating the carbon dioxide level in the atmosphere.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="18" y="213" audio="env_m3-3_s17_stroma"><![CDATA[
+				<h1></h1>
+				<p>Photosynthesis converts light energy into chemical energy, which can then be used by all living things.</p>
+			]]></hotspot>
+			<hotspot dynamic="true" x="607" y="236" audio="env_m3-3_s17_thylakoids"><![CDATA[
+				<h1></h1>
+				<p>With the evolution of photosynthesis, oxygen gas was added to Earth's atmosphere. This made it possible for the evolution of a vast diversity of life forms.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>env_m3-3_s17</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="6_Activity_Interactivity">
+      <content>
+         <header></header>
+         <instruction></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ENV_M03_03_08P.mp4</url>
+      <image>env_m3-3_s18.jpg</image>
+      <audio>env_m3-3_s18</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>Which of the following is not a product of the Calvin cycle?</question>
+            <answers>
+				<answer correct="true">ATP</answer>
+				<answer>An unstable six-carbon compound</answer>
+				<answer>Glucose</answer>
+				<answer>Three-carbon compounds</answer>
+				<answer>Carbohydrates</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is the source of oxygen that is produced during photosynthesis?</question>
+            <answers>
+				<answer>Carbon dioxide</answer>
+				<answer>Glucose</answer>
+				<answer>ATP</answer>
+				<answer correct="true">Water</answer>
+				<answer>Electrons</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which of the following is made in the light-dependent reactions and used in the Calvin cycle of photosynthesis?</question>
+            <answers>
+				<answer>Light energy</answer>
+				<answer correct="true">ATP</answer>
+				<answer>Oxygen</answer>
+				<answer>Glucose</answer>
+				<answer>RuDP</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>During the light-dependent reactions of photosynthesis,</question>
+            <answers>
+				<answer>chemical energy is changed into light energy.</answer>
+				<answer>carbon dioxide is changed into glucose.</answer>
+				<answer>oxygen is used to supply energy.</answer>
+				<answer>the Calvin cycle operates to generate five-carbon molecules.</answer>
+				<answer correct="true">water is split to provide electrons for chlorophyll molecules.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Which statement is true about the Calvin cycle?</question>
+            <answers>
+				<answer>It can operate only in the absence of light.</answer>
+				<answer correct="true">It can operate if light is present or absent.</answer>
+				<answer>It does not depend on the light reaction.</answer>
+				<answer>It occurs outside the chloroplast.</answer>
+				<answer>It occurs on the thylakoids inside the chloroplast.</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>env_m3-3_s19</audio>
+      <credits>(tr)Lauren Burke/Photographer's Choice RF/Getty Images, (bkgd)Image Source/Getty Images.</credits>
+   </scene>
+</shell>

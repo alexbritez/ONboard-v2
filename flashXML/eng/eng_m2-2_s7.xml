@@ -1,0 +1,57 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m2-2_s7.jpg</image>
+		<audio>audio/eng_m2-2_s7.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Jail]]></boxText>
+			<rightSpot>9</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Sick]]></boxText>
+			<rightSpot>7</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Bald]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Died]]></boxText>
+			<rightSpot>8</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Kill]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[Bathroom]]></boxText>
+			<rightSpot>6</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Fat]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[Life preserver]]></boxText>
+			<rightSpot>4</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Short]]></boxText>
+			<rightSpot>5</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="488.6" yCord="177.75" spotScale="60" spotNum="1"/>
+		<dSpot xCord="488.6" yCord="238" spotScale="60" spotNum="2"/>
+		<dSpot xCord="488.6" yCord="298.25" spotScale="60" spotNum="3"/>
+		<dSpot xCord="488.6" yCord="358.5" spotScale="60" spotNum="4"/>
+		<dSpot xCord="488.6" yCord="418.75" spotScale="60" spotNum="5"/>
+		<dSpot xCord="784.6" yCord="177.75" spotScale="60" spotNum="6"/>
+		<dSpot xCord="784.6" yCord="238" spotScale="60" spotNum="7"/>
+		<dSpot xCord="784.6" yCord="298.25" spotScale="60" spotNum="8"/>
+		<dSpot xCord="784.6" yCord="358.5" spotScale="60" spotNum="9"/>
+	</dropSpots>
+</DragDrop>

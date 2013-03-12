@@ -1,0 +1,28 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-2_s14.jpg</image>
+		<audio>audio/eng_m1-2_s14.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[Specific Person]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[Specific Group of People]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[General Public]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="520.1" yCord="147.15" spotScale="75" spotNum="1"/>
+		<dSpot xCord="520.1" yCord="268.65" spotScale="75" spotNum="2"/>
+		<dSpot xCord="520.1" yCord="390.15" spotScale="75" spotNum="3"/>
+
+	</dropSpots>
+</DragDrop>

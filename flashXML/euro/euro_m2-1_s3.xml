@@ -1,0 +1,47 @@
+<PopUp>
+	<slideInfo>
+		<title>A Typical AP-Level History Textbook</title>
+		<info></info>
+		<image>images/euro_m2-1_s3.jpg</image>
+		<audio>audio/euro_m2-1_s3.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>A</Name>
+			<audio enable="true" url="audio/euro_m2-1_s3_a.mp3"/>
+			<xCord>489</xCord>
+			<yCord>86</yCord>
+			<width>134</width>
+			<popTitle></popTitle>
+			<popInfo>Notice the size, amount, and level of sophistication of the text on this page.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>B</Name>
+			<audio enable="true" url="audio/euro_m2-1_s3_b.mp3"/>
+			<xCord>899.5</xCord>
+			<yCord>273.9</yCord>
+			<width>85</width>
+			<popTitle></popTitle>
+			<popInfo>This AP-level book places subheadings alongside narrative content.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>C</Name>
+			<audio enable="true" url="audio/euro_m2-1_s3_c.mp3"/>
+			<xCord>489</xCord>
+			<yCord>433.85</yCord>
+			<width>92</width>
+			<popTitle></popTitle>
+			<popInfo>College-level textbooks used in AP classes don't always emphasize vocabulary words and may not feature a glossary.</popInfo>
+		</pButton>
+		<pButton> 
+			<Name>D</Name>
+			<audio enable="true" url="audio/euro_m2-1_s3_d.mp3"/>
+			<xCord>489</xCord>
+			<yCord>206.75</yCord>
+			<width>52</width>
+			<popTitle></popTitle>
+			<popInfo><![CDATA[This book provides more detailed information about Rousseau's works, including <font face="c-italic">The Social Contract</font>. AP and college students need this additional information to score high on the AP exam or to succeed in college classes.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

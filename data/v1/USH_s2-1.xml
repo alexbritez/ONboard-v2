@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Introduction to AP United States History">
+   <scene id="1" type="1_Module_Intro">
+      <video>USH_s2-1_s1</video>
+      <credits><![CDATA[(l)VisionsofAmerica/Joe Sohm/Photodisc/Getty Images, (cl)Library of Congress Prints and Photographs Division [LC-USZC4-14538], (cr)Library of Congress, Prints &amp; Photographs Division, [LC-USZ62-23866], (r)Library of Congress Prints and Photographs Division [LC-USZC4-5585], (bkgd) Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images]]></credits>
+   </scene>
+
+   <scene id="2" type="1_Module_Intro">
+      <video>USH_s2-1_s2</video>
+      <credits><![CDATA[(l)Library of Congress Prints and Photographs Division [LC-USZC4-14538], (cl)Gilbert Stuart/The Bridgeman Art Library/Getty Images, (c)INTERFOTO/Alamy, (cr)Library of Congress, Prints &amp; Photographs Division, FSA/OWI Collection, [LC-DIG-fsa-8b29516], (r)Brooklyn Museum/Corbis, (bkgd) Comstock/PunchStock, (others) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images]]></credits>
+   </scene>
+
+   <scene id="3" type="1_Module_Intro">
+      <video>USH_s2-1_s3</video>
+      <credits>(l to r)Bettmann/Corbis, (2)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (3)Jacob A Riis/Hulton Archive/Getty Images, (4)Library of Congress Prints and Photographs Division [LC-USZ62-683], (5)Historical Art Collection (HAC)/Alamy, (6)Library of Congress Prints and Photographs Division [LC-DIG-cwpbh-03225], (bkgd) Comstock/PunchStock, (others)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s4</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="5" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s5</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Library of Congress Prints and Photographs Division [LC-USZC4-14538], (2)Sisse Brimberg/National Geographic/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="6" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>AP U.S. History Themes</header>
+         <instruction><![CDATA[
+		 <strong>American Identity</strong>
+		 <ul>
+		 	<li>What does it mean to be <em>American?</em></li>
+			<li>How does region shape identity?</li>
+		 </ul>
+		 ]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_s2-1_s6.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_s2-1_s6_A" dynamic="true" title="Northeast" x="417" y="11"><![CDATA[
+				<h1>Northeast</h1>
+				<p>The geography of New England had a great impact on the development of those colonies.</p>
+			]]></hotspot>
+			<hotspot audio="USH_s2-1_s6_B" dynamic="true" title="Southeast" x="468" y="268"><![CDATA[
+				<h1>Southeast</h1>
+				<p>Nineteenth-century white Southerners took great pride in their way of life and fought the Civil War to protect it.</p>
+			]]></hotspot>
+			<hotspot audio="USH_s2-1_s6_C" dynamic="true" title="Midwest" x="261" y="90"><![CDATA[
+				<h1>Midwest</h1>
+				<p>Several Midwestern states became industrial powerhouses.</p>
+			]]></hotspot>
+			<hotspot audio="USH_s2-1_s6_D" dynamic="true" title="West" x="54" y="88"><![CDATA[
+				<h1>West</h1>
+				<p>Historian Frederick Jackson Turner theorized that the American character was born from the constant pushing of the frontier.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_s2-1_s6</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Map Resources/Alamy, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s7</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="8" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">American Diversity</match>
+			<match id="2">Culture</match>
+			<match id="3">American Identity</match>
+         </matches>
+         <drops title="" children-styles="margin: 2em 0;font-size: 18px">
+            <drop correct="2">The 1920s were a time of great innovation in industry and in the arts.  Analyze the impact of advances in industry and patronage of the arts on American society during this era.</drop>
+			<drop correct="3">To what extent had Americans developed a sense of nationalism by the War of 1812?</drop>
+			<drop correct="1">How did Asian Americans impact the development of the American West?</drop>
+         </drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_s2-1_s8</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s9</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s10</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="11" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>AP U.S. History Themes</header>
+         <instruction><![CDATA[<strong>The Environment</strong>]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_s2-1_s11.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_s2-1_s11_A" dynamic="true" x="495" y="49"><![CDATA[
+				<h1>The Environment:</h1>
+				<p>Use and Conservation of Resources.</p>
+			]]></hotspot>
+            <hotspot audio="USH_s2-1_s11_B" dynamic="true" x="129" y="269"><![CDATA[
+				<h1>The Environment:</h1>
+				<p>Industrialization and Pollution</p>
+			]]></hotspot>
+            <hotspot audio="USH_s2-1_s11_C" dynamic="true" x="52" y="173"><![CDATA[
+				<h1>The Environment:</h1>
+				<p>Urbanization and Suburbanization</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_s2-1_s11</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Thomas Cole, 1801-1848.  River in the Catskills, 1843.  Oil on canvas. Museum of Fine Arts, Boston.  Gift of Martha C. Karolik for the M. and M. Karolik Collection of American Paintings, 1815-1865 47.1201.  Photograph Â© 2012 Museum of Fine Arts, Boston., (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="12" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="3">Demographic Changes</match>
+			<match id="1">Economic Transformations</match>
+			<match id="2">Environment</match>
+         </matches>
+         <drops title="" children-styles="margin: 2em 0;font-size: 18px">
+            <drop correct="1">Analyze the impact of laissez-faire government policies on the growth of U.S. industry at the turn of the 20th century.</drop>
+			<drop correct="2">Major industrial disasters have negatively impacted the United States since 1980. Identify at least two of these events, and discuss their impact on U.S. domestic policies.</drop>
+			<drop correct="3">Discuss the relationship between "New Immigrants" and urban Americans in regards to their political, economic, and cultural impact on American society.</drop>
+         </drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+      <audio>USH_s2-1_s12</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s13</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Bettmann/Corbis, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s14</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="15" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>Which of the following best connects with the ideals of the Framers of the Constitution?</question>
+            <answers>
+               <answer>the Temperance movement</answer>
+               <answer correct="true">the Civil Rights movement</answer>
+            </answers>
+            <feedbackAudio>USH_s2-1_s15_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_s2-1_s15</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s16</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-USZC4-5585], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="17" type="9_Activity_Image_Rollclick">
+      <content>
+         <header>Ap U.S. History Themes</header>
+         <instruction><![CDATA[<strong>Religion</strong>]]></instruction>
+      </content>
+      <activity type="image">
+         <image>USH_s2-1_s17.jpg</image>
+         <hotspots>
+            <hotspot audio="USH_s2-1_s17_A" title="Beliefs and Practices" dynamic="true" x="72" y="3"><![CDATA[
+				<h1>Beliefs and Practices</h1>
+				<p>Americans have followed many faiths and incorporated religion into their lives in many ways.</p>
+			]]></hotspot>
+			<hotspot audio="USH_s2-1_s17_B" title="Life and Society" dynamic="true" x="416" y="23"><![CDATA[
+				<h1>Life and Society</h1>
+				<p>Religious reformers have sought to improve society.</p>
+			]]></hotspot>
+			<hotspot audio="USH_s2-1_s17_C" title="Influence" dynamic="true" x="81" y="297"><![CDATA[
+				<h1>Influence</h1>
+				<p>Religion influences politics, economics, and culture.</p>
+			]]></hotspot>
+         </hotspots>
+      </activity>
+      <audio>USH_s2-1_s17</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-USZ62-683], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s18</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Historical Art Collection (HAC)/Alamy, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="19" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s19</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="20" type="2_Txt_Img_Animation">
+      <video>USH_s2-1_s20</video>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (c)Library of Congress Prints and Photographs Division [LC-DIG-cwpbh-03225], (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which themes are most likely covered in a section featuring this image of New York City in 1908?</question>
+            <answers>
+               <answer>Religion and Reform</answer>
+			   <answer>Politics and Citizenship and Religion</answer>
+			   <answer>Slavery and Its Legacies and Globalization</answer>
+			   <answer>War and Diplomacy and Culture</answer>
+               <answer correct="true">Economic Transformations and Demographic Changes</answer>
+            </answers>
+            <figure>USH_s2-1_s21_view.jpg</figure>
+            <feedbackAudio>USH_s2-1_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_s2-1_s21</audio>
+      <credits><![CDATA[(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (inset)Library of Congress, Prints &amp; Photographs Division, [LC-USZ62-23866], (bkgd) Comstock/PunchStock]]></credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which themes are most likely covered in a section featuring this graph showing labor union membership?</question>
+            <answers>
+               <answer>Politics and Citizenship and Religion</answer>
+               <answer correct="true">Reform and Economic Transformations</answer>
+			   <answer>War and Diplomacy and Culture</answer>
+			   <answer>Environment and Globalization</answer>
+			   <answer>Slavery and Its Legacies and American Diversity</answer>
+            </answers>
+            <figure>USH_s2-1_s22_view.jpg</figure>
+            <feedbackAudio>USH_s2-1_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+
+   <scene id="23" type="1_Module_Intro">
+      <video>USH_s2-1_s23</video>
+      <credits><![CDATA[(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (1)Gilbert Stuart/The Bridgeman Art Library/Getty Images, (2)Library of Congress, Prints &amp; Photographs Division, FSA/OWI Collection, [LC-DIG-fsa-8b29516], (3)Jacob A Riis/Hulton Archive/Getty Images, (4)Library of Congress Prints and Photographs Division [LC-USZ62-683], (5)Historical Art Collection (HAC)/Alamy, (bkgd) Comstock/PunchStock]]></credits>
+   </scene>
+
+   <scene id="24" type="End_Multiple_Choice">
+      <instruction>Answer each question by selecting "True" or "False."</instruction>
+      <multiple_choice>
+         <multiple>
+            <question>A theme is a dominant or unifying idea that helps show connections over time throughout history.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Considering AP U.S. History themes helps show connections among events.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Your teacher will probably expect you to name and give information about each AP U.S. History theme as part of your course.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Using AP U.S. History themes to organize your notes will help you prepare for success on the AP exam.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>The rights of migrant farm workers are an example of the theme: American Identity.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>USH_s2-1_s24</audio>
+      <credits>(tr) VisionsofAmerica/Joe Sohm/Digital Vision/Getty Images, (bkgd) Comstock/PunchStock</credits>
+   </scene>
+</shell>

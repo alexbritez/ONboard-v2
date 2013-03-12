@@ -1,0 +1,50 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/eng_m1-1_s42.jpg</image>
+		<audio>audio/eng_m1-1_s42.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	
+	<dragItems>
+	
+		<dItem>
+			<boxText>Minimal Repetition</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+			
+		<dItem>
+			<boxText>High contrast</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+			
+		<dItem>
+			<boxText>Horizontal movement</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+			
+		<dItem>
+			<boxText>Low contrast</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+			
+		<dItem>
+			<boxText>Vertical movement</boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+			
+		<dItem>
+			<boxText>Much repetition</boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="482.3" yCord="98.15" spotScale="65" spotNum="1"/>
+		<dSpot xCord="482.3" yCord="136.35" spotScale="65" spotNum="1"/>
+		<dSpot xCord="482.3" yCord="174.6" spotScale="65" spotNum="1"/>
+		<dSpot xCord="780.35" yCord="113.25" spotScale="65" spotNum="2"/>
+		<dSpot xCord="871.75" yCord="113.25" spotScale="65" spotNum="2"/>
+		<dSpot xCord="963.15" yCord="113.25" spotScale="65" spotNum="2"/>
+	</dropSpots>
+</DragDrop>

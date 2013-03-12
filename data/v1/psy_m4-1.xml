@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Mean, Median, Mode, and Standard Deviation">
+   <scene id="1" type="1_Module_Intro">
+      <video>psy_m4-1_s1</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (l)Image Source/CORBIS, (cl)Datacraft Co Ltd/Getty Images, (c)Brand X Pictures/PunchStock, (b)Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s2</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="6_Activity_Interactivity">
+      <content>
+         <header>Measures of Central Tendency</header>
+         <instruction><![CDATA[<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>]]></instruction>
+      </content>
+      <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/PSY_M04_01_10P.mp4</url>
+      <image>psy_m4-1_s3.jpg</image>
+      <audio>psy_m4-1_s3</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s4</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="5" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Which of these is the mean of this data set?<br/>8, 9, 10, 5, 2, 7, 3, 6, 7, 10, 10]]></question>
+            <answers>
+				<answer>11</answer>
+				<answer>10</answer>
+				<answer>9</answer>
+				<answer>8</answer>
+				<answer correct="true">7</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m4-1_s5_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s5</audio>
+      <credits>(tr)Brand X Pictures/PunchStock, (bkgd)Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="6" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s6</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Which is the median for this data set? <br/>8, 9, 10, 5, 2, 7, 3, 6, 7, 10, 10]]></question>
+            <answers>
+				<answer correct="true">7</answer>
+				<answer>11</answer>
+				<answer>10</answer>
+				<answer>6</answer>
+				<answer>2</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m4-1_s7_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s7</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s8</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[What is the mode of this data set?<br/>8, 9, 10, 5, 2, 7, 3, 6, 7, 10, 10]]></question>
+            <answers>
+				<answer>7</answer>
+				<answer>3</answer>
+				<answer correct="true">10</answer>
+				<answer>9</answer>
+				<answer>6</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m4-1_s9_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s9</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="10" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s10</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="11" type="7_Activity_Drag_Drop">
+		<matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+		<matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+			<matches title="">
+				<match id="1">Mean</match>
+				<match id="3">Median</match>
+				<match id="2">Mode</match>
+			</matches>
+			<drops title="Measures of Central Tendency" children-styles="margin-bottom: 0.1em;">
+				<drop correct="1" x="46" y="103" />
+				<drop correct="2" x="46" y="202" />
+				<drop correct="3" x="46" y="301" />
+			</drops>
+			<image>psy_m4-1_s11.jpg</image>
+			<feedbackAudio>psy_m4-1_s11_FB</feedbackAudio>
+		</matching>
+		<instructions>When you are done, check your results by clicking 'Check Answers'.</instructions>
+		<audio>psy_m4-1_s11</audio>
+		<credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+	</scene>
+
+	<scene id="12" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s12</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="13" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s13</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="14" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[What is the range of this data set?<br/>8, 9, 10, 5, 2, 7, 3, 6, 7, 10, 10]]></question>
+            <answers>
+				<answer>10</answer>
+				<answer>from 2 to 10</answer>
+				<answer>6</answer>
+				<answer correct="true">8</answer>
+				<answer>from 10 to 2</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m4-1_s14_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s14</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s15</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s16</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="17" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s17</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s18</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="7_Activity_Drag_Drop">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching type="dynamic" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1">Step 1</match>
+			<match id="2">Step 2</match>
+			<match id="3">Step 3</match>
+			<match id="4">Step 4</match>
+         </matches>
+         <drops title="" children-styles="margin-bottom: 0.1em;">
+            <drop correct="4" x="43" y="100" />
+			<drop correct="1" x="43" y="175" />
+			<drop correct="3" x="43" y="250" />
+			<drop correct="2" x="43" y="325" />
+         </drops>
+         <image>psy_m4-1_s19.jpg</image>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>psy_m4-1_s19</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[What is the mean of this data set?<br/>10, 4, 1]]></question>
+            <answers>
+				<answer correct="true">5</answer>
+				<answer>6</answer>
+				<answer>7</answer>
+				<answer>8</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m4-1_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s20</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Which of the following is the correct set of missing numbers?<br/>The values in the data set are:<br/>10, 4, 1<br/>10 – 5 = 5<br/>4 – 5 = -1<br/>? – ? = ?]]></question>
+            <answers>
+				<answer>5 – 2 = 3</answer>
+				<answer correct="true">1 – 5 = -4</answer>
+				<answer>3 – 2 = 1</answer>
+				<answer>5 – 10 = -5</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m4-1_s21_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s21</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[What is -4 squared?]]></question>
+            <answers>
+				<answer>-4</answer>
+				<answer>8</answer>
+				<answer>-16</answer>
+				<answer correct="true">16</answer>
+            </answers>
+            <figure><text><![CDATA[
+			<p>The values in the data set are:<br/>
+			10, 4, 1</p>
+			<p>Step 1: The mean is 5.</p>
+			<p>Step 2: Find the difference between the mean and the score. <br/>
+			10 – 5 = 5 <br/>
+			4 – 5 = -1<br/>
+			1 – 5 = -4</p>
+			<p>Step 3: Square the differences and add them. <br/>
+			5 squared = 25<br/>
+			-1 squared = 1<br/>
+			-4 squared = ?</p>
+			]]></text></figure>
+            <feedbackAudio>psy_m4-1_s22_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s22</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[By squaring the differences and adding them you get which number?<br/>5 squared = 25<br/>-1 squared = 1<br/>-4 squared = 16]]></question>
+            <answers>
+				<answer>41</answer>
+				<answer correct="true">42</answer>
+				<answer>43</answer>
+				<answer>44</answer>
+            </answers>
+            <figure><text><![CDATA[
+			<p>The values in the data set are:<br/>
+			10, 4, 1</p>
+			<p>Step 1: The mean is 5.</p>
+			<p>Step 2: Find the difference between the mean and the score. <br/>
+			10 – 5 = 5<br/>
+			4 – 5 = -1<br/>
+			1 – 5 = -4</p>
+			<p>Step 3: Square the differences and add them.</p>
+			]]></text></figure>
+            <feedbackAudio>psy_m4-1_s23_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s23</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[The sum of the data set divided by <em>N</em> equals what number?]]></question>
+            <answers>
+				<answer>12</answer>
+				<answer>13</answer>
+				<answer correct="true">14</answer>
+				<answer>15</answer>
+            </answers>
+            <figure><text><![CDATA[
+			<p>The values in the data set are:<br/>
+			10, 4, 1</p>
+			<p>Step 1: The mean is 5.</p>
+			<p>Step 2: Find the difference between the mean and the score. <br/>
+			10 – 5 = 5<br/>
+			4 – 5 = -1<br/>
+			1 – 5 = -4</p>
+			<p>Step 3: The sum of the squared differences equals 42.</p>
+			]]></text></figure>
+            <feedbackAudio>psy_m4-1_s24_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s24</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question><![CDATA[What is the variance for this data set?<br/>5, 6, 4, 8, 2]]></question>
+            <answers>
+				<answer>The mean is 6; the sum of the squares is 20; the variance is 2.</answer>
+				<answer correct="true">The mean is 5; the sum of the squares is 20; the variance is 4.</answer>
+				<answer>The mean is 4; the sum of the squares is 25; the variance is 5.</answer>
+				<answer>The mean is 7; the sum of the squares is 28; the variance is 7.</answer>
+            </answers>
+            <figure><text><![CDATA[
+			<p>Step 1. Calculate the mean.</p>
+			<p>Step 2. Find the differences between the mean and each of the values.</p>
+			<p>Step 3. Square each of the differences. Then add up the squared differences.</p>
+			<p>Step 4. Divide the sum by <em>N</em>, the number of items in the data set.</p>
+			]]></text></figure>
+            <feedbackAudio>psy_m4-1_s25_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s25</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s26</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s27</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (c)Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="9_Activity_Image_Rollclick">
+		<content>
+			<header><![CDATA[]]></header>
+			<instruction></instruction>
+		</content>
+		<activity type="image">
+			<image>psy_m4-1_s28.jpg</image>
+			<hotspots>
+				<hotspot audio="" dynamic="true" x="373" y="199">
+					<![CDATA[
+					<h1>Square Root Symbol</h1>
+					<p>You can use a calculator or computer to find the square roots. On a calculator, look for the √ symbol. Then key in the number of the variance and hit the square root button. Remember to round your decimals to the nearest hundredth.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>psy_m4-1_s28</audio>
+		<credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+	</scene>
+
+   <scene id="29" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple>
+            <question><![CDATA[Which is the standard deviation of the second data set?<br/>The variance is 4]]></question>
+            <answers>
+				<answer correct="true">2</answer>
+				<answer>8</answer>
+				<answer>4/2</answer>
+				<answer>14.18/5</answer>
+            </answers>
+            <figure></figure>
+            <feedbackAudio>psy_m4-1_s29_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>psy_m4-1_s29</audio>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="30" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s30</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="31" type="2_Txt_Img_Animation">
+      <video>psy_m4-1_s31</video>
+      <credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+   </scene>
+
+	<scene id="32" type="End_Multiple_Choice">
+		<instruction>Click on the correct answer.</instruction>
+		<multiple_choice>
+			<multiple>
+				<question><![CDATA[What is the mean of this data set?<br/>8, 12, 6, 3, 4, 8, 11, 2]]></question>
+				<answers>
+					<answer>2.63</answer>
+					<answer>3</answer>
+					<answer correct="true">6.75</answer>
+					<answer>44</answer>
+					<answer>54</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question><![CDATA[What is the median of this data set?<br/>8, 12, 6, 3, 4, 8, 11, 2]]></question>
+				<answers>
+					<answer>3</answer>
+					<answer correct="true">7</answer>
+					<answer>8</answer>
+					<answer>12</answer>
+					<answer>24</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question><![CDATA[What is the mode of this data set?<br/>8, 12, 6, 3, 4, 8, 11, 2]]></question>
+				<answers>
+					<answer>2</answer>
+					<answer>3</answer>
+					<answer>7</answer>
+					<answer correct="true">8</answer>
+					<answer>12</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question><![CDATA[What is the variance of this data set?<br/>8, 12, 6, 3, 4, 8, 11, 2]]></question>
+				<answers>
+					<answer>-0.75</answer>
+					<answer correct="true">11.68</answer>
+					<answer>13.43</answer>
+					<answer>36</answer>
+					<answer>94</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+			<multiple>
+				<question><![CDATA[What is the standard deviation of this data set?<br/>8, 12, 6, 3, 4, 8, 11, 2]]></question>
+				<answers>
+					<answer correct="true">3.42</answer>
+					<answer>5.49</answer>
+					<answer>11.75</answer>
+					<answer>13.76</answer>
+					<answer>25.96</answer>
+				</answers>
+				<feedbackAudio></feedbackAudio>
+			</multiple>
+		</multiple_choice>
+		<audio>psy_m4-1_s32</audio>
+		<credits>(tr) Brand X Pictures/PunchStock, (bkgd) Glow Images/Getty Images.</credits>
+	</scene>
+</shell>

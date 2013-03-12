@@ -1,0 +1,34 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-3_s19.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+
+		<Source>
+			<Text>Each person in a family of five people takes a 10.0-minute shower each day. The shower has a water flow rate of 5.0 gallons per minute. How much water does a member of this family use each year to take showers?</Text>
+			<word>VIEW</word>
+			<image></image>
+		</Source>
+		
+	</slideInfo>
+	
+	<question>
+	<fraction>answer</fraction>
+		<qText><![CDATA[<p>Equation:   <font face='c-Italic' >X</font> × <font face='c-Italic' >Y</font> × <font face='c-Italic' >Z</font> = ?<br/><br/>If variable <font face='lc-Italic'>X</font> is for the time each family member showers per day, which represents the variable <font face='lc-Italic'>X</font>?</p>]]></qText>
+		<answerButtons>
+			<aBtn>
+			<frac>true</frac>
+				 <aText><![CDATA[<p><font size="16">       1 day<br/><font face='SuperScript'>________________</font><br/> 10.0 minutes</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+			<frac>true</frac>
+				 <aText><![CDATA[<p><font size="16"> 10.0 minutes<br/><font face='SuperScript'>________________</font><br/>        1 day</font></p>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+
+</MultipleChoice>

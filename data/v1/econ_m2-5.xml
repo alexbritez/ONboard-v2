@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Shifting and Movement Along a Graph">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m2-5_s1</video>
+    <credits>(c)Comstock/PunchStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>What effect does a change in price have on a supply or demand graph?</question>
+        <answers>
+          <answer>The entire curve moves to the left.</answer>
+		  <answer>The entire curve moves to the right.</answer>
+		  <answer>The y-axis changes.</answer>
+		  <answer>The x-axis changes.</answer>
+          <answer correct="true">A point moves along the curve.</answer>
+        </answers>
+        <feedbackAudio>econ_m2-5_s4_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-5_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these will cause a movement along the demand curve for disposable diapers?</question>
+        <answers>
+          <answer>An increase in the number of babies</answer>
+		  <answer>A trend toward potty training at a younger age</answer>
+          <answer correct="true">A change in the price of diapers</answer>
+		  <answer>An increase in the use of cloth diapers</answer>
+		  <answer>A decrease in the number of babies</answer>
+        </answers>
+        <feedbackAudio>econ_m2-5_s7_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-5_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these reasons best describes why a demand curve for pizza would shift to the right?</question>
+        <answers>
+          <answer>The price of pizza has increased.</answer>
+		  <answer>The price of pizza has decreased.</answer>
+          <answer correct="true">Pizza has become more popular with busy families.</answer>
+		  <answer>Pizza has been found to cause cancer.</answer>
+		  <answer>The price of tomato sauce and mozzarella cheese has increased.</answer>
+        </answers>
+        <feedbackAudio>econ_m2-5_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-5_s8</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s9</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s11</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="2_Txt_Img_Animation">
+    <video>econ_m2-5_s12</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>Which of the following could have caused the movement from Point A to Point B in the graph?</question>
+        <answers>
+          <answer>The price of cookies increased from $6 to $10.</answer>
+          <answer correct="true">The price of cookies decreased from $10 to $6.</answer>
+		  <answer>The cost of producing cookies decreased.</answer>
+		  <answer>The cost of producing cookies increased.</answer>
+		  <answer>Everyone in the country went on a diet.</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m2-5_s13_viewA.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple hasFigure="true">
+        <question>Which of the following could have caused the supply curve to shift from S1 to S2?</question>
+        <answers>
+          <answer>The price of cookies increased from $6 to $10.</answer>
+		  <answer>The price of cookies decreased from $10 to $6.</answer>
+          <answer correct="true">The cost of producing cookies decreased.</answer>
+		  <answer>The cost of producing cookies increased.</answer>
+		  <answer>Baking ovens increased in cost.</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m2-5_s13_viewB.jpg</figure>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A movement along a curve is caused by a change in underlying factors.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A movement along a curve is caused by a change in price.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>A change in quantity demanded is shown by a shift in the demand curve.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m2-5_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

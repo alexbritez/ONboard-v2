@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Gathering and Organizing Information">
+   <scene id="1" type="1_Module_Intro">
+      <video>WHIS_m1-2_s1</video>
+      <credits>(l)Hulton Archive/Archive Photos/Getty Images, (cl)Neil Setchfield/Digital Vision/Getty Images, (c)Nick Laing/JAI/Corbis, (cr)Enzo &amp;Paolo Ragazzini/Corbis, (r)Yadid Levy/Photolibrary/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="2" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s2</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Purestock/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="3" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s3</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Phil Ashley/Stone+/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="4" type="7_Activity_Drag_Drop">
+    <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+    <matching type="dynamic" format="inside" deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+      <matches title="" children-styles="height: 36px !important;font-size: 13px; width: 140px !important;">
+        <match id="2">Horses were not native to Ceylon.</match>
+        <match id="3">Elephants provide power to a king.</match>
+        <match id="1">Elephants were prized possessions.</match>
+      </matches>
+      <drops title="" children-styles="margin-bottom: 0.1em;" dropzone-styles="height: 24px !important;width:140px !important;">
+        <drop correct="1" x="325" y="78"/>
+        <drop correct="2" x="360" y="233"/>
+        <drop correct="3" x="254" y="296"/>
+      </drops>
+      <image>WHIS_m1-2_s4.jpg</image>
+    </matching>
+    <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+    <audio>WHIS_m1-2_s4</audio>
+    <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+  </scene>
+
+	<scene id="5" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>"The Execution of Mata Hari, 1917"</header>
+			<instruction><![CDATA[
+        <h1>Click to Explore</h1>
+        <p>Click on the 'hot spots' to view additional information.</p>
+        ]]></instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+        <div style="font-size:74%">
+  				<p><a href="#" data-id="0" class="hotspot"><strong>In the murky world of the spy</strong></a> . . . the French suspected <a href="#" data-id="1" class="hotspot"><strong>[Mata Hari]</strong></a> of being a double agent. In <a href="#" data-id="2" class="hotspot"><strong>February 1917</strong></a> Mata Hari returned to Paris and was immediately arrested; charged with being a German spy. Her trial in July revealed some damning evidence that the dancer was unable to adequately explain. She was convicted and sentenced to death.</p>
+  				<p>In the early-morning hours of October 15, Mata Hari was awakened and taken by car from her Paris prison cell to an army barracks on the city's outskirts where she was to meet her fate.</p>
+  				<p><a href="#" data-id="3" class="hotspot"><strong>Henry Wales was a British reporter who covered the execution.</strong></a></p>
+  				<p>"<a href="#" data-id="4" class="hotspot"><strong>Mata Hari was not bound and she was not blindfolded</strong></a>. She stood gazing steadfastly at her executioners, when <a href="#" data-id="5" class="hotspot"><strong>the priest, the nuns,</strong></a> and her lawyer stepped away from her.</p>
+  				<p>The officer in command of the firing squad, who had been watching his men like a hawk that none might examine his rifle and try to find out <a href="#" data-id="6" class="hotspot"><strong>whether he was destined to fire the blank cartridge which was in the breech of one rifle,</strong></a> seemed relieved that the business would soon be over."</p>
+				<p style="font-size:80%;text-align:right;">Credit: Copyright &copy; 2005 EyeWitnesstoHistory.com</p>
+        </div>
+			]]></text>
+			<hotspots>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Spies must be common throughout history, because this text suggests that there is a "world" surrounding this occupation.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Mata Hari is an unusual name for a woman in France. The text a few lines down says she is a dancer. Maybe &quot;Mata Hari&quot; is a stage name.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>February 1917 means this occurred during World War I.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Mata Hari must have been famous if a British reporter is covering her death.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>Evidently, most people killed by firing squad are first bound and blindfolded.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>It must be common practice for church members to accompany an execution. Or perhaps Mata Hari was Catholic.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>One member of a firing squad is given a blank cartridge. Why? Maybe to lessen the guilt of killing a human being.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>WHIS_m1-2_s5</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+	</scene>
+
+	<scene id="6" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s6</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Hulton Archive/Archive Photos/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="7" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s7</video>
+      <credits>(bkgd)Kathy Collins/Photographer's Choice RF/Getty Images, (others)Tetra Images/Getty Images.</credits>
+   </scene>
+
+   <scene id="8" type="9_Activity_Image_Rollclick">
+		<content>
+			<header>Scandinavian Mythology</header>
+      <instruction><![CDATA[
+        <h1>Click to Explore</h1>
+        <p>Click on the 'hot spots' to view additional information.</p>
+        ]]></instruction>
+		</content>
+		<activity type="text">
+			<text><![CDATA[
+        <p style="text-align:center"><strong>Scandanavian Mythology</strong></p>
+				<p><a href="#" data-id="0" class="hotspot"><strong>Norse or Scandinavian mythology refers to the religious beliefs of the Scandinavian people before the arrival of Christianity.</strong></a> <a href="#" data-id="1" class="hotspot"><strong>Much of what we know about Scandinavian mythology is contained in Old Norse literature and narrated folktales called <em>Eddas</em>.</strong></a> There were two main groups of gods in Scandinavian mythology: the &AElig;sir and the Vanir. <a href="#" data-id="2" class="hotspot"><strong>The &AElig;sir were concerned with power and war,</strong></a> while the Vanir were fertility and prosperity gods.</p>
+			]]></text>
+			<hotspots>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>The Norse or Scandinavian people believed in gods and goddesses. Christianity eventually replaced these gods and goddesses.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>The ancient Norse people had a tradition of written literature as well as oral history.</p>
+					]]>
+				</hotspot>
+				<hotspot>
+					<![CDATA[
+					<h1>Inference</h1>
+					<p>The Norse people were evidently a warlike culture.</p>
+					]]>
+				</hotspot>
+			</hotspots>
+		</activity>
+		<audio>WHIS_m1-2_s8</audio>
+		<credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images</credits>
+	</scene>
+
+   <scene id="9" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s9</video>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+
+   <scene id="10" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>What can you infer about daily life in pre-Christian Scandinavia?</question>
+            <answers>
+				<answer correct="true">Scandinavians looked to the gods for guidance.</answer>
+				<answer>Scandinavians were mischievous troublemakers.</answer>
+				<answer>Scandinavians were vengeful.</answer>
+				<answer>Scandinavians wrote much poetry.</answer>
+            </answers>
+            <figure>WHIS_m1-2_s10_view.jpg</figure>
+            <feedbackAudio>WHIS_m1-2_s10_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-2_s10</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+
+   <scene id="11" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Of these deities, which would a woman approaching childbirth NOT seek guidance from?</question>
+            <answers>
+				<answer>Frigg</answer>
+				<answer>Freya</answer>
+				<answer>Idun</answer>
+				<answer correct="true">Skadi</answer>
+            </answers>
+            <figure>WHIS_m1-2_s10_view.jpg</figure>
+            <feedbackAudio>WHIS_m1-2_s11_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+
+   <scene id="12" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasFigure="true">
+            <question>Which of these deities would a man preparing for battle seek guidance from?</question>
+            <answers>
+				<answer>Baldr</answer>
+				<answer>Forseti</answer>
+				<answer correct="true">Tyr</answer>
+				<answer>Vidar</answer>
+            </answers>
+            <figure>WHIS_m1-2_s10_view.jpg</figure>
+            <feedbackAudio>WHIS_m1-2_s12_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio></audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+
+   <scene id="13" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>Technology and sailing techniques finally came together in Europe in the 1400s. Both made it possible to search for a water route to the East in order to avoid the politically treacherous land route.</p>
+			<p>The technology for maneuvering and navigating ships came from inventions in and around Europe, and from as far away as China. The triangular lateen sail, which can convert side winds to forward winds, allowed a ship to sail against the wind. This sail was brought to Europe from Arabs in Southwest Asia. The Dutch made innovations to the stern rudder, a steering device that allowed ships to be even more maneuverable. At the same time, the magnetic compass from China became commonplace in Europe, making it possible to navigate long ocean voyages.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-2_s13</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+
+   <scene id="14" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s14</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Bluegreen Pictures/Alamy, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="15" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s15</video>
+      <credits>(tr)Tetra Images/Getty Images, (c))Neil Setchfield/Digital Vision/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="16" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these is an inference that you can make from reading the passage?</question>
+            <answers>
+				<answer>Archaeologists were correct in their assumptions.</answer>
+				<answer correct="true">Archaeologists were wrong in their assumptions.</answer>
+				<answer>Archaeologists still do not know much about the Maya.</answer>
+				<answer>Archaeologists never learned to read the Maya language.</answer>
+            </answers>
+            <figure>
+				<header></header>
+				 <text><![CDATA[
+					<p>For much of the 20th century, Maya experts followed the lead of archaeologist J. Eric Thompson, who argued that the Maya were peaceful philosophers and extraordinary observers of heavenly events who were content to ponder the nature of time and the stars. This view held until at least 1976, because archaeologists did not know how to read the Maya language.</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-2_s16_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-2_s16</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images</credits>
+   </scene>
+
+   <scene id="17" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>As experts translated more glyphs [carvings], they learned that Tikal had lost a war with Caracol, a Maya city in what is today the country of Belize. The evidence is a boast of the victory, in 562 C.E., inscribed on an altar found in Caracol.</p>
+			<p>Tikal recovered in 672, however, and launched a war against Dos Pilas. In the war, Tikal was triumphant. Glyph-covered stone stairways at Dos Pilas record the city's defeat.</p>
+			<p>Because Teotihuac&aacute;n lies 630 miles from Tikal, many scholars originally doubted that the two empires were even aware of each other's existence. A series of fourth-century glyphic texts from Tikal helped connect the two empires, however.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-2_s17</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="18" type="11_Activity_Drag_List">
+      <matchingInstructions>Match the items on the left to the correct areas on the right.</matchingInstructions>
+      <matching deductionFactor="2" maxAttempts="3" hasPoints="true" points="6">
+         <matches title="">
+            <match id="1"><![CDATA[Tikal and Teotihuac&aacute;n knew of each other.]]></match>
+			<match id="2">The Maya were peaceful philosophers.</match>
+			<match id="3">War was an important part of Maya culture.</match>
+			<match id="4">The Maya were a boastful people.</match>
+			<match id="5">Maya cities were isolated from one another.</match>
+			<match id="6">The Maya were content to study the stars.</match>
+         </matches>
+         <drops title="Inferences Based on &lt;br /&gt;Old Theories">2,6,5</drops>
+    		 <drops title="Conclusions Based on &lt;br /&gt;New Discoveries">1,3,4</drops>
+      </matching>
+      <instructions>When you are done, check your results by clicking 'Check Answers.'</instructions>
+      <audio>WHIS_m1-2_s18</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="19" type="3_txt_img_reading">
+      <content>
+         <header></header>
+         <text><![CDATA[
+		 	<p>People in the central Andean region of South America cultivated potatoes after 3000 B.C.E. In elaborately terraced fields built with stone retaining walls, cultivators harvested potatoes of many colors, sizes, and tastes.</p>
+			<p>When Spanish and English explorers arrived in the 1500s C.E., they sampled potatoes and then carried some back to their homelands. Potatoes provided a welcome source of carbohydrates for peasants and laborers who were having trouble keeping up with the rising price of bread. From Ireland to Russia and from Scandinavia to the Mediterranean, cultivators planted potatoes and harvested crops that added calories to European diets.</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-2_s19</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="20" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>Which of these inferences can you make after reading the passage?</question>
+            <answers>
+				<answer>The potato originated in Ireland.</answer>
+				<answer correct="true">Europeans liked eating potatoes.</answer>
+				<answer>Potatoes have always been a significant part of Europeans' diet.</answer>
+				<answer>Europeans did not like to eat potatoes.</answer>
+            </answers>
+            <figure>
+				<header></header>
+					<text><![CDATA[
+						<p>People in the central Andean region of South America cultivated potatoes after 3000 B.C.E. In elaborately terraced fields built with stone retaining walls, cultivators harvested potatoes of many colors, sizes, and tastes.</p>
+						<p>When Spanish and English explorers arrived in the 1500s C.E., they sampled potatoes and then carried some back to their homelands. Potatoes provided a welcome source of carbohydrates for peasants and laborers who were having trouble keeping up with the rising price of bread. From Ireland to Russia and from Scandinavia to the Mediterranean, cultivators planted potatoes and harvested crops that added calories to European diets.</p>
+					]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-2_s20_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-2_s20</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="21" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s21</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Adam Woolfitt/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="22" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s22</video>
+      <credits>(tr)Tetra Images/Getty Images, (l)Nick Laing/JAI/Corbis, (r) Dallas and John Heaton/Free Agents Limited/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="23" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s23</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Enzo &amp; Paolo Ragazzini/Corbis, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="24" type="2_Txt_Img_Animation">
+      <video>WHIS_m1-2_s24</video>
+      <credits>(tr)Tetra Images/Getty Images, (c)Yadid Levy/Photolibrary/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="25" type="3_txt_img_reading">
+      <content>
+         <header italic="false"><![CDATA[<em>The History of the Peloponnesian War</em> by Thucydides, 431 B.C.E]]></header>
+         <text><![CDATA[
+		 	<p>With reference to the speeches in this history, some were delivered before the war began, others while it was going on; some I heard myself, others I got from various quarters; it was in all cases difficult to carry them word for word in one's memory, so my habit has been to make the speakers say what was in my opinion demanded of them by the various occasions, of course adhering as closely as possible to the general sense of what they really said. And with reference to the narrative of events, far from permitting myself to derive it from the first source that came to hand, I did not even trust my own impressions, but it rests partly on what I saw myself, partly on what others saw for me, the accuracy of the report being always tried by the most severe and detailed tests possible. My conclusions have cost me some labour from the want of coincidence between accounts of the same occurrences by different eye-witnesses, arising sometimes from imperfect memory, sometimes from undue partiality for one side or the other.</p>
+			<p style="font-size:90%;">Source: http://classics.mit.edu/Thucydides/pelopwar.1.first.html Translated by Richard Crawley</p>
+		 ]]></text>
+      </content>
+      <audio>WHIS_m1-2_s25</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="26" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What sources did Thucydides use to write his account of events?</question>
+            <answers>
+				<answer correct="true">What he and others saw and heard</answer>
+				<answer>Books written by historians</answer>
+				<answer>Letters from participants in the events</answer>
+				<answer>Third-hand information from friends</answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[<em>The History of the Peloponnesian War</em> by Thucydides, 431 B.C.E]]></header>
+				 <text><![CDATA[
+					<p>With reference to the speeches in this history, some were delivered before the war began, others while it was going on; some I heard myself, others I got from various quarters; it was in all cases difficult to carry them word for word in one's memory, so my habit has been to make the speakers say what was in my opinion demanded of them by the various occasions, of course adhering as closely as possible to the general sense of what they really said. And with reference to the narrative of events, far from permitting myself to derive it from the first source that came to hand, I did not even trust my own impressions, but it rests partly on what I saw myself, partly on what others saw for me, the accuracy of the report being always tried by the most severe and detailed tests possible. My conclusions have cost me some labour from the want of coincidence between accounts of the same occurrences by different eye-witnesses, arising sometimes from imperfect memory, sometimes from undue partiality for one side or the other.</p>
+					<p style="font-size:90%;">Source: http://classics.mit.edu/Thucydides/pelopwar.1.first.html Translated by Richard Crawley</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-2_s26_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-2_s26</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="27" type="Activity_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+         <multiple hasTextFigure="true">
+            <question>What concerns does Thucydides raise about the sources he used?</question>
+            <answers>
+				<answer>The people were not eyewitnesses.</answer>
+				<answer>The sources were lying.</answer>
+				<answer>The people he questioned were not remembering correctly.</answer>
+				<answer correct="true">The sources did not always agree with each other.</answer>
+            </answers>
+            <figure>
+				<header italic="false"><![CDATA[<em>The History of the Peloponnesian War</em> by Thucydides, 431 B.C.E]]></header>
+				 <text><![CDATA[
+					<p>With reference to the speeches in this history, some were delivered before the war began, others while it was going on; some I heard myself, others I got from various quarters; it was in all cases difficult to carry them word for word in one's memory, so my habit has been to make the speakers say what was in my opinion demanded of them by the various occasions, of course adhering as closely as possible to the general sense of what they really said. And with reference to the narrative of events, far from permitting myself to derive it from the first source that came to hand, I did not even trust my own impressions, but it rests partly on what I saw myself, partly on what others saw for me, the accuracy of the report being always tried by the most severe and detailed tests possible. My conclusions have cost me some labour from the want of coincidence between accounts of the same occurrences by different eye-witnesses, arising sometimes from imperfect memory, sometimes from undue partiality for one side or the other.</p>
+					<p style="font-size:90%;">Source: http://classics.mit.edu/Thucydides/pelopwar.1.first.html Translated by Richard Crawley</p>
+				 ]]></text>
+			</figure>
+            <feedbackAudio>WHIS_m1-2_s27_FB</feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-2_s27</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+
+   <scene id="28" type="End_Multiple_Choice">
+      <instruction>Click on the correct answer.</instruction>
+      <multiple_choice>
+		 <multiple>
+            <question>When you infer something, you are making an educated guess based on information provided and your prior knowledge.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>When you are reading, you should only make inferences by drawing conclusions about information that is directly stated.</question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question><![CDATA[<em>Implied</em> means &quot;directly stated.&quot;]]></question>
+            <answers>
+               <answer>True</answer>
+               <answer correct="true">False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>Authors rely on a reader's ability to make inferences because all of the details cannot always be provided.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+		 <multiple>
+            <question>To make an inference about a visual, you must examine its details.</question>
+            <answers>
+               <answer correct="true">True</answer>
+               <answer>False</answer>
+            </answers>
+            <feedbackAudio></feedbackAudio>
+         </multiple>
+      </multiple_choice>
+      <audio>WHIS_m1-2_s28</audio>
+      <credits>(tr)Tetra Images/Getty Images, (bkgd)Kathy Collins/Photographer's Choice RF/Getty Images.</credits>
+   </scene>
+</shell>

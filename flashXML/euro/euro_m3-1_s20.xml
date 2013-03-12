@@ -1,0 +1,60 @@
+﻿<DragDrop>
+	<slideInfo>
+		<image>images/euro_m3-1_s20.jpg</image>
+		<audio>audio/euro_m3-1_s20.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+		<feedback>audio/euro_m3-1_s20_FB.mp3</feedback>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size="20">Brooke considers himself English.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size="20">Brooke has a strong love for his country.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Brooke is afraid of going to war.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="16">Brooke believes it’s noble to die for one’s country.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Brooke has experienced war.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="20">Brooke is idealistic.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="20">Brooke supports the war.</font>]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="20">Brooke thinks the war is a mistake.</font>]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>			
+
+	</dragItems>
+	
+	<dropSpots>
+		<dSpot xCord="576.35" yCord="164.1" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.35" yCord="230.05" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.35" yCord="296" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.35" yCord="361.95" spotScale="80" spotNum="1"/>
+		<dSpot xCord="576.35" yCord="427.9" spotScale="80" spotNum="1"/>
+
+		<dSpot xCord="864.15" yCord="164.1" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.15" yCord="230.05" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.15" yCord="296" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.15" yCord="361.95" spotScale="80" spotNum="2"/>
+		<dSpot xCord="864.15" yCord="427.9" spotScale="80" spotNum="2"/>
+
+			
+	</dropSpots>
+</DragDrop>

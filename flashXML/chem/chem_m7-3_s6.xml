@@ -1,0 +1,47 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Gas Laws</title>
+		<info></info>
+		<image>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/images/chem_m7-3_s6.jpg</image>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-3_s6.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>The correct answer is:</Name>   
+			<audio enable="true" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-3_s6_a.mp3"/>
+			<xCord>691.45</xCord>
+			<yCord>373.3</yCord>
+			<width>134</width>
+			<fraction>true</fraction>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[1080 mm Hg<br/><br/><font face='c-Bold'>Explanation:</font> Gay-Lussac's Law <br/><br/><br/>          <font face='c-Italic'>P</font><font face='SubScript'>1</font> × <font face='c-Italic'>T</font><font face='SubScript'>2</font><br/><font face='c-Italic'>P</font><font face='SubScript'>2</font> = <font face='chemNums'>____________</font><br/>                <font face='c-Italic'>T</font><font face='SubScript'>1</font><br/><br/>           645 mm Hg × 458 K<br/><font face='c-Italic'>P</font><font face='SubScript'>2</font> = <font face='chemNums'>________________________</font><br/>                       273 K]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>The correct answer is:</Name>
+			<audio enable="false" url="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-3_s6_a.mp3"/>
+			<xCord>-100</xCord>
+			<yCord>-100</yCord>
+			<width>85</width>
+			<fraction>true</fraction>
+			<popTitle>The correct answer is:</popTitle>
+			<popInfo><![CDATA[ ]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

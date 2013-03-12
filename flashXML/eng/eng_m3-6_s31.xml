@@ -1,0 +1,26 @@
+<FillIn>
+	<slideInfo>
+		<hText><![CDATA[<p><font size='26'>TOPIC: Most parties benefit from multinational corporations. (defend, challenge, qualify)</font></p>]]></hText>
+		<qText><![CDATA[<p>$ money, funding, jobs<font size='8'><br/><br/></font>Safety, health<font size='8'><br/><br/></font>Environment<font size='8'><br/><br/></font>Ethics<font size='8'><br/><br/></font>International Impact<font size='8'><br/><br/></font>Technology<font size='8'><br/><br/></font>Time</p>]]></qText>
+		<correctText><![CDATA[<p><font size='12'><font face='c-Bold'>Sample arguments based on $ SEE ITT issues:</font><br/>$—Multinationals pay low wages in developing countries.<br/>S—Safety regulations often do not exist in developing countries.<br/>E—Multinationals often pollute the environment.<br/>E—Unethical low wages are counterbalanced by offering available jobs.<br/>I—Multinationals lead to interdependence and the U.S. dollar as <br/>      the global currency.<br/>T—Technology offered by multinationals can create the <br/>       middle class.<br/>T—Large unskilled workforces do not save time in manufacturing.<br/></font></p>]]></correctText>
+		<haveSource enable="false" word="View" image="images/chem_m1-6_s17.jpg" />
+		<audio>audio/eng_m3-6_s31.mp3</audio>
+		<feedback></feedback>
+	</slideInfo>	
+</FillIn>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

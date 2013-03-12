@@ -1,0 +1,151 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-4_s23.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[What is the pH of a solution with<br />[H<font face='SubScript'>3</font>O<font face='SuperScript'>+</font>] = 3.92 × 10<font face='chemNums'>c<font><font face='SuperScript'>5</font> <font face='c-Italic'>M?</font>]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>–4.407</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>4.407</aText>
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>0.999</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>10.15</aText> 
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	
+	
+		<question>
+		<qText><![CDATA[What is the concentration of hydronium ion if <br />the pH is 4.32?]]></qText> 
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[0.64 <font face='c-Italic'>M</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[2.1 × 10<font face='SuperScript'>4</font> <font face='c-Italic'>M</font>]]></aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[4.8 × 10<font face='chemNums'>c</font><font face='SuperScript'>5</font> <font face='c-Italic'>M</font>]]></aText>
+				<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[1.5]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+	
+	
+		<question>
+		<qText><![CDATA[Calculate the pOH of a solution with [OH<font face='chemNums'>c</font>] = 5.75 × 10<font face='chemNums'>c</font><font face='SuperScript'>8</font> <font face='c-Italic' >M</font>.]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>7.240</aText>
+				<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText>1.670</aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>16.67</aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>8.760</aText> 
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+	
+
+	
+	
+	
+		<question>
+		<qText><![CDATA[Calculate the [OH<font face='chemNums'>c</font>] for a solution with a pOH of 1.611.]]></qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText>0.216 <font face='c-Italic' >M</font></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[ 2.45 × 10<font face='SuperScript'>–2</font> <font face='c-Italic' >M</font>]]></aText>
+			 	<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ 4.08 × 10<font face='SuperScript'>–13</font> <font face='c-Italic' >M</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[ 4.41 × 10<font face='SuperScript'>1</font> <font face='c-Italic' >M</font>]]></aText>
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC.mp3" />
+	</question>
+
+
+	
+</MultipleChoice>

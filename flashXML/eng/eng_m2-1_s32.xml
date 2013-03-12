@@ -1,0 +1,58 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Misplaced or Dangling Modifiers</title>
+		<info><![CDATA[Davin bumped into the tree wearing a silly grin on his face.
+<font face='c-Bold'>Correct:</font> Wearing a silly grin on his face, Davin bumped into the tree.]]></info>
+		<image>images/eng_m2-1_s32.jpg</image>
+		<audio>audio/eng_m2-1_s32.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>Correct version:</Name>   
+			<audio enable="true" url="audio/eng_m2-1_s32_1.mp3"/>
+			<xCord>967</xCord>
+			<yCord>135</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[Jim used a black ballpoint pen that he borrowed from a stranger to fill out a credit card application.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>
+			<audio enable="true" url="audio/eng_m2-1_s32_2.mp3"/>
+			<xCord>970</xCord>
+			<yCord>203</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[As I was sitting in a fast-moving subway train, nausea caused my stomach to lurch.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>Correct version:</Name>   
+			<audio enable="true" url="audio/eng_m2-1_s32_3.mp3"/>
+			<xCord>970</xCord>
+			<yCord>273</yCord>
+			<width>85</width>
+			<fraction>false</fraction>
+			<popTitle>Correct version:</popTitle>
+			<popInfo><![CDATA[After I begged for an appointment soon, the doctor agreed to see me at nine the next morning.]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>
+<!-- 
+
+<font face='SuperScript'>TEXT</font> 
+<font face='SubScript'>TEXT</font> 
+<font face='lc-Italic'>TEXT</font> 
+<font face='lc-Bold'>TEXT</font> 
+<font face='c-Italic'>TEXT</font> 
+<font face='c-Bold'>TEXT</font>
+<font size='24'>TEXT</font>
+<font color='#ff0000'>TEXT</font>
+
+you can use multiple attributes in a single font tag if needed, i.e.:
+
+<font face='SuperScript' size='24' color='#ff0000'>TEXT</font> 
+
+-->

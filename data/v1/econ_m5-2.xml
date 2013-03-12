@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Money">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-2_s1</video>
+    <credits>(c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-2_s2</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Jeff Greenberg/Photolibrary/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-2_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (1)McGraw-Hill Companies, Inc., (2)Francesco Ruggeri/Stone/Getty Images, (3)Francisco Cruz/SuperStock, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these items has NOT been used as money?</question>
+        <answers>
+          <answer>Salted cod</answer>
+		  <answer>Silver</answer>
+		  <answer>Large stone wheels</answer>
+		  <answer>Cigarettes</answer>
+          <answer correct="true">Pencils</answer>
+        </answers>
+        <feedbackAudio>econ_m5-2_s4_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-2_s4</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m5-2_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Francesco Ruggeri/Stone/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m5-2_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Comstock Images/Jupiter Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="2_Txt_Img_Animation">
+    <video>econ_m5-2_s7</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="2_Txt_Img_Animation">
+    <video>econ_m5-2_s8</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Justin Sullivan/Getty Images News/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these actions is NOT a drawback exclusive to bartering?</question>
+        <answers>
+          <answer>Bartering takes much time.</answer>
+		  <answer>You have to find someone who wants what you have.</answer>
+          <answer correct="true">You must give up something to get something.</answer>
+		  <answer>You have to be near someone to barter with them.</answer>
+		  <answer>You have to determine the value of each good.</answer>
+        </answers>
+        <feedbackAudio>econ_m5-2_s9_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-2_s9</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>The price of a good increases, and $1 buys less of that good. What is this called?</question>
+        <answers>
+          <answer>Inherent value</answer>
+		  <answer>Representative value</answer>
+		  <answer>Deflation</answer>
+          <answer correct="true">Inflation</answer>
+		  <answer>Fiat value</answer>
+        </answers>
+        <feedbackAudio>econ_m5-2_s10_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-2_s10</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Cacao beans were used by Mayans and Aztecs as a form of representative money.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The modern U.S. dollar has inherent value.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Barter allows people to exchange goods and services without money.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The yen in Japan, the euro in Europe, and the peso in Mexico have fiat value.</question>
+        <answers>
+          <answer correct="true">True</answer>
+          <answer>False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>An example of deflation is the price of milk increasing from $2.19/gallon to $2.39/gallon.</question>
+        <answers>
+          <answer>True</answer>
+          <answer correct="true">False</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-2_s11</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

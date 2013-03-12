@@ -1,0 +1,36 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s30.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<fraction>true</fraction>
+		<qText><![CDATA[<p> 5.25 × 10<font face='SuperScript'>3</font><br/><font face='SuperScript'>______________</font><br/> 6.2 × 10<font face='SuperScript'>–4</font></p>]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[8.47 × 10<font face='SuperScript'>7</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[8.47 × 10<font face='SuperScript'>–1</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[8.47 × 10<font face='SuperScript'>1</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[8.47 × 10<font face='SuperScript'>6</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-1_s30_FB.mp3" />
+	</question>
+</MultipleChoice>

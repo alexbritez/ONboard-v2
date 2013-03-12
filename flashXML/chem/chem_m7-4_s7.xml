@@ -1,0 +1,37 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio></audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text><![CDATA[Sucrose (C<font face='SubScript' size='16'>12</font>H<font face='SubScript' size='16'>22</font>O<font face='SubScript' size='16'>11</font>) burns in oxygen to produce carbon dioxide and water.  Assuming complete combustion, how many grams of sucrose could be combusted by 45 L of pure oxygen gas at a temperature of 245°C and a pressure of 0.98 atm? ]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Does the ideal gas law need to be used? If so, when?]]></qText>
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law is needed at the beginning of the problem, before doing stoichiometry.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law is needed at the end of the problem, after doing stoichiometry.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law does not need to be used. Only stoichiometry is needed.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The ideal gas law is needed, but stoichiometry is not necessary.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-4_s7.mp3" />
+	</question>
+	
+</MultipleChoice>

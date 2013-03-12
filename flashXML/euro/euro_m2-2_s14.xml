@@ -1,0 +1,112 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>“Must Know” Dates</title>
+		<info>1600 to 1800</info>
+		<image>images/euro_m2-2_s14.jpg</image>
+		<audio>audio/euro_m2-2_s14.mp3</audio>
+		<popType>1</popType>
+	</slideInfo>
+	
+	<popButtons>
+		<pButton> 
+			<Name>1607</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>443.15</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1607</popTitle>
+			<popInfo>Virginia becomes first English colony in the New World.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1618</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>480.15</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1618</popTitle>
+			<popInfo>“Defenestration of Prague” causes outbreak of the Thirty Years' War. The term “defenestration” comes from an event involving Protestant Bohemian resistance to Catholic Holy Roman Emperor Ferdinand II. When Ferdinand’s agents attempted to close Protestant churches, the “defenders” of Protestantism held a trial, found the agents guilty of violating religious liberty, and threw them out of the windows in their council room in Prague. 
+</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1648</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>554.05</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1648</popTitle>
+			<popInfo>Peace of Westphalia brings Thirty Years' War to an end.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1688</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>657.05</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1688</popTitle>
+			<popInfo><![CDATA[&quot;Glorious Revolution&quot; establishes constitutional monarchy in England, and places Protestant King William III and Queen Mary II on the throne, replacing Mary’s Catholic father, James II.]]></popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1713</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>712</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1713</popTitle>
+			<popInfo>Treaty of Utrecht ends War of Spanish Succession; France (Louis XIV) defeated.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1721</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>748.95</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1721</popTitle>
+			<popInfo>Peter “the Great” of Russia prevails in two-decades long Great Northern War over the Kingdom of Sweden.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1740</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>791.85</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1740</popTitle>
+			<popInfo>Frederick “the Great” becomes King of Brandenburg-Prussia & initiates War of Austrian Succession to take Silesia away from Austrian Empress Maria Theresa.</popInfo>
+		</pButton>
+
+		<pButton> 
+			<Name>1763</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>849.65</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1763</popTitle>
+			<popInfo>Frederick the Great and British King George III prevail in Seven Years’ War; Treaty of Paris acknowledges Britain's emergence over France in North America.</popInfo>
+		</pButton>
+
+
+		<pButton> 
+			<Name>1789</Name>   
+			<audio enable="false" url="audio/chem_m6-5_s5a.mp3"/>
+			<xCord>917.6</xCord>
+			<yCord>342.35</yCord>
+			<width>134</width>
+			<fraction>false</fraction>
+			<popTitle>1789</popTitle>
+			<popInfo>French Revolution begins.</popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

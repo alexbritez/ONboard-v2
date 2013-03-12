@@ -1,0 +1,58 @@
+<DragDrop>
+	<slideInfo>
+		<image>images/euro_s1-2_s21.jpg</image>
+		<audio>audio/euro_s1-2_s21.mp3</audio>
+		<boxSize>Small</boxSize>
+		<boxScale>100</boxScale>
+	</slideInfo>
+	<dragItems>
+		<dItem>
+			<boxText><![CDATA[<font size="20">Were able to read and write Latin]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>
+		<dItem>
+			<boxText><![CDATA[<font size="20">Performed the agricultural labor]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Granted fiefs and swore fealty]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Created laws on manors]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Received use of mills and protection]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>		
+		<dItem>
+			<boxText><![CDATA[<font size="20">Felt books would dull the spirit]]></boxText>
+			<rightSpot>1</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="20">Dedicated to salvation]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="20">Hierarchy headed by the Bishop of Rome]]></boxText>
+			<rightSpot>2</rightSpot>
+		</dItem>	
+		<dItem>
+			<boxText><![CDATA[<font size="20">Learned skills from parents]]></boxText>
+			<rightSpot>3</rightSpot>
+		</dItem>	
+	</dragItems>
+	<dropSpots>
+		<dSpot xCord="532" yCord="176.3" spotScale="100" spotNum="1"/>
+		<dSpot xCord="532" yCord="254.95" spotScale="100" spotNum="1"/>
+		<dSpot xCord="532" yCord="333.6" spotScale="100" spotNum="1"/>
+		<dSpot xCord="722.5" yCord="176.3" spotScale="100" spotNum="2"/>
+		<dSpot xCord="722.5" yCord="254.95" spotScale="100" spotNum="2"/>
+		<dSpot xCord="722.5" yCord="333.6" spotScale="100" spotNum="2"/>
+		<dSpot xCord="913" yCord="176.3" spotScale="100" spotNum="3"/>
+		<dSpot xCord="913" yCord="254.95" spotScale="100" spotNum="3"/>
+		<dSpot xCord="913" yCord="333.6" spotScale="100" spotNum="3"/>
+
+	</dropSpots>
+</DragDrop>

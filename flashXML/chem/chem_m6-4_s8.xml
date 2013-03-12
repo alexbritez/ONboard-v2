@@ -1,0 +1,48 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-4_s8.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	
+	<question>
+		<qText><![CDATA[Use the reactions below to identify the amphoteric substance.<br></br><font size='26'>H<font face='chemNums'>2</font>CO<font face='chemNums'>3</font>   +   OH<font face='chemNums' >c</font>   <font face='CambriaMath'>→</font>   HCO<font face='chemNums'>-</font>   +   H<font face='chemNums'>2</font>O<br></br>HCO<font face='chemNums' >-</font>   +   HCl   <font face='CambriaMath'>→</font>   H<font face='chemNums' >2</font>CO<font face='chemNums' >3</font>   +   Cl<font face='chemNums' >c</font><br></br>HCO<font face='chemNums' >-</font>   +   OH<font face='chemNums' >c</font>   <font face='CambriaMath'>→</font>   CO<font face='chemNums' >p</font><font face='chemNums' >c</font>   +   H<font face='chemNums'>2</font>O</font>]]>
+</qText>
+
+		<answerButtons>
+			<aBtn>
+				 <aText><![CDATA[H<font face='chemNums'>2</font>CO<font face='chemNums'>3</font>]]></aText>
+				<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				 <aText><![CDATA[OH<font face='chemNums'>c</font>]]></aText>
+			 	<correct>false</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText><![CDATA[HCO<font face='chemNums'>-</font>]]></aText>
+				<correct>true</correct>
+			</aBtn>
+			
+			<aBtn>
+				<aText>HCl</aText> 
+			 	<correct>false</correct>
+			</aBtn>	
+			
+		</answerButtons>
+		<feedback enable="true" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m6-4_s8_FB.mp3" />
+	</question>
+
+	
+
+
+
+	
+</MultipleChoice>

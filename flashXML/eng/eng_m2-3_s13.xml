@@ -1,0 +1,49 @@
+﻿<PopUp>
+	<slideInfo>
+		<title>Illustration: Support from Others’ Writings</title>
+		<info><![CDATA[<p><font face='lc-Bold'>Types of Illustrations:</font><br/>Fact<br/>Statistic<br/>Example<br/>Quotation</font></p>]]></info>
+		<image>images/eng_m2-3_s13.jpg</image>
+		<audio>audio/eng_m2-3_s13.mp3</audio>
+		<popType>2</popType>
+	</slideInfo>
+	<popButtons>
+		<pButton> 
+			<Name>FACT</Name>   
+			<audio enable="false"/>
+			<xCord>500</xCord>
+			<yCord>150</yCord>
+			<width></width>
+			<popTitle>Fact:</popTitle>
+			<popInfo><![CDATA[The Supreme Court ordered the desegregation of public schools in 1964.]]></popInfo>
+		</pButton>
+		<pButton> 
+			<Name>STATISTIC</Name>   
+			<audio enable="false"/>
+			<xCord>500</xCord>
+			<yCord>200</yCord>
+			<width></width>
+			<popTitle>Statistic:</popTitle>
+			<popInfo><![CDATA[<p>A majority of schools in San Diego that were once 90% African American are now almost 45% white.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>EXAMPLE</Name>   
+			<audio enable="false"/>
+			<xCord>500</xCord>
+			<yCord>250</yCord>
+			<width></width>
+			<popTitle>Example:</popTitle>
+			<popInfo><![CDATA[<p>One example of the success of San Diego’s integration effort is its magnet schools.</p>]]></popInfo>
+		</pButton>
+		
+		<pButton> 
+			<Name>QUOTATION</Name>   
+			<audio enable="false"/>
+			<xCord>500</xCord>
+			<yCord>300</yCord>
+			<width></width>
+			<popTitle>Quotation:</popTitle>
+			<popInfo><![CDATA[<p>According to <font face='c-Italic'>Phi Delta Kappan</font>, “When Los Angeles announced its busing plan, an estimated 15.1 percent of the white population moved out of the district or into a private school. In San Diego, there was virtually no ‘white flight.’”</p>]]></popInfo>
+		</pButton>
+	</popButtons>
+</PopUp>

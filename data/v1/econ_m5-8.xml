@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shell title="Business Cycles and GDP">
+  <scene id="1" type="1_Module_Intro">
+    <video>econ_m5-8_s1</video>
+    <credits>(l to r)Creatas Images/Getty Images, (2)Image Source/Getty Images, (3)Richard Woldendorp/Photolibrary/Getty Images, (4)Specialist Seaman Brian Read Castillo/US Navy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="2" type="2_Txt_Img_Animation">
+    <video>econ_m5-8_s2</video>
+    <credits>(bkgd)Maria Toutoudaki/Photodisc/Getty Images, (others)Don Bishop/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="3" type="2_Txt_Img_Animation">
+    <video>econ_m5-8_s3</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Creatas Images/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="4" type="2_Txt_Img_Animation">
+    <video>econ_m5-8_s4</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Image Source/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="5" type="2_Txt_Img_Animation">
+    <video>econ_m5-8_s5</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Richard Woldendorp/Photolibrary/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="6" type="2_Txt_Img_Animation">
+    <video>econ_m5-8_s6</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)Specialist Seaman Brian Read Castillo/US Navy, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="7" type="6_Activity_Interactivity">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <url>http://media.ccr.mcgraw-hill.com/AP_OnBoard/ECON_M05_08_05P.mp4</url>
+    <image>econ_m5-8_s7.jpg</image>
+    <audio>econ_m5-8_s7</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)McGraw-Hill Companies, Inc., (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="8" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of these would NOT be counted as &lt;br&gt;household consumption?</question>
+        <answers>
+          <answer>Children buy popcorn at the zoo.</answer>
+		  <answer>Two students buy movie tickets.</answer>
+          <answer correct="true">General Motors buys new robots for its assembly line.</answer>
+		  <answer>A dog owner pays for a kennel stay.</answer>
+		  <answer>A new college graduate buys his first car.</answer>
+        </answers>
+        <feedbackAudio>econ_m5-8_s8_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="9" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which of the following would be counted in the U.S. GDP for 2013?</question>
+        <answers>
+          <answer>A house built in 1998 and sold to new owners in 2013</answer>
+		  <answer>A Toyota vehicle produced in Japan and sold to an American family</answer>
+		  <answer>An illegal purchase of pirated copies of movies</answer>
+          <answer correct="true">A Ford vehicle produced in Michigan and sold to a family in Canada</answer>
+		  <answer>A historical home purchased by the local library</answer>
+        </answers>
+        <feedbackAudio>econ_m5-8_s9_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="10" type="2_Txt_Img_Animation">
+    <video>econ_m5-8_s10</video>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (c)U.S. Bureau of Economic Analysis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="11" type="Activity_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple hasFigure="true">
+        <question>What is the highest rate of GDP growth shown during the time period on this graph?</question>
+        <answers>
+          <answer>3%</answer>
+          <answer correct="true">4%</answer>
+		  <answer>5%</answer>
+		  <answer>6%</answer>
+		  <answer>7%</answer>
+        </answers>
+        <figure verticalAlign="center">econ_m5-8_s11_view.jpg</figure>
+        <feedbackAudio>econ_m5-8_s11_FB</feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio></audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (inset)U.S. Bureau of Economic Analysis, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="12" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-8_s12.jpg</image>
+      <hotspots>
+        <hotspot audio="econ_m5-8_s12_a" dynamic="true" x="553" y="181">
+			<![CDATA[
+				<h1>Expansion</h1>
+				<p>An <strong>expansion</strong> is a period of economic growth, so GDP is rising. During an expansion, a nation has low unemployment and increasing income.</p>
+			]]>
+        </hotspot>
+		<hotspot audio="econ_m5-8_s12_b" dynamic="true" x="468" y="11">
+			<![CDATA[
+				<h1>Peak</h1>
+				<p>A <strong>peak</strong> is the temporary high point in economic growth. At the peak, the economy has full employment, meaning there is no cyclical unemployment and most job-seekers can find jobs. Growth has stopped, however.</p>
+			]]>
+        </hotspot>
+		<hotspot audio="econ_m5-8_s12_c" dynamic="true" x="111" y="283">
+			<![CDATA[
+				<h1>Recession</h1>
+				<p>A <strong>contraction</strong> occurs when GDP is decreasing. In this phase, unemployment is increasing. Businesses lay off workers because consumers aren't buying as many goods and services. If a contraction lasts longer than two consecutive quarters, it is called a recession.</p>
+			]]>
+        </hotspot>
+		<hotspot audio="econ_m5-8_s12_d" dynamic="true" x="440" y="313">
+			<![CDATA[
+				<h1>Trough</h1>
+				<p>A <strong>trough</strong> occurs when GDP hits a temporary low point. Although unemployment is high, the economy is poised for a turnaround.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-8_s12</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="13" type="9_Activity_Image_Rollclick">
+    <content>
+      <header></header>
+      <instruction></instruction>
+    </content>
+    <activity type="image">
+      <image>econ_m5-8_s13.jpg</image>
+      <hotspots>
+        <hotspot dynamic="true" x="199" y="97">
+			<![CDATA[
+				<p>Between 2001 and 2008, the U.S. was experiencing an <strong>economic expansion</strong>. That means the GDP was growing each year, and American incomes were increasing. This was caused by the boom in new technology, especially increased access to cell phones and the Internet, which made businesses more efficient.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="345" y="67">
+			<![CDATA[
+				<p>In the 2nd quarter of 2008, between April and June, the GDP hit a high point, called a <strong>peak</strong>. The long period of growth came to a halt, mostly because of the housing and banking crisis.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="491" y="33">
+			<![CDATA[
+				<p>Between 2008 and mid-2009, the U.S. GDP dropped for four straight quarters. This is called a <strong>contraction</strong> or a <strong>recession</strong>. Business investment and consumer spending both decreased, due to the banking crisis and the drop in housing prices.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="440" y="152">
+			<![CDATA[
+				<p>According to this graph, the U.S. GDP hit a low point or <strong>trough</strong> in the second quarter of 2009. The economy began to turn around, partly because of government stabilization policies and partly due to improved efficiency in business firms.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="547" y="155">
+			<![CDATA[
+				<p>In this period, the GDP is growing, but it is still not back to the previous high. This is called a <strong>recovery</strong>. Government policies and improved consumption helped the recovery along.</p>
+			]]>
+        </hotspot>
+		<hotspot dynamic="true" x="575" y="10">
+			<![CDATA[
+				<p>Here you can see that the GDP in the second quarter of 2010 surpasses the previous peak. At this point, the economy is beginning another <strong>expansion</strong>. The economy is growing, mostly due to increased efficiency, although many Americans still felt that there was a recession.</p>
+			]]>
+        </hotspot>
+      </hotspots>
+    </activity>
+    <audio>econ_m5-8_s13</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+
+  <scene id="14" type="End_Multiple_Choice">
+    <instruction>Click on the correct answer.</instruction>
+    <multiple_choice>
+      <multiple>
+        <question>Which phase of the business cycle is characterized by declining consumer spending and increasing unemployment?</question>
+        <answers>
+          <answer>Expansion</answer>
+		  <answer>Peak</answer>
+          <answer correct="true">Contraction</answer>
+		  <answer>Trough</answer>
+		  <answer>Recovery</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>An extended period of economic growth, like the period between 2001 and 2008, would be characterized as a(n)</question>
+        <answers>
+          <answer correct="true">expansion.</answer>
+		  <answer>peak.</answer>
+		  <answer>contraction.</answer>
+		  <answer>trough.</answer>
+		  <answer>recovery.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>The state helps schools buy new computers. This would be counted as</question>
+        <answers>
+          <answer>investment spending.</answer>
+		  <answer>net export spending.</answer>
+		  <answer>consumption spending.</answer>
+          <answer correct="true">government spending.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>Which of the following would be added to calculate GDP?</question>
+        <answers>
+          <answer>A consumer buys shoes that were made in China.</answer>
+          <answer correct="true">A chef buys new equipment to open a restaurant.</answer>
+		  <answer>A pizza shop buys three used cars for delivery workers to use.</answer>
+		  <answer>A teen shops at a used bookstore.</answer>
+		  <answer>A family sells the house they bought in 1995.</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+	  <multiple>
+        <question>During which phase of the business cycle does full employment occur?</question>
+        <answers>
+          <answer>Inflation</answer>
+          <answer correct="true">Peak</answer>
+		  <answer>Contraction</answer>
+		  <answer>Trough</answer>
+		  <answer>Recovery</answer>
+        </answers>
+        <feedbackAudio></feedbackAudio>
+      </multiple>
+    </multiple_choice>
+    <audio>econ_m5-8_s14</audio>
+    <credits>(tr)Don Bishop/Photodisc/Getty Images, (bkgd)Maria Toutoudaki/Photodisc/Getty Images.</credits>
+  </scene>
+</shell>

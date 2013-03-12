@@ -1,0 +1,30 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>false</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m1-3_s21.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>true</oneQuestion>
+		<Source>
+			<Text><![CDATA[<p>Each person in a family of five people takes a 10.0-minute shower each day. The shower has a water flow rate of 5.0 gallons per minute. How much water does a member of this family use each year to take showers?</p>]]></Text>
+			<word>View</word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+	<fraction>true</fraction>
+		<qText><![CDATA[<p><font size='24'>Equation:<br/><br/><br/>   10.0 minutes         5.0 gallons<br /> <font face='SuperScript'>________________</font>  ×  <font face='SuperScript'>_________________</font>  ×  <font face='c-Italic'>Z</font>  =  ?<br/>          1 day                1 minute<br/><br/><br/><br/>Variable <font face='lc-Italic'>Z</font> should be ______?</font>]]></qText>
+		<answerButtons>
+			<aBtn>
+			<fraction>true</fraction>
+				 <aText><![CDATA[<p><font size="16">   1 year<br/><font face='SuperScript'>___________</font><br/> 365 days</font></p>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+			<frac>true</frac>
+				 <aText><![CDATA[<p><font size="16"> 365 days<br/><font face='SuperScript'>___________</font><br/>   1 year</font><>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="" />
+	</question>
+</MultipleChoice>

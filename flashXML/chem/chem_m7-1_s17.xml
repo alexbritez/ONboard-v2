@@ -1,0 +1,143 @@
+﻿<MultipleChoice>
+	<slideInfo>
+		<endQuiz>true</endQuiz>
+		<audio>http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/chem_m7-1_s17.mp3</audio>
+		<endFeedback feedback="" />
+		<oneQuestion>false</oneQuestion>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+		<Source>
+			<Text></Text>
+			<word></word>
+			<image></image>
+		</Source>
+	</slideInfo>
+	<question>
+		<qText><![CDATA[Which of these gases would have the lowest velocity at 25°C?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText><![CDATA[F<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Cl<font face='SubScript'>2</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Kr]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[Xe]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Which of these statements is part of the kinetic molecular theory of gases?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>Gases flow like liquids.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Gas particles have attractions and repulsions for each other.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Gases can be condensed into liquids at low temperatures.</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>The kinetic energy of a gas is directly related to its Kelvin temperature.</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[A bicycle tire has a pressure of <br/>6.53 atm on a hot day.  What would this pressure be in kPa?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>0.0644 kPa</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>0.871 kPa</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>662 kPa</aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>4960 kPa</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[How does the kinetic energy of a gas at 50°C compare to the kinetic energy of the same gas at 25°C?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText><![CDATA[<font size='16'>The gas at 50°C has twice the kinetic energy as the gas at 25°C.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The gas at 50°C has a slightly higher kinetic energy than the gas at 25°C.</font>]]></aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The gas at 50°C has half the kinetic energy as the gas at 25°C.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText><![CDATA[<font size='16'>The gas at 50°C has a slightly lower kinetic energy than the gas at 25°C.</font>]]></aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+	<question>
+		<qText><![CDATA[Which of these instruments is used to measure atmospheric pressure?]]></qText>
+		<answerButtons>
+			<aBtn>
+				<aText>Barometer </aText> 
+			 	<correct>true</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Hygrometer</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Manometer</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+			<aBtn>
+				 <aText>Thermometer</aText> 
+			 	<correct>false</correct>
+			</aBtn>
+		</answerButtons>
+		<feedback enable="false" audio="http://ezto-media.mhecloud.mcgraw-hill.com/Media/Connect_Production/career/onboard/chem/audio/feedBackMC2.mp3" />
+	</question>
+</MultipleChoice>

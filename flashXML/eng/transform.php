@@ -143,7 +143,7 @@ if (file_exists('directory.xml')) {
 			  						$textWord 	= $sourceArray[$questionCount]->word;
 		  							$imgFigure 	= $sourceArray[$questionCount]->image;
 
-		  							$figure = $mc_answers->addChild("figure");
+		  							$figure = $mc_questionItem->addChild("figure");
 
 		  							if($textFigure != ""){
 		  								$mc_questionItem->addAttribute("hasTextFigure", "true");
@@ -472,12 +472,13 @@ if (file_exists('directory.xml')) {
 				
 				$fileName = $filename . $sceneIndex;
 		  		
-		  		
-		  		///*
-		  		$file = fopen($fileName.".xml","w");
-				echo fwrite($file,$shell->asXML());
-				fclose($file);
-				///*/
+		  		$createFile = $_GET["createFile"];
+
+		  		if($createFile){
+		  			$file = fopen($fileName.".xml","w");
+					echo fwrite($file,$shell->asXML());
+					fclose($file);
+		  		}
 		  	}
 
 	  	

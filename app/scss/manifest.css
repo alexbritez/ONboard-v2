@@ -2240,57 +2240,6 @@ div.activity_image_rollclick {
       color: #000;
       padding: 0.5em; }
 
-html#euro div.activity_image_rollclick {
-  background: transparent url(../ui/9_Activity_Image_Rollclick/euro-popup_bg.png) 0 0 no-repeat; }
-  html#euro div.activity_image_rollclick div#content h1 {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick div#content ul li:before {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick a.hotspot:hover {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick h1 {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick div.matching-draggable {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick a.image-hotspot-dynamic {
-    border: 5px solid rgba(132, 83, 78, 0.9); }
-    html#euro div.activity_image_rollclick a.image-hotspot-dynamic:hover {
-      border-color: rgba(245, 159, 150, 0.8); }
-
-html#chem div.activity_image_rollclick {
-  background: transparent url(../ui/9_Activity_Image_Rollclick/chem-popup_bg.png) 0 0 no-repeat; }
-  html#chem div.activity_image_rollclick div#content h1 {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick div#content ul li:before {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick a.hotspot:hover {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick h1 {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick div.matching-draggable {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick a.image-hotspot-dynamic {
-    border: 5px solid rgba(132, 83, 78, 0.9); }
-    html#chem div.activity_image_rollclick a.image-hotspot-dynamic:hover {
-      border-color: rgba(245, 159, 150, 0.8); }
-
-html#eng div.activity_image_rollclick {
-  background: transparent url(../ui/9_Activity_Image_Rollclick/eng-popup_bg.png) 0 0 no-repeat; }
-  html#eng div.activity_image_rollclick div#content h1 {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick div#content ul li:before {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick a.hotspot:hover {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick h1 {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick div.matching-draggable {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick a.image-hotspot-dynamic {
-    border: 5px solid rgba(132, 83, 78, 0.9); }
-    html#eng div.activity_image_rollclick a.image-hotspot-dynamic:hover {
-      border-color: rgba(245, 159, 150, 0.8); }
-
 html#USGov div.activity_image_rollclick {
   background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat; }
   html#USGov div.activity_image_rollclick div#content h1 {
@@ -4757,33 +4706,6 @@ a#mobileStart {
   text-decoration: none;
   text-shadow: 1px 1px 3px black; }
 
-html#eng div#logo {
-  background: transparent url("../ui/eng/logo.png") 0 0 no-repeat;
-  background-size: 185px 45px; }
-html#eng a#mobileStart, html#eng div#main {
-  background: black url("../ui/eng/background.jpg") 0 0 no-repeat;
-  background-size: cover; }
-html#eng div#topic_bg {
-  background: transparent url("../ui/eng/icon.png") 0 0 no-repeat; }
-
-html#chem div#logo {
-  background: transparent url("../ui/chem/logo.png") 0 0 no-repeat;
-  background-size: 185px 45px; }
-html#chem a#mobileStart, html#chem div#main {
-  background: black url("../ui/chem/background.jpg") 0 0 no-repeat;
-  background-size: cover; }
-html#chem div#topic_bg {
-  background: transparent url("../ui/chem/icon.png") 0 0 no-repeat; }
-
-html#euro div#logo {
-  background: transparent url("../ui/euro/logo.png") 0 0 no-repeat;
-  background-size: 185px 45px; }
-html#euro a#mobileStart, html#euro div#main {
-  background: black url("../ui/euro/background.jpg") 0 0 no-repeat;
-  background-size: cover; }
-html#euro div#topic_bg {
-  background: transparent url("../ui/euro/icon.png") 0 0 no-repeat; }
-
 html#USGov div#logo {
   background: transparent url("../ui/USGov/logo.png") 0 0 no-repeat;
   background-size: 185px 45px; }
@@ -6241,57 +6163,6 @@ div.activity_image_rollclick {
       text-align: center;
       color: #000;
       padding: 0.5em; }
-
-html#euro div.activity_image_rollclick {
-  background: transparent url(../ui/9_Activity_Image_Rollclick/euro-popup_bg.png) 0 0 no-repeat; }
-  html#euro div.activity_image_rollclick div#content h1 {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick div#content ul li:before {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick a.hotspot:hover {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick h1 {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick div.matching-draggable {
-    color: #FF0000; }
-  html#euro div.activity_image_rollclick a.image-hotspot-dynamic {
-    border: 5px solid rgba(132, 83, 78, 0.9); }
-    html#euro div.activity_image_rollclick a.image-hotspot-dynamic:hover {
-      border-color: rgba(245, 159, 150, 0.8); }
-
-html#chem div.activity_image_rollclick {
-  background: transparent url(../ui/9_Activity_Image_Rollclick/chem-popup_bg.png) 0 0 no-repeat; }
-  html#chem div.activity_image_rollclick div#content h1 {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick div#content ul li:before {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick a.hotspot:hover {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick h1 {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick div.matching-draggable {
-    color: #FF0000; }
-  html#chem div.activity_image_rollclick a.image-hotspot-dynamic {
-    border: 5px solid rgba(132, 83, 78, 0.9); }
-    html#chem div.activity_image_rollclick a.image-hotspot-dynamic:hover {
-      border-color: rgba(245, 159, 150, 0.8); }
-
-html#eng div.activity_image_rollclick {
-  background: transparent url(../ui/9_Activity_Image_Rollclick/eng-popup_bg.png) 0 0 no-repeat; }
-  html#eng div.activity_image_rollclick div#content h1 {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick div#content ul li:before {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick a.hotspot:hover {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick h1 {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick div.matching-draggable {
-    color: #FF0000; }
-  html#eng div.activity_image_rollclick a.image-hotspot-dynamic {
-    border: 5px solid rgba(132, 83, 78, 0.9); }
-    html#eng div.activity_image_rollclick a.image-hotspot-dynamic:hover {
-      border-color: rgba(245, 159, 150, 0.8); }
 
 html#USGov div.activity_image_rollclick {
   background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat; }

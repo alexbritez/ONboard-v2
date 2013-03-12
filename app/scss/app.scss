@@ -388,6 +388,48 @@ a#mobileStart {
 }
 
 // Subject-specific
+html#eng {
+  div#logo {
+    background: transparent url('../ui/eng/logo.png') 0 0 no-repeat;
+    background-size: $logo_width $logo_height;
+  }
+  a#mobileStart, div#main {
+    background: #000 url('../ui/eng/background.jpg') 0 0 no-repeat;
+    background-size: cover;
+  }
+  div#topic_bg {
+    background: transparent url('../ui/eng/icon.png') 0 0 no-repeat;
+  }
+}
+
+html#chem {
+  div#logo {
+    background: transparent url('../ui/chem/logo.png') 0 0 no-repeat;
+    background-size: $logo_width $logo_height;
+  }
+  a#mobileStart, div#main {
+    background: #000 url('../ui/chem/background.jpg') 0 0 no-repeat;
+    background-size: cover;
+  }
+  div#topic_bg {
+    background: transparent url('../ui/chem/icon.png') 0 0 no-repeat;
+  }
+}
+
+html#euro {
+  div#logo {
+    background: transparent url('../ui/euro/logo.png') 0 0 no-repeat;
+    background-size: $logo_width $logo_height;
+  }
+  a#mobileStart, div#main {
+    background: #000 url('../ui/euro/background.jpg') 0 0 no-repeat;
+    background-size: cover;
+  }
+  div#topic_bg {
+    background: transparent url('../ui/euro/icon.png') 0 0 no-repeat;
+  }
+}
+
 
 html#USGov {
   div#logo {

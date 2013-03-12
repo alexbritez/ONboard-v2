@@ -14,9 +14,10 @@ class SimpleXMLExtended extends SimpleXMLElement
 // and at least an element /[root]/title.
 $xCord_offset = 466;
 $yCord_offset = 80;
+$courseID = $_GET["courseID"];
 
-if (file_exists('directory.xml')) {
-    $xml = simplexml_load_file('directory.xml');
+if (file_exists($courseID . '/directory.xml')) {
+    $xml = simplexml_load_file($courseID . '/directory.xml');
 	
 
     $new_xml = new SimpleXMLExtended('<xml/>');
@@ -59,7 +60,7 @@ if (file_exists('directory.xml')) {
 		  			if($externalXMLinfo){
 		  				
 
-		  				$interactiveXML =  simplexml_load_file($xml_filename);
+		  				$interactiveXML =  simplexml_load_file($courseID . "/" .$xml_filename);
 						$interactiveType = $interactiveXML->getName();
 
 		  				switch($interactiveType){
@@ -143,12 +144,11 @@ if (file_exists('directory.xml')) {
 			  						$textWord 	= $sourceArray[$questionCount]->word;
 		  							$imgFigure 	= $sourceArray[$questionCount]->image;
 
-		  							$figure = $mc_answers->addChild("figure");
+		  							$figure = $mc_questionItem->addChild("figure");
 
 		  							if($textFigure != ""){
 		  								$mc_questionItem->addAttribute("hasTextFigure", "true");
-		  								$figure->addChild("header", $textWord);
-
+		  								
 		  								$texFig = $figure->addChild("text");
 		  								$texFig->addCData($textFigure);
 		  								$figure->addChild("header", $textWord);
@@ -460,9 +460,9 @@ if (file_exists('directory.xml')) {
 
 		  		}
 		  		
-
+		  		
 		  		//create file names to write
-		  		$filename = $_GET["prefix"] . "_";
+		  		$filename = $courseID . "_";
 
 		  		if($tocTitle == "Introduction"){
 		  			$filename = $filename . "s1-";
@@ -472,12 +472,13 @@ if (file_exists('directory.xml')) {
 				
 				$fileName = $filename . $sceneIndex;
 		  		
-		  		
-		  		///*
-		  		$file = fopen($fileName.".xml","w");
-				echo fwrite($file,$shell->asXML());
-				fclose($file);
-				///*/
+		  		$createFile = $_GET["createFile"];
+
+		  		if($createFile){
+		  			$file = fopen($fileName.".xml","w");
+					echo fwrite($file,$shell->asXML());
+					fclose($file);
+		  		}
 		  	}
 
 	  	

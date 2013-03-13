@@ -2576,15 +2576,15 @@ div.activity_interactivity {
 html#eng div.activity_interactivity {
   background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat; }
   html#eng div.activity_interactivity div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity div#content ul li:before {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity h1 {
     color: #FF7E00; }
   html#eng div.activity_interactivity div.matching-draggable {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity a#btn-launch:hover {
     background: transparent url(../ui/6_Activity_Interactivity/USGov-launch_button_HL.png) 0 0 no-repeat; }
 
@@ -3144,20 +3144,20 @@ div.activity_drag_drop {
     height: 25px !important; }
 
 html#eng div.activity_drag_drop {
-  background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
+  background: transparent url(../ui/7_Activity_Drag_Drop/eng-dragdrop_BG.png) 0 0 no-repeat; }
   html#eng div.activity_drag_drop div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop div.matching-draggable {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop #submit.correct {
-    background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
+    background: transparent url(../ui/7_Activity_Drag_Drop/eng-check_answers_button_correct.png); }
 
 html#euro div.activity_drag_drop {
-  background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
+  background: transparent url(../ui/7_Activity_Drag_Drop/euro-dragdrop_BG.png) 0 0 no-repeat; }
   html#euro div.activity_drag_drop div#content h1 {
     color: #FF0000; }
   html#euro div.activity_drag_drop div#image a.hotspot:hover {
@@ -3167,10 +3167,10 @@ html#euro div.activity_drag_drop {
   html#euro div.activity_drag_drop div.matching-draggable {
     color: #FF0000; }
   html#euro div.activity_drag_drop #submit.correct {
-    background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
+    background: transparent url(../ui/7_Activity_Drag_Drop/euro-check_answers_button_correct.png); }
 
 html#chem div.activity_drag_drop {
-  background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
+  background: transparent url(../ui/7_Activity_Drag_Drop/chem-dragdrop_BG.png) 0 0 no-repeat; }
   html#chem div.activity_drag_drop div#content h1 {
     color: #FF0000; }
   html#chem div.activity_drag_drop div#image a.hotspot:hover {
@@ -3180,7 +3180,7 @@ html#chem div.activity_drag_drop {
   html#chem div.activity_drag_drop div.matching-draggable {
     color: #FF0000; }
   html#chem div.activity_drag_drop #submit.correct {
-    background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
+    background: transparent url(../ui/7_Activity_Drag_Drop/chem-check_answers_button_correct.png); }
 
 html#USGov div.activity_drag_drop {
   background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
@@ -3643,13 +3643,13 @@ div.activity_drag_list {
 html#eng div.activity_drag_list {
   background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
   html#eng div.activity_drag_list div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_list div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_list h1, html#eng div.activity_drag_list strong {
     color: #FF7E00; }
   html#eng div.activity_drag_list div.matching-draggable {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_list #submit.correct {
     background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
 
@@ -3957,24 +3957,24 @@ div.activity_multiple_choice {
 html#eng div.activity_multiple_choice {
   background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_multiple_choice div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_multiple_choice h1 {
     color: #FF7E00; }
   html#eng div.activity_multiple_choice div#figure h1 {
     color: #000;
     margin-top: 0.1em; }
   html#eng div.activity_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-MC_button_HL.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-continue_button_HL.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-correct_check.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-view_button_HL.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-close_button_HL.png) 0 0 no-repeat; }
 
 html#euro div.activity_multiple_choice {
   background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
@@ -4283,26 +4283,26 @@ div.middle_multiple_choice {
       background: transparent url(../ui/Middle_Multiple_Choice/pop_HL.png) 0 0 no-repeat; }
 
 html#eng div.middle_multiple_choice {
-  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/Middle_Multiple_Choice/eng-middle_MC_bg.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.middle_multiple_choice div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.middle_multiple_choice h1 {
     color: #FF7E00; }
   html#eng div.middle_multiple_choice a.answer:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-MC_button_HL.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-continue_button_HL.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice span.correct {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-correct_check.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-view_button_HL.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-close_button_HL.png) 0 0 no-repeat; }
 
 html#euro div.middle_multiple_choice {
-  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/Middle_Multiple_Choice/euro-middle_MC_bg.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice div#content h1 {
     color: #FF0000; }
   html#euro div.middle_multiple_choice div#image a.hotspot:hover {
@@ -4310,18 +4310,18 @@ html#euro div.middle_multiple_choice {
   html#euro div.middle_multiple_choice h1 {
     color: #FF7E00; }
   html#euro div.middle_multiple_choice a.answer:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-MC_button_HL.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-continue_button_HL.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice span.correct {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-correct_check.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-view_button_HL.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-close_button_HL.png) 0 0 no-repeat; }
 
 html#chem div.middle_multiple_choice {
-  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/Middle_Multiple_Choice/chem-middle_MC_bg.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice div#content h1 {
     color: #FF0000; }
   html#chem div.middle_multiple_choice div#image a.hotspot:hover {
@@ -4329,15 +4329,15 @@ html#chem div.middle_multiple_choice {
   html#chem div.middle_multiple_choice h1 {
     color: #FF7E00; }
   html#chem div.middle_multiple_choice a.answer:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-MC_button_HL.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-continue_button_HL.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice span.correct {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-correct_check.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-view_button_HL.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-close_button_HL.png) 0 0 no-repeat; }
 
 html#USGov div.middle_multiple_choice {
   background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
@@ -4626,26 +4626,26 @@ div.end_multiple_choice {
       background: transparent url(../ui/End_Multiple_Choice/close_button_rest.png) 0 0 no-repeat; }
 
 html#eng div.end_multiple_choice {
-  background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/End_Multiple_Choice/eng-middle_MC_bg.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.end_multiple_choice div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.end_multiple_choice h1 {
     color: #FF7E00; }
   html#eng div.end_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-MC_button_HL.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice span#multiple-continue-correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-continue_button_HL.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-correct_check.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-view_button_HL.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-close_button_HL.png) 0 0 no-repeat; }
 
 html#chem div.end_multiple_choice {
-  background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/End_Multiple_Choice/chem-middle_MC_bg.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice div#content h1 {
     color: #FF0000; }
   html#chem div.end_multiple_choice div#image a.hotspot:hover {
@@ -4653,18 +4653,18 @@ html#chem div.end_multiple_choice {
   html#chem div.end_multiple_choice h1 {
     color: #FF7E00; }
   html#chem div.end_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-MC_button_HL.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice span#multiple-continue-correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-continue_button_HL.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-correct_check.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-view_button_HL.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-close_button_HL.png) 0 0 no-repeat; }
 
 html#euro div.end_multiple_choice {
-  background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/End_Multiple_Choice/euro-middle_MC_bg.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice div#content h1 {
     color: #FF0000; }
   html#euro div.end_multiple_choice div#image a.hotspot:hover {
@@ -4672,15 +4672,15 @@ html#euro div.end_multiple_choice {
   html#euro div.end_multiple_choice h1 {
     color: #FF7E00; }
   html#euro div.end_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-MC_button_HL.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice span#multiple-continue-correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-continue_button_HL.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-correct_check.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-view_button_HL.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-close_button_HL.png) 0 0 no-repeat; }
 
 html#USGov div.end_multiple_choice {
   background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
@@ -5830,20 +5830,20 @@ div.activity_drag_drop {
     height: 25px !important; }
 
 html#eng div.activity_drag_drop {
-  background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
+  background: transparent url(../ui/7_Activity_Drag_Drop/eng-dragdrop_BG.png) 0 0 no-repeat; }
   html#eng div.activity_drag_drop div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop div.matching-draggable {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_drop #submit.correct {
-    background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
+    background: transparent url(../ui/7_Activity_Drag_Drop/eng-check_answers_button_correct.png); }
 
 html#euro div.activity_drag_drop {
-  background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
+  background: transparent url(../ui/7_Activity_Drag_Drop/euro-dragdrop_BG.png) 0 0 no-repeat; }
   html#euro div.activity_drag_drop div#content h1 {
     color: #FF0000; }
   html#euro div.activity_drag_drop div#image a.hotspot:hover {
@@ -5853,10 +5853,10 @@ html#euro div.activity_drag_drop {
   html#euro div.activity_drag_drop div.matching-draggable {
     color: #FF0000; }
   html#euro div.activity_drag_drop #submit.correct {
-    background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
+    background: transparent url(../ui/7_Activity_Drag_Drop/euro-check_answers_button_correct.png); }
 
 html#chem div.activity_drag_drop {
-  background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
+  background: transparent url(../ui/7_Activity_Drag_Drop/chem-dragdrop_BG.png) 0 0 no-repeat; }
   html#chem div.activity_drag_drop div#content h1 {
     color: #FF0000; }
   html#chem div.activity_drag_drop div#image a.hotspot:hover {
@@ -5866,7 +5866,7 @@ html#chem div.activity_drag_drop {
   html#chem div.activity_drag_drop div.matching-draggable {
     color: #FF0000; }
   html#chem div.activity_drag_drop #submit.correct {
-    background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
+    background: transparent url(../ui/7_Activity_Drag_Drop/chem-check_answers_button_correct.png); }
 
 html#USGov div.activity_drag_drop {
   background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
@@ -6329,13 +6329,13 @@ div.activity_drag_list {
 html#eng div.activity_drag_list {
   background: transparent url(../ui/7_Activity_Drag_Drop/USGov-dragdrop_BG.png) 0 0 no-repeat; }
   html#eng div.activity_drag_list div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_list div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_list h1, html#eng div.activity_drag_list strong {
     color: #FF7E00; }
   html#eng div.activity_drag_list div.matching-draggable {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_drag_list #submit.correct {
     background: transparent url(../ui/7_Activity_Drag_Drop/USGov-check_answers_button_correct.png); }
 
@@ -6959,15 +6959,15 @@ div.activity_interactivity {
 html#eng div.activity_interactivity {
   background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat; }
   html#eng div.activity_interactivity div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity div#content ul li:before {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity h1 {
     color: #FF7E00; }
   html#eng div.activity_interactivity div.matching-draggable {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_interactivity a#btn-launch:hover {
     background: transparent url(../ui/6_Activity_Interactivity/USGov-launch_button_HL.png) 0 0 no-repeat; }
 
@@ -7257,24 +7257,24 @@ div.activity_multiple_choice {
 html#eng div.activity_multiple_choice {
   background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_multiple_choice div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.activity_multiple_choice h1 {
     color: #FF7E00; }
   html#eng div.activity_multiple_choice div#figure h1 {
     color: #000;
     margin-top: 0.1em; }
   html#eng div.activity_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-MC_button_HL.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-continue_button_HL.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-correct_check.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-view_button_HL.png) 0 0 no-repeat; }
   html#eng div.activity_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-close_button_HL.png) 0 0 no-repeat; }
 
 html#euro div.activity_multiple_choice {
   background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
@@ -7628,26 +7628,26 @@ div.end_multiple_choice {
       background: transparent url(../ui/End_Multiple_Choice/close_button_rest.png) 0 0 no-repeat; }
 
 html#eng div.end_multiple_choice {
-  background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/End_Multiple_Choice/eng-middle_MC_bg.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.end_multiple_choice div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.end_multiple_choice h1 {
     color: #FF7E00; }
   html#eng div.end_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-MC_button_HL.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice span#multiple-continue-correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-continue_button_HL.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-correct_check.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-view_button_HL.png) 0 0 no-repeat; }
   html#eng div.end_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/eng-close_button_HL.png) 0 0 no-repeat; }
 
 html#chem div.end_multiple_choice {
-  background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/End_Multiple_Choice/chem-middle_MC_bg.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice div#content h1 {
     color: #FF0000; }
   html#chem div.end_multiple_choice div#image a.hotspot:hover {
@@ -7655,18 +7655,18 @@ html#chem div.end_multiple_choice {
   html#chem div.end_multiple_choice h1 {
     color: #FF7E00; }
   html#chem div.end_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-MC_button_HL.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice span#multiple-continue-correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-continue_button_HL.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-correct_check.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-view_button_HL.png) 0 0 no-repeat; }
   html#chem div.end_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/chem-close_button_HL.png) 0 0 no-repeat; }
 
 html#euro div.end_multiple_choice {
-  background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/End_Multiple_Choice/euro-middle_MC_bg.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice div#content h1 {
     color: #FF0000; }
   html#euro div.end_multiple_choice div#image a.hotspot:hover {
@@ -7674,15 +7674,15 @@ html#euro div.end_multiple_choice {
   html#euro div.end_multiple_choice h1 {
     color: #FF7E00; }
   html#euro div.end_multiple_choice a.answer:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-MC_button_HL.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice span#multiple-continue-correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-continue_button_HL.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice span.correct {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-correct_check.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-view_button_HL.png) 0 0 no-repeat; }
   html#euro div.end_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/End_Multiple_Choice/euro-close_button_HL.png) 0 0 no-repeat; }
 
 html#USGov div.end_multiple_choice {
   background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
@@ -7926,26 +7926,26 @@ div.middle_multiple_choice {
       background: transparent url(../ui/Middle_Multiple_Choice/pop_HL.png) 0 0 no-repeat; }
 
 html#eng div.middle_multiple_choice {
-  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/Middle_Multiple_Choice/eng-middle_MC_bg.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice div#content h1 {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.middle_multiple_choice div#image a.hotspot:hover {
-    color: #FF0000; }
+    color: #d958fe; }
   html#eng div.middle_multiple_choice h1 {
     color: #FF7E00; }
   html#eng div.middle_multiple_choice a.answer:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-MC_button_HL.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-continue_button_HL.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice span.correct {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-correct_check.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-view_button_HL.png) 0 0 no-repeat; }
   html#eng div.middle_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/eng-close_button_HL.png) 0 0 no-repeat; }
 
 html#euro div.middle_multiple_choice {
-  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/Middle_Multiple_Choice/euro-middle_MC_bg.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice div#content h1 {
     color: #FF0000; }
   html#euro div.middle_multiple_choice div#image a.hotspot:hover {
@@ -7953,18 +7953,18 @@ html#euro div.middle_multiple_choice {
   html#euro div.middle_multiple_choice h1 {
     color: #FF7E00; }
   html#euro div.middle_multiple_choice a.answer:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-MC_button_HL.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-continue_button_HL.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice span.correct {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-correct_check.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-view_button_HL.png) 0 0 no-repeat; }
   html#euro div.middle_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/euro-close_button_HL.png) 0 0 no-repeat; }
 
 html#chem div.middle_multiple_choice {
-  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }
+  background: transparent url(../ui/Middle_Multiple_Choice/chem-middle_MC_bg.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice div#content h1 {
     color: #FF0000; }
   html#chem div.middle_multiple_choice div#image a.hotspot:hover {
@@ -7972,15 +7972,15 @@ html#chem div.middle_multiple_choice {
   html#chem div.middle_multiple_choice h1 {
     color: #FF7E00; }
   html#chem div.middle_multiple_choice a.answer:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-MC_button_HL.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice a#multiple-continue:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-continue_button_HL.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice span.correct {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-correct_check.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice a#multiple-view:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-view_button_HL.png) 0 0 no-repeat; }
   html#chem div.middle_multiple_choice a#figure-close:hover {
-    background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat; }
+    background: transparent url(../ui/Middle_Multiple_Choice/chem-close_button_HL.png) 0 0 no-repeat; }
 
 html#USGov div.middle_multiple_choice {
   background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat; }

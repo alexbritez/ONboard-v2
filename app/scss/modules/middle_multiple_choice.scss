@@ -138,6 +138,100 @@ div.middle_multiple_choice {
 
 // Subject-specific
 
+html#eng {
+  div.middle_multiple_choice {
+  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#image a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+
+html#euro {
+  div.middle_multiple_choice {
+  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#image a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+
+html#chem {
+  div.middle_multiple_choice {
+  background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#image a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    a.answer:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat;
+    }
+    a#multiple-continue:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat;
+    }
+    span.correct {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat;
+    }
+    a#multiple-view:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat;
+    }
+    a#figure-close:hover {
+      background: transparent url(../ui/Middle_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+
+
 html#USGov {
   div.middle_multiple_choice {
   background: transparent url(../ui/Middle_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;

@@ -208,6 +208,81 @@ div.activity_interactivity {
 
 // Subject-specific
 
+html#eng {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#content ul li:before {
+      color: #FF0000;
+    }
+    a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    div.matching-draggable {
+      color: #FF0000;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/USGov-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+
+html#euro {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#content ul li:before {
+      color: #FF0000;
+    }
+    a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    div.matching-draggable {
+      color: #FF0000;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/USGov-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+
+html#chem {
+  div.activity_interactivity {
+    background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat;
+    div#content h1 {
+      color: #FF0000;
+    }
+    div#content ul li:before {
+      color: #FF0000;
+    }
+    a.hotspot:hover {
+      color: #FF0000;
+    }
+    h1 {
+      color: #FF7E00;
+    }
+    div.matching-draggable {
+      color: #FF0000;
+    }
+    a#btn-launch:hover {
+      background: transparent url(../ui/6_Activity_Interactivity/USGov-launch_button_HL.png) 0 0 no-repeat;
+    }
+  }
+}
+
+
 html#USGov {
   div.activity_interactivity {
     background: transparent url(../ui/9_Activity_Image_Rollclick/USGov-popup_bg.png) 0 0 no-repeat;

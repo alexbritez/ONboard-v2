@@ -167,7 +167,7 @@ When you are done, check your results by clicking 'Check Answers.'
 </text>
 <correctText>
 <![CDATA[
-<font face='c-Bold'>ANSWERS</font><br />1.	Cool as a cucumber<br />2.	Happy as a clam (or lark)<br />3.	Calm, cool, and collected<br />4.	White as a sheet (or ghost)
+<font face='c-Bold'>ANSWERS</font><br />1.	Cool as a cucumber<br />2.	Happy as a clam (or lark)<br />3.	Calm, cool, and collected<br />4. White as a sheet (or ghost)
 ]]>
 </correctText>
 </content>
@@ -468,7 +468,7 @@ A paradox between the struggle for freedom and the comfort of home
 </text>
 <header>View</header>
 </figure>
-<feedbackAudio/>
+<feedbackAudio>eng_s1-1_s25_FB</feedbackAudio>
 </multiple>
 </multiple_choice>
 <audio>eng_s1-1_s25</audio>
@@ -502,7 +502,7 @@ The tone of the passage can best be described as which of these?
 </text>
 <header>View</header>
 </figure>
-<feedbackAudio/>
+<feedbackAudio>eng_s1-1_s26_FB</feedbackAudio>
 </multiple>
 </multiple_choice>
 <audio>eng_s1-1_s26</audio>
@@ -548,7 +548,7 @@ The tone of the passage can best be described as which of these?
 <answer>False</answer>
 </answers>
 <figure/>
-<feedbackAudio/>
+<feedbackAudio>eng_s1-1_s30_FB</feedbackAudio>
 </multiple>
 <multiple>
 <question>
@@ -561,7 +561,7 @@ Knowing your audience is not important when you begin an essay.
 <answer correct="true">False</answer>
 </answers>
 <figure/>
-<feedbackAudio/>
+<feedbackAudio>eng_s1-1_s30_FB</feedbackAudio>
 </multiple>
 <multiple>
 <question>
@@ -574,7 +574,7 @@ An introductory paragraph may change, depending on one’s purpose for writing.
 <answer>False</answer>
 </answers>
 <figure/>
-<feedbackAudio/>
+<feedbackAudio>eng_s1-1_s30_FB</feedbackAudio>
 </multiple>
 <multiple>
 <question>
@@ -587,7 +587,7 @@ On the AP Exam, you should not answer the questions you do not know.
 <answer correct="true">False</answer>
 </answers>
 <figure/>
-<feedbackAudio/>
+<feedbackAudio>eng_s1-1_s30_FB</feedbackAudio>
 </multiple>
 <multiple>
 <question>
@@ -600,7 +600,7 @@ You may receive college credit if you perform well on the AP Exam.
 <answer>False</answer>
 </answers>
 <figure/>
-<feedbackAudio/>
+<feedbackAudio>eng_s1-1_s30_FB</feedbackAudio>
 </multiple>
 </multiple_choice>
 <audio>eng_s1-1_s30</audio>

@@ -185,7 +185,7 @@ div.activity_multiple_choice {
 
 html#eng {
   div.activity_multiple_choice {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;
+    background: transparent url(../ui/End_Multiple_Choice/eng-middle_MC_bg.png) 0 0 no-repeat;
     div#content h1 {
       color: #d958fe;
     }
@@ -219,7 +219,7 @@ html#eng {
 
 html#euro {
   div.activity_multiple_choice {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;
+    background: transparent url(../ui/End_Multiple_Choice/euro-middle_MC_bg.png) 0 0 no-repeat;
     div#content h1 {
       color: #FF0000;
     }
@@ -234,26 +234,26 @@ html#euro {
       margin-top: 0.1em;
     }
     a.answer:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/euro-MC_button_HL.png) 0 0 no-repeat;
     }
     a#multiple-continue:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/euro-continue_button_HL.png) 0 0 no-repeat;
     }
     span.correct {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/euro-correct_check.png) 0 0 no-repeat;
     }
     a#multiple-view:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/euro-view_button_HL.png) 0 0 no-repeat;
     }
     a#figure-close:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/euro-close_button_HL.png) 0 0 no-repeat;
     }
   }
 }
 
 html#chem {
   div.activity_multiple_choice {
-    background: transparent url(../ui/End_Multiple_Choice/USGov-middle_MC_bg.png) 0 0 no-repeat;
+    background: transparent url(../ui/End_Multiple_Choice/chem-middle_MC_bg.png) 0 0 no-repeat;
     div#content h1 {
       color: #FF0000;
     }
@@ -268,19 +268,19 @@ html#chem {
       margin-top: 0.1em;
     }
     a.answer:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-MC_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/chem-MC_button_HL.png) 0 0 no-repeat;
     }
     a#multiple-continue:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-continue_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/chem-continue_button_HL.png) 0 0 no-repeat;
     }
     span.correct {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-correct_check.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/chem-correct_check.png) 0 0 no-repeat;
     }
     a#multiple-view:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-view_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/chem-view_button_HL.png) 0 0 no-repeat;
     }
     a#figure-close:hover {
-      background: transparent url(../ui/End_Multiple_Choice/USGov-close_button_HL.png) 0 0 no-repeat;
+      background: transparent url(../ui/End_Multiple_Choice/chem-close_button_HL.png) 0 0 no-repeat;
     }
   }
 }

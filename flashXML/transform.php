@@ -162,7 +162,11 @@ if (file_exists($courseID . '/directory.xml')) {
 		  								//$figure = $mc_answers->addChild("figureAudio");
 		  							}
 
-			  						$mc_feedbackAudio = $mc_questionItem->addChild("feedbackAudio");
+		  							
+
+		  							$feebackAudio =  basename($question_config->feedback["audio"], ".mp3");
+			  						$mc_feedbackAudio = $mc_questionItem->addChild("feedbackAudio", $feebackAudio);
+
 			  						$questionCount++;
 		  						}
 								
@@ -472,6 +476,7 @@ if (file_exists($courseID . '/directory.xml')) {
 				
 				$fileName = $filename . $sceneIndex;
 		  		
+		  		/*
 		  		$createFile = $_GET["createFile"];
 
 		  		if($createFile){
@@ -479,6 +484,7 @@ if (file_exists($courseID . '/directory.xml')) {
 					echo fwrite($file,$shell->asXML());
 					fclose($file);
 		  		}
+		  		*/
 		  	}
 
 	  	
